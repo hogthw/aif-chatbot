@@ -1,0 +1,9 @@
+# Nền Kinh tế Trí tuệ — 9.4. Nông nghiệp: Khi AI bước vào cánh đồng (phần 1/2)
+Nguồn: Nền Kinh tế Trí tuệ, mục 9.4
+Chương 9: Tự động hóa và cơn địa chấn ngành nghề
+
+Ít có ngành kinh tế nào phản ánh rõ đặc trưng của Việt Nam như nông nghiệp. Mặc dù tỷ trọng trong GDP đã giảm dần theo quá trình công nghiệp hóa, nông nghiệp vẫn là bệ đỡ quan trọng của nền kinh tế, tạo sinh kế cho hàng chục triệu người dân và đóng vai trò bảo đảm an ninh lương thực quốc gia. Việt Nam hiện nằm trong nhóm những quốc gia xuất khẩu hàng đầu thế giới về gạo, cà phê, hồ tiêu, điều, cao su, trái cây nhiệt đới và thủy sản. Những ngành hàng này mang về nguồn ngoại tệ lớn và cho Việt Nam một vị thế đáng kể trên thị trường nông sản thế giới.
+
+Tuy nhiên, ngành nông nghiệp cũng đang đứng trước những thách thức chưa từng có. Biến đối khí hậu làm gia tăng hạn hán, xâm nhập mặn và thời tiết cực đoan. Chi phí vật tư nông nghiệp liên tục tăng trong khi yêu cầu của các thị trường nhập khẩu ngày càng khắt khe về truy xuất nguồn gốc, phát thải carbon và tiêu chuẩn chất lượng. Bên cạnh đó, lực lượng lao động nông thôn đang già hóa nhanh, trong khi thế hệ trẻ có xu hướng dịch chuyến sang khu vực công nghiệp và dịch vụ. Nếu vẫn tiếp tục sản xuất theo phương thức truyền thống, lợi thế cạnh tranh của nông nghiệp Việt Nam sẽ ngày càng bị thu hẹp.
+
+Trong bối cảnh đó, AI mở ra một hướng phát triển mới. Dữ liệu từ vệ tỉnh, máy bay không người lái, cảm biến và dự báo thời tiết được AI phân tích để xác định thời điểm gieo trồng, lượng nước tưới, lượng phân bón và nguy cơ sâu bệnh trên từng thửa ruộng. Điều mới hơn là AI có thể đến tay nông hộ nhỏ qua chiếc điện thoại: Farmer.Chat, trợ lý AI trả lời câu hỏi canh tác bằng ngôn ngữ địa phương, đã được triển khai cho nông dân ở Kenya, Ấn Độ, Ethiopia và Nigeria, những nơi một cán bộ khuyến nông thường phải phục vụ hàng nghìn hộ.”

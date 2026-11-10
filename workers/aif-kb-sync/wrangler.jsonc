@@ -1,0 +1,31 @@
+// Cấu hình Worker đồng bộ KB. Thay các giá trị <...> theo hướng dẫn HUONG-DAN-DEPLOY.md (bước 4–6).
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "aif-kb-sync",
+  "main": "src/index.js",
+  "compatibility_date": "2026-11-01",
+  "workers_dev": true,
+
+  // Chạy lúc 02:00 sáng giờ Việt Nam mỗi ngày (cron tính theo giờ UTC: 19:00 hôm trước)
+  "triggers": { "crons": ["0 19 * * *"] },
+
+  // Gói trả phí: cho phép CPU tới 2 phút mỗi lần chạy (tải nhiều tệp)
+  "limits": { "cpu_ms": 120000 },
+
+  "r2_buckets": [
+    { "binding": "KB_BUCKET", "bucket_name": "aif-kb" }
+  ],
+  "kv_namespaces": [
+    { "binding": "KB_STATE", "id": "43f2b14db52e4e01a84e27c27e7f7499" }
+  ],
+  "vars": {
+    // Mã thư mục AIF-KB trên Google Drive: phần sau "folders/" trong đường link thư mục
+    "DRIVE_FOLDER_ID": "1uN6PgLa9jDW6G1T4vjpRmCuIzhHtfYiz",
+    "MAX_FILES_PER_RUN": "200",
+    "MAX_FILE_BYTES": "26214400"
+  },
+  "observability": { "enabled": true }
+  // Secret (không ghi ở đây, đặt bằng lệnh wrangler secret put):
+  //   GOOGLE_SA_KEY  : toàn bộ nội dung tệp khóa JSON của service account
+  //   SYNC_TOKEN     : chuỗi bí mật để gọi /sync, /status
+}

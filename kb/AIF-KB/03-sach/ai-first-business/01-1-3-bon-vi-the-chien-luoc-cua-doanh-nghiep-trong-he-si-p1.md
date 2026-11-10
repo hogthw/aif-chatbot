@@ -1,0 +1,9 @@
+# AI First Business — 1.3. Bốn vị thế chiến lược của doanh nghiệp trong hệ sinh thái AI (phần 1/2)
+Nguồn: AI First Business, mục 1.3
+Chương 1: Cuộc chơi đã đổi ở cấp doanh nghiệp
+
+Nhìn lại bức tranh ở Cikarang một lần nữa: những công ty như STT GDG, Princeton Digital Group hay Digital Edge đang chơi một trò chơi hoàn toàn khác với phần lớn doanh nghiệp sẽ đọc cuốn sách này. Họ xây hạ tầng, trung tâm dữ liệu, năng lực tính toán, để bán lại cho hàng nghìn doanh nghiệp khác sử dụng. Ngân hàng Thế giới gọi đây là nhóm sản xuất hạ tầng AI, phân biệt rõ với nhóm lớn hơn nhiều: những doanh nghiệp dùng AI như một đầu vào để cải thiện chính hoạt động kinh doanh cốt lõi của mình, một công ty dược phẩm dùng AI để dự báo tồn kho, một ngân hàng dùng AI để xử lý hồ sơ vay, một xưởng may dùng AI để kiểm tra chất lượng vải.
+
+Nhầm lẫn giữa hai vai trò này là một trong những sai lầm chiến lược tốn kém nhất mà một doanh nghiệp Việt Nam có thể mắc phải. Không ít lãnh đạo, sau khi đọc tin tức về các khoản đầu tư hạ tầng AI hàng tỷ đô la, bắt đầu đặt câu hỏi “chúng ta có nên tự xây mô hình AI riêng hay không”, trong khi doanh nghiệp của họ chưa từng vận hành thành thục dù chỉ một ứng dụng AI đơn giản dựa trên công cụ có sẵn. Đây giống như một công ty vận tải, sau khi thấy tin tức về các hãng sản xuất ô tô đầu tư nhà máy mới, tự hỏi liệu mình có nên tự sản xuất xe tải thay vì mua xe về vận hành. Đó là một sự nhầm lẫn vai trò rất dễ nhận ra khi đặt ở một ví dụ khác, nhưng lại thường bị bỏ qua khi bàn về AI, có lẽ vì công nghệ này còn mới và dễ gây choáng ngợp.
+
+Bốn vị thế chiến lược sau đây giúp CEO chọn đúng vị trí trước khi quyết định đầu tư. Đây không phải một chuỗi giá trị nối tiếp nhau mà là bốn lựa chọn định vị, tùy năng lực và mục tiêu của từng doanh nghiệp. Cần phân biệt với Mô hình 3A ở Chương 2: vị thế trả lời câu hỏi doanh nghiệp đứng ở đâu trong hệ sinh thái AI, còn 3A trả lời câu hỏi mỗi sáng kiến cụ thể nên tham gia đến mức nào.

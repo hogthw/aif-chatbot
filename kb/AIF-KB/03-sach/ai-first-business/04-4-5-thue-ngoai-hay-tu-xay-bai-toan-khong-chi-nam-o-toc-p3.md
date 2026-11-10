@@ -1,0 +1,11 @@
+# AI First Business — 4.5. Thuê ngoài hay tự xây: bài toán không chỉ nằm ở tốc độ (phần 3/4)
+Nguồn: AI First Business, mục 4.5
+Chương 4: Đầu tư AI để sinh lợi: ROI hai tầng
+
+Nguyên tắc chọn nhà cung cấp là đi ngược từ bài toán, không phải từ công nghệ. Các tên sản phẩm dưới đây chỉ là ví dụ tại thời điểm viết; thị trường sẽ thay đổi, nguyên tắc thì không. Nếu bài toán là “quá nhiều câu hỏi khách hàng lặp lại”, tìm hiểu các nền tảng
+
+chatbot doanh nghiệp như FPT.AI hoặc Cyberbot của Viettel. Nếu bài toán là “cần xác thực danh tính khách hàng nhanh và chính xác”, VNPT BiolD là điểm khởi đầu hợp lý, đã được kiểm chứng trong ngành tài chính Việt Nam. Nếu bài toán là “quá nhiều văn bản, hóa đơn cần xử lý thủ công”, công nghệ nhận dạng ký tự quang học như C-OCR của CMC Corporation được thiết kế cho việc này. Nếu doanh nghiệp cân nhắc xây dựng năng lực AI nội bộ dài hạn, các nền tảng đám mây AI như GreenNode của VNG hoặc hạ tầng đang được FPT xây dựng là lựa chọn cho doanh nghiệp muốn tự chủ.
+
+Với bất kỳ nhà cung cấp nào, yêu cầu một bản demo cụ thể trên đúng loại dữ liệu và tình huống của doanh nghiệp của bạn, ngay từ bước đầu tiên tiếp xúc, thay vì tin vào một bản trình chiếu chung chung được chuẩn bị sẵn cho mọi khách hàng.
+
+Một chuỗi cửa hàng thời trang tại Thành phố Hồ Chí Minh minh họa rõ cách áp dụng nguyên tắc “đi ngược từ bài toán” này trong thực tế. Bài toán ban đầu của họ không phải “chúng tôi cần AI”, mà cụ thể hơn nhiêu: đội chăm sóc khách hàng nhận trung bình ba trăm tin nhắn hỏi về tình trạng đơn hàng mỗi ngày qua nhiều kênh khác nhau, và nhân viên phải mở lần lượt từng hệ thống để tra cứu, khiến thời gian phản hồi trung bình kéo dài hơn một giờ trong giờ cao điểm. Thay vì tìm kiếm “công cụ AI tốt nhất” một cách chung chung, đội ngũ công nghệ của chuỗi cửa hàng này lập một danh sách ba tiêu chí bắt buộc trước khi liên hệ bất kỳ nhà cung cấp nào: khả năng tích hợp trực tiếp với hệ thống quản lý đơn hàng hiện có mà không cần viết lại từ đầu, khả năng xử lý tiếng Việt tự nhiên bao gồm cả cách viết tắt và từ địa phương phố biến trong tin nhắn khách hàng, và chi phí vận hành có thể dự đoán được theo khối lượng tin nhắn thực tế, không phải một gói cố định không phản ánh đúng nhu cầu theo mùa.

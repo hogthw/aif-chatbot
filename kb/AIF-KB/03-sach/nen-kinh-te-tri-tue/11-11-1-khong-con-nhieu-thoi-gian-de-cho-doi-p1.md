@@ -1,0 +1,11 @@
+# Nền Kinh tế Trí tuệ — 11.1. Không còn nhiều thời gian để chờ đợi (phần 1/2)
+Nguồn: Nền Kinh tế Trí tuệ, mục 11.1
+Chương 11: Chín tháng để có một hệ thống máy chủ AI
+
+Nếu thế kỷ XX là cuộc cạnh tranh về tài nguyên, vốn và quy mô sản xuất, thì thế kỷ XXI đang trở thành cuộc cạnh tranh về tốc độ thích ứng. Sự phát triển của trí tuệ nhân tạo đã làm thay đổi một quy luật vốn tồn tại trong nhiều thập kỷ: khoảng cách giữa người đi đầu và người theo sau không còn được đo bằng hàng chục năm, mà nhiều khi chỉ bằng vài quý hoặc vài năm.
+
+Điều này thể hiện rất rõ qua tốc độ phổ cập của các công nghệ AI tạo sinh. ChatGPT đạt 100 triệu người dùng chỉ sau khoảng hai tháng kể từ khi ra mắt, trở thành ứng dụng tiêu dùng phát triển nhanh nhất trong lịch sử ở thời điểm đó. Chỉ trong chưa đầy hai năm, AI tạo sinh đã được tích hợp vào các công cụ làm việc, phần mềm văn phòng, dịch vụ tài chính, y tế, giáo dục, sản xuất và thương mại điện tử trên phạm vi toàn cầu. Theo khảo sát của McKinsey công bố năm 2025, 78% doanh nghiệp được hỏi đã dùng AI trong ít nhất một chức năng kinh doanh, tăng từ 55% một năm trước. Với nhiều doanh nghiệp, AI đã vượt khỏi giai đoạn thử nghiệm, dù như Chương 12 sẽ cho thấy, mức độ tích hợp sâu vẫn còn thấp.
+
+Điều đáng chú ý là tốc độ phát triển của AI đang vượt xa chu kỳ xây dựng chính sách và cải cách truyền thống. Trong khi một chương trình đào tạo đại học thường mất bốn năm để hoàn thành, nhiều mô hình AI đã thay đổi đáng kể chỉ sau vài tháng. Trong khi một dự án đầu tư hạ tầng có thể cần từ ba đến năm năm để triển khai, các doanh nghiệp trên thế giới đã liên tục cập nhật quy trình làm việc dựa trên AI theo từng quý. Điều đó đặt ra một yêu cầu mới: năng lực cạnh tranh của quốc gia không còn phụ thuộc chủ yếu vào việc sở hữu nguồn lực, mà phụ thuộc vào khả năng chuyển đổi nguồn lực thành giá trị với tốc độ nhanh hơn.
+
+Việt Nam không phải là nơi phát triển những mô hình AI lớn nhất thế giới, nhưng điều đó không có nghĩa phải đứng sau ở khâu ứng dụng. Trong nền kinh tế AI, khoảng cách giữa quốc gia sáng tạo công nghệ và quốc gia ứng dụng công nghệ hiệu quả có thể thu hẹp khi mô hình được cung cấp rộng rãi qua điện toán đám mây. Nhiều nền kinh tế không dẫn đầu về nghiên cứu cơ bản nhưng vẫn tạo dựng được lợi thế cạnh tranh

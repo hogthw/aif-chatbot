@@ -1,0 +1,78 @@
+// Cấu hình Worker chatbot. Thay <KV_NAMESPACE_ID> theo hướng dẫn HUONG-DAN-DEPLOY.md (bước 5).
+// Lưu ý: deploy bằng wrangler sẽ THAY bản aif-kb-chat đang có trên dashboard (cùng tên, cùng địa chỉ workers.dev).
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "aif-kb-chat",
+	"main": "src/index.js",
+	"compatibility_date": "2026-11-01",
+	"workers_dev": true,
+	"ai": {
+		"binding": "AI"
+	},
+	"ai_search_namespaces": [
+		{
+			"binding": "AI_SEARCH",
+			"namespace": "aif-kb"
+		}
+	],
+	"r2_buckets": [
+		{
+			"binding": "KB_BUCKET",
+			"bucket_name": "aif-kb"
+		},
+		{
+			"bucket_name": "aif-kb",
+			"binding": "aif_kb",
+			"remote": true
+		}
+	],
+	"kv_namespaces": [
+		{
+			"binding": "KB_STATE",
+			"id": "43f2b14db52e4e01a84e27c27e7f7499",
+			"remote": true
+		}
+	],
+	// Giới hạn 8 câu hỏi AI mỗi phút cho mỗi người (theo IP)
+	"ratelimits": [
+		{
+			"name": "CHAT_LIMITER",
+			"namespace_id": "1001",
+			"simple": {
+				"limit": 8,
+				"period": 60
+			}
+		}
+	],
+	"vars": {
+		"AI_SEARCH_INSTANCE": "autumn-sky-17c5",
+		"ALLOWED_ORIGINS": "https://aifirstbusiness.vn,https://www.aifirstbusiness.vn",
+		"ALLOWED_ORIGIN_SUFFIXES": ".trantansy.workers.dev",
+		"ALLOW_LOCALHOST": "0",
+		// Mô hình trả lời và mô hình dự phòng (Workers AI)
+		"MODEL": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+		"FALLBACK_MODEL": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+		"MAX_TOKENS": "900",
+		"TEMPERATURE": "0.2",
+		// Viết lại câu hỏi (lượt hỏi nối tiếp, câu EN/繁中) bằng mô hình nhỏ
+		"REWRITE": "1",
+		"REWRITE_MODEL": "@cf/meta/llama-3.1-8b-instruct-fast",
+		"REWRITE_TIMEOUT_MS": "3000",
+		// Tìm kiếm trên AI Search
+		"RETRIEVAL_TYPE": "hybrid",
+		"FUSION_METHOD": "max",
+		"MAX_RESULTS": "12",
+		"MATCH_THRESHOLD": "0.3",
+		"RERANK": "0",
+		"RERANK_MODEL": "@cf/baai/bge-reranker-base",
+		"MAX_DOCS": "7",
+		"MAX_CONTEXT_WORDS": "2400",
+		"RELATIVE_CUTOFF": "0.45",
+		// Tên AI Gateway (để trống nếu chưa tạo). Gateway ghi nhật ký, đo chi phí, cache.
+		"GATEWAY_ID": ""
+	},
+	"observability": {
+		"enabled": true
+	}
+	// Secrets: CHAT_SECRET, ADMIN_TOKEN -> đặt bằng: npx wrangler secret put <TÊN_SECRET>
+}

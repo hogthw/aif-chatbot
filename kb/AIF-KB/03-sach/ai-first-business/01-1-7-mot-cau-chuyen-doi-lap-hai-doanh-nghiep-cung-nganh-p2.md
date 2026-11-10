@@ -1,0 +1,11 @@
+# AI First Business — 1.7. Một câu chuyện đối lập: hai doanh nghiệp cùng ngành, một năm sau (phần 2/3)
+Nguồn: AI First Business, mục 1.7
+Chương 1: Cuộc chơi đã đổi ở cấp doanh nghiệp
+
+Một năm sau, công ty thứ nhất vẫn đang “nghiên cứu thêm”, bản đề xuất bốn mươi trang giờ đã lỗi thời vì thị trường công cụ AI đã thay đổi đáng kể trong khoảng thời gian đó. Công ty thứ hai đã mở rộng cách tiếp cận tương tự sang bộ phận chăm sóc khách hàng, và đội bán hàng của họ tự tin xử lý gấp rưỡi số lượng khách hàng tiềm năng so với cùng kỳ năm trước, mà không cần tuyển thêm nhân sự.
+
+Sự khác biệt giữa hai công ty này không nằm ở ngân sách, quy mô, hay khả năng tiếp cận công nghệ, cả hai đều có điều kiện gần như nhau, giống hệt cách công ty thứ nhất và công ty thứ hai ở ví dụ dược phẩm mục 1.2 đều tiếp cận được cùng một công cụ AI. Sự khác biệt nằm ở việc một bên chọn bắt đầu nhỏ, có mục tiêu cụ thể, chấp nhận sai sót ban đầu để học hỏi; còn bên kia chọn chờ đợi một kế hoạch hoàn hảo trước khi hành động, và trong lúc chờ đợi, không hề tích lũy được bất kỳ năng lực tổ chức nào. Đó là bản chất của “cuộc chơi đã đổi” mà tiêu đề chương này muốn nói đến: không phải một cuộc chạy đua công nghệ giữa các tập đoàn khổng lồ đang xây trung tâm dữ liệu ở Cikarang hay Tân Phú Trung, mà là một sự khác biệt rất cụ thế, rất gần gũi, đang diễn ra giữa những doanh nghiệp có quy mô hoàn toàn bình thường, ngay trong chính ngành của bạn.
+
+Tổng kết Chương 1: Cuộc chơi đã đổi, luật chơi thì chưa ai viết lại
+
+Thông điệp cốt lõi không phải “hãy lo lắng”, mà là một sự thật cần nhìn thẳng: cuộc chơi đã đổi ở tầm vóc cạnh tranh, trước khi bất kỳ doanh nghiệp cụ thể nào kịp quyết định có muốn tham gia hay không. Từ Cikarang đến Tân Phú Trung, hạ tầng đang được xây với tốc độ chưa từng có, nhưng hạ tầng đó, tự nó, không tạo ra lợi thế cạnh tranh cho bất kỳ doanh nghiệp cụ thể nào. Lợi thế chỉ xuất hiện khi một tổ chức biết dùng năng lực tính toán ngày càng rẻ đó để tổ chức lại chính mình, đúng như sự khác biệt giữa hai công ty vật liệu xây dựng, hay hai công ty dược phẩm, đã minh họa xuyên suốt chương này. Câu hỏi còn lại không phải AI có đáng đầu tư hay không, mà là bạn sẽ đầu tư theo cách nào, để không trở thành một trong những doanh nghiệp đứng nhìn đối thủ cùng ngành bỏ xa mình chỉ vì phản ứng chậm một nhịp.

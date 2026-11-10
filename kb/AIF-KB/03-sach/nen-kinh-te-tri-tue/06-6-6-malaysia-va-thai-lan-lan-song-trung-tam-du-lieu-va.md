@@ -1,0 +1,11 @@
+# Nền Kinh tế Trí tuệ — 6.6. Malaysia và Thái Lan: làn sóng trung tâm dữ liệu và giới hạn hạ tầng
+Nguồn: Nền Kinh tế Trí tuệ, mục 6.6
+Chương 6: Quyền lực từ tốc độ chuyển hóa nguồn lực
+
+Dọc hành lang công nghiệp Johor phía Nam Malaysia hay các khu công nghiệp quanh Bangkok những năm gần đây, cùng một hiện tượng lặp lại: hàng loạt công trường xây trung tâm dữ liệu mọc lên gần như đồng thời, được các tập đoàn công nghệ toàn cầu đổ vốn vào vì chi phí điện còn tương đối cạnh tranh và thủ tục đầu tư còn nhanh so với những nơi khác trong khu vực.
+
+Malaysia cố giữ quan hệ kinh tế với cả hai phía của cuộc cạnh tranh Mỹ- Trung, trong khi phải tuân thủ các quy định kiểm soát xuất khẩu chip của Mỹ. Chiến lược Bán dẫn Quốc gia đặt mục tiêu nâng cấp Malaysia từ vai trò lắp ráp-đóng gói truyền thống lên các khâu thiết kế và sản xuất tiên tiến hơn, với Penang và Johor là hai cực công nghiệp chính. Nhưng đầu 2026, giới hạn vật lý buộc Malaysia điều chỉnh: chính phủ bắt đầu siết cấp phép cho trung tâm dữ liệu không phục vụ trực tiếp AI, vì lưới điện và nguồn nước không còn đủ sức gánh mọi dự án cùng lúc. Biểu giá điện mới cho trung tâm dữ liệu, áp dụng từ tháng 7/2025, đã đẩy chi phí năng lượng của các cơ sở trên 100 megawatt lên thêm 10- 14%."
+
+Thái Lan đi theo logic khác: dồn lực trở thành điểm đến hấp dẫn nhất khu vực cho riêng lĩnh vực trung tâm dữ liệu và điện toán đám mây. Ưu đãi của Ủy ban Đầu tư Thái Lan hào phóng đến mức riêng khoản đầu tư trung tâm dữ liệu được phê duyệt năm 2025 đã đạt khoảng 746 tỷ baht, chiếm phần lớn nhất trong tổng 1,87 nghìn tỷ baht vốn BOI phê duyệt cả năm.1” Mức độ tập trung này khiến giới quan sát trong nước bắt đầu lo ngại liệu nền kinh tế có đang đặt cược quá nhiều vào một lĩnh vực duy nhất. Giống Malaysia, giới hạn điện-nước cũng buộc BOI sửa lại tiêu chí ưu đãi từ giữa 2025, phân hạng mức miễn thuế theo hiệu suất sử dụng năng lượng.
+
+Cả hai câu chuyện cùng chỉ về một điểm chung: khi nhiều nước trong cùng khu vực cạnh tranh thu hút một loại vốn giống hệt nhau, giới hạn thật sự không nằm ở khả năng thu hút vốn, mà ở khả năng hạ tầng vật lý trong nước có theo kịp tốc độ cam kết đầu tư hay không. Tốc độ ký hợp đồng thường nhanh hơn nhiều so với tốc độ xây đủ điện, đủ nước để nuôi sống chính khoản đầu tư đó.

@@ -1,0 +1,11 @@
+# Nền Kinh tế Trí tuệ — 5.5. Nhật Bản: xây trên nền cũ và đặt cược vào công nghệ mới (phần 2/3)
+Nguồn: Nền Kinh tế Trí tuệ, mục 5.5
+Chương 5: Những nước nhỏ và quyền lực từ sự khan hiếm
+
+Ở phía Bắc, tại Hokkaido, Nhật Bản theo đuổi một chiến lược có mức rủi ro hoàn toàn khác. Rapidus, công ty không hề tồn tại cho đến năm 2022, đang cố nhảy vọt thẳng đến công nghệ 2 nanomet, cạnh tranh trực diện với công nghệ tiên tiến nhất TSMC hiện có, qua hợp tác chuyển giao công nghệ với IBM. Đến đầu 2026, tổng hỗ trợ của chính phủ cho riêng dự án này đã vượt 14 tỷ USD.
+
+Đến giữa 2026, Rapidus đã vận hành dây chuyền thử nghiệm tại Chitose và trình diễn thành công bóng bán dẫn 2 nanomet cấu trúc cổng bao quanh (gate-all-around), cùng thế hệ công nghệ TSMC dùng cho chip AI tiên tiến nhất, dù còn cách xa việc chứng minh khả năng sản xuất hàng loạt với tỷ lệ lỗi đủ thấp để cạnh tranh thương mại. Khoảng cách giữa trình diễn công nghệ thành công trong phòng thí nghiệm và sản xuất hàng loạt có lợi nhuận ở quy mô công nghiệp chính là nơi phần lớn các dự án bán dẫn tham vọng trong lịch sử đã thất bại, và đây vẫn là câu hỏi bỏ ngỏ lớn nhất cho tương lai của Rapidus.
+
+Nhật Bản đối mặt với một bài toán nhân khẩu học cấp bách hơn bất kỳ nền kinh tế lớn nào khác. Chiến lược Society 5.0 hướng tới tích hợp sâu giữa không gian số và không gian vật lý để giải quyết các vấn đề xã hội qua công nghệ. Năm tập đoàn Nhật Bản là Fanuc, Yaskawa, Kawasaki Heavy Industries, Denso và Mitsubishi Electric cùng chiếm hơn 40% lượng robot công nghiệp xuất xưởng trên toàn cầu.2° Đây là điểm khác biệt căn bản so với ba nền kinh tế trước trong chương này: Đài Loan (Trung Quốc), Hà Lan, Hàn Quốc thu lợi từ chuỗi cung ứng để tái đầu tư mở rộng chính vị thế đó; Nhật Bản dùng nguồn lực từ chuỗi cung ứng như một công cụ giải quyết một vấn đề tăng trưởng hoàn toàn khác: duy trì năng suất quốc gia khi lực lượng lao động không ngừng thu hẹp, thông qua chính vị thế dẫn đầu về robot công nghiệp của mình.
+
+Khung thể chế cho chiến lược này đã hình thành. Tháng 5/2025, Quốc hội Nhật Bản thông qua Luật thúc đẩy nghiên cứu, phát triển và ứng dụng công nghệ AI, một đạo luật theo hướng khuyến khích thay vì trừng phạt, lập Trụ sở Chiến lược AI do Thủ tướng đứng đầu; Kế hoạch cơ bản

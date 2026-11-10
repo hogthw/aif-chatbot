@@ -1,0 +1,29 @@
+# Dependencies and local Python environments
+node_modules/
+**/node_modules/
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Local secrets and runtime configuration
+.env
+.env.*
+!.env.example
+.dev.vars
+**/.dev.vars
+**/config.json
+**/*service-account*.json
+**/*credentials*.json
+
+# Generated OCR/evaluation output
+tools/ocr/output/
+tools/eval/ket-qua-*.csv
+
+# Local/editor and OS files
+.vscode/
+.idea/
+.wrangler/
+.DS_Store
+Thumbs.db

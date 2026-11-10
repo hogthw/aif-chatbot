@@ -1,0 +1,11 @@
+# AI First Business — 2.5. Kiểm tra năng lực quản trị trước khi mở rộng AI
+Nguồn: AI First Business, mục 2.5
+Chương 2: Mô hình 3A: từ chắp vá đến tái thiết
+
+Năng lực quản trị tốt là một trong những yếu tố dự báo mạnh nhất cho khả năng ứng dụng AI thành công, theo bằng chứng khảo sát doanh nghiệp diện rộng của Ngân hàng Thế giới. Đây là lý do chương này đưa thêm một cổng kiểm tra bắt buộc, đứng trước cả bộ lọc ba điều kiện triển khai: doanh nghiệp có đủ năng lực quản trị nền tảng để hấp thụ AI hay không?
+
+Sáu tiêu chí kiểm tra, mỗi tiêu chí tương ứng với một thói quen tổ chức cụ thể. Quản trị theo mục tiêu, tổ chức có thói quen đặt mục tiêu định lượng và theo dõi tiến độ, không chỉ với AI mà với mọi sáng kiến? Chuẩn hóa quy trình, các quy trình cốt lõi đã được ghi chép, chuẩn hóa ở mức tối thiểu, hay vẫn phụ thuộc hoàn toàn vào kinh nghiệm cá nhân của một vài người chủ chốt? Chủ sở hữu quyết định rõ ràng, mỗi quyết định quan trọng có một người chịu trách nhiệm cuối cùng, hay bị phân tán giữa nhiều người không ai thực sự quyết? Kỷ luật dữ liệu, tổ chức có thói quen ghi chép, lưu trữ và đối chiếu dữ liệu một cách nhất quán? Cơ chế học hỏi, có quy trình rút bài học sau mỗi dự án, hay mỗi lần đều bắt đầu lại từ đầu? Khả năng nhân rộng, một sáng kiến thành công ở một bộ phận có cơ chế để lan sang bộ phận khác không?
+
+Nếu tổ chức không vượt qua cổng này, tức là phần lớn sáu tiêu chí đang ở mức yếu, khuyến nghị là chỉ nên thí điểm AI ở quy mô giới hạn, đồng thời song song đầu tư củng cố năng lực quản trị nền tảng. Rót vốn quy mô lớn vào AI trong khi năng lực quản trị nền tảng còn yếu là nguyên nhân phổ biến nhất dẫn đến các con số thất vọng đã nêu ở mục 2.1, vấn đề không nằm ở AI, mà ở việc tổ chức chưa đủ năng lực hấp thụ bất kỳ công nghệ mới nào, không riêng AI. Một tổ chức chưa từng thành công trong việc triển khai một hệ thống quản lý quan hệ khách hàng đơn giản, với lý do “nhân viên không chịu cập nhật dữ liệu đều đặn”, gần như chắc chắn sẽ gặp đúng vấn đề đó khi triển khai một hệ thống AI phức tạp hơn nhiều, chỉ là vấn đề sẽ xuất hiện chậm hơn và tốn kém hơn để phát hiện.
+
+Cách bắt đầu đơn giản nhất: chấm nhanh sáu tiêu chí trên theo thang 1 đến 5. Nếu điểm trung bình dưới 3, ưu tiên đầu tư củng cố năng lực quản trị song song với, hoặc thậm chí trước, việc mở rộng ngân sách AI.

@@ -1,0 +1,11 @@
+# Nền Kinh tế Trí tuệ — 7.2. Bốn làn sóng FDI và câu hỏi về làn sóng thứ tư (phần 2/5)
+Nguồn: Nền Kinh tế Trí tuệ, mục 7.2
+Chương 7: Việt Nam trong nền kinh tế AI: cửa sổ cơ hội đến năm 2035
+
+Làn sóng thứ hai, 2006-2010, gắn liền với việc Việt Nam gia nhập WTO năm 2007. Kỳ vọng tăng trưởng cao đưa đất nước vào một chu kỳ dự án quy mô tỷ USD: Formosa Hà Tĩnh với tổ hợp thép-cảng-điện tại Vũng Áng, các dự án vật liệu và bao bì công nghiệp quy mô lớn. Đồng thời, ở điểm chuyến tiếp sang làn sóng tiếp theo, Intel đặt nhà máy lắp ráp-kiểm định chip tại Khu Công nghệ cao TP.HCM năm 2006, và Samsung bắt đầu hiện diện tại Bắc Ninh năm 2008. Đó là hai quyết định đầu tư khi đó chưa ai hình dung sẽ định hình cả một thập kỷ tiếp theo của xuất khẩu Việt Nam.
+
+Làn sóng thứ ba, 2008-2020, chính là giai đoạn điện tử và thiết bị số làm thay đổi hắn cơ cấu xuất khẩu và địa lý công nghiệp cả nước. Mô hình chủ đạo là doanh nghiệp neo quy mô lớn kéo theo cả một hệ sinh thái nhà cung cấp cấp 1, cấp 2, logistics và dịch vụ công nghiệp đi theo sau. Samsung mở rộng từ Bắc Ninh sang siêu tố hợp Thái Nguyên; LG, Pegatron, Luxshare hình thành cụm Hải Phòng-Bắc Giang. Đến năm 2024, riêng Samsung đã có tổng vốn lũy kế khoảng 22,4 tỷ USD tại Việt Nam với sáu nhà máy, đóng góp khoảng 15,8% tổng kim ngạch xuất khẩu cả nước trong năm 2023." Tính chung, khối doanh nghiệp FDI chiếm hơn 73% kim ngạch xuất khẩu hàng hóa Việt Nam năm 2023, một con số vừa cho thấy sức mạnh của mô hình thu hút FDI, vừa cho thấy mức độ phụ thuộc của nền kinh tế vào khu vực này.
+
+Làn sóng thứ tư, bắt đầu khoảng năm 2020 và đang tiếp diễn, thường được gọi bằng nhiều tên khác nhau trên truyền thông như làn sóng bán dẫn, làn sóng AI, làn sóng China+1, nhưng cần thận trọng khi gọi tên nó. Nhìn vào dữ liệu thực tế đến giữa 2026, chế biến-chế tạo điện tử truyền thống vẫn đang chỉ phối phần lớn dòng vốn; Việt Nam chưa có nhà máy
+
+sản xuất wafer bán dẫn thương mại ở công nghệ tiên tiến; và không ít công bố hợp tác AI hay trung tâm dữ liệu vẫn đang ở giai đoạn biên bản ghi nhớ hoặc chuẩn bị đầu tư, chưa phải vốn đã giải ngân. Tên gọi chính xác hơn cho giai đoạn này là tái định vị chuỗi cung ứng: đa dạng hóa khỏi sự phụ thuộc vào một thị trường duy nhất, bán dẫn ở công đoạn đóng gói và kiểm thử, hạ tầng số, nghiên cứu và phát triển, cùng sản xuất xanh.

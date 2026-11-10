@@ -1,0 +1,9 @@
+# AI First Business — 1.4. Ba ngành đang cảm nhận rõ nhất sức ép chuyển đổi tại Việt Nam (phần 1/2)
+Nguồn: AI First Business, mục 1.4
+Chương 1: Cuộc chơi đã đổi ở cấp doanh nghiệp
+
+Áp lực cạnh tranh do AI tạo ra không đến đồng đều giữa các ngành. Ba lĩnh vực đang chịu tác động rõ rệt nhất tại thị trường Việt Nam, và mỗi lĩnh vực phản ánh một cơ chế sức ép khác nhau, đáng để xem xét riêng từng ngành, vì cách phản ứng đúng cũng khác nhau tùy theo nguồn gốc của sức ép.
+
+s Ngành dịch vụ tài chính: sức ép đến từ kỳ vọng khách hàng đã bị định hình lại bởi trải nghiệm số ở những lĩnh vực khác. Một khách hàng quen với việc đặt xe công nghệ trong ba mươi giây sẽ không còn kiên nhẫn chờ ba ngày để một khoản vay tiêu dùng được phê duyệt. Techcombank là một ví dụ cụ thế: ngân hàng này đã bắt đầu đầu tư khoảng 500 triệu đô la
+
+trong năm năm qua cho năng lực công nghệ và nền tảng số, hiện vận hành hơn 55 mô hình AI trên toàn bộ hoạt động kinh doanh, từ phát triển phần mềm, quản lý khách hàng đến cá nhân hóa dịch vụ, và đang triển khai kế hoạch đào tạo lại một nghìn nhân viên về dữ liệu và AI. Ở phân khúc ngân hàng số, Cake by VPBank đã phát triển và đưa vào vận hành hơn một trăm mô hình AI nội bộ, phục vụ các chức năng cốt lõi như xác thực định danh khách hàng điện tử, chatbot chăm sóc khách hàng, phê duyệt tín dụng và thu hồi nợ. Những con số này phản ánh một thực tế là khoảng cách trải nghiệm khách hàng giữa hai ngân hàng cạnh tranh trực tiếp giờ đây được đo bằng phút xử lý một giao dịch, không còn bằng ngày. Một khách hàng doanh nghiệp vừa và nhỏ, khi so sánh thời gian phê duyệt hạn mức tín dụng giữa hai ngân hàng chênh nhau vài ngày làm việc, hoàn toàn có thể chuyển toàn bộ quan hệ tín dụng sang ngân hàng nhanh hơn, một quyết định chuyển đổi khách hàng mà trước đây phải mất nhiều năm tích lũy bất mãn mới xảy ra, nay có thể diễn ra chỉ sau một lần trải nghiệm tệ.

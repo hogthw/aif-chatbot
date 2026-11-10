@@ -1,0 +1,11 @@
+# AI First Business — 1.4. Ba ngành đang cảm nhận rõ nhất sức ép chuyển đổi tại Việt Nam (phần 2/2)
+Nguồn: AI First Business, mục 1.4
+Chương 1: Cuộc chơi đã đổi ở cấp doanh nghiệp
+
+s Ngành sản xuất và chế biến: vốn là xương sống của nền kinh tế xuất khẩu Việt Nam, sức ép đến từ chính các đối tác quốc tế trong chuỗi cung ứng. Nhiều tập đoàn đa quốc gia đặt hàng gia công tại Việt Nam đã bắt đầu yêu cầu nhà cung cấp chứng minh năng lực số hóa quy trình chất lượng, khả năng truy vết nguồn gốc nguyên liệu, và tốc độ phản hồi đơn hàng, những yêu cầu ngày càng khó đáp ứng nếu không có sự hỗ trợ của các hệ thống phân tích dữ liệu và tự động hóa quy trình bằng AI. Đây không phải sức ép cạnh tranh trực tiếp giữa các nhà máy Việt Nam với nhau, mà là sức ép từ chính vị trí của Việt Nam trong chuỗi giá trị toàn cầu, nếu không đáp ứng được, đơn hàng sẽ chuyển sang một quốc gia khác có năng lực số hóa tốt hơn, dù giá nhân công có cạnh tranh đến đâu. Đáng chú ý, đây chính là cùng loại sức ép mà Indonesia đang phải đối mặt và phản ứng bằng chính làn
+
+sóng đầu tư hạ tầng dữ liệu ở Cikarang đã mô tả ở đầu chương, hai quốc gia láng giềng, cùng một động lực cạnh tranh khu vực, đang chạy đua gần như song song.
+
+s Ngành dịch vụ chuyên môn, kế toán, kiểm toán, tư vấn pháp lý, thiết kế kỹ thuật: sức ép đến từ chính bên trong: những công ty nhỏ và vừa trong ngành, vốn từng bị giới hạn bởi số lượng nhân sự có chuyên môn, giờ đây có thể dùng AI để mở rộng năng lực phục vụ khách hàng mà không cần tuyển thêm người tương ứng. Một công ty kế toán quy mô hai mươi người, nếu ứng dụng AI đúng cách vào việc đối chiếu chứng từ và soạn thảo báo cáo sơ bộ, có thể cạnh tranh trực tiếp về tốc độ phục vụ với một công ty quy mô năm mươi người chưa chuyển đổi, một điều gần như không tưởng chỉ vài năm trước, khi quy mô đội ngũ gần như đồng nghĩa với năng lực phục vụ.
+
+Trước khi đọc tiếp, một việc đáng làm là xác định ngành của bạn đang chịu sức ép chủ yếu từ nguồn nào trong ba nguồn trên, kỳ vọng khách hàng, yêu cầu từ đối tác chuỗi cung ứng, hay áp lực cạnh tranh nội ngành từ chính các đối thủ quy mô nhỏ hơn nhưng chuyển đổi nhanh hơn. Câu trả lời sẽ quyết định ưu tiên đầu tư AI nào cần triển khai trước, và phần còn lại của cuốn sách, đặc biệt các chương phân tích theo từng phòng ban, sẽ hữu ích hơn nhiều nếu bạn giữ câu trả lời này trong đầu khi đọc tiếp.

@@ -1,0 +1,11 @@
+# AI First Business — Chương 2: Mô hình 3A: từ chắp vá đến tái thiết (mở đầu) (phần 2/2)
+Nguồn: AI First Business, chương 2
+Chương 2: Mô hình 3A: từ chắp vá đến tái thiết
+
+Năm năm sau, dự án dừng lại. Hệ thống loay hoay với chính loại dữ liệu mà bất kỳ bệnh viện nào cũng có sẵn hằng ngày: ghi chú lâm sàng do bác sĩ viết tự do, không theo khuôn mẫu cố định. Độ chính
+
+xác khi trích xuất chẩn đoán đạt khoảng 90 đến 96%, nhưng với dòng thời gian điều trị, con số này tụt xuống chỉ còn 63 đến 65%, không đủ tin cậy để đưa vào một quyết định lâm sàng thật. Sau khoảng 62 triệu đô la Mỹ chi ra, hệ thống chưa từng được dùng để điều trị một bệnh nhân nào. Tháng 2 năm 2017, một báo cáo kiểm toán nội bộ của Hệ thống Đại học Texas công bố, chỉ ra hàng loạt vấn đề về đấu thầu, quản trị dự án, chi phí vượt dự toán và chậm tiến độ. Không phải một kết luận rằng công nghệ AI không làm được việc, mà là một tổ chức đã chọn đứng ở mức độ tùy biến sâu nhất trước khi có đủ năng lực quản trị để đứng ở đó.
+
+Đây không phải một trường hợp cá biệt, cũng không phải vấn đề riêng của ngành y tế hay của những tổ chức có ngân sách hàng chục triệu đô la. Một tình huống tương tự, dù quy mô nhỏ hơn nhiều, hoàn toàn có thể xảy ra tại một công ty phân phối hàng tiêu dùng ở Bình Dương, một chuỗi phòng khám tại Hà Nội, hay một xưởng cơ khí tại Đồng Nai, bất kỳ nơi nào một khoản ngân sách được rót vào AI mà tổ chức chọn đứng ở một mức độ tùy biến vượt quá năng lực thật của mình. Câu hỏi xuyên suốt chương này không phải “AI làm được gì”, mà là: dự án AI này đang ở đúng nấc nào, và tổ chức của bạn đã có đủ quyền để đứng ở nấc đó chưa? Nếu bạn là CEO hoặc thành viên ban lãnh đạo đang cân nhắc rót thêm ngân sách cho một dự án AI mới, chương này được viết để giúp cuộc họp của bạn, một năm kể từ bây giờ, không đi theo đúng kịch bản của MD Anderson.
+
+Có một nghịch lý đáng lưu ý ngay từ đầu chương này, đặc biệt với bối cảnh Việt Nam: tốc độ hấp thụ AI cao mà Chương 1 đã trình bày không đồng nghĩa với việc phần lớn doanh nghiệp đã chuyển đổi AI- First thành công. “Đã dùng AI” và “đã chuyển đổi AI-First thành công” là hai điều hoàn toàn khác nhau. Tỷ lệ áp dụng cao chỉ cho biết cánh cửa đã mở; nó không nói gì về việc phần lớn doanh nghiệp bước qua cánh cửa đó có tạo ra giá trị đo lường được hay không. Chương này bàn về đúng khoảng cách đó.

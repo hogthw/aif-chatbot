@@ -1,0 +1,7 @@
+# Nền Kinh tế Trí tuệ — 4.2. Nước Mỹ: Khi khu vực tư nhân đi trước, và cái giá phải trả tại (phần 5/5)
+Nguồn: Nền Kinh tế Trí tuệ, mục 4.2
+Chương 4: Kiến trúc sư luật chơi
+
+Cũng chính áp lực về đất, điện và nước đang đẩy một phần khu vực tư nhân Mỹ đi tìm lối thoát mà vài năm trước còn nghe như khoa học viễn tưởng: đưa năng lực tính toán ra ngoài quỹ đạo trái đất. Một tấm pin mặt trời đặt trên quỹ đạo, nơi ánh sáng chiếu liên tục và không bị khí quyển hấp thụ, có thể sản sinh năng lượng gấp nhiều lần so với cùng một tấm pin trên mặt đất, và trong chân không, nhiệt tỏa ra từ chip có thể được xử lý bằng bức xạ trực tiếp, loại bỏ hoàn toàn nhu cầu nước làm mát. Cuối năm 2025, công ty khởi nghiệp Starcloud đưa một chip H100 của NVIDIA lên quỹ đạo thấp và huấn luyện thử một mô hình ngôn ngữ nhỏ ngay trong không gian.° Dù ý tưởng này có trở thành dòng chảy đầu tư chủ đạo trong thập kỷ tới hay không, nó cho thấy đúng một đặc điểm lâu dài của mô hình tăng trưởng Mỹ: khi giới hạn nguồn lực trên mặt đất tăng lên đủ cao, vốn tư nhân có xu hướng đi tìm một biên giới sản xuất hoàn toàn mới, thay vì chỉ cạnh tranh gay gắt hơn trên cùng một tập nguồn lực khan hiếm.
+
+Lợi thế của Mỹ nằm ở một cơ chế biến tri thức thành vốn, vốn thành hạ tầng, hạ tầng thành năng suất, nhiều hơn là ở số lượng mô hình. Nhưng cơ chế đó đang bộc lộ hai điểm yếu khó xử lý bằng một chính sách đơn lẻ: chi phí chưa được phân bổ đúng người phải trả, và một thị trường vốn ngày càng đặt cược vào rất ít cái tên.

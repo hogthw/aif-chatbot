@@ -1,0 +1,7 @@
+# Nền Kinh tế Trí tuệ — 12.3. Doanh nghiệp là kênh truyền dẫn từ chính sách đến năng suất (phần 2/2)
+Nguồn: Nền Kinh tế Trí tuệ, mục 12.3
+Chương 12: Doanh nghiệp: nơi AI trở thành năng suất quốc gia
+
+Với người hoạch định chính sách, hệ quả là rõ. Chỉ số đáng theo dõi không phải là số doanh nghiệp đã dùng AI, mà là số doanh nghiệp đã đưa AI vào quy trình cốt lõi, và sự phân bố của nhóm này theo quy mô, ngành và khu vực sở hữu. Việt Nam hiện chưa có số liệu chính thức về chỉ số này; các con số trong chương đến từ khảo sát của doanh nghiệp. Một cuộc điều tra định kỳ của cơ quan thống kê, tương tự cuộc điều tra hai tuần một lần của Mỹ hay điều tra hằng năm của Eurostat, là điều kiện để chính sách được đo bằng kết quả.
+
+Ở cấp nền kinh tế, AI không chỉ nâng năng suất của doanh nghiệp hiện có, mà còn sinh ra những doanh nghiệp được thiết kế quanh AI ngay từ đầu. Có thể phác thảo bốn hình dạng của chúng: Nền tảng Năng suất, bán năng lực làm việc của AI cho doanh nghiệp khác; Chợ Tác nhân AI, nơi các tác nhân AI được mua bán và kết nối với nhau; Trí tuệ Dữ liệu, biến dữ liệu chuyên ngành thành sản phẩm; và Sản xuất Tăng cường AI, nơi nhà máy được tổ chức quanh AI thay vì gắn thêm AI. Hệ quả vĩ mô nằm ở cạnh tranh: những doanh nghiệp mới với cấu trúc chi phí khác hẳn sẽ gây áp lực lên doanh nghiệp cũ trong cùng ngành, nhanh hơn mọi chương trình hỗ trợ. Cách một doanh nghiệp xây dựng theo bốn mô hình này được trình bày trong AI First Business, Chương 3.

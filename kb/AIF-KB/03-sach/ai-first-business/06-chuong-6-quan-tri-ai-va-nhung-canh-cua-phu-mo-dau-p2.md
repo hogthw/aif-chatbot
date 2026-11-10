@@ -1,0 +1,5 @@
+# AI First Business — Chương 6: Quản trị AI và những cánh cửa phụ (mở đầu) (phần 2/2)
+Nguồn: AI First Business, chương 6
+Chương 6: Quản trị AI và những cánh cửa phụ
+
+Nhiều doanh nghiệp Việt Nam, khi nghe “quản trị rủi ro AI”, mặc định hiểu là “chống hacker và chống rò rỉ dữ liệu”. Đây là cách hiểu thiếu sót nguy hiểm. Một hệ thống AI được bảo mật hoàn hảo về mặt kỹ thuật vẫn có thể từ chối một khoản vay hợp lệ vì thiên lệch dữ liệu huấn luyện, vẫn có thể đưa ra quyết định nhân sự không ai giải thích được, và vẫn có thể vận hành âm thầm sai lệch dần theo thời gian mà không ai phát hiện. Một ngân hàng thương mại, chẳng hạn, có thể triển khai một hệ thống chấm điểm tín dụng bằng AI với hạ tầng bảo mật đạt chuẩn quốc tế. Dù không có một lỗ hổng kỹ thuật nào, nếu mô hình được huấn luyện chủ yếu trên dữ liệu khách hàng ở khu vực thành thi, nó có thể âm thầm từ chối một tỷ lệ bất thường các hồ sơ vay từ khách hàng nông thôn, không phải vì họ có rủi ro tín dụng cao hơn thực sự, mà vì mô hình chưa từng “nhìn thấy” đủ dữ liệu về nhóm khách hàng này để đánh giá chính xác. Không có lỗ hổng bảo mật nào ở đây, chỉ có một lỗ hổng quản trị.

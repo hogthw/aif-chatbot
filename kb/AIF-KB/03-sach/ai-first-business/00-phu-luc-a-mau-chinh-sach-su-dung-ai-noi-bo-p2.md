@@ -1,0 +1,8 @@
+# AI First Business — Phụ lục A – Mẫu chính sách sử dụng AI nội bộ (phần 2/2)
+Nguồn: AI First Business, Phụ lục A
+
+Nguyên tắc 4: Nhân sự phụ trách và kiểm toán định kỳ. Chỉ định bằng văn bản một nhân sự hoặc bộ phận phụ trách bảo vệ dữ liệu cá nhân, đáp ứng điều kiện năng lực theo quy định pháp luật hiện hành, nêu rõ tên, chức danh và đầu mối liên hệ của người này trong chính sách. Quy định chu kỳ kiểm toán việc sử dụng AI trong tổ chức (khuyến nghị tối thiểu mỗi quý), bao gồm rà soát danh mục công cụ đang được sử dụng thực tế và giám sát suy giảm chất lượng (drift) cho các hệ thống quan trọng.
+
+Nguyên tắc 5: Xử lý sự cố và minh bạch với khách hàng. Khi phát hiện sự cố, doanh nghiệp phải kích hoạt quy trình nội bộ ngay lập tức: thông báo nội bộ tức thời cho ban lãnh đạo và bộ phận phụ trách bảo vệ dữ liệu cá nhân; hạn chế quyên truy cập của tài khoản hoặc hệ thống nghi ngờ liên quan; điều tra để xác định phạm vi và nguyên nhân sự cố; thông báo cho cơ quan chuyên trách bảo vệ dữ liệu cá nhân và chủ thể dữ liệu bị ảnh hưởng theo thời hạn quy định tại pháp luật hiện hành. Khi công ty sử dụng AI để tương tác trực tiếp với khách hàng, khách hàng phải được thông báo rõ và có quyền yêu cầu chuyển sang tương tác với con người.
+
+Nguyên tắc 6: Chuyến dữ liệu ra nước ngoài, hiệu lực và sửa đối. Nếu công cụ AI xử lý hoặc lưu trữ dữ liệu cá nhân trên hạ tầng đặt ngoài lãnh thổ Việt Nam (bao gồm dịch vụ đám mây quốc tế), bộ phận phụ trách phải xác định nghĩa vụ áp dụng theo quy định pháp luật hiện hành về chuyển dữ liệu cá nhân xuyên biên giới trước khi triển khai. Chính sách này có hiệu lực từ ngày ban hành và được rà soát, cập nhật định kỳ theo chu kỳ kiểm toán tại Nguyên tắc 4, hoặc ngay khi có thay đổi quan trọng về quy định pháp luật liên quan.
