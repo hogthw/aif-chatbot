@@ -303,7 +303,18 @@
         "cuốn này hợp với đối tượng nào",
         "người mới đọc được ko",
         "sách này viết cho ai",
-        "cuốn này viết cho ai"
+        "cuốn này viết cho ai",
+        "bạn đọc nào nên đọc sách này",
+        "bạn đọc nào nên đọc cuốn sách này",
+        "bạn đọc nào nên đọc cuốn này",
+        "bạn đọc nào",
+        "độc giả nào nên đọc sách này",
+        "độc giả nào nên đọc cuốn sách này",
+        "độc giả nào",
+        "những ai nên đọc",
+        "những ai nên đọc cuốn này",
+        "những ai nên đọc sách này",
+        "sách này dành cho ai"
       ],
       "answer": "Cuốn này phù hợp với người đi làm, sinh viên, người làm kinh doanh hoặc chính sách muốn hiểu AI ảnh hưởng đến năng suất, đầu tư và việc làm ra sao, nhất là ở Việt Nam. Người mới có thể bắt đầu từ Lời mở đầu và Chương 1, rồi tra thuật ngữ ở Phụ lục C.",
       "action": "read_sample",
@@ -331,7 +342,10 @@
           "khó hiểu",
           "dễ hiểu",
           "hàn lâm",
-          "nặng lý thuyết"
+          "nặng lý thuyết",
+          "bạn đọc",
+          "độc giả",
+          "những ai"
         ]
       ]
     },
