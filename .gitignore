@@ -17,13 +17,21 @@ __pycache__/
 **/*service-account*.json
 **/*credentials*.json
 
-# Generated OCR/evaluation output
+# Generated OCR/evaluation output and test artifacts
 tools/ocr/output/
 tools/eval/ket-qua-*.csv
+qa-results.json
+**/qa-results.json
+coverage.csv
+**/coverage.csv
+test.md
+*.log
+**/*.log
 
-# Local/editor and OS files
+# Local/editor and Cloudflare files
 .vscode/
 .idea/
 .wrangler/
+**/.wrangler/
 .DS_Store
 Thumbs.db

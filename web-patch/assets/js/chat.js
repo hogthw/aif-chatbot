@@ -5,7 +5,7 @@
   const HTML_LANG = document.documentElement.lang || "vi";
   const L = HTML_LANG === "zh-Hant" ? "zh" : HTML_LANG === "en" ? "en" : "vi";
   const PRE = window.AIF_PREFIX || "";
-  const VER = "?v=20261114-v24";
+  const VER = "?v=20261114-v25";
 
   const books = {
     aiec: {

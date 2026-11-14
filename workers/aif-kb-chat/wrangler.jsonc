@@ -1,4 +1,4 @@
-// Cấu hình Worker chatbot. Thay <KV_NAMESPACE_ID> theo hướng dẫn HUONG-DAN-DEPLOY.md (bước 5).
+// Cấu hình Worker chatbot. Thay <KV_NAMESPACE_ID> theo hướng dẫn docs/HUONG-DAN-DEPLOY.md (bước 5).
 // Lưu ý: deploy bằng wrangler sẽ THAY bản aif-kb-chat đang có trên dashboard (cùng tên, cùng địa chỉ workers.dev).
 {
 	"$schema": "node_modules/wrangler/config-schema.json",

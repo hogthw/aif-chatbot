@@ -1,1 +1,12 @@
-{"type":"module","private":true,"scripts":{"test":"node --test tests/*.test.mjs"}}
+{
+  "name": "aif-chatbot",
+  "version": "2.2.0",
+  "description": "AI First Business & AI Economy Knowledge Base Chatbot",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "test:qa": "node tests/qa.mjs",
+    "test:all": "node --test tests/*.test.mjs && node tests/qa.mjs"
+  }
+}

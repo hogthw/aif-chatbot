@@ -1,0 +1,3236 @@
+{
+  "version": "2.5.0",
+  "book_id": "ai_economy",
+  "catalog": {
+    "title": "AI Economy – Nền kinh tế trí tuệ",
+    "price_vnd": 355000,
+    "sample": "https://aifirstbusiness.vn/sach/nen-kinh-te-tri-tue/doc-thu/",
+    "website_price_vnd": 248500
+  },
+  "quick_questions": [
+    {
+      "faq_id": "overview",
+      "label": "Sách nói về gì?"
+    },
+    {
+      "faq_id": "level",
+      "label": "Ai nên đọc?"
+    },
+    {
+      "faq_id": "vietnam",
+      "label": "Cơ hội Việt Nam 2035"
+    },
+    {
+      "faq_id": "ari",
+      "label": "Chỉ số ARI và ARI-IP"
+    },
+    {
+      "faq_id": "sample",
+      "label": "Đọc thử"
+    },
+    {
+      "faq_id": "price",
+      "label": "Giá và cách mua"
+    }
+  ],
+  "actions": {
+    "contact": {
+      "label": "Liên hệ",
+      "target_ref": "existing_website_contact"
+    },
+    "read_sample": {
+      "label": "Đọc thử",
+      "target_ref": "sample_of_answered_book"
+    },
+    "sample_and_contact": {
+      "items": [
+        "read_sample",
+        "contact"
+      ]
+    },
+    "consulting_choices": {
+      "items": [
+        "ear_survey",
+        "consulting_contact"
+      ]
+    },
+    "ear_survey": {
+      "label": "Làm khảo sát EAR",
+      "target_ref": "existing_ear_survey"
+    },
+    "consulting_contact": {
+      "label": "Liên hệ tư vấn",
+      "target_ref": "existing_consulting_contact"
+    }
+  },
+  "routing": {
+    "doc": [
+      "1. Chuẩn hóa: chữ thường, bỏ dấu, đ→d, dấu câu→khoảng trắng, mở rộng viết tắt theo ranh giới từ.",
+      "2. Tách mệnh đề theo ? . ! ; xuống dòng. Mỗi mệnh đề định tuyến riêng, tối đa 2 câu trả lời.",
+      "3. Khớp toàn câu (question/aliases) → trả thẻ.",
+      "4. Nhắc tên/thuật ngữ cuốn còn lại → nếu thẻ khớp thuộc cross_book_allowed thì trả thẻ, ngược lại mời Đổi sách.",
+      "5. Khớp cụm alias dài nhất (≥2 từ, ranh giới từ).",
+      "6. Chấm signals: mọi nhóm phải có ít nhất một cụm khớp; bị loại nếu có cụm exclude; điểm = số nhóm×100 + độ dài cụm khớp + priority×10.",
+      "7. Tra KB chương sách của book_id (lookup.mjs), chỉ nhận khớp đúng câu hoặc cụm alias.",
+      "8. (Tùy chọn, Worker) Ngữ nghĩa bằng Workers AI @cf/baai/bge-m3 + Vectorize, lọc theo book_id.",
+      "9. Không khớp: thẻ no_match kèm nút gợi ý. Không dùng câu Zalo."
+    ],
+    "abbreviations": {
+      "ko": "không",
+      "k": "không",
+      "hok": "không",
+      "hong": "không",
+      "hông": "không",
+      "kh": "không",
+      "khg": "không",
+      "dc": "được",
+      "đc": "được",
+      "duoc": "được",
+      "dk": "được",
+      "sv": "sinh viên",
+      "hs": "học sinh",
+      "gv": "giảng viên",
+      "dn": "doanh nghiệp",
+      "dnnvv": "doanh nghiệp nhỏ và vừa",
+      "cty": "công ty",
+      "ct": "công ty",
+      "j": "gì",
+      "gi": "gì",
+      "ntn": "như thế nào",
+      "bn": "bao nhiêu",
+      "bnhiu": "bao nhiêu",
+      "bnh": "bao nhiêu",
+      "mik": "mình",
+      "mk": "mình",
+      "mn": "mọi người",
+      "ae": "ae",
+      "afb": "afb",
+      "tvan": "tư vấn",
+      "bgia": "báo giá",
+      "sp": "sản phẩm",
+      "nv": "nhân viên",
+      "ql": "quản lý",
+      "vs": "với",
+      "z": "vậy",
+      "v": "vậy",
+      "r": "rồi",
+      "ns": "nói",
+      "thik": "thích",
+      "bik": "biết",
+      "bít": "biết",
+      "nhiu": "nhiêu",
+      "ship": "ship",
+      "cntt": "công nghệ thông tin",
+      "kcn": "khu công nghiệp"
+    },
+    "lexicon": {
+      "@read": [
+        "nên đọc",
+        "có nên đọc",
+        "đọc được",
+        "đọc được không",
+        "đọc có",
+        "đọc cuốn",
+        "đọc sách",
+        "đọc quyển",
+        "phù hợp",
+        "hợp với",
+        "hợp không",
+        "dành cho",
+        "có ích",
+        "nên mua",
+        "có nên mua",
+        "đáng đọc",
+        "đáng mua",
+        "đọc nổi",
+        "hiểu được",
+        "theo được",
+        "giúp gì",
+        "giúp được gì",
+        "được gì",
+        "nên đọc phần nào",
+        "nên đọc chương nào",
+        "đọc phần nào",
+        "đọc chương nào",
+        "có cần đọc",
+        "học được gì"
+      ],
+      "@book": [
+        "sách",
+        "cuốn",
+        "quyển"
+      ],
+      "@buy": [
+        "mua",
+        "đặt sách",
+        "đặt mua",
+        "order",
+        "đặt hàng"
+      ],
+      "@mention": [
+        "có nói",
+        "có đề cập",
+        "có ví dụ",
+        "có bàn",
+        "có phân tích",
+        "có viết",
+        "nói gì về",
+        "liên quan",
+        "áp dụng",
+        "có phần",
+        "có chương",
+        "đề cập"
+      ]
+    },
+    "stopwords": [
+      "la",
+      "gi",
+      "co",
+      "khong",
+      "cua",
+      "cho",
+      "nao",
+      "nhung",
+      "nhu",
+      "the",
+      "va",
+      "duoc",
+      "ve",
+      "trong",
+      "toi",
+      "minh",
+      "em",
+      "anh",
+      "chi",
+      "ban",
+      "oi",
+      "a",
+      "ha",
+      "nhe",
+      "vay",
+      "nay",
+      "sach",
+      "cuon",
+      "quyen"
+    ],
+    "other_book": {
+      "names": [
+        "ai first business",
+        "afb",
+        "tái thiết doanh nghiệp",
+        "cuốn ai first"
+      ],
+      "terms": [
+        "ear index",
+        "ear",
+        "adapt",
+        "adopt",
+        "advance",
+        "3a",
+        "mô hình 3a",
+        "hồ sơ agent",
+        "roi hai tầng",
+        "lộ trình 90 ngày",
+        "shadow ai",
+        "ai native",
+        "sơ đồ công việc",
+        "nhạc trưởng"
+      ],
+      "title": "AI First Business"
+    },
+    "cross_book_allowed": [
+      "choose",
+      "combo",
+      "ari_vs_ear",
+      "series",
+      "author",
+      "restructure",
+      "national"
+    ],
+    "synonyms": {
+      "agent": "tác nhân",
+      "ai agent": "tác nhân ai",
+      "chip": "bán dẫn",
+      "data center": "trung tâm dữ liệu",
+      "fdi": "đầu tư nước ngoài",
+      "nhân sự": "nhân sự lao động",
+      "kpi": "chỉ số đo lường",
+      "chatbot": "tác nhân hỏi đáp",
+      "bảo mật": "bảo vệ dữ liệu",
+      "mỹ": "nước mỹ",
+      "trung quốc": "trung quốc"
+    },
+    "thresholds": {
+      "phrase_min_words": 2,
+      "phrase_min_chars": 10,
+      "semantic_accept": 0.8,
+      "semantic_suggest": 0.7,
+      "semantic_margin": 0.03
+    },
+    "no_match": {
+      "answer": "Mình chưa tìm thấy nội dung khớp trong cuốn **AI Economy**. Bạn có thể hỏi lại ngắn hơn, nêu tên khái niệm hoặc chương, hoặc chọn một hướng bên dưới.",
+      "suggest": [
+        "overview",
+        "level",
+        "practice",
+        "sample"
+      ]
+    }
+  },
+  "cards": [
+    {
+      "id": "level",
+      "aliases": [
+        "phù hợp với trình độ nào",
+        "sách dành cho ai",
+        "đối tượng độc giả",
+        "ai nên đọc cuốn này",
+        "người mới đọc được không",
+        "mới bắt đầu đọc được không",
+        "chưa biết gì về ai đọc được không",
+        "cần kiến thức nền không",
+        "sách có dễ hiểu không",
+        "sách có quá kỹ thuật không",
+        "có phù hợp người chưa biết gì không",
+        "ai nên đọc cuốn sách này",
+        "ai nên đọc",
+        "ai nên đọc sách này",
+        "cuốn này dành cho ai",
+        "cuốn sách này dành cho ai",
+        "sách này hợp với ai",
+        "sách phù hợp với ai",
+        "đối tượng đọc cuốn này là ai",
+        "cuốn này hợp với đối tượng nào",
+        "người mới đọc được ko",
+        "sách này viết cho ai",
+        "cuốn này viết cho ai"
+      ],
+      "answer": "Cuốn này phù hợp với người đi làm, sinh viên, người làm kinh doanh hoặc chính sách muốn hiểu AI ảnh hưởng đến năng suất, đầu tư và việc làm ra sao, nhất là ở Việt Nam. Người mới có thể bắt đầu từ Lời mở đầu và Chương 1, rồi tra thuật ngữ ở Phụ lục C.",
+      "action": "read_sample",
+      "source": "Lời mở đầu, Chương 1 và Phụ lục C",
+      "question": "Ai nên đọc cuốn sách này?",
+      "signals": [
+        [
+          "ai nên đọc",
+          "dành cho ai",
+          "viết cho ai",
+          "cho ai đọc",
+          "viết cho đối tượng",
+          "hợp với ai",
+          "phù hợp với ai",
+          "đối tượng",
+          "trình độ",
+          "ai phù hợp",
+          "ai đọc",
+          "người nào nên",
+          "dành cho người",
+          "kiến thức nền",
+          "người mới",
+          "khó đọc",
+          "dễ đọc",
+          "khó hiểu",
+          "dễ hiểu",
+          "hàn lâm",
+          "nặng lý thuyết"
+        ]
+      ]
+    },
+    {
+      "id": "coding",
+      "aliases": [
+        "có cần biết lập trình không",
+        "có cần biết python không",
+        "không biết code đọc được không",
+        "có dạy code không",
+        "sách có dạy python không",
+        "có giải thích ai hoạt động thế nào không",
+        "có dạy huấn luyện mô hình không",
+        "sách giải thích dễ hiểu không"
+      ],
+      "answer": "Bạn không cần biết lập trình hay Python để đọc. Sách giải thích vai trò của điện, chip, dữ liệu và hạ tầng tính toán trong việc sản xuất và sử dụng AI. Các phần kỹ thuật phục vụ câu hỏi kinh tế như chi phí hình thành ở đâu và ai giữ được giá trị. Nếu mục tiêu chính là học lập trình hoặc huấn luyện mô hình, bạn sẽ cần một tài liệu kỹ thuật chuyên biệt.",
+      "action": "read_sample",
+      "source": "Lời mở đầu, Chương 2",
+      "signals": [
+        [
+          "lập trình",
+          "code",
+          "python",
+          "coder",
+          "viết mã",
+          "kỹ thuật quá",
+          "nặng kỹ thuật"
+        ]
+      ],
+      "exclude": [
+        "viết code",
+        "code giúp",
+        "viết giúp",
+        "code hộ",
+        "viết hộ"
+      ]
+    },
+    {
+      "id": "overview",
+      "aliases": [
+        "nội dung chính và góc tiếp cận là gì",
+        "sách nói về gì",
+        "nội dung chính",
+        "tóm tắt cuốn sách",
+        "sách tập trung vào gì",
+        "sách bàn về gì",
+        "góc tiếp cận",
+        "sách có chung chung không",
+        "sách có bao quát mọi thứ không",
+        "sách có quá hời hợt không",
+        "sách có kiểu ai bible không",
+        "cuốn này nói về chủ đề gì",
+        "cuốn sách này nói về chủ đề gì",
+        "sách này nói về chủ đề gì",
+        "cuốn này nói về gì",
+        "cuốn này nói gì",
+        "sách nói gì vậy",
+        "cuốn sách nói về cái gì",
+        "chủ đề của sách là gì",
+        "sách này viết về gì",
+        "cuốn này viết về chủ đề gì",
+        "tóm tắt sách trong ba câu",
+        "giới thiệu ngắn về cuốn này",
+        "nội dung cuốn này là gì"
+      ],
+      "answer": "AI Economy nói về cách AI tái cấu trúc nền kinh tế. Sách giải thích vì sao điện, chip, dữ liệu và dòng vốn ảnh hưởng đến năng lực cạnh tranh, rồi phân tích tác động đến việc làm, năng suất và cơ hội của Việt Nam đến năm 2035.",
+      "action": "read_sample",
+      "source": "Lời mở đầu và Mục lục",
+      "question": "Cuốn này nói về chủ đề gì?",
+      "signals": [
+        [
+          "nói về gì",
+          "viết về gì",
+          "bàn về gì",
+          "nói về cái gì",
+          "nội dung",
+          "chủ đề",
+          "tóm tắt",
+          "giới thiệu",
+          "nói gì",
+          "về cái gì",
+          "về gì",
+          "trọng tâm",
+          "thông điệp",
+          "ý chính",
+          "luận điểm"
+        ],
+        [
+          "@book",
+          "này"
+        ]
+      ]
+    },
+    {
+      "id": "practice",
+      "aliases": [
+        "giá trị thực tiễn",
+        "đọc xong áp dụng được ngay không",
+        "đọc xong áp dụng được gì",
+        "có áp dụng được vào công việc không",
+        "sách có ích gì",
+        "so với tài liệu miễn phí thì sao",
+        "so với khóa học online thì sao",
+        "sách có hướng dẫn dùng ai hàng ngày không",
+        "đọc xong cuốn này tôi sẽ hiểu hoặc làm được gì",
+        "đọc xong được gì",
+        "đọc cuốn này tôi được gì",
+        "đọc xong hiểu được gì",
+        "đọc xong làm được gì",
+        "sách giúp tôi làm được gì",
+        "mua cuốn này có ích gì"
+      ],
+      "answer": "Bạn có thể dùng sách để phân tích một quyết định về đầu tư, phát triển địa phương hoặc chọn nghề. Chẳng hạn, khi xem một dự án AI, hãy hỏi điện và năng lực tính toán đến từ đâu, nhà cung ứng Việt Nam tham gia vào khâu nào và giá trị nào ở lại. Điểm hữu ích của cuốn sách là kết nối các câu hỏi này trong cùng một khung để người đọc áp dụng cho nhiều tình huống.",
+      "action": "read_sample",
+      "source": "Chương 7–8, 10 và 12",
+      "question": "Đọc xong cuốn này tôi sẽ hiểu hoặc làm được gì?",
+      "signals": [
+        [
+          "đọc xong",
+          "sau khi đọc",
+          "làm được gì",
+          "được gì",
+          "giá trị thực tiễn",
+          "có ích gì",
+          "giúp gì",
+          "ứng dụng được",
+          "áp dụng được",
+          "lợi ích"
+        ]
+      ]
+    },
+    {
+      "id": "examples",
+      "aliases": [
+        "có ví dụ công việc thực tế không",
+        "có nhiều ví dụ thực tế không",
+        "có case study không",
+        "sách có tình huống thực tế không",
+        "có ví dụ doanh nghiệp không",
+        "có ví dụ việt nam không",
+        "ví dụ trong sách là thật hay giả định"
+      ],
+      "answer": "Có. Sách dùng các trường hợp như Stargate để phân tích rủi ro đầu tư hạ tầng AI và bàn về cách vốn, điện và đấu nối ảnh hưởng đến tiến độ dự án. Các chương về Việt Nam đưa câu hỏi về năng lực cung ứng, việc làm và năng suất về bối cảnh trong nước. Khi đọc, bạn có thể xem chú thích chương để phân biệt số liệu nguồn với khung phân tích của tác giả.",
+      "action": "read_sample",
+      "source": "Chương 3, 7–8 và 12",
+      "signals": [
+        [
+          "ví dụ",
+          "case study",
+          "tình huống",
+          "câu chuyện thực tế",
+          "dẫn chứng",
+          "case"
+        ]
+      ]
+    },
+    {
+      "id": "risk",
+      "aliases": [
+        "sách có nói về rủi ro không",
+        "có nói về ảo giác không",
+        "có bàn về đạo đức ai không",
+        "có bàn về an toàn ai không",
+        "có nói về tác động xã hội không",
+        "có nói về bảo mật dữ liệu không",
+        "có nói về mất việc không"
+      ],
+      "answer": "Cuốn này bàn về rủi ro ở cấp nền kinh tế, như phụ thuộc vào hạ tầng, tập trung quyền lực và tác động không đồng đều lên việc làm. Phần về lao động phân tích nhiệm vụ nào có thể được AI hỗ trợ hoặc tự động hóa, và vì sao mức độ tiếp xúc với AI chưa đủ để kết luận một nghề sẽ biến mất. Nếu quan tâm đến an toàn trong vận hành doanh nghiệp, AI First Business đi sâu hơn vào bài toán đó.",
+      "action": "read_sample",
+      "source": "Chương 3–5, 9–10 và 13",
+      "signals": [
+        [
+          "rủi ro",
+          "đạo đức",
+          "an toàn",
+          "ảo giác",
+          "bảo mật",
+          "mặt trái",
+          "tiêu cực"
+        ]
+      ]
+    },
+    {
+      "id": "tools",
+      "aliases": [
+        "có bài tập checklist framework thực tế không",
+        "có bài tập không",
+        "có checklist không",
+        "có công cụ thực hành không",
+        "có mẫu biểu không",
+        "có framework không",
+        "có bảng thuật ngữ không",
+        "có tài liệu đi kèm không"
+      ],
+      "answer": "Sách có tám trụ cột để xem xét mức sẵn sàng và hai phụ lục ứng dụng: ARI cho địa phương và ARI-IP cho khu công nghiệp. Bạn có thể dùng chúng để tìm điểm nghẽn và đặt câu hỏi tiếp theo cho người phụ trách. Phụ lục C giải thích thuật ngữ. Các công cụ này hữu ích khi cần đánh giá một địa phương, một khu công nghiệp hoặc một cơ hội đầu tư.",
+      "action": "read_sample",
+      "source": "Chương 8, Phụ lục A–C",
+      "signals": [
+        [
+          "checklist",
+          "bài tập",
+          "framework",
+          "công cụ thực hành",
+          "mẫu biểu",
+          "bảng thuật ngữ",
+          "khung"
+        ]
+      ]
+    },
+    {
+      "id": "currency",
+      "aliases": [
+        "sách còn cập nhật không",
+        "sách có lỗi thời không",
+        "số liệu cập nhật tới khi nào",
+        "dữ liệu đến ngày nào",
+        "có đề cập mô hình gần đây không",
+        "có cập nhật chatgpt mới nhất không",
+        "phần nào bền theo thời gian"
+      ],
+      "answer": "Bản chốt in AI Economy ghi mốc khóa dữ liệu là **30/10/2026**. Các số liệu về vốn, công suất hoặc tiến độ dự án phản ánh bối cảnh đến mốc đó. Khung phân tích về chi phí, hạ tầng và năng suất giúp bạn đọc các dữ kiện mới khi thị trường thay đổi.",
+      "action": "read_sample",
+      "source": "Ghi chú phương pháp và ngày khóa dữ liệu",
+      "signals": [
+        [
+          "cập nhật",
+          "lỗi thời",
+          "mới nhất",
+          "số liệu đến",
+          "dữ liệu đến",
+          "còn đúng",
+          "còn giá trị",
+          "mốc dữ liệu",
+          "lạc hậu"
+        ]
+      ]
+    },
+    {
+      "id": "author",
+      "aliases": [
+        "tác giả là ai và có uy tín không",
+        "tác giả là ai",
+        "ai viết sách",
+        "tác giả có kinh nghiệm gì",
+        "tác giả có uy tín không",
+        "tác giả có phải chuyên gia không",
+        "tác giả có kinh nghiệm thực tế không",
+        "sách có ăn theo xu hướng không"
+      ],
+      "answer": "Cả hai cuốn do **Trần Tấn Sỹ** viết. Tác giả tiếp cận AI từ kinh nghiệm thu hút đầu tư và phát triển khu công nghiệp, hạ tầng công nghệ cao. AI Economy đưa góc nhìn đó vào dòng vốn, năng lực hạ tầng và chuỗi giá trị. AI First Business tập trung vào quyết định đầu tư, vận hành và quản trị trong doanh nghiệp. Bạn có thể đọc thử để tự đánh giá cách lập luận và dẫn nguồn.",
+      "action": "read_sample",
+      "source": "Lời giới thiệu và lời tựa hai cuốn",
+      "signals": [
+        [
+          "tác giả",
+          "người viết",
+          "trần tấn sỹ",
+          "ông sỹ",
+          "ai viết"
+        ]
+      ]
+    },
+    {
+      "id": "choose",
+      "aliases": [
+        "hai cuốn khác nhau thế nào",
+        "nên đọc cuốn nào trước",
+        "nên mua cuốn nào",
+        "chọn cuốn nào",
+        "có cần đọc ai economy trước không",
+        "hai sách có trùng nhau không",
+        "so sánh hai cuốn",
+        "nên đọc theo thứ tự nào",
+        "chỉ mua một cuốn nên chọn cuốn nào",
+        "tôi chỉ mua một cuốn nên chọn ae hay afb",
+        "ae và afb khác gì nhau",
+        "ae hay afb",
+        "so sánh ae và afb",
+        "có cần mua cả hai cuốn không"
+      ],
+      "answer": "Hai cuốn đọc độc lập, **không cần theo thứ tự**. Chọn **AI Economy** nếu điều bạn muốn hiểu nhất là AI thay đổi đầu tư, năng suất, việc làm và vị thế của Việt Nam như thế nào. Chọn **AI First Business** nếu bạn đang quyết định nên đưa AI vào quy trình nào, đầu tư bao nhiêu và quản trị ra sao. Bạn có thể đọc thử cả hai để chọn theo câu hỏi mình đang quan tâm.",
+      "action": "read_sample",
+      "source": "Lời giới thiệu hai cuốn",
+      "question": "Tôi chỉ mua một cuốn. Nên chọn AE hay AFB?",
+      "signals": [
+        [
+          "hai cuốn",
+          "2 cuốn",
+          "cuốn nào",
+          "quyển nào",
+          "ae hay afb",
+          "ae và afb",
+          "khác nhau",
+          "so sánh",
+          "trùng nhau",
+          "hai quyển",
+          "2 quyển"
+        ],
+        [
+          "đọc",
+          "mua",
+          "chọn",
+          "khác",
+          "so sánh",
+          "trùng",
+          "trước"
+        ]
+      ]
+    },
+    {
+      "id": "sample",
+      "aliases": [
+        "có chương đọc thử không",
+        "đọc thử",
+        "cho tôi link đọc thử",
+        "cho mình xem chương mẫu",
+        "xin link chương mẫu",
+        "xem thử trước khi mua",
+        "đọc thử ở đâu"
+      ],
+      "answer": "Bạn có thể mở chương đọc thử của **AI Economy – Nền kinh tế trí tuệ** trên website để xem giọng văn, cách trình bày và mức độ chi tiết trước khi mua.",
+      "action": "read_sample",
+      "source": "Link website do chủ dự án cung cấp",
+      "signals": [
+        [
+          "đọc thử",
+          "chương mẫu",
+          "xem thử",
+          "bản mẫu",
+          "trích đoạn",
+          "đọc miễn phí",
+          "xem trước"
+        ]
+      ]
+    },
+    {
+      "id": "reviews",
+      "aliases": [
+        "review và đánh giá thực tế",
+        "có review không",
+        "sách được đánh giá thế nào",
+        "review goodreads",
+        "review amazon",
+        "review tiki",
+        "review shopee",
+        "điểm goodreads bao nhiêu",
+        "có review tiêu cực không",
+        "có đánh giá độc giả không",
+        "có phê bình nào không"
+      ],
+      "answer": "Chatbot hiện chưa có nguồn đánh giá độc giả đã xác minh cho cuốn này. Bạn có thể xem chương đọc thử để tự đánh giá độ sâu, ví dụ và cách dẫn nguồn.",
+      "action": "read_sample",
+      "source": null,
+      "signals": [
+        [
+          "review",
+          "nhận xét",
+          "phê bình",
+          "goodreads",
+          "người đọc nói gì",
+          "đánh giá của độc giả",
+          "đánh giá sách",
+          "feedback"
+        ]
+      ]
+    },
+    {
+      "id": "ai_use",
+      "aliases": [
+        "sách có phải do ai viết không",
+        "sách do ai viết à",
+        "tác giả có dùng chatgpt để viết không",
+        "ai có hỗ trợ viết sách không",
+        "mức độ dùng ai để viết sách"
+      ],
+      "answer": "Trần Tấn Sỹ là tác giả AI Economy. Phần ghi chú phương pháp cho thấy tác giả ưu tiên nguồn gốc, phân biệt số đo với dự báo và đối chiếu ít nhất hai nguồn cho các con số lớn. Mức độ công cụ AI tham gia biên soạn cần tác giả xác nhận.",
+      "action": "read_sample",
+      "source": "Trang tên sách và Ghi chú phương pháp",
+      "signals": [
+        [
+          "chatgpt viết",
+          "do ai viết",
+          "dùng ai để viết",
+          "ai viết hộ",
+          "máy viết",
+          "gpt viết",
+          "ai tạo ra sách",
+          "ai soạn"
+        ]
+      ]
+    },
+    {
+      "id": "publisher",
+      "aliases": [
+        "nhà xuất bản nào",
+        "nxb nào",
+        "ai phát hành",
+        "đơn vị xuất bản là ai",
+        "sách có tự xuất bản không"
+      ],
+      "answer": "Trang tên sách trong bản dàn trang **AI Economy** ghi **Nhà xuất bản Kinh tế Thành phố Hồ Chí Minh**. Bấm **Liên hệ** nếu bạn cần xác nhận thông tin trên ấn bản đang bán.",
+      "action": "contact",
+      "source": "Bản chốt in AI Economy 03/11/2026, trang tên sách",
+      "signals": [
+        [
+          "nhà xuất bản",
+          "nxb",
+          "đơn vị phát hành",
+          "đơn vị xuất bản"
+        ]
+      ]
+    },
+    {
+      "id": "edition",
+      "aliases": [
+        "xuất bản năm nào",
+        "năm xuất bản",
+        "sách phát hành năm nào",
+        "bao giờ phát hành",
+        "sách bao nhiêu trang",
+        "bao nhiêu trang",
+        "độ dài bao nhiêu trang",
+        "isbn là gì",
+        "mã isbn của sách",
+        "khổ sách",
+        "bản in lần thứ mấy",
+        "có tái bản không",
+        "số trang và năm xuất bản"
+      ],
+      "answer": "AI Economy có 13 chương và 3 phụ lục. Trang tên sách của bản chốt in ghi Nhà xuất bản Kinh tế Thành phố Hồ Chí Minh. Bấm **Liên hệ** nếu bạn cần số trang, năm phát hành hoặc ISBN của ấn bản đang bán.",
+      "action": "contact",
+      "source": "Mục lục và bản thảo đối chiếu",
+      "signals": [
+        [
+          "bao nhiêu trang",
+          "mấy trang",
+          "isbn",
+          "năm xuất bản",
+          "tái bản",
+          "khổ sách",
+          "xuất bản năm",
+          "phát hành khi nào",
+          "phát hành năm",
+          "số trang",
+          "dày bao nhiêu"
+        ]
+      ]
+    },
+    {
+      "id": "language",
+      "aliases": [
+        "sách viết bằng tiếng gì",
+        "có phải sách dịch không",
+        "có bản tiếng việt không",
+        "bản tiếng việt có dễ hiểu không",
+        "có bản tiếng anh không"
+      ],
+      "answer": "Bản giới thiệu và nội dung đọc thử của **AI Economy – Nền kinh tế trí tuệ** bằng tiếng Việt, do Trần Tấn Sỹ viết. Bạn có thể xem chương đọc thử để đánh giá giọng văn. Nếu cần hỏi về ấn bản ngôn ngữ khác, bấm **Liên hệ**.",
+      "action": "sample_and_contact",
+      "source": "Trang tên sách và lời giới thiệu",
+      "signals": [
+        [
+          "tiếng anh",
+          "tiếng việt",
+          "sách dịch",
+          "bản dịch",
+          "ngôn ngữ",
+          "tiếng trung",
+          "english"
+        ]
+      ]
+    },
+    {
+      "id": "formats",
+      "aliases": [
+        "có bản ebook không",
+        "có audiobook không",
+        "có sách nói không",
+        "có sách điện tử không",
+        "có bản pdf để mua không",
+        "có kindle không",
+        "có ebook hoặc audiobook không",
+        "có những định dạng nào"
+      ],
+      "answer": "Chatbot chưa có thông tin đã xác nhận về bản ebook hoặc audiobook. Bấm **Liên hệ** để hỏi về các định dạng đang bán.",
+      "action": "contact",
+      "source": null,
+      "signals": [
+        [
+          "ebook",
+          "audiobook",
+          "sách nói",
+          "pdf",
+          "kindle",
+          "sách điện tử",
+          "bản điện tử",
+          "sách số",
+          "bản online"
+        ]
+      ],
+      "priority": 1
+    },
+    {
+      "id": "price",
+      "aliases": [
+        "giá bao nhiêu",
+        "sách giá bao nhiêu",
+        "bao nhiêu tiền",
+        "cuốn này giá bao nhiêu",
+        "giá bán",
+        "giảm giá bao nhiêu",
+        "mua web giá bao nhiêu",
+        "giá sau giảm",
+        "có khuyến mãi không",
+        "mua website giảm bao nhiêu"
+      ],
+      "answer": "Giá niêm yết của **AI Economy – Nền kinh tế trí tuệ** là **355.000 ₫**. Mua qua website giảm **30%**, còn **248.500 ₫**. Bấm **Liên hệ** để đặt mua và xác nhận tổng tiền đơn hàng.",
+      "action": "contact",
+      "source": "Chính sách bán hàng do chủ dự án cung cấp",
+      "signals": [
+        [
+          "giá",
+          "bao nhiêu tiền",
+          "nhiêu tiền",
+          "mấy tiền",
+          "giảm giá",
+          "khuyến mãi",
+          "ưu đãi",
+          "mấy chục",
+          "nhiêu một cuốn",
+          "giá bìa"
+        ]
+      ],
+      "exclude": [
+        "triển khai",
+        "dự án",
+        "agent",
+        "chatbot",
+        "hệ thống",
+        "phần mềm",
+        "giải pháp",
+        "combo",
+        "cả hai",
+        "cả 2",
+        "giá trị",
+        "đánh giá",
+        "tác giả",
+        "giả định",
+        "cổ phiếu",
+        "chứng khoán",
+        "định giá",
+        "giá tài sản"
+      ],
+      "priority": 4
+    },
+    {
+      "id": "buy",
+      "aliases": [
+        "mua ở đâu",
+        "mua sách ở đâu",
+        "mua như thế nào",
+        "cách mua qua website",
+        "mua qua webstie",
+        "đặt mua",
+        "cho tôi mua sách",
+        "tôi muốn mua cuốn này",
+        "mua sách qua website như thế nào",
+        "mua trên tiki được không",
+        "mua trên shopee được không",
+        "mua tặng người khác được không",
+        "tôi bấm ở đâu để đặt mua sách",
+        "bấm ở đâu để mua",
+        "đặt sách trên web thế nào"
+      ],
+      "answer": "Bấm **Liên hệ** trên website để đặt sách. Cho biết tên sách, số lượng và tỉnh/thành nhận hàng để được xác nhận tổng tiền và cách thanh toán. Mức giảm công bố khi mua qua website là **30%**.",
+      "action": "contact",
+      "source": "Chính sách bán hàng do chủ dự án cung cấp",
+      "question": "Tôi bấm ở đâu để đặt mua sách?",
+      "signals": [
+        [
+          "@buy"
+        ]
+      ],
+      "exclude": [
+        "combo",
+        "cả hai",
+        "cả 2",
+        "số lượng",
+        "hóa đơn",
+        "vat",
+        "quà",
+        "tặng",
+        "ký tặng",
+        "triển khai",
+        "giải pháp",
+        "phần mềm"
+      ]
+    },
+    {
+      "id": "delivery",
+      "aliases": [
+        "giao hàng thế nào",
+        "phí ship bao nhiêu",
+        "mấy ngày nhận sách",
+        "có giao tỉnh không",
+        "có giao ra nước ngoài không",
+        "thanh toán thế nào",
+        "có cod không",
+        "có xuất hóa đơn không",
+        "có được kiểm tra hàng không",
+        "tra đơn hàng",
+        "đơn hàng của tôi đến đâu",
+        "đã mua chưa nhận sách"
+      ],
+      "answer": "Để biết phí và thời gian giao đến địa chỉ của bạn, bấm **Liên hệ** trên website và cho biết tỉnh/thành nơi nhận. Bạn có thể hỏi phương thức thanh toán hoặc hóa đơn trước khi xác nhận đơn. Nếu đã đặt sách, hãy gửi mã đơn qua cùng kênh để được kiểm tra.",
+      "action": "contact",
+      "source": "Quy trình bán hàng do chủ dự án cung cấp",
+      "signals": [
+        [
+          "giao",
+          "ship",
+          "freeship",
+          "miễn phí vận chuyển",
+          "nước ngoài",
+          "quốc tế",
+          "vận chuyển",
+          "nhận sách",
+          "nhận hàng",
+          "cod",
+          "thanh toán",
+          "chuyển khoản",
+          "đơn hàng",
+          "mã đơn"
+        ]
+      ],
+      "priority": 1
+    },
+    {
+      "id": "returns",
+      "aliases": [
+        "sách có đổi trả không",
+        "có được đổi không",
+        "có được trả sách không",
+        "chính sách đổi trả",
+        "mua rồi đổi ý có trả được không",
+        "hoàn tiền sách",
+        "sách giao lỗi",
+        "giao nhầm sách",
+        "sách bị hỏng khi giao"
+      ],
+      "answer": "Theo chính sách bán hàng, sách mua tại Việt Nam **không áp dụng đổi trả**. Nếu sách giao bị lỗi, hư hỏng hoặc sai đơn, bấm **Liên hệ** để bộ phận bán hàng kiểm tra trường hợp cụ thể.",
+      "action": "contact",
+      "source": "Chính sách bán hàng do chủ dự án cung cấp",
+      "signals": [
+        [
+          "đổi trả",
+          "trả hàng",
+          "hoàn tiền",
+          "trả lại",
+          "giao lỗi",
+          "giao nhầm",
+          "bị hỏng",
+          "bị rách",
+          "lỗi in",
+          "giao sai",
+          "thiếu trang"
+        ]
+      ]
+    },
+    {
+      "id": "buy_fallback",
+      "aliases": [
+        "hỏi về đơn sách",
+        "hỗ trợ mua sách"
+      ],
+      "answer": "Bấm **Liên hệ** để được hướng dẫn về việc mua sách hoặc kiểm tra đơn hàng.",
+      "action": "contact",
+      "source": null
+    },
+    {
+      "id": "clarify",
+      "aliases": [
+        "thông tin",
+        "cuốn này thì sao"
+      ],
+      "answer": "Bạn muốn biết cuốn này có hợp với mình, đọc xong áp dụng được gì, hay muốn xem chương đọc thử và giá mua?",
+      "action": null,
+      "source": null
+    },
+    {
+      "id": "factor",
+      "question": "AI trở thành yếu tố sản xuất nghĩa là gì?",
+      "aliases": [
+        "AI trở thành yếu tố sản xuất nghĩa là gì?",
+        "trí tuệ trở thành yếu tố sản xuất ra sao",
+        "ai là yếu tố sản xuất mới nghĩa là gì"
+      ],
+      "answer": "Khi một phần công việc trí óc có thể được thực hiện bằng máy và mua theo nhu cầu, chi phí và khả năng mở rộng sản lượng thay đổi. Sách dùng cách nhìn này để xem ai có năng lực tạo ra trí tuệ, ai khai thác được nó và ai giữ lại giá trị. Khi đánh giá tác động, cần nhìn cả hạ tầng lẫn năng lực sử dụng AI trong nền kinh tế.",
+      "source": "Chương 1",
+      "action": "read_sample"
+    },
+    {
+      "id": "factory",
+      "question": "Nhà máy trí tuệ là gì?",
+      "aliases": [
+        "Nhà máy trí tuệ là gì?",
+        "ai factory là gì",
+        "vì sao ai cần nhiều điện và chip"
+      ],
+      "answer": "Nhà máy trí tuệ dùng điện, chip, kết nối, dữ liệu và đội kỹ thuật để tạo năng lực xử lý bằng AI. Trong tình huống khảo sát ở Đồng Nai, quỹ đầu tư nêu yêu cầu **280 MW cho 20 ha**, trong đó **200 MW** dành cho thiết bị IT. Đây là yêu cầu ở giai đoạn khảo sát. Chương 2 giải thích vì sao việc thay thiết bị theo nhiều thế hệ làm thay đổi cơ cấu vốn.",
+      "source": "Lời mở đầu và Chương 2",
+      "action": "read_sample",
+      "signals": [
+        [
+          "nhà máy trí tuệ",
+          "ai factory",
+          "trung tâm dữ liệu",
+          "data center"
+        ]
+      ]
+    },
+    {
+      "id": "capital",
+      "question": "Dòng vốn AI đang đổ vào đâu?",
+      "aliases": [
+        "Dòng vốn AI đang đổ vào đâu?",
+        "ai hút vốn vào lĩnh vực nào",
+        "vì sao điện quyết định dự án ai"
+      ],
+      "answer": "Một cách đọc dòng vốn AI là tách vốn xây công trình khỏi vốn làm mới thiết bị. Trong phép tính vòng đời khoảng 20 năm ở Chương 2, phần công trình chiếm khoảng **6%**, phần còn lại chủ yếu là thiết bị IT qua nhiều lần thay mới. Khi đọc tin về một dự án, Chương 3 gợi bạn kiểm tra vốn đang ở giai đoạn cam kết, cấp vốn hay triển khai.",
+      "source": "Chương 2–3 và Ghi chú phương pháp",
+      "action": "read_sample",
+      "signals": [
+        [
+          "dòng vốn",
+          "vốn ai",
+          "đổ tiền",
+          "đầu tư vào ai",
+          "hút vốn",
+          "tiền đổ"
+        ]
+      ]
+    },
+    {
+      "id": "power",
+      "question": "Quốc gia tạo lợi thế trong nền kinh tế AI bằng cách nào?",
+      "aliases": [
+        "Quốc gia tạo lợi thế trong nền kinh tế AI bằng cách nào?",
+        "các nước cạnh tranh ai bằng gì",
+        "quyền lực kinh tế ai đến từ đâu"
+      ],
+      "answer": "Sách phân tích ba nguồn lợi thế: khả năng đặt luật chơi, kiểm soát mắt xích khan hiếm và tốc độ chuyển hóa nguồn lực thành kết quả. Một nền kinh tế có thể tạo vị thế bằng tiêu chuẩn và thể chế, bằng công nghệ khó thay thế hoặc bằng khả năng tổ chức và triển khai nhanh. Khung này giúp người đọc hỏi một quốc gia đang tạo lợi thế ở mắt xích nào.",
+      "source": "Chương 4–6",
+      "action": "read_sample",
+      "signals": [
+        [
+          "lợi thế",
+          "quyền lực",
+          "cạnh tranh"
+        ],
+        [
+          "quốc gia",
+          "các nước",
+          "cường quốc",
+          "mỹ",
+          "trung quốc"
+        ]
+      ]
+    },
+    {
+      "id": "vietnam",
+      "question": "Việt Nam có cơ hội gì đến năm 2035?",
+      "aliases": [
+        "Việt Nam có cơ hội gì đến năm 2035?",
+        "cơ hội ai của việt nam là gì",
+        "việt nam nên tham gia chuỗi giá trị ai ở đâu"
+      ],
+      "answer": "Sách xem mốc 2035 như một cửa sổ cơ hội để Việt Nam dùng AI nâng năng suất và tham gia sâu hơn vào chuỗi giá trị. Với mỗi khoản đầu tư, câu hỏi là phần giá trị nào ở lại dưới dạng năng lực kỹ thuật, nhà cung ứng nội địa hoặc năng suất doanh nghiệp. Sách đặt trọng tâm vào ứng dụng, thích ứng rồi làm chủ có chọn lọc.",
+      "source": "Chương 7",
+      "action": "read_sample",
+      "signals": [
+        [
+          "việt nam",
+          "vn",
+          "nước ta"
+        ],
+        [
+          "cơ hội",
+          "2035",
+          "vị thế",
+          "tham gia",
+          "chuỗi giá trị",
+          "tương lai"
+        ]
+      ]
+    },
+    {
+      "id": "fdi",
+      "question": "Thu hút FDI AI thì Việt Nam có thể giữ lại giá trị gì?",
+      "aliases": [
+        "Thu hút FDI AI thì Việt Nam có thể giữ lại giá trị gì?",
+        "fdi ai mang lại gì cho việt nam",
+        "đặt trung tâm dữ liệu có phải làm chủ ai không"
+      ],
+      "answer": "Ví dụ khảo sát khu đất 20 ha ở Đồng Nai cho thấy một dự án có thể đòi hỏi **280 MW** điện. Với Việt Nam, câu hỏi của sách là doanh nghiệp trong nước có thể tham gia phần nào của chuỗi cung ứng, đội ngũ trong nước học được năng lực gì và bao nhiêu giá trị có thể giữ lại.",
+      "source": "Lời mở đầu và Chương 7–8",
+      "action": "read_sample",
+      "signals": [
+        [
+          "fdi",
+          "đầu tư nước ngoài",
+          "nhà đầu tư nước ngoài"
+        ]
+      ],
+      "signals_alt": [
+        [
+          [
+            "việt nam",
+            "trong nước",
+            "vn"
+          ],
+          [
+            "trung tâm dữ liệu",
+            "data center",
+            "nhà máy trí tuệ"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ari",
+      "question": "ARI và ARI-IP dùng cho ai?",
+      "aliases": [
+        "ARI và ARI-IP dùng cho ai?",
+        "ari là gì",
+        "ari ip dùng làm gì",
+        "khu công nghiệp sẵn sàng ai ra sao"
+      ],
+      "answer": "ARI giúp địa phương xem xét mức độ sẵn sàng về AI. ARI-IP đưa việc đánh giá xuống cấp khu công nghiệp. Hai phụ lục hướng người đọc tìm mắt xích yếu có thể cản dự án, chẳng hạn điện, kết nối hoặc hạ tầng tính toán tùy loại dự án. Kết quả nên được dùng để chọn việc cần cải thiện và người phụ trách, trước khi dựa vào một điểm tổng.",
+      "source": "Chương 8, Phụ lục A–B",
+      "action": "read_sample",
+      "signals": [
+        [
+          "ari",
+          "ari ip",
+          "chỉ số sẵn sàng"
+        ]
+      ]
+    },
+    {
+      "id": "jobs",
+      "question": "AI có làm mất việc không?",
+      "aliases": [
+        "AI có làm mất việc không?",
+        "nghề nào dễ bị ai tác động",
+        "sinh viên nên học kỹ năng gì khi có ai",
+        "ai ảnh hưởng việc làm việt nam ra sao",
+        "ai có thay thế con người không",
+        "ai có cướp việc không"
+      ],
+      "answer": "AI tác động vào từng nhiệm vụ trong một nghề. Sách kể một doanh nghiệp sách ở TP.HCM giảm **70% cộng tác viên dịch thuật**, đồng thời dẫn một nghiên cứu chăm sóc khách hàng ghi nhận năng suất của nhóm mới vào nghề tăng **34%**. Hai ví dụ thuộc hai bối cảnh riêng. Chương 9–10 giúp bạn xem phần việc nào có thể tự động hóa, phần nào được AI hỗ trợ và nên rèn kỹ năng gì.",
+      "source": "Chương 1 và Chương 9–10",
+      "action": "read_sample",
+      "signals": [
+        [
+          "mất việc",
+          "thay thế",
+          "việc làm",
+          "thất nghiệp",
+          "cướp việc",
+          "lấy mất việc",
+          "nghề nào"
+        ]
+      ]
+    },
+    {
+      "id": "policy",
+      "question": "Người làm chính sách nên bắt đầu từ đâu?",
+      "aliases": [
+        "Người làm chính sách nên bắt đầu từ đâu?",
+        "địa phương nên ưu tiên gì khi phát triển ai",
+        "sách hữu ích thế nào cho nhà hoạch định chính sách"
+      ],
+      "answer": "Bạn có thể dùng tám trụ cột sẵn sàng để tìm mắt xích đang giới hạn mục tiêu của địa phương. Ví dụ, nếu đang cân nhắc một dự án hạ tầng AI, hãy kiểm tra điều kiện về điện, kết nối và năng lực vận hành. Sau đó xác định đơn vị chịu trách nhiệm xử lý điểm nghẽn và kết quả cần quan sát để biết việc đầu tư có tiến triển.",
+      "source": "Chương 8 và 11",
+      "action": "read_sample",
+      "signals": [
+        [
+          "chính sách",
+          "chính quyền",
+          "địa phương",
+          "nhà hoạch định",
+          "tỉnh"
+        ],
+        [
+          "bắt đầu",
+          "ưu tiên",
+          "nên làm",
+          "giúp",
+          "dùng"
+        ]
+      ]
+    },
+    {
+      "id": "read_apply",
+      "question": "Tôi muốn dùng AI ngay, cuốn này giúp tôi làm gì từ hôm nay?",
+      "aliases": [
+        "Tôi muốn dùng AI ngay, cuốn này giúp tôi làm gì từ hôm nay?",
+        "có hướng dẫn thực hành cụ thể không",
+        "đọc phần nào để áp dụng ngay"
+      ],
+      "answer": "Bạn có thể thử phân tích một việc mình đang làm. Chọn một nghề hoặc quy trình quen thuộc, liệt kê các nhiệm vụ, rồi đánh dấu phần AI có thể hỗ trợ, phần có thể tự động hóa và phần vẫn cần con người chịu trách nhiệm. Chương 9–10 giúp bạn đặt bài tập đó trong bối cảnh việc làm và kỹ năng. Nếu muốn học thao tác trên một công cụ cụ thể, bạn sẽ cần tài liệu thực hành riêng.",
+      "source": "Chương 9–10",
+      "action": "read_sample"
+    },
+    {
+      "id": "read_example",
+      "question": "Tôi muốn xem một ví dụ có thể liên hệ với công việc của mình. Nên đọc phần nào?",
+      "aliases": [
+        "Tôi muốn xem một ví dụ có thể liên hệ với công việc của mình. Nên đọc phần nào?",
+        "có ví dụ sát công việc của tôi không",
+        "muốn xem ví dụ trước khi mua sách"
+      ],
+      "answer": "Nếu làm về đầu tư hoặc hạ tầng, hãy đọc Chương 3 để xem cách sách dùng trường hợp Stargate phân tích vốn, điện và rủi ro dự án. Nếu đang cân nhắc nghề nghiệp, Chương 9–10 cho bạn một góc nhìn khác: xem từng nhiệm vụ trong nghề thay đổi ra sao khi có AI. Chọn ví dụ sát với quyết định của bạn nhất rồi đối chiếu với dữ liệu thực tế của mình.",
+      "source": "Chương 3, 9–10",
+      "action": "read_sample"
+    },
+    {
+      "id": "read_depth",
+      "question": "Tôi muốn hiểu bản chất AI. Sách giải thích đến mức nào?",
+      "aliases": [
+        "Tôi muốn hiểu bản chất AI. Sách giải thích đến mức nào?",
+        "có nhiều thuật ngữ kỹ thuật quá không",
+        "tôi muốn hiểu bản chất ai"
+      ],
+      "answer": "Sách giải thích AI từ góc kinh tế: năng lực trí tuệ được tạo ra bằng những nguồn lực nào, vì sao chi phí suy luận thay đổi và ai hưởng lợi khi AI được áp dụng rộng. Chương 2 dùng các thuật ngữ như huấn luyện, suy luận và token để giải thích hoạt động của nhà máy trí tuệ. Bạn có thể đọc Chương 1 trước rồi tra Phụ lục C khi cần.",
+      "source": "Chương 1–2, Phụ lục C",
+      "action": "read_sample"
+    },
+    {
+      "id": "read_risk",
+      "question": "Tôi quan tâm đạo đức, an toàn và tương lai việc làm. Cuốn này bàn sâu đến đâu?",
+      "aliases": [
+        "Tôi quan tâm đạo đức, an toàn và tương lai việc làm. Cuốn này bàn sâu đến đâu?",
+        "sách có bàn sâu về đạo đức an toàn tác động xã hội không",
+        "nên đọc gì về rủi ro và tương lai ai"
+      ],
+      "answer": "Trọng tâm là tác động lên nền kinh tế và xã hội: quyền lực tập trung ở đâu trong chuỗi giá trị, ai hưởng lợi từ năng suất và vì sao việc làm có thể phân hóa khi từng nhiệm vụ thay đổi. Đọc Chương 4–6 về luật chơi và quyền lực, rồi Chương 9–10 và 13 về lao động. Nếu bạn quan tâm đạo đức AI, hãy dùng các phần này để xem câu hỏi phân bổ lợi ích và chi phí chuyển đổi.",
+      "source": "Chương 4–6, 9–10 và 13",
+      "action": "read_sample"
+    },
+    {
+      "id": "read_beginner",
+      "question": "Tôi chưa biết gì về AI. Nên đọc từ đâu và tra thuật ngữ ở đâu?",
+      "aliases": [
+        "Tôi chưa biết gì về AI. Nên đọc từ đâu và tra thuật ngữ ở đâu?",
+        "có định nghĩa từng khái niệm không",
+        "người mới hoàn toàn nên đọc phần nào",
+        "chưa biết gì về ai nên bắt đầu đọc ở đâu"
+      ],
+      "answer": "Bạn có thể bắt đầu từ Lời mở đầu và Chương 1, với câu hỏi AI thay đổi cách tạo ra giá trị như thế nào. Sau đó chọn một nhánh mình quan tâm, chẳng hạn nhà máy trí tuệ ở Chương 2 hoặc việc làm và kỹ năng ở Chương 10. Phụ lục C có bảng thuật ngữ để tra những khái niệm chính khi đọc. Bạn không cần biết Python để theo dõi lập luận.",
+      "source": "Lời mở đầu, Chương 1–2, 10 và Phụ lục C",
+      "action": "read_sample",
+      "signals": [
+        [
+          "chưa biết gì",
+          "mới tìm hiểu",
+          "người mới",
+          "mới bắt đầu",
+          "không rành",
+          "mù công nghệ",
+          "chưa dùng ai",
+          "chưa từng dùng",
+          "chưa áp dụng ai",
+          "chưa dùng"
+        ],
+        [
+          "đọc",
+          "bắt đầu",
+          "thuật ngữ",
+          "hiểu"
+        ]
+      ]
+    },
+    {
+      "id": "restructure",
+      "question": "AI tái cấu trúc nền kinh tế như thế nào?",
+      "aliases": [
+        "AI tái cấu trúc nền kinh tế như thế nào?",
+        "ai tái cấu trúc nền kinh tế ra sao",
+        "ai thay đổi cấu trúc nền kinh tế thế nào"
+      ],
+      "answer": "Khi một phần công việc trí óc có thể mua theo nhu cầu, chi phí và cách mở rộng sản xuất thay đổi. Dòng vốn dịch chuyển vào điện, chip, trung tâm dữ liệu và các mắt xích cung cấp năng lực AI. Đồng thời, doanh nghiệp có thể tạo thêm sản lượng bằng cách tổ chức lại quy trình. Sách theo dõi cả ba thay đổi để hỏi giá trị được tạo ra ở đâu và ai giữ được giá trị đó.",
+      "source": "Chương 1–3 và 12",
+      "action": null,
+      "signals": [
+        [
+          "tái cấu trúc",
+          "cấu trúc nền kinh tế",
+          "thay đổi nền kinh tế"
+        ]
+      ]
+    },
+    {
+      "id": "social",
+      "question": "AI ảnh hưởng đến phát triển kinh tế và xã hội như thế nào?",
+      "aliases": [
+        "AI ảnh hưởng đến phát triển kinh tế và xã hội như thế nào?",
+        "ai ảnh hưởng đến sự phát triển kinh tế xã hội như thế nào",
+        "năng suất tăng thì người lao động có hưởng lợi không"
+      ],
+      "answer": "AI có thể tăng sản lượng bằng cách giảm thời gian và chi phí cho từng nhiệm vụ. Việc làm và thu nhập có thể thay đổi khác nhau giữa các nhóm lao động, tùy khả năng tiếp cận AI, kỹ năng và cách doanh nghiệp tổ chức lại công việc. Khi đọc số liệu về nghề bị ảnh hưởng, hãy phân biệt khả năng một nhiệm vụ tiếp xúc với AI với kết luận về việc làm thực tế.",
+      "source": "Chương 9–10, 12–13",
+      "action": null,
+      "signals": [
+        [
+          "xã hội",
+          "kinh tế xã hội",
+          "thu nhập"
+        ],
+        [
+          "ảnh hưởng",
+          "tác động",
+          "thay đổi",
+          "ra sao",
+          "thế nào"
+        ]
+      ]
+    },
+    {
+      "id": "national",
+      "question": "Nền kinh tế trí tuệ mở ra cơ hội và rủi ro gì cho một quốc gia?",
+      "aliases": [
+        "Nền kinh tế trí tuệ mở ra cơ hội và rủi ro gì cho một quốc gia?",
+        "quốc gia được gì và mất gì từ ai",
+        "cơ hội và rủi ro ai với quốc gia"
+      ],
+      "answer": "Cơ hội là tăng năng suất và tham gia vào những mắt xích có giá trị trong chuỗi cung ứng AI. Rủi ro là phụ thuộc vào năng lực tính toán, điện, công nghệ hoặc tiêu chuẩn do bên khác kiểm soát. Với Việt Nam, sách đề nghị xem từng khoản đầu tư có giúp nâng kỹ năng, phát triển nhà cung ứng nội địa và cải thiện năng suất hay không. Tám trụ cột giúp nhận diện điểm nghẽn trước khi chọn ưu tiên.",
+      "source": "Chương 3–8",
+      "action": null,
+      "signals": [
+        [
+          "quốc gia",
+          "đất nước",
+          "nhà nước"
+        ],
+        [
+          "cơ hội",
+          "rủi ro",
+          "được gì",
+          "mất gì"
+        ]
+      ]
+    },
+    {
+      "id": "company",
+      "question": "Nền kinh tế trí tuệ mở ra cơ hội và rủi ro gì cho doanh nghiệp?",
+      "aliases": [
+        "Nền kinh tế trí tuệ mở ra cơ hội và rủi ro gì cho doanh nghiệp?",
+        "cơ hội và rủi ro ai với doanh nghiệp",
+        "doanh nghiệp được gì và đối mặt rủi ro gì khi ai phổ biến"
+      ],
+      "answer": "Doanh nghiệp có thể tăng năng suất hoặc phục vụ nhóm khách hàng trước đây khó tiếp cận khi chi phí xử lý công việc giảm. Rủi ro là phụ thuộc vào nhà cung cấp hoặc chỉ đầu tư vào công nghệ mà chưa cải thiện quy trình và kỹ năng. Chương 12 đặt doanh nghiệp vào vai trò biến năng lực AI thành năng suất. Hãy đọc cùng Chương 7 nếu muốn xem doanh nghiệp gắn với cơ hội của Việt Nam thế nào.",
+      "source": "Chương 7 và 12",
+      "action": null,
+      "signals": [
+        [
+          "doanh nghiệp",
+          "công ty"
+        ],
+        [
+          "cơ hội và rủi ro",
+          "được gì và",
+          "đối mặt rủi ro"
+        ]
+      ],
+      "signals_alt": [
+        [
+          [
+            "doanh nghiệp nhỏ",
+            "doanh nghiệp",
+            "công ty",
+            "chủ doanh nghiệp"
+          ],
+          [
+            "@read"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "citizen",
+      "question": "Người dân và người lao động có cơ hội, rủi ro gì khi AI phổ biến?",
+      "aliases": [
+        "Người dân và người lao động có cơ hội, rủi ro gì khi AI phổ biến?",
+        "người dân được gì và mất gì vì ai",
+        "cơ hội và rủi ro ai với người dân",
+        "người lao động nên chuẩn bị gì cho nền kinh tế trí tuệ"
+      ],
+      "answer": "AI có thể giúp người lao động tiếp cận tri thức và làm một số nhiệm vụ nhanh hơn. Rủi ro là lợi ích phân bổ không đều: người có công cụ và kỹ năng phù hợp có thể tiến nhanh hơn, trong khi một số nhiệm vụ bị thu hẹp. Bạn có thể xem lại một nghề mình quan tâm, xác định nhiệm vụ nào thay đổi và chọn kỹ năng cần học để theo kịp chuyển dịch.",
+      "source": "Chương 9–10 và 13",
+      "action": null,
+      "signals": [
+        [
+          "người dân",
+          "người lao động",
+          "người bình thường"
+        ],
+        [
+          "cơ hội",
+          "rủi ro",
+          "chuẩn bị",
+          "được gì",
+          "mất gì"
+        ]
+      ]
+    },
+    {
+      "id": "series",
+      "question": "Tôi nên đọc cuốn nào nếu muốn phát triển kỹ năng AI cá nhân?",
+      "aliases": [
+        "Tôi nên đọc cuốn nào nếu muốn phát triển kỹ năng AI cá nhân?",
+        "sống cùng ai viết về gì",
+        "bộ sách của trần tấn sỹ có những chủ đề nào",
+        "muốn học kỹ năng ai cá nhân nên đọc cuốn nào"
+      ],
+      "answer": "Nếu quan tâm kỹ năng cá nhân và lộ trình nghề nghiệp, tác giả dẫn bạn sang **Sống Cùng AI**. **AI Economy** đi vào năng suất, việc làm và chuyển dịch ở cấp nền kinh tế. **AI First Business** hướng đến quản lý và tổ chức lại công việc trong doanh nghiệp. Bạn có thể chọn theo câu hỏi đang cần giải quyết.",
+      "source": "Lời mở đầu",
+      "action": null,
+      "signals": [
+        [
+          "sống cùng ai",
+          "bộ sách",
+          "các cuốn khác",
+          "cuốn khác của tác giả",
+          "kỹ năng ai cá nhân",
+          "học ai cá nhân"
+        ]
+      ]
+    },
+    {
+      "id": "bulk",
+      "question": "Tôi muốn mua sách cho công ty, hỏi hóa đơn và ưu đãi số lượng ở đâu?",
+      "aliases": [
+        "Tôi muốn mua sách cho công ty, hỏi hóa đơn và ưu đãi số lượng ở đâu?",
+        "mua sách cho doanh nghiệp",
+        "mua sách tặng ban giám đốc",
+        "đặt mua số lượng lớn cho công ty",
+        "mua sách có xuất hóa đơn vat không",
+        "có in logo lên sách không",
+        "mua số lượng lớn",
+        "có chiết khấu mua nhiều không",
+        "mua làm quà cho đội ngũ"
+      ],
+      "answer": "Bấm **Liên hệ** trên website để hỏi về đơn sách cho công ty. Bạn có thể nêu số lượng, thời điểm cần nhận và yêu cầu về hóa đơn hoặc quà tặng để bộ phận bán hàng xác nhận. Ưu đãi công bố khi mua qua website là **30%**. Giá và điều kiện riêng cho đơn số lượng lớn cần xác nhận theo đơn.",
+      "source": "Chính sách bán hàng do chủ dự án cung cấp",
+      "action": "contact",
+      "signals": [
+        [
+          "công ty",
+          "doanh nghiệp",
+          "số lượng",
+          "nhiều cuốn",
+          "mua sỉ",
+          "giá sỉ",
+          "vat",
+          "hóa đơn đỏ",
+          "tặng nhân viên",
+          "cho đội ngũ",
+          "ban giám đốc",
+          "100 cuốn",
+          "50 cuốn",
+          "in logo"
+        ],
+        [
+          "mua",
+          "đặt",
+          "order",
+          "hóa đơn",
+          "chiết khấu",
+          "giá",
+          "tặng"
+        ]
+      ],
+      "priority": 6
+    },
+    {
+      "id": "ari_vs_ear",
+      "question": "ARI và EAR Index™ khác nhau thế nào?",
+      "aliases": [
+        "ARI và EAR Index™ khác nhau thế nào?",
+        "ari khác gì ear index",
+        "hai chỉ số 8 trụ cột khác nhau thế nào",
+        "so sánh ari và ear index"
+      ],
+      "answer": "ARI và EAR Index™ đều có tám trụ cột nhưng đánh giá hai đối tượng khác nhau. **ARI** giúp tỉnh hoặc thành phố đánh giá năng lực sẵn sàng ở cấp địa phương. **ARI-IP** cụ thể hóa việc đánh giá ở cấp khu công nghiệp. **EAR Index™** giúp một doanh nghiệp tự đánh giá năng lực triển khai AI và chọn ưu tiên cho lộ trình 90 ngày.",
+      "source": "AI Economy, Chương 8 và Phụ lục A–B; AI First Business, Chương 12 và Phụ lục D",
+      "action": "read_sample"
+    },
+    {
+      "id": "methodology",
+      "question": "Sách kiểm chứng số liệu đầu tư AI như thế nào?",
+      "aliases": [
+        "Sách kiểm chứng số liệu đầu tư AI như thế nào?",
+        "bảy trạng thái của một con số là gì",
+        "cách kiểm chứng số liệu trong sách",
+        "phân biệt cam kết đầu tư và vận hành thật"
+      ],
+      "answer": "Sách ưu tiên văn bản gốc, dữ liệu thống kê và báo cáo tài chính. Với các con số lớn, tác giả đối chiếu **ít nhất hai nguồn**. Khung **bảy trạng thái** giúp bạn đọc một công bố theo tiến độ thực tế, từ công bố hay phê duyệt đến cấp vốn, xây dựng và vận hành. Sách cũng phân biệt kết quả đo được, dự báo, cam kết và số liệu doanh nghiệp tự công bố.",
+      "source": "Ghi chú phương pháp, bản chốt in 03/11/2026",
+      "action": "read_sample",
+      "signals": [
+        [
+          "phương pháp",
+          "bảy trạng thái",
+          "7 trạng thái",
+          "cam kết đầu tư",
+          "đối chiếu nguồn"
+        ]
+      ]
+    },
+    {
+      "id": "bubble",
+      "question": "Đầu tư AI là bong bóng hay hạ tầng có nhu cầu thật?",
+      "aliases": [
+        "Đầu tư AI là bong bóng hay hạ tầng có nhu cầu thật?",
+        "ai có phải bong bóng không",
+        "bong bóng ai hay hạ tầng thật",
+        "nếu bong bóng ai vỡ thì sao"
+      ],
+      "answer": "Chương 3 xem rủi ro định giá cùng các rủi ro về hạ tầng và năng lượng. Để đánh giá một dự án, hãy hỏi kỳ vọng tăng trưởng dựa trên dòng tiền nào, năng lực tính toán đã vận hành đến đâu và khách hàng thực sự dùng bao nhiêu. Ba câu hỏi giúp xem riêng diễn biến giá tài sản, tiến độ đầu tư và nhu cầu sử dụng.",
+      "source": "Mục 3.6–3.8",
+      "action": null,
+      "signals": [
+        [
+          "bong bóng",
+          "bubble",
+          "thổi phồng",
+          "đổ vỡ",
+          "sụp đổ"
+        ]
+      ],
+      "signals_alt": [
+        [
+          [
+            "đầu tư",
+            "dự án",
+            "trung tâm dữ liệu"
+          ],
+          [
+            "lỗ",
+            "thua lỗ",
+            "mất vốn",
+            "rủi ro"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "nine_layers",
+      "question": "Khung chín tầng của nền kinh tế trí tuệ giúp tôi hiểu gì?",
+      "aliases": [
+        "Khung chín tầng của nền kinh tế trí tuệ giúp tôi hiểu gì?",
+        "9 tầng của nền kinh tế trí tuệ",
+        "chín tầng kinh tế ai là gì",
+        "tầng xây và tầng dùng khác nhau thế nào"
+      ],
+      "answer": "Khung **chín tầng** theo dõi giá trị từ nền móng vật lý như điện và bán dẫn, qua dữ liệu, mô hình và ứng dụng, đến chuyển đổi tổ chức và kết quả kinh tế. Khi gặp một tin đầu tư AI, bạn có thể hỏi khoản đầu tư nằm ở tầng nào, phụ thuộc vào mắt xích nào và bằng cách nào năng lực mới chuyển thành năng suất.",
+      "source": "Mục 1.7",
+      "action": null,
+      "signals": [
+        [
+          "chín tầng",
+          "9 tầng",
+          "tầng xây",
+          "tầng dùng"
+        ]
+      ]
+    },
+    {
+      "id": "electricity",
+      "question": "Vì sao điện có thể quyết định tiến độ trung tâm dữ liệu AI?",
+      "aliases": [
+        "Vì sao điện có thể quyết định tiến độ trung tâm dữ liệu AI?",
+        "vì sao điện là giới hạn của trí tuệ",
+        "từ hecta sang megawatt nghĩa là gì",
+        "điện sạch cho trung tâm dữ liệu"
+      ],
+      "answer": "Để vận hành trung tâm dữ liệu AI, bên đầu tư cần công suất điện ổn định, khả năng đấu nối và phương án làm mát phù hợp. Tiến độ cấp điện có thể khác tiến độ xây dựng. Khi đánh giá dự án, hãy kiểm tra công suất đã được xác nhận, thời điểm đấu nối và điều kiện vận hành tại địa điểm. Những yếu tố này giúp đọc đúng ý nghĩa của quy mô đất và vốn công bố.",
+      "source": "Mục 3.8 và 8.2",
+      "action": null,
+      "signals": [
+        [
+          "điện",
+          "megawatt",
+          "mw",
+          "năng lượng"
+        ],
+        [
+          "trung tâm dữ liệu",
+          "ai",
+          "dự án",
+          "quyết định",
+          "giới hạn"
+        ]
+      ]
+    },
+    {
+      "id": "toc",
+      "question": "Sách có mục lục không?",
+      "aliases": [
+        "Sách có mục lục không?",
+        "cho xem mục lục",
+        "sách gồm những phần nào",
+        "có bao nhiêu chương",
+        "cấu trúc cuốn này thế nào"
+      ],
+      "answer": "AI Economy có 3 phần, 13 chương và 3 phụ lục. Ba phần lần lượt nói về nền móng kinh tế mới, vị trí và cơ hội của Việt Nam, rồi những lựa chọn ở cấp quốc gia, doanh nghiệp và người lao động.",
+      "source": "Mục lục",
+      "action": null,
+      "signals": [
+        [
+          "mục lục",
+          "bao nhiêu chương",
+          "mấy chương",
+          "cấu trúc",
+          "gồm những phần",
+          "gồm những chương",
+          "các chương",
+          "mấy phần",
+          "bố cục"
+        ]
+      ]
+    },
+    {
+      "id": "read_order",
+      "question": "Nếu chỉ đọc một phần trước, tôi nên bắt đầu ở đâu?",
+      "aliases": [
+        "Nếu chỉ đọc một phần trước, tôi nên bắt đầu ở đâu?",
+        "nên đọc chương nào trước",
+        "có cần đọc từ đầu đến cuối không",
+        "đọc phần nào trước",
+        "chương nào đáng đọc trước"
+      ],
+      "answer": "Bắt đầu từ Lời mở đầu và Chương 1 nếu muốn hiểu AI thay đổi cách tạo ra giá trị. Nếu quan tâm Việt Nam, xem Chương 7–8. Nếu quan tâm việc làm, xem Chương 9–10.",
+      "source": "Mục lục, Lời mở đầu và Chương 1",
+      "action": null,
+      "signals": [
+        [
+          "đọc phần nào trước",
+          "chương nào trước",
+          "đọc từ đâu",
+          "bắt đầu đọc",
+          "đọc theo thứ tự",
+          "đọc từ đầu"
+        ]
+      ]
+    },
+    {
+      "id": "proof",
+      "question": "Sách có dẫn nguồn và phân biệt ví dụ thật với giả định không?",
+      "aliases": [
+        "Sách có dẫn nguồn và phân biệt ví dụ thật với giả định không?",
+        "số liệu lấy từ đâu",
+        "có dẫn nguồn số liệu không",
+        "ví dụ nào là tình huống giả định",
+        "làm sao kiểm chứng nhận định của tác giả"
+      ],
+      "answer": "Sách ghi nguồn dữ kiện ở chú thích cuối chương, cùng danh mục tài liệu chọn lọc. Khi xem số liệu dự án, nên đọc cả trạng thái dự án và mốc thời gian. Ghi chú phương pháp nêu mốc khóa dữ liệu 30/10/2026.",
+      "source": "Ghi chú phương pháp, chú thích chương và tài liệu tham khảo",
+      "action": null,
+      "signals": [
+        [
+          "dẫn nguồn",
+          "nguồn số liệu",
+          "số liệu lấy",
+          "kiểm chứng",
+          "đáng tin",
+          "trích dẫn",
+          "tin được không"
+        ]
+      ]
+    },
+    {
+      "id": "sample_goal",
+      "question": "Tôi nên xem gì trong chương đọc thử để biết sách có hợp với mình?",
+      "aliases": [
+        "Tôi nên xem gì trong chương đọc thử để biết sách có hợp với mình?",
+        "đọc thử phần nào để biết có hợp không",
+        "muốn xem văn phong trước khi mua",
+        "đọc mẫu để xem độ khó",
+        "có thể đọc miễn phí một chương không"
+      ],
+      "answer": "Trong chương đọc thử, hãy xem cách tác giả nối dữ kiện kinh tế với câu hỏi về cơ hội và rủi ro. Nếu mối quan tâm của bạn là việc làm hoặc Việt Nam, các chương nên tìm tiếp trong mục lục là Chương 9–10 hoặc 7–8.",
+      "source": "Mục lục và đường dẫn đọc thử do chủ dự án cung cấp",
+      "action": "read_sample",
+      "signals": [
+        [
+          "khô khan",
+          "văn phong",
+          "giọng văn",
+          "lôi cuốn",
+          "hấp dẫn",
+          "cách viết",
+          "dễ đọc không"
+        ]
+      ]
+    },
+    {
+      "id": "availability",
+      "question": "Hiện còn sách không và tôi có thể đặt mua ngay ở đâu?",
+      "aliases": [
+        "Hiện còn sách không và tôi có thể đặt mua ngay ở đâu?",
+        "còn hàng không",
+        "sách có sẵn không",
+        "bây giờ đặt sách được chưa",
+        "sách hết hàng chưa",
+        "còn sách để mua không"
+      ],
+      "answer": "Bấm **Liên hệ** trên website để kiểm tra tình trạng sách và đặt mua.",
+      "source": "Quy trình bán hàng do chủ dự án cung cấp",
+      "action": "contact",
+      "signals": [
+        [
+          "còn hàng",
+          "còn sách",
+          "hết hàng",
+          "có sẵn",
+          "có hàng",
+          "phát hành chưa",
+          "đã có bán",
+          "mới ra",
+          "ra mắt",
+          "mới phát hành",
+          "bao giờ có sách",
+          "khi nào có sách",
+          "lúc nào có sách",
+          "bao giờ bán",
+          "khi nào bán"
+        ]
+      ]
+    },
+    {
+      "id": "everyday_reader",
+      "question": "Tôi làm công việc bình thường, đọc cuốn này có ích gì?",
+      "aliases": [
+        "Tôi làm công việc bình thường, đọc cuốn này có ích gì?",
+        "người đi làm đọc có ích không",
+        "tôi không làm công nghệ có nên mua sách không",
+        "cuốn này có dành cho độc giả phổ thông không",
+        "nhân viên văn phòng có nên đọc không",
+        "tôi là nhân viên văn phòng",
+        "nhân viên có nên đọc không",
+        "tôi là nhân viên"
+      ],
+      "answer": "Có, nếu bạn muốn hiểu AI có thể thay đổi công việc, kỹ năng và thu nhập như thế nào. Chương 9–10 giúp bạn tách một nghề thành các nhiệm vụ để xem phần nào dễ được AI hỗ trợ, phần nào cần năng lực con người.",
+      "source": "Chương 9–10",
+      "action": "read_sample",
+      "signals": [
+        [
+          "người đi làm",
+          "công việc bình thường",
+          "không làm công nghệ",
+          "độc giả phổ thông",
+          "nhân viên văn phòng",
+          "dân văn phòng",
+          "người bình thường"
+        ],
+        [
+          "@read"
+        ]
+      ],
+      "priority": 5
+    },
+    {
+      "id": "econ_beginner",
+      "question": "Tôi không có nền tảng kinh tế. Sách có dễ đọc không?",
+      "aliases": [
+        "Tôi không có nền tảng kinh tế. Sách có dễ đọc không?",
+        "chưa học kinh tế có đọc được không",
+        "có cần học kinh tế trước không",
+        "sách có nhiều thuật ngữ kinh tế không"
+      ],
+      "answer": "Bạn có thể bắt đầu từ Lời mở đầu và Chương 1. Những phần về đầu tư, điện và chuỗi cung ứng đi sâu hơn. Phụ lục C có bảng thuật ngữ để tra khi cần.",
+      "source": "Lời mở đầu, Chương 1 và Phụ lục C",
+      "action": "read_sample",
+      "signals": [
+        [
+          "không có nền tảng kinh tế",
+          "không học kinh tế",
+          "chưa học kinh tế",
+          "thuật ngữ kinh tế",
+          "không rành kinh tế",
+          "dân ngoại đạo"
+        ]
+      ]
+    },
+    {
+      "id": "daily_news",
+      "question": "Đọc cuốn này khác gì đọc tin tức AI hằng ngày?",
+      "aliases": [
+        "Đọc cuốn này khác gì đọc tin tức AI hằng ngày?",
+        "đọc xong hiểu gì hơn đọc tin ai",
+        "khác gì đọc báo về ai",
+        "sách có chỉ tổng hợp tin ai không"
+      ],
+      "answer": "Sách nối các tin rời về chip, trung tâm dữ liệu, vốn đầu tư và việc làm để giải thích chúng tác động qua lại ra sao. Ví dụ, khi đọc tin về một dự án AI, bạn có thể xem điện và năng lực tính toán đến từ đâu, doanh nghiệp địa phương tham gia khâu nào và giá trị nào có thể ở lại.",
+      "source": "Chương 2–3, 7–8",
+      "action": "read_sample",
+      "signals": [
+        [
+          "tin tức",
+          "đọc báo",
+          "tin ai",
+          "báo chí",
+          "lướt mạng"
+        ]
+      ]
+    },
+    {
+      "id": "my_job",
+      "question": "Tôi lo AI ảnh hưởng đến nghề của mình. Sách giúp tôi chuẩn bị thế nào?",
+      "aliases": [
+        "Tôi lo AI ảnh hưởng đến nghề của mình. Sách giúp tôi chuẩn bị thế nào?",
+        "nghề của tôi dễ bị ai thay thế không",
+        "nên học kỹ năng gì để không bị tụt lại",
+        "tôi lo ai lấy mất việc",
+        "sách có giúp tôi chuẩn bị cho thay đổi nghề nghiệp không"
+      ],
+      "answer": "Chương 9–10 gợi cách nhìn theo từng nhiệm vụ trong một nghề. Bạn có thể liệt kê các việc mình làm hằng tuần, xem AI có thể hỗ trợ ở đâu và xác định phần nào vẫn cần phán đoán, kiểm tra hoặc làm việc với con người.",
+      "source": "Chương 9–10",
+      "action": "read_sample",
+      "signals": [
+        [
+          "nghề của tôi",
+          "công việc của tôi",
+          "nghề của mình",
+          "việc của tôi",
+          "tôi lo"
+        ],
+        [
+          "ai",
+          "thay thế",
+          "ảnh hưởng",
+          "mất"
+        ]
+      ]
+    },
+    {
+      "id": "distribution",
+      "question": "Sách có nói ai hưởng lợi và ai có thể bị bỏ lại khi AI phổ biến không?",
+      "aliases": [
+        "Sách có nói ai hưởng lợi và ai có thể bị bỏ lại khi AI phổ biến không?",
+        "ai được hưởng lợi từ ai",
+        "ai sẽ bị bỏ lại",
+        "ai ảnh hưởng thế nào đến thu nhập và bất bình đẳng"
+      ],
+      "answer": "Có. Cuốn sách bàn về khả năng năng suất tăng trong khi việc làm hoặc thu nhập thay đổi khác nhau giữa các nhóm lao động. Phần cuối xem xét vì sao khả năng tiếp cận công cụ và cơ hội học kỹ năng có thể ảnh hưởng đến việc ai hưởng lợi.",
+      "source": "Chương 9–10 và 13",
+      "action": "read_sample",
+      "signals": [
+        [
+          "ai hưởng lợi",
+          "bị bỏ lại",
+          "bất bình đẳng",
+          "phân hóa",
+          "ai được lợi",
+          "giàu nghèo",
+          "cách biệt",
+          "chênh lệch"
+        ]
+      ]
+    },
+    {
+      "id": "vn_opportunities",
+      "question": "Việt Nam có cơ hội gì trong nền kinh tế AI và cần dè chừng điều gì?",
+      "aliases": [
+        "Việt Nam có cơ hội gì trong nền kinh tế AI và cần dè chừng điều gì?",
+        "việt nam có lợi thế và rủi ro gì với ai",
+        "cơ hội và thách thức ai của việt nam",
+        "việt nam được gì và có thể mất gì"
+      ],
+      "answer": "Sách xem xét cơ hội tham gia chuỗi cung ứng và dùng AI để nâng năng suất của doanh nghiệp Việt Nam. Rủi ro được bàn đến gồm năng lực hạ tầng và kỹ năng còn hạn chế, cùng khả năng giữ lại ít giá trị nếu chủ yếu tham gia các khâu có giá trị gia tăng thấp.",
+      "source": "Chương 7–8 và 12",
+      "action": "read_sample",
+      "signals_alt": [
+        [
+          [
+            "việt nam",
+            "vn",
+            "nước ta"
+          ],
+          [
+            "lợi thế",
+            "thách thức",
+            "dè chừng",
+            "điểm mạnh",
+            "điểm yếu",
+            "khoảng cách",
+            "so với"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "investor_reader",
+      "question": "Tôi quan tâm đầu tư. Cuốn này giúp tôi đặt câu hỏi gì khi xem một dự án AI?",
+      "aliases": [
+        "Tôi quan tâm đầu tư. Cuốn này giúp tôi đặt câu hỏi gì khi xem một dự án AI?",
+        "nhà đầu tư có nên đọc không",
+        "sách giúp đọc tin đầu tư ai thế nào",
+        "đánh giá tiềm năng dự án ai từ đâu"
+      ],
+      "answer": "Chương 3 gợi cách xem vốn đã cam kết, tiến độ triển khai, khả năng cấp điện và nhu cầu sử dụng thực tế. Bạn có thể dùng các câu hỏi này để đọc thông tin dự án và kiểm tra giả định về triển vọng.",
+      "source": "Chương 3 và Ghi chú phương pháp",
+      "action": "read_sample",
+      "signals": [
+        [
+          "nhà đầu tư",
+          "đầu tư chứng khoán",
+          "quỹ đầu tư",
+          "investor",
+          "làm đầu tư",
+          "cổ phiếu"
+        ],
+        [
+          "@read",
+          "đánh giá",
+          "dự án"
+        ]
+      ],
+      "signals_alt": [
+        [
+          [
+            "cổ phiếu",
+            "chứng khoán",
+            "nvidia",
+            "đầu tư được"
+          ],
+          [
+            "@read",
+            "dự báo",
+            "khuyến nghị",
+            "nên mua",
+            "có nói",
+            "đọc xong",
+            "giúp"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "combo",
+      "question": "Mua cả hai cuốn có lợi gì và giá bao nhiêu?",
+      "aliases": [
+        "Mua cả hai cuốn có lợi gì và giá bao nhiêu?",
+        "mua combo 2 cuốn",
+        "combo hai cuốn giá bao nhiêu",
+        "mua cả 2 cuốn có giảm thêm không",
+        "mua combo ai economy và ai first business",
+        "mua cả hai cuốn hết bao nhiêu"
+      ],
+      "answer": "AI Economy giúp bạn hiểu tác động của AI đến nền kinh tế. AI First Business giúp đưa góc nhìn đó vào quyết định trong doanh nghiệp. Cộng giá web từng cuốn, hai cuốn là **479.500 ₫**. Bấm **Liên hệ** để xác nhận tổng tiền, phí giao hàng và ưu đãi combo nếu có.",
+      "source": "Giá website do chủ dự án cung cấp và lời giới thiệu hai cuốn",
+      "action": "contact",
+      "signals": [
+        [
+          "combo",
+          "cả hai cuốn",
+          "cả 2 cuốn",
+          "trọn bộ",
+          "bộ hai cuốn",
+          "bộ 2 cuốn",
+          "hai cuốn",
+          "2 cuốn"
+        ],
+        [
+          "mua",
+          "giá",
+          "bao nhiêu",
+          "tiền",
+          "giảm",
+          "tổng"
+        ]
+      ]
+    },
+    {
+      "id": "digital_templates",
+      "question": "Mua sách có kèm file mềm biểu mẫu không?",
+      "aliases": [
+        "Mua sách có kèm file mềm biểu mẫu không?",
+        "có tặng file mềm không",
+        "mua sách có file excel biểu mẫu không",
+        "có link tải mẫu không",
+        "sách có file mẫu tải về không",
+        "phụ lục có bản tải về không"
+      ],
+      "answer": "Trong bản in, Phụ lục A có bảng đánh giá ARI cho địa phương và Phụ lục B có ARI-IP cho khu công nghiệp. Bấm **Liên hệ** để hỏi ấn bản đang bán có kèm bản tải về hay không.",
+      "source": "Mục lục và phụ lục AI Economy",
+      "action": "contact",
+      "signals": [
+        [
+          "file",
+          "bản mềm",
+          "tải về",
+          "link tải",
+          "excel",
+          "file mềm",
+          "download"
+        ],
+        [
+          "mẫu",
+          "biểu mẫu",
+          "phụ lục",
+          "template",
+          "checklist",
+          "bảng"
+        ]
+      ]
+    },
+    {
+      "id": "signed_talk",
+      "question": "Có thể đặt sách ký tặng hoặc mời tác giả nói chuyện cho công ty không?",
+      "aliases": [
+        "Có thể đặt sách ký tặng hoặc mời tác giả nói chuyện cho công ty không?",
+        "có bản ký tặng không",
+        "mua sách kèm tọa đàm tác giả",
+        "mời tác giả book talk",
+        "đặt sách có chữ ký tác giả",
+        "có sách ký tên không"
+      ],
+      "answer": "Bấm **Liên hệ** trên website để gửi số lượng sách, thời gian cần nhận và nhu cầu ký tặng hoặc trao đổi với tác giả. Đội phụ trách sẽ xác nhận khả năng đáp ứng và điều kiện theo từng yêu cầu.",
+      "source": "Quy trình tiếp nhận yêu cầu mua sách",
+      "action": "contact",
+      "signals": [
+        [
+          "ký tặng",
+          "chữ ký",
+          "tọa đàm",
+          "book talk",
+          "mời tác giả",
+          "gặp tác giả",
+          "giao lưu",
+          "nói chuyện",
+          "diễn giả"
+        ]
+      ]
+    },
+    {
+      "id": "persona_student",
+      "question": "Tôi là sinh viên, có nên đọc cuốn này không?",
+      "aliases": [
+        "Tôi là sinh viên, có nên đọc cuốn này không?",
+        "sinh viên có nên đọc không",
+        "sinh viên đọc được không",
+        "sách có hợp với sinh viên không",
+        "tôi là sinh viên tôi có nên đọc cuốn sách này không",
+        "học sinh đọc được không",
+        "mới ra trường có nên đọc không"
+      ],
+      "answer": "Có. AI Economy hợp với sinh viên muốn hiểu AI thay đổi việc làm, đầu tư và cơ hội của Việt Nam. Bạn không cần biết lập trình. Hãy bắt đầu từ Lời mở đầu và Chương 1, rồi đọc Chương 10 để xem từng nhóm lao động chịu tác động ra sao, nghề nào tăng nhanh (mục 10.5) và công việc nào khó bị thay thế (mục 10.6). Phụ lục C giúp tra thuật ngữ.",
+      "action": "read_sample",
+      "source": "Lời mở đầu, Chương 1, Chương 10 và Phụ lục C",
+      "signals": [
+        [
+          "sinh viên",
+          "học sinh",
+          "mới ra trường",
+          "đang đi học",
+          "tân cử nhân",
+          "học đại học",
+          "học ngành",
+          "lớp 12",
+          "lớp 11",
+          "con tôi",
+          "con em",
+          "đang học"
+        ],
+        [
+          "@read",
+          "tôi là",
+          "tôi làm",
+          "mình là",
+          "mình làm",
+          "em là",
+          "em làm",
+          "là người",
+          "đang làm",
+          "làm nghề"
+        ]
+      ],
+      "priority": 5,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "persona_owner",
+      "question": "Tôi là chủ doanh nghiệp/CEO, cuốn này giúp gì cho tôi?",
+      "aliases": [
+        "Tôi là chủ doanh nghiệp/CEO, cuốn này giúp gì cho tôi?",
+        "ceo có nên đọc không",
+        "giám đốc có nên đọc không",
+        "chủ doanh nghiệp có nên đọc không",
+        "lãnh đạo doanh nghiệp nên đọc phần nào",
+        "tôi là ceo"
+      ],
+      "answer": "Cuốn này giúp lãnh đạo nhìn bối cảnh trước khi ra quyết định: dòng vốn AI đi đâu (Chương 3), Việt Nam có lợi thế và khoảng cách gì (Chương 7) và vì sao doanh nghiệp là nơi AI biến thành năng suất (Chương 12). Nếu bạn đang cần chọn quy trình để triển khai, đo ROI và phân quyền cho AI trong công ty, AI First Business đi sâu hơn vào việc đó.",
+      "action": "read_sample",
+      "source": "Chương 3, 7 và 12",
+      "signals": [
+        [
+          "chủ doanh nghiệp",
+          "ceo",
+          "giám đốc",
+          "tổng giám đốc",
+          "chủ công ty",
+          "chủ tịch",
+          "nhà sáng lập",
+          "founder",
+          "lãnh đạo doanh nghiệp",
+          "ban lãnh đạo",
+          "lãnh đạo công ty"
+        ],
+        [
+          "@read",
+          "tôi là",
+          "tôi làm",
+          "mình là",
+          "mình làm",
+          "em là",
+          "em làm",
+          "là người",
+          "đang làm",
+          "làm nghề"
+        ]
+      ],
+      "priority": 5,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "persona_manager",
+      "question": "Tôi là quản lý/trưởng phòng, nên đọc phần nào?",
+      "aliases": [
+        "Tôi là quản lý/trưởng phòng, nên đọc phần nào?",
+        "trưởng phòng có nên đọc không",
+        "quản lý cấp trung có nên đọc không",
+        "tôi là quản lý"
+      ],
+      "answer": "Mục 10.4 phân tích vai trò nhà quản lý khi AI tổng hợp báo cáo và mô phỏng kịch bản nhanh hơn: người quản lý cần giỏi đặt câu hỏi, đánh giá giả định và chịu trách nhiệm cho quyết định. Chương 9–10 giúp bạn nhìn tác động lên đội ngũ theo từng nhiệm vụ. Nếu cần cách tổ chức lại công việc trong phòng ban, hãy xem thêm AI First Business.",
+      "action": "read_sample",
+      "source": "Mục 10.4, Chương 9–10",
+      "signals": [
+        [
+          "trưởng phòng",
+          "quản lý",
+          "quản lý cấp trung",
+          "trưởng bộ phận",
+          "trưởng nhóm",
+          "team lead",
+          "giám sát"
+        ],
+        [
+          "@read",
+          "tôi là",
+          "tôi làm",
+          "mình là",
+          "mình làm",
+          "em là",
+          "em làm",
+          "là người",
+          "đang làm",
+          "làm nghề"
+        ]
+      ],
+      "priority": 5,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "persona_hr",
+      "question": "Tôi làm nhân sự (HR), cuốn này có ích gì?",
+      "aliases": [
+        "Tôi làm nhân sự (HR), cuốn này có ích gì?",
+        "hr có nên đọc không",
+        "làm nhân sự có nên đọc không",
+        "tôi làm hr",
+        "tôi làm nhân sự"
+      ],
+      "answer": "Chương 10 giúp người làm nhân sự nhìn tác động của AI theo nhóm lao động: sản xuất, văn phòng, tri thức và quản lý. Mục 10.5–10.6 bàn nghề mới và công việc khó thay thế, Chương 13 bàn sự phân hóa việc làm. Đây là nền để lập kế hoạch kỹ năng. Nếu cần ma trận kỹ năng theo vai trò trong doanh nghiệp, AI First Business có phần đó ở Chương 10.",
+      "action": "read_sample",
+      "source": "Chương 10 và 13",
+      "signals": [
+        [
+          "nhân sự",
+          "hr",
+          "tuyển dụng",
+          "đào tạo nội bộ",
+          "c&b",
+          "hrbp"
+        ],
+        [
+          "@read",
+          "tôi là",
+          "tôi làm",
+          "mình là",
+          "mình làm",
+          "em là",
+          "em làm",
+          "là người",
+          "đang làm",
+          "làm nghề"
+        ]
+      ],
+      "priority": 5,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "persona_it",
+      "question": "Tôi làm IT/kỹ thuật, cuốn này có hợp không?",
+      "aliases": [
+        "Tôi làm IT/kỹ thuật, cuốn này có hợp không?",
+        "dân it có nên đọc không",
+        "kỹ sư có nên đọc không",
+        "lập trình viên có nên đọc không",
+        "tôi làm it",
+        "cto có nên đọc không"
+      ],
+      "answer": "Với người làm kỹ thuật, Chương 2 giải thích nhà máy trí tuệ từ góc kinh tế: huấn luyện, suy luận, token và chi phí. Chương 8 bàn hạ tầng tính toán, kết nối và năng lượng; Chương 11 dùng câu chuyện chín tháng triển khai máy chủ AI để bàn về năng lực thực thi. Sách không dạy lập trình, nhưng giúp bạn hiểu vì sao quyết định hạ tầng cũng là quyết định kinh tế.",
+      "action": "read_sample",
+      "source": "Chương 2, 8 và 11",
+      "signals": [
+        [
+          "làm it",
+          "dân it",
+          "phòng it",
+          "ngành it",
+          "người làm it",
+          "kỹ sư",
+          "lập trình viên",
+          "developer",
+          "cto",
+          "cio",
+          "công nghệ thông tin",
+          "kỹ sư phần mềm",
+          "data"
+        ],
+        [
+          "@read",
+          "tôi là",
+          "tôi làm",
+          "mình là",
+          "mình làm",
+          "em là",
+          "em làm",
+          "là người",
+          "đang làm",
+          "làm nghề"
+        ]
+      ],
+      "priority": 5,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "persona_policy",
+      "question": "Tôi làm trong cơ quan nhà nước/chính sách, có nên đọc không?",
+      "aliases": [
+        "Tôi làm trong cơ quan nhà nước/chính sách, có nên đọc không?",
+        "cán bộ nhà nước có nên đọc không",
+        "công chức có nên đọc không",
+        "tôi làm chính sách"
+      ],
+      "answer": "Có. Chương 8 đưa tám trụ cột sẵn sàng để tìm mắt xích yếu của địa phương, Phụ lục A có bộ chỉ số ARI cấp tỉnh. Chương 11 nêu năm trụ cột năng lực cạnh tranh quốc gia, Chương 12 bàn chính sách đưa AI đến số đông doanh nghiệp. Bạn có thể dùng các khung này để chọn ưu tiên và người chịu trách nhiệm.",
+      "action": "read_sample",
+      "source": "Chương 8, 11–12 và Phụ lục A",
+      "signals": [
+        [
+          "cán bộ",
+          "công chức",
+          "làm chính sách",
+          "hoạch định chính sách",
+          "chính quyền",
+          "ubnd",
+          "sở",
+          "cơ quan nhà nước",
+          "viên chức"
+        ],
+        [
+          "@read",
+          "tôi là",
+          "tôi làm",
+          "mình là",
+          "mình làm",
+          "em là",
+          "em làm",
+          "là người",
+          "đang làm",
+          "làm nghề"
+        ]
+      ],
+      "priority": 5,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "persona_kcn",
+      "question": "Tôi làm khu công nghiệp/xúc tiến đầu tư, cuốn này có ích không?",
+      "aliases": [
+        "Tôi làm khu công nghiệp/xúc tiến đầu tư, cuốn này có ích không?",
+        "khu công nghiệp có nên đọc không",
+        "ban quản lý khu công nghiệp nên đọc gì",
+        "tôi làm khu công nghiệp"
+      ],
+      "answer": "Đây là nhóm độc giả sát nhất với AI Economy. Phụ lục B có bộ ARI-IP để đánh giá khu công nghiệp, mục 8.8 bàn khu công nghiệp thế hệ mới và mục 9.6 bàn bất động sản công nghiệp trong kỷ nguyên AI. Lời mở đầu dùng tình huống khảo sát ở Đồng Nai để cho thấy tiêu chí cạnh tranh chuyển từ hecta sang megawatt.",
+      "action": "read_sample",
+      "source": "Lời mở đầu, Mục 8.8, 9.6 và Phụ lục B",
+      "signals": [
+        [
+          "khu công nghiệp",
+          "ban quản lý",
+          "thu hút đầu tư",
+          "xúc tiến đầu tư",
+          "bất động sản công nghiệp",
+          "chủ đầu tư hạ tầng"
+        ],
+        [
+          "@read",
+          "tôi là",
+          "tôi làm",
+          "mình là",
+          "mình làm",
+          "em là",
+          "em làm",
+          "là người",
+          "đang làm",
+          "làm nghề"
+        ]
+      ],
+      "priority": 5,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "persona_lecturer",
+      "question": "Tôi là giảng viên, có dùng sách để giảng dạy được không?",
+      "aliases": [
+        "Tôi là giảng viên, có dùng sách để giảng dạy được không?",
+        "giảng viên có nên đọc không",
+        "dùng sách làm tài liệu giảng dạy được không",
+        "giáo viên đọc được không"
+      ],
+      "answer": "Sách có các khung dễ dùng trong giảng dạy: chín tầng của nền kinh tế trí tuệ (mục 1.7), tám trụ cột sẵn sàng (Chương 8) và bộ chỉ số ARI, ARI-IP (Phụ lục A–B). Nguồn được ghi ở chú thích cuối chương, kèm ghi chú phương pháp về cách đọc số liệu. Nếu cần mua số lượng cho lớp học, bấm **Liên hệ**.",
+      "action": "sample_and_contact",
+      "source": "Mục 1.7, Chương 8, Phụ lục A–B và Ghi chú phương pháp",
+      "signals": [
+        [
+          "giảng viên",
+          "giáo viên",
+          "giảng dạy",
+          "dạy học",
+          "nhà nghiên cứu",
+          "làm nghiên cứu",
+          "giáo trình"
+        ],
+        [
+          "@read",
+          "tôi là",
+          "tôi làm",
+          "mình là",
+          "mình làm",
+          "em là",
+          "em làm",
+          "là người",
+          "đang làm",
+          "làm nghề"
+        ]
+      ],
+      "priority": 5,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "persona_startup",
+      "question": "Tôi đang khởi nghiệp, cuốn này có hợp không?",
+      "aliases": [
+        "Tôi đang khởi nghiệp, cuốn này có hợp không?",
+        "startup có nên đọc không",
+        "người khởi nghiệp có nên đọc không",
+        "founder có nên đọc không"
+      ],
+      "answer": "Nếu bạn khởi nghiệp, mục 8.7 bàn vốn và hệ sinh thái khởi nghiệp, Chương 6 xem cách Israel hay Singapore tạo vị thế bằng tốc độ và thể chế. Chương 3 giúp hiểu dòng vốn AI đang đi đâu. Để thiết kế mô hình kinh doanh lấy AI làm lõi, AI First Business có bốn mô hình AI-Native ở Chương 3.",
+      "action": "read_sample",
+      "source": "Chương 3, 6 và Mục 8.7",
+      "signals": [
+        [
+          "khởi nghiệp",
+          "startup",
+          "start up",
+          "mới mở công ty",
+          "founder startup"
+        ],
+        [
+          "@read",
+          "tôi là",
+          "tôi làm",
+          "mình là",
+          "mình làm",
+          "em là",
+          "em làm",
+          "là người",
+          "đang làm",
+          "làm nghề"
+        ]
+      ],
+      "priority": 5,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "persona_finance",
+      "question": "Tôi làm tài chính/kế toán, cuốn này có ích gì?",
+      "aliases": [
+        "Tôi làm tài chính/kế toán, cuốn này có ích gì?",
+        "kế toán có nên đọc không",
+        "dân tài chính có nên đọc không",
+        "tôi làm kế toán",
+        "tôi làm ngân hàng"
+      ],
+      "answer": "Mục 9.5 phân tích AI thay đổi dịch vụ tài chính theo hai hướng: cải thiện vận hành như xử lý dữ liệu, quản trị rủi ro, và thiết kế dịch vụ sát từng khách hàng. Chương 3 giúp đọc rủi ro của dòng vốn AI. Nếu bạn cần ví dụ AI trong phòng tài chính – kế toán của một công ty, AI First Business có ở mục 9.2.",
+      "action": "read_sample",
+      "source": "Mục 9.5 và Chương 3",
+      "signals": [
+        [
+          "kế toán",
+          "tài chính",
+          "ngân hàng",
+          "cfo",
+          "kiểm toán",
+          "kế toán trưởng"
+        ],
+        [
+          "@read",
+          "tôi là",
+          "tôi làm",
+          "mình là",
+          "mình làm",
+          "em là",
+          "em làm",
+          "là người",
+          "đang làm",
+          "làm nghề"
+        ]
+      ],
+      "priority": 5,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "persona_sales",
+      "question": "Tôi làm bán hàng/marketing, cuốn này giúp gì?",
+      "aliases": [
+        "Tôi làm bán hàng/marketing, cuốn này giúp gì?",
+        "sales có nên đọc không",
+        "làm marketing có nên đọc không",
+        "tôi làm bán hàng"
+      ],
+      "answer": "AI Economy giúp người bán hàng và marketing hiểu thị trường đang đổi: chi phí xử lý công việc giảm, doanh nghiệp có thể phục vụ nhóm khách hàng mới. Chương 10 bàn tác động lên nhân viên văn phòng. Nếu bạn cần cách dùng AI trong quy trình bán hàng, như soạn báo giá, AI First Business đi sâu hơn ở mục 7.8 và 9.3.",
+      "action": "read_sample",
+      "source": "Chương 10 và 12",
+      "signals": [
+        [
+          "bán hàng",
+          "sales",
+          "làm sale",
+          "marketing",
+          "kinh doanh dịch vụ",
+          "chăm sóc khách hàng"
+        ],
+        [
+          "@read",
+          "tôi là",
+          "tôi làm",
+          "mình là",
+          "mình làm",
+          "em là",
+          "em làm",
+          "là người",
+          "đang làm",
+          "làm nghề"
+        ]
+      ],
+      "priority": 5,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "persona_manufacturing",
+      "question": "Tôi làm trong nhà máy/sản xuất, cuốn này có liên quan không?",
+      "aliases": [
+        "Tôi làm trong nhà máy/sản xuất, cuốn này có liên quan không?",
+        "nhà máy có nên đọc không",
+        "làm sản xuất có nên đọc không",
+        "tôi làm sản xuất",
+        "chủ xưởng có nên đọc không"
+      ],
+      "answer": "Chương 9 phân tích tác động theo ngành: dệt may và da giày khi lợi thế lao động giá rẻ dần mất (mục 9.2), điện tử và lắp ráp khi nhà máy vận hành bằng AI (mục 9.3). Mục 10.1 bàn lao động sản xuất cần kỹ năng mới gì. Nếu bạn cần chọn việc để thử AI trong xưởng, AI First Business có ví dụ ở mục 2.2 và 9.1.",
+      "action": "read_sample",
+      "source": "Mục 9.2–9.3 và 10.1",
+      "signals": [
+        [
+          "nhà máy",
+          "sản xuất",
+          "xưởng",
+          "dệt may",
+          "da giày",
+          "điện tử",
+          "cơ khí",
+          "may mặc"
+        ],
+        [
+          "@read",
+          "tôi là",
+          "tôi làm",
+          "mình là",
+          "mình làm",
+          "em là",
+          "em làm",
+          "là người",
+          "đang làm",
+          "làm nghề"
+        ]
+      ],
+      "priority": 5,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "worth_it",
+      "question": "Cuốn này có đáng mua không?",
+      "aliases": [
+        "Cuốn này có đáng mua không?",
+        "sách có đáng mua không",
+        "có đáng tiền không",
+        "có nên mua không",
+        "mua có phí tiền không",
+        "sách có hay không",
+        "đọc có phí thời gian không"
+      ],
+      "answer": "Đáng mua nếu câu hỏi của bạn trùng với trọng tâm của sách: AI thay đổi đầu tư, năng suất, việc làm và cơ hội của Việt Nam ra sao. Chưa hợp nếu bạn cần hướng dẫn thao tác một công cụ, viết prompt hay lập trình. Cách chắc nhất là mở chương đọc thử để xem độ sâu và giọng văn trước khi đặt mua.",
+      "action": "sample_and_contact",
+      "source": "Lời giới thiệu và chương đọc thử",
+      "signals": [
+        [
+          "đáng mua",
+          "đáng tiền",
+          "có nên mua",
+          "phí tiền",
+          "sách có hay",
+          "có đáng",
+          "đáng đọc",
+          "phí thời gian",
+          "có hay không"
+        ]
+      ],
+      "priority": 3,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "not_for",
+      "question": "Ai không nên đọc cuốn này?",
+      "aliases": [
+        "Ai không nên đọc cuốn này?",
+        "sách không hợp với ai",
+        "ai không nên mua",
+        "hạn chế của sách là gì",
+        "nhược điểm của sách",
+        "sách có điểm yếu gì",
+        "sách không dành cho ai"
+      ],
+      "answer": "Sách sẽ chưa hợp nếu bạn cần giáo trình lập trình, hướng dẫn dùng từng công cụ AI, mẹo viết prompt hay khuyến nghị mua bán cổ phiếu. AI Economy phân tích ở cấp nền kinh tế: vốn, hạ tầng, việc làm và lựa chọn của Việt Nam. Nếu bạn cần cách triển khai AI trong công ty, AI First Business sát hơn. Tác giả cũng nêu điều có thể làm lập luận thay đổi ở mục 13.4.",
+      "action": "read_sample",
+      "source": "Lời giới thiệu và Mục 13.4",
+      "signals": [
+        [
+          "không nên đọc",
+          "không hợp với ai",
+          "không phù hợp với ai",
+          "ai không nên",
+          "không dành cho",
+          "hạn chế của sách",
+          "điểm yếu",
+          "nhược điểm",
+          "điểm trừ"
+        ]
+      ],
+      "priority": 3,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "read_time",
+      "question": "Đọc cuốn này mất bao lâu, có cần đọc hết không?",
+      "aliases": [
+        "Đọc cuốn này mất bao lâu, có cần đọc hết không?",
+        "đọc mất bao lâu",
+        "sách có dày không",
+        "có cần đọc hết không",
+        "đọc hết mất mấy ngày",
+        "sách dài không",
+        "bận thì đọc thế nào"
+      ],
+      "answer": "AI Economy có 13 chương chia ba phần, kèm 3 phụ lục. Bạn không cần đọc một lượt: mỗi chương trả lời một câu hỏi riêng. Người bận có thể đọc Lời mở đầu và Chương 1, rồi chọn Chương 7–8 nếu quan tâm Việt Nam hoặc Chương 9–10 nếu quan tâm việc làm.",
+      "action": null,
+      "source": "Mục lục và Lời mở đầu",
+      "signals": [
+        [
+          "mất bao lâu",
+          "bao lâu",
+          "dày không",
+          "có dài không",
+          "đọc hết",
+          "bao nhiêu thời gian",
+          "mấy ngày đọc",
+          "đọc nhanh",
+          "bận"
+        ]
+      ],
+      "exclude": [
+        "giao",
+        "ship",
+        "nhận sách",
+        "nhận hàng",
+        "vận chuyển"
+      ],
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "industry",
+      "question": "Sách có nói về ngành của tôi không?",
+      "aliases": [
+        "Sách có nói về ngành của tôi không?",
+        "sách có nói về ngành của tôi không",
+        "có ví dụ theo ngành không",
+        "sách đề cập những ngành nào",
+        "ngành nào được phân tích"
+      ],
+      "answer": "Chương 9 phân tích tác động theo ngành: dệt may và da giày (9.2), điện tử và lắp ráp (9.3), nông nghiệp (9.4), ngân hàng và tài chính (9.5), bất động sản công nghiệp (9.6). Chương 10 xem theo nhóm lao động: sản xuất, văn phòng, tri thức và quản lý. Nếu ngành của bạn không có tên riêng, hãy dùng cách tách nghề thành nhiệm vụ ở Chương 9–10.",
+      "action": "read_sample",
+      "source": "Chương 9–10",
+      "signals": [
+        [
+          "ngành",
+          "lĩnh vực",
+          "dệt may",
+          "da giày",
+          "điện tử",
+          "nông nghiệp",
+          "ngân hàng",
+          "logistics",
+          "bán lẻ",
+          "y tế",
+          "giáo dục",
+          "bất động sản",
+          "xây dựng",
+          "du lịch",
+          "thương mại"
+        ],
+        [
+          "@mention",
+          "@read"
+        ]
+      ],
+      "priority": 1,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "vs_other_books",
+      "question": "Cuốn này khác gì sách AI nước ngoài?",
+      "aliases": [
+        "Cuốn này khác gì sách AI nước ngoài?",
+        "khác gì sách ai nước ngoài",
+        "sao không đọc sách dịch",
+        "có gì riêng so với sách khác",
+        "điểm khác biệt của sách",
+        "khác gì các sách ai khác"
+      ],
+      "answer": "Khác biệt chính là bối cảnh Việt Nam. AI Economy đặt các câu hỏi về vốn, điện, chip và việc làm vào trường hợp cụ thể như khảo sát khu đất ở Đồng Nai, bốn làn sóng FDI (mục 7.2), bảy lợi thế và bảy khoảng cách cấu trúc của Việt Nam (mục 7.4–7.5). Sách cũng đưa bộ chỉ số ARI, ARI-IP để đánh giá địa phương và khu công nghiệp.",
+      "action": "read_sample",
+      "source": "Chương 7–8",
+      "signals": [
+        [
+          "sách nước ngoài",
+          "sách dịch",
+          "sách khác",
+          "khác biệt",
+          "điểm riêng",
+          "điểm mới",
+          "khác gì"
+        ],
+        [
+          "sách",
+          "cuốn",
+          "này"
+        ]
+      ],
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "what_is_ai",
+      "question": "AI là gì theo cách sách giải thích?",
+      "aliases": [
+        "AI là gì theo cách sách giải thích?",
+        "ai là gì",
+        "trí tuệ nhân tạo là gì",
+        "sách định nghĩa ai thế nào",
+        "giải thích ai đơn giản"
+      ],
+      "answer": "AI Economy giải thích AI từ góc kinh tế: AI đưa năng lực dự báo, tạo nội dung và hỗ trợ quyết định vào sản xuất, giúp làm các tác vụ nhận thức như đọc hiểu, phân tích, lập kế hoạch. Vì thế sách xem trí tuệ là một yếu tố sản xuất mới. Mục 1.3–1.4 trình bày ý này, Phụ lục C giải thích thuật ngữ.",
+      "action": "read_sample",
+      "source": "Mục 1.3–1.4 và Phụ lục C",
+      "signals": [
+        [
+          "trí tuệ nhân tạo là gì",
+          "định nghĩa ai",
+          "ai hoạt động",
+          "llm là gì",
+          "mô hình ngôn ngữ"
+        ]
+      ],
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "which_tool",
+      "question": "Sách có hướng dẫn chọn công cụ AI như ChatGPT, Gemini không?",
+      "aliases": [
+        "Sách có hướng dẫn chọn công cụ AI như ChatGPT, Gemini không?",
+        "nên dùng chatgpt hay gemini",
+        "công cụ ai nào tốt nhất",
+        "sách có review công cụ ai không",
+        "nên mua phần mềm ai nào",
+        "chatgpt hay copilot"
+      ],
+      "answer": "Không. AI Economy không xếp hạng công cụ. Sách giải thích vì sao chi phí suy luận giảm làm cầu tăng (mục 2.4) và ai giữ giá trị trong chuỗi cung ứng AI. Tên và giá công cụ thay đổi nhanh, bạn nên xem tài liệu hiện hành của nhà cung cấp. Nếu cần tiêu chí chọn giải pháp cho doanh nghiệp, AI First Business có phần đó.",
+      "action": "read_sample",
+      "source": "Mục 2.4",
+      "signals": [
+        [
+          "chatgpt",
+          "gemini",
+          "copilot",
+          "claude",
+          "công cụ ai nào",
+          "phần mềm ai nào",
+          "tool nào",
+          "app ai"
+        ],
+        [
+          "hay",
+          "nào",
+          "tốt",
+          "chọn",
+          "so sánh",
+          "review",
+          "nên dùng"
+        ]
+      ],
+      "priority": 1,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "implementation_cost",
+      "question": "Chi phí triển khai AI cho doanh nghiệp là bao nhiêu?",
+      "aliases": [
+        "Chi phí triển khai AI cho doanh nghiệp là bao nhiêu?",
+        "chi phí triển khai ai bao nhiêu",
+        "làm ai tốn bao nhiêu tiền",
+        "ngân sách cho dự án ai",
+        "triển khai ai hết bao nhiêu",
+        "chi phí làm chatbot bao nhiêu"
+      ],
+      "answer": "AI Economy không đưa bảng giá triển khai cho doanh nghiệp. Sách phân tích chi phí ở cấp hạ tầng: trong phép tính vòng đời khoảng 20 năm ở Chương 2, phần công trình chỉ chiếm khoảng **6%**, phần lớn là thiết bị IT thay mới nhiều lần. Để ước chi phí cho một dự án trong công ty, AI First Business có cách tính ROI hai tầng và chi phí vòng đời.",
+      "action": "read_sample",
+      "source": "Chương 2",
+      "signals": [
+        [
+          "chi phí",
+          "tốn bao nhiêu",
+          "kinh phí",
+          "ngân sách",
+          "hết bao nhiêu",
+          "bao nhiêu tiền",
+          "giá"
+        ],
+        [
+          "triển khai",
+          "ứng dụng ai",
+          "áp dụng ai",
+          "làm ai",
+          "dự án ai",
+          "agent",
+          "chatbot",
+          "hệ thống ai",
+          "chuyển đổi"
+        ]
+      ],
+      "priority": 6,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "gift",
+      "question": "Mua sách làm quà tặng thì nên chọn cuốn nào?",
+      "aliases": [
+        "Mua sách làm quà tặng thì nên chọn cuốn nào?",
+        "mua làm quà tặng được không",
+        "tặng sếp cuốn nào",
+        "tặng đối tác sách nào",
+        "mua tặng bạn bè",
+        "quà tặng khách hàng"
+      ],
+      "answer": "Chọn **AI First Business** nếu người nhận đang điều hành hoặc quản lý doanh nghiệp. Chọn **AI Economy** nếu người nhận quan tâm đầu tư, chính sách, khu công nghiệp hay tương lai việc làm. Bạn có thể tặng trọn bộ hai cuốn. Bấm **Liên hệ** để hỏi về số lượng, ký tặng và thời gian nhận.",
+      "action": "contact",
+      "source": "Lời giới thiệu hai cuốn",
+      "signals": [
+        [
+          "quà",
+          "tặng",
+          "biếu"
+        ],
+        [
+          "@buy",
+          "chọn",
+          "cuốn nào",
+          "sếp",
+          "đối tác",
+          "khách hàng",
+          "bạn bè",
+          "được không"
+        ]
+      ],
+      "priority": 2,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "consult_request",
+      "question": "Tôi muốn được tư vấn triển khai AI cho công ty",
+      "aliases": [
+        "Tôi muốn được tư vấn triển khai AI cho công ty",
+        "cho tôi đặt lịch tư vấn",
+        "đặt lịch tư vấn chuyển đổi ai",
+        "tôi cần tư vấn ai cho doanh nghiệp",
+        "cho tôi khảo sát ear",
+        "muốn làm khảo sát ear",
+        "tư vấn cho công ty tôi",
+        "cần người hỗ trợ triển khai ai"
+      ],
+      "answer": "Bạn có thể chọn **Làm khảo sát EAR** để tự đánh giá mức sẵn sàng trước, hoặc **Liên hệ tư vấn** nếu đã có quy trình hay mục tiêu cụ thể cần trao đổi với Go AI. Chatbot không tự gửi thông tin của bạn; biểu mẫu chỉ ghi nhận khi bạn bấm gửi.",
+      "action": "consulting_choices",
+      "source": "Quy trình tư vấn Go AI",
+      "signals": [
+        [
+          "tư vấn",
+          "khảo sát",
+          "đặt lịch",
+          "demo",
+          "hỗ trợ triển khai",
+          "triển khai giúp",
+          "làm giúp",
+          "chuyên gia"
+        ],
+        [
+          "công ty tôi",
+          "doanh nghiệp tôi",
+          "bên tôi",
+          "cho tôi",
+          "cho công ty",
+          "cho doanh nghiệp",
+          "muốn",
+          "cần",
+          "đặt",
+          "ở đâu",
+          "liên hệ"
+        ]
+      ],
+      "priority": 8,
+      "flow": "consulting",
+      "exclude": [
+        "sách"
+      ],
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "human",
+      "question": "Tôi muốn nói chuyện với người phụ trách",
+      "aliases": [
+        "Tôi muốn nói chuyện với người phụ trách",
+        "cho tôi gặp người thật",
+        "số điện thoại liên hệ",
+        "hotline là gì",
+        "có zalo không",
+        "email liên hệ",
+        "nói chuyện với nhân viên",
+        "gặp tư vấn viên"
+      ],
+      "answer": "Bấm **Liên hệ** trên website để gửi câu hỏi cho người phụ trách. Bạn nêu tên sách và nội dung cần hỗ trợ để được phản hồi đúng việc.",
+      "action": "contact",
+      "source": "Quy trình tiếp nhận của website",
+      "signals": [
+        [
+          "người thật",
+          "nhân viên tư vấn",
+          "gặp người",
+          "nói chuyện với người",
+          "hotline",
+          "số điện thoại",
+          "gọi điện",
+          "zalo",
+          "email",
+          "facebook",
+          "fanpage"
+        ]
+      ],
+      "priority": 4,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "greeting",
+      "question": "Xin chào",
+      "aliases": [
+        "Xin chào",
+        "chào",
+        "chào bạn",
+        "hello",
+        "hi",
+        "alo",
+        "chào shop",
+        "có ai không",
+        "xin chào bạn",
+        "chào ad",
+        "hey"
+      ],
+      "answer": "Chào bạn. Mình là trợ lý giới thiệu cuốn **AI Economy**. Bạn có thể hỏi sách nói về gì, có hợp với mình không, đọc thử hoặc giá mua.",
+      "action": null,
+      "source": null,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "thanks",
+      "question": "Cảm ơn",
+      "aliases": [
+        "Cảm ơn",
+        "cảm ơn bạn",
+        "cám ơn",
+        "thanks",
+        "thank you",
+        "ok cảm ơn",
+        "cảm ơn nhé",
+        "được rồi cảm ơn",
+        "tks",
+        "ok",
+        "oke",
+        "okay",
+        "vâng",
+        "dạ",
+        "dạ vâng",
+        "được rồi",
+        "hiểu rồi"
+      ],
+      "answer": "Rất vui được hỗ trợ bạn. Khi cần, bạn có thể mở chương đọc thử hoặc bấm **Liên hệ** để đặt sách.",
+      "action": "sample_and_contact",
+      "source": null,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "out_of_scope",
+      "question": "Câu hỏi ngoài phạm vi sách",
+      "aliases": [
+        "Câu hỏi ngoài phạm vi sách",
+        "thời tiết hôm nay",
+        "giá vàng hôm nay",
+        "viết code giúp tôi",
+        "làm bài tập giúp tôi",
+        "dịch giúp tôi",
+        "kể chuyện cười"
+      ],
+      "answer": "Mình chỉ trả lời về nội dung và việc mua cuốn **AI Economy**. Bạn có thể hỏi sách nói về gì, có hợp với mình không, hoặc chọn một câu gợi ý bên dưới.",
+      "action": null,
+      "source": null,
+      "signals": [
+        [
+          "thời tiết",
+          "giá vàng",
+          "bóng đá",
+          "xổ số",
+          "viết code",
+          "viết giúp",
+          "làm bài tập",
+          "giải toán",
+          "tử vi",
+          "nấu ăn",
+          "công thức nấu",
+          "bitcoin",
+          "tỷ giá",
+          "dịch giúp",
+          "kể chuyện",
+          "làm thơ",
+          "viết email",
+          "viết bài"
+        ]
+      ],
+      "priority": -5,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "howto_tools",
+      "question": "Sách có hướng dẫn viết prompt, làm chatbot hay dùng công cụ AI không?",
+      "aliases": [
+        "Sách có hướng dẫn viết prompt, làm chatbot hay dùng công cụ AI không?",
+        "có dạy prompt không",
+        "sách có hướng dẫn viết prompt không",
+        "sách có dạy làm chatbot không",
+        "có hướng dẫn dùng chatgpt không",
+        "có dạy làm agent không"
+      ],
+      "answer": "Không. AI Economy không phải sách hướng dẫn thao tác công cụ. Sách giúp bạn hiểu AI thay đổi chi phí, đầu tư, việc làm và cơ hội của Việt Nam. Nếu cần học viết prompt hay dùng công cụ hằng ngày, bạn nên tìm tài liệu thực hành riêng; nếu quan tâm kỹ năng AI cá nhân, tác giả gợi ý cuốn Sống Cùng AI.",
+      "action": "read_sample",
+      "source": "Lời mở đầu",
+      "signals": [
+        [
+          "prompt",
+          "chatbot",
+          "làm agent",
+          "dùng chatgpt",
+          "dùng công cụ",
+          "thao tác",
+          "câu lệnh"
+        ],
+        [
+          "hướng dẫn",
+          "dạy",
+          "cách",
+          "có"
+        ]
+      ],
+      "priority": 2,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "visuals",
+      "question": "Sách có hình minh họa, bảng biểu không?",
+      "aliases": [
+        "Sách có hình minh họa, bảng biểu không?",
+        "sách có hình ảnh minh họa không",
+        "có biểu đồ không",
+        "sách có bảng biểu không",
+        "sách in màu không",
+        "có sơ đồ không"
+      ],
+      "answer": "Có. Bản in AI Economy có **55 hình** và **11 bảng** có đánh số, kèm 3 phụ lục. Thông tin về in màu, chất liệu giấy của ấn bản đang bán, bạn bấm **Liên hệ** để được xác nhận.",
+      "action": "sample_and_contact",
+      "source": "Danh mục hình và bảng của bản in",
+      "signals": [
+        [
+          "hình",
+          "hình ảnh",
+          "minh họa",
+          "biểu đồ",
+          "bảng biểu",
+          "sơ đồ",
+          "in màu",
+          "màu sắc"
+        ]
+      ],
+      "exclude": [
+        "hình kinh doanh",
+        "mô hình",
+        "tình hình",
+        "hình thức"
+      ],
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "stock_advice",
+      "question": "Sách có khuyến nghị mua cổ phiếu AI không?",
+      "aliases": [
+        "Sách có khuyến nghị mua cổ phiếu AI không?",
+        "sách có dự báo giá cổ phiếu không",
+        "đọc xong có đầu tư cổ phiếu được không",
+        "nên mua cổ phiếu ai nào",
+        "sách có nói về cổ phiếu nvidia không"
+      ],
+      "answer": "Không. Sách không đưa khuyến nghị mua bán cổ phiếu. Chương 3 giúp bạn đặt câu hỏi khi đọc tin đầu tư AI: vốn đang ở giai đoạn cam kết, cấp vốn hay vận hành, khả năng cấp điện và nhu cầu dùng thực tế. Mục 3.6–3.8 bàn rủi ro định giá, hạ tầng và năng lượng. Quyết định đầu tư cần thêm phân tích tài chính riêng.",
+      "action": "read_sample",
+      "source": "Chương 3 và Ghi chú phương pháp",
+      "signals": [
+        [
+          "cổ phiếu",
+          "chứng khoán",
+          "nvidia",
+          "mã nào"
+        ],
+        [
+          "khuyến nghị",
+          "dự báo",
+          "nên mua",
+          "đầu tư được",
+          "mua",
+          "có nói",
+          "giá"
+        ]
+      ],
+      "priority": 3,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "sovereignty",
+      "question": "Đặt trung tâm dữ liệu ở trong nước có phải là làm chủ AI không?",
+      "aliases": [
+        "Đặt trung tâm dữ liệu ở trong nước có phải là làm chủ AI không?",
+        "chủ quyền ai là gì",
+        "ba cấp độ chủ quyền ai",
+        "có data center trong nước là làm chủ ai chưa"
+      ],
+      "answer": "Chưa hẳn. Mục 3.5 phân biệt ba cấp độ chủ quyền AI: vị trí đặt hạ tầng chỉ là một phần, cần xem tiếp ai kiểm soát vận hành và dữ liệu, rồi đến khả năng tự phát triển hoặc làm chủ những công nghệ quan trọng. Khung này giúp tránh nhầm giữa việc có trung tâm dữ liệu với việc nắm năng lực công nghệ.",
+      "action": "read_sample",
+      "source": "Mục 3.4–3.5",
+      "signals": [
+        [
+          "chủ quyền",
+          "làm chủ"
+        ],
+        [
+          "ai",
+          "dữ liệu",
+          "trung tâm dữ liệu",
+          "công nghệ"
+        ]
+      ],
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "future_jobs",
+      "question": "Nghề nào sẽ tăng và nghề nào khó bị AI thay thế?",
+      "aliases": [
+        "Nghề nào sẽ tăng và nghề nào khó bị AI thay thế?",
+        "nghề nào khó bị thay thế",
+        "nghề mới nào sẽ bùng nổ",
+        "nên chọn ngành gì khi có ai",
+        "sinh viên nên học ngành gì",
+        "nghề nào an toàn trước ai",
+        "sách có giúp tôi chọn ngành học không"
+      ],
+      "answer": "Mục 10.5 phân biệt nghề tăng nhanh theo tỷ lệ, như công nghệ, dữ liệu và an ninh mạng, với nghề tăng nhiều về số lượng, thường ở tuyến đầu. Mục 10.6 cho thấy công việc cần tin cậy, cảm xúc, ứng biến và tương tác thực tế khó giao hoàn toàn cho máy. Sách không đưa danh sách nghề nên chọn; hãy dùng cách tách nghề thành nhiệm vụ.",
+      "action": "read_sample",
+      "source": "Mục 10.5–10.6",
+      "signals": [
+        [
+          "nghề",
+          "ngành",
+          "công việc",
+          "giới trẻ",
+          "người trẻ"
+        ],
+        [
+          "khó bị thay thế",
+          "khó bị ai thay thế",
+          "khó thay thế",
+          "nên làm gì",
+          "bùng nổ",
+          "tăng",
+          "nên học",
+          "nên chọn",
+          "an toàn",
+          "tương lai"
+        ]
+      ],
+      "priority": 1,
+      "added_in": "2.5.0"
+    },
+    {
+      "id": "counterpoint",
+      "question": "Sách có nêu điều gì có thể làm lập luận của tác giả sai không?",
+      "aliases": [
+        "Sách có nêu điều gì có thể làm lập luận của tác giả sai không?",
+        "sách có phản biện không",
+        "tác giả có thừa nhận giới hạn không",
+        "nếu ai không như kỳ vọng thì sao",
+        "lập luận của sách có thể sai không"
+      ],
+      "answer": "Có. Mục 13.4 nêu các kịch bản cần theo dõi, trong đó có năng suất đến chậm hơn kỳ vọng, và nhấn mạnh nhận định về cơ hội, đầu tư cần cập nhật theo bằng chứng. Mục 7.7 đặt phép thử cho trường hợp làn sóng vốn AI chững lại. Mục 3.6–3.8 xem rủi ro định giá, hạ tầng và năng lượng.",
+      "action": "read_sample",
+      "source": "Mục 3.6–3.8, 7.7 và 13.4",
+      "signals": [
+        [
+          "phản biện",
+          "sai",
+          "giới hạn",
+          "chững lại",
+          "không như kỳ vọng",
+          "lạc quan quá"
+        ],
+        [
+          "lập luận",
+          "sách",
+          "tác giả",
+          "dự báo",
+          "nhận định",
+          "ai"
+        ]
+      ],
+      "added_in": "2.5.0"
+    }
+  ]
+}
