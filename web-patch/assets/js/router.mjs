@@ -189,7 +189,7 @@ function kbSearch(p, q, kb) {
 
 // "Sách có nói về X không?" -> look for X specifically.
 const TOPIC = /^(?:(?:sach|cuon|quyen)(?: sach)?(?: nay)? (?:co )?|co )(?:noi|ban|de cap|viet|phan tich|nhac|giai thich|huong dan|day|ke|chia se)(?: gi)?(?: ve| den| toi| cach)? (.+?)(?: (?:khong|chua|nao|ko|the nao|ra sao|nhu the nao|gi|vay|a|nhi))*$/;
-const GENERIC_TOPIC = /^(?:gi|cai gi|chu de gi|noi dung gi|van de gi|nhung gi|gi vay|nhieu khong|cho ai|ai)$/;
+const GENERIC_TOPIC = /^(?:gi|cai gi|dieu gi|chu de gi|noi dung gi|van de gi|nhung gi|nhung dieu gi|gi vay|nhieu khong|cho ai|ai|dieu)$/;
 function topicOf(q) {
   const m = q.key.match(TOPIC);
   if (!m || GENERIC_TOPIC.test(m[1])) return null;
