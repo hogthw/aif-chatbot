@@ -1,0 +1,351 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-ch05",
+    "kind": "chapter",
+    "chapter": 5,
+    "title": "Bảo vệ dữ liệu trong doanh nghiệp AI-First",
+    "start": 83,
+    "end": 96
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-005",
+      "chapter": 5,
+      "question": "Sáu khóa an toàn cho Tác nhân AI vận hành thế nào?",
+      "answer": "Để giao việc cho AI mà vẫn kiểm soát được, doanh nghiệp thiết lập mức tự chủ theo 4 bậc (Chỉ đề xuất; Chuẩn bị hành động; Thực thi sau phê duyệt; Tự thực thi trong giới hạn đã kiểm chứng) kết hợp đồng thời 6 khóa an toàn bắt buộc: (1) Ranh giới nhiệm vụ; (2) Quyền tối thiểu; (3) Phê duyệt của con người; (4) Hạn mức vận hành; (5) Giám sát và ngắt khẩn cấp; (6) Kiểm thử đối kháng.",
+      "source_ids": [
+        "aifb-section-5.6"
+      ],
+      "aliases": [
+        "sáu khóa an toàn",
+        "6 khóa an toàn",
+        "rào chắn đồng thời",
+        "giao việc cho AI đến mức nào thì vẫn kiểm soát được",
+        "kiểm soát rủi ro khi giao việc cho AI",
+        "Sáu khóa an toàn bắt buộc cho mọi Tác nhân AI",
+        "sáu khóa an toàn là gì",
+        "least privilege",
+        "kill switch",
+        "red teaming"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-5.6",
+      "region_id": "aifb-ch05"
+    },
+    {
+      "id": "aifb-qa-019",
+      "chapter": 5,
+      "question": "Sáu khóa an toàn cụ thể là những khóa nào?",
+      "answer": "Sáu khóa an toàn bắt buộc cho mọi Tác nhân AI gồm: (1) Ranh giới nhiệm vụ (xác định rõ mục tiêu, dữ liệu, công cụ được gọi và việc cấm làm); (2) Quyền tối thiểu (chỉ cấp quyền đọc, sửa hoặc kết nối tối thiểu cần cho nhiệm vụ, ngăn tự ý xóa dữ liệu hoặc gửi dữ liệu ra ngoài); (3) Phê duyệt của con người trước hành động khó đảo ngược; (4) Hạn mức vận hành định lượng; (5) Giám sát và ngắt khẩn cấp; (6) Kiểm thử đối kháng. Sáu khóa vận hành đồng thời như 6 rào chắn.",
+      "source_ids": [
+        "aifb-section-5.6",
+        "aifb-figure-5.1"
+      ],
+      "aliases": [
+        "sáu khóa an toàn gồm những gì",
+        "liệt kê sáu khóa an toàn",
+        "6 khóa an toàn gồm",
+        "Sáu khóa an toàn bắt buộc cho mọi Tác nhân AI",
+        "khóa nào ngăn tác nhân tự ý gửi email ra ngoài hoặc xóa dữ liệu",
+        "quyền tối thiểu least privilege"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-5.6",
+      "region_id": "aifb-ch05"
+    },
+    {
+      "id": "aifb-qa-section-5.1",
+      "chapter": 5,
+      "region_id": "aifb-ch05",
+      "primary_source_id": "aifb-section-5.1",
+      "question": "Ba nhóm dữ liệu dùng với AI được phân loại thế nào?",
+      "answer": "Phân biệt dữ liệu được phép đưa vào công cụ công khai, dữ liệu chỉ dùng trong hệ thống nội bộ đã phê duyệt và dữ liệu bị cấm đưa vào AI. Phân loại theo độ nhạy và quyền sử dụng.",
+      "source_ids": [
+        "aifb-section-5.1"
+      ],
+      "aliases": [
+        "Ba nhóm dữ liệu cần phân biệt, và một nguyên tắc nền tảng"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Ba nhóm dữ liệu cần phân biệt, và một nguyên tắc nền tảng"
+    },
+    {
+      "id": "aifb-qa-section-5.2",
+      "chapter": 5,
+      "region_id": "aifb-ch05",
+      "primary_source_id": "aifb-section-5.2",
+      "question": "Sáu con đường thất thoát dữ liệu qua AI là gì?",
+      "answer": "Qua câu lệnh, đầu ra, RAG và chỉ mục vector, nhà cung cấp cùng chuỗi công nghệ, Shadow AI, và chính hành động của Tác nhân AI. Kiểm soát cần bao phủ cả dữ liệu đi vào và thông tin hoặc hành động đi ra.",
+      "source_ids": [
+        "aifb-section-5.2"
+      ],
+      "aliases": [
+        "Sáu con đường thất thoát dữ liệu mà AI mở ra"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Sáu con đường thất thoát dữ liệu mà AI mở ra"
+    },
+    {
+      "id": "aifb-qa-section-5.3",
+      "chapter": 5,
+      "region_id": "aifb-ch05",
+      "primary_source_id": "aifb-section-5.3",
+      "question": "Sự cố bệnh viện minh họa giới hạn nào của câu lệnh an toàn?",
+      "answer": "Một tác nhân có thể làm đúng câu lệnh nhưng sử dụng quyền hoặc dữ liệu ngoài phạm vi an toàn. Cần giới hạn hành động bằng kiểm soát kỹ thuật bên ngoài mô hình.",
+      "source_ids": [
+        "aifb-section-5.3"
+      ],
+      "aliases": [
+        "Một sự cố trong bệnh viện: khi Tác nhân AI “làm đúng những gì được yêu cầu”",
+        "Một sự cố trong bệnh viện",
+        "khi Tác nhân AI “làm đúng những gì được yêu cầu”"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Một sự cố trong bệnh viện: khi Tác nhân AI “làm đúng những gì được yêu cầu”"
+    },
+    {
+      "id": "aifb-qa-section-5.4",
+      "chapter": 5,
+      "region_id": "aifb-ch05",
+      "primary_source_id": "aifb-section-5.4",
+      "question": "Shadow AI là gì và nên xử lý thế nào?",
+      "answer": "Shadow AI là việc dùng công cụ AI ngoài phạm vi tổ chức kiểm soát. Doanh nghiệp cần hiểu nhu cầu công việc, cung cấp lựa chọn đã phê duyệt và thiết lập quy tắc dữ liệu rõ.",
+      "source_ids": [
+        "aifb-section-5.4"
+      ],
+      "aliases": [
+        "Bóng tối AI (Shadow AI): đừng biến nhu cầu năng suất thành hành vi bí mật",
+        "Bóng tối AI (Shadow AI)",
+        "đừng biến nhu cầu năng suất thành hành vi bí mật"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Bóng tối AI (Shadow AI): đừng biến nhu cầu năng suất thành hành vi bí mật"
+    },
+    {
+      "id": "aifb-qa-section-5.5",
+      "chapter": 5,
+      "region_id": "aifb-ch05",
+      "primary_source_id": "aifb-section-5.5",
+      "question": "Bốn lớp phòng thủ kỹ thuật là gì?",
+      "answer": "Kiểm kê và phân loại, danh tính riêng và quyền tối thiểu, kiểm soát nội dung theo ngữ cảnh, cùng giám sát, lưu vết và khả năng phục hồi. Bốn lớp phối hợp đồng thời.",
+      "source_ids": [
+        "aifb-section-5.5"
+      ],
+      "aliases": [
+        "bốn lớp phòng thủ kỹ thuật",
+        "4 lớp bảo vệ dữ liệu",
+        "Bốn lớp phòng thủ kỹ thuật cốt lõi"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Bốn lớp phòng thủ kỹ thuật cốt lõi"
+    },
+    {
+      "id": "aifb-qa-section-5.6",
+      "chapter": 5,
+      "region_id": "aifb-ch05",
+      "primary_source_id": "aifb-section-5.6",
+      "question": "Sáu khóa an toàn của Tác nhân AI gồm những gì?",
+      "answer": "Ranh giới nhiệm vụ, quyền tối thiểu, phê duyệt của con người, hạn mức vận hành, giám sát và ngắt khẩn cấp, cùng kiểm thử đối kháng. Sáu rào chắn hoạt động đồng thời.",
+      "source_ids": [
+        "aifb-section-5.6"
+      ],
+      "aliases": [
+        "Sáu khóa an toàn bắt buộc cho mọi Tác nhân AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Sáu khóa an toàn bắt buộc cho mọi Tác nhân AI"
+    },
+    {
+      "id": "aifb-qa-section-5.7",
+      "chapter": 5,
+      "region_id": "aifb-ch05",
+      "primary_source_id": "aifb-section-5.7",
+      "question": "Hợp đồng nhà cung cấp AI cần làm rõ điều gì về dữ liệu?",
+      "answer": "Làm rõ bên nào được xử lý dữ liệu, nơi và thời gian lưu, quyền dùng dữ liệu, thông báo sự cố và cách lấy lại hoặc xóa dữ liệu khi chấm dứt dịch vụ.",
+      "source_ids": [
+        "aifb-section-5.7"
+      ],
+      "aliases": [
+        "Hợp đồng với nhà cung cấp cũng là một lớp bảo mật"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Hợp đồng với nhà cung cấp cũng là một lớp bảo mật"
+    },
+    {
+      "id": "aifb-qa-extra-03",
+      "chapter": 5,
+      "question": "Ba nhóm dữ liệu, nguyên tắc Xanh – Vàng – Đỏ, bốn lớp phòng thủ kỹ thuật và sáu khóa an toàn phối hợp với nhau như thế nào?",
+      "answer": "Trong Chương 5, các khung bảo mật phối hợp theo tầng từ dữ liệu tĩnh đến hành động của Tác nhân AI: (1) Ba nhóm dữ liệu và nguyên tắc Xanh – Vàng – Đỏ phân loại đầu vào (dữ liệu được dùng công khai, dữ liệu chỉ dùng trong hệ thống nội bộ đã duyệt, dữ liệu cấm đưa vào AI); (2) Bốn lớp phòng thủ kỹ thuật (kiểm kê và phân loại, danh tính riêng và quyền tối thiểu, kiểm soát nội dung theo ngữ cảnh, giám sát – lưu vết – phục hồi) bảo vệ hạ tầng và luồng dữ liệu; (3) Sáu khóa an toàn (ranh giới nhiệm vụ, quyền tối thiểu, phê duyệt của con người, hạn mức vận hành, giám sát và ngắt khẩn cấp, kiểm thử đối kháng) kiểm soát hành động khi Tác nhân AI được phép gọi công cụ và thực thi tác vụ.",
+      "source_ids": [
+        "aifb-section-5.1",
+        "aifb-section-5.5",
+        "aifb-section-5.6"
+      ],
+      "aliases": [
+        "ba nhóm dữ liệu bốn lớp phòng thủ và sáu khóa an toàn phối hợp thế nào",
+        "nguyên tắc xanh vàng đỏ và sáu khóa an toàn",
+        "phân biệt bốn lớp phòng thủ kỹ thuật và sáu khóa an toàn"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-5.1",
+      "region_id": "aifb-ch05"
+    },
+    {
+      "id": "aifb-qa-eval-32a",
+      "chapter": 5,
+      "question": "Tại sao doanh nghiệp AI-First lại coi dữ liệu là tài sản cốt lõi?",
+      "answer": "Trong doanh nghiệp AI-First, mô hình AI có thể thuê giống đối thủ, nhưng chất lượng quyết định của AI phụ thuộc trực tiếp vào 3 nhóm tài sản dữ liệu nội bộ: dữ liệu khách hàng, dữ liệu vận hành quy trình và tri thức chuyên ngành độc quyền. Dữ liệu sạch và có ngữ cảnh là nguồn nhiên liệu duy nhất giúp AI không ảo giác, tạo ra kết quả sát thực tế kinh doanh và tích lũy thành hào lũy cạnh tranh (ROI Tầng 2) mà đối thủ không thể sao chép.",
+      "source_ids": [
+        "aifb-section-5.1"
+      ],
+      "aliases": [
+        "tại sao doanh nghiệp AI-First lại coi dữ liệu là tài sản cốt lõi",
+        "vì sao dữ liệu là tài sản cốt lõi"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-5.1",
+      "region_id": "aifb-ch05"
+    },
+    {
+      "id": "aifb-qa-eval-37a",
+      "chapter": 5,
+      "question": "Làm thế nào để bảo mật dữ liệu nội bộ khi cho nhân viên dùng các công cụ AI tạo sinh?",
+      "answer": "Để bảo mật dữ liệu nội bộ và ngăn chặn Shadow AI, doanh nghiệp cần kết hợp chính sách và công cụ: (1) Phân loại dữ liệu theo Nguyên tắc 3 mức Xanh – Vàng – Đỏ; (2) Cung cấp không gian AI nội bộ an toàn (Enterprise AI / Sandbox không dùng dữ liệu để huấn luyện lại) để nhân viên không phải dùng chui công cụ miễn phí; (3) Áp dụng 4 lớp phòng thủ kỹ thuật cốt lõi.",
+      "source_ids": [
+        "aifb-section-5.4"
+      ],
+      "aliases": [
+        "làm thế nào để bảo mật dữ liệu nội bộ khi cho nhân viên dùng các công cụ AI tạo sinh",
+        "bảo mật dữ liệu khi dùng AI tạo sinh"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-5.4",
+      "region_id": "aifb-ch05"
+    },
+    {
+      "id": "aifb-qa-eval-37b",
+      "chapter": 5,
+      "question": "Nếu nhân viên vẫn lén copy dữ liệu khách hàng dán vào AI công cộng thì có biện pháp kỹ thuật nào chặn lại không?",
+      "answer": "Văn bản quy định không thể tự chặn hành vi dán dữ liệu mật; doanh nghiệp bắt buộc triển khai 4 lớp phòng thủ kỹ thuật cốt lõi: (1) Cổng kiểm soát truy cập và DLP (Data Loss Prevention / AI Gateway) tự động phát hiện, cảnh báo hoặc chặn hành vi dán chuỗi dữ liệu nhạy cảm (số điện thoại, CCCD, bảng giá mật) lên các trang AI công cộng; (2) Ẩn danh hóa và che giấu dữ liệu nhạy cảm (Data Masking/Redaction) tự động trước khi gửi đi; (3) Phân quyền dữ liệu tối thiểu (Zero Trust / RBAC); (4) Ghi nhật ký truy vết (Audit Log) toàn bộ luồng dữ liệu.",
+      "source_ids": [
+        "aifb-section-5.5"
+      ],
+      "aliases": [
+        "nhân viên vẫn lén copy dữ liệu khách hàng dán vào AI công cộng thì có biện pháp kỹ thuật nào chặn lại không",
+        "biện pháp kỹ thuật chặn copy dữ liệu vào AI công cộng"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-5.5",
+      "region_id": "aifb-ch05"
+    }
+  ],
+  "sources": {
+    "aifb-section-5.1": {
+      "title": "Ba nhóm dữ liệu cần phân biệt, và một nguyên tắc nền tảng",
+      "kind": "section",
+      "number": "5.1",
+      "page": 84,
+      "end_page": 86,
+      "parent_id": "aifb-ch05"
+    },
+    "aifb-table-5.1": {
+      "title": "Ba nhóm tài sản dữ liệu và thiệt hại khi thất thoát",
+      "kind": "table",
+      "number": "5.1",
+      "page": 85,
+      "end_page": 85,
+      "parent_id": "aifb-ch05"
+    },
+    "aifb-section-5.2": {
+      "title": "Sáu con đường thất thoát dữ liệu mà AI mở ra",
+      "kind": "section",
+      "number": "5.2",
+      "page": 86,
+      "end_page": 87,
+      "parent_id": "aifb-ch05"
+    },
+    "aifb-section-5.3": {
+      "title": "Một sự cố trong bệnh viện: khi Tác nhân AI “làm đúng những gì được yêu cầu”",
+      "kind": "section",
+      "number": "5.3",
+      "page": 87,
+      "end_page": 88,
+      "parent_id": "aifb-ch05"
+    },
+    "aifb-section-5.4": {
+      "title": "Bóng tối AI (Shadow AI): đừng biến nhu cầu năng suất thành hành vi bí mật",
+      "kind": "section",
+      "number": "5.4",
+      "page": 88,
+      "end_page": 89,
+      "parent_id": "aifb-ch05"
+    },
+    "aifb-table-5.2": {
+      "title": "Nguyên tắc ba mức Xanh – Vàng – Đỏ",
+      "kind": "table",
+      "number": "5.2",
+      "page": 89,
+      "end_page": 89,
+      "parent_id": "aifb-ch05"
+    },
+    "aifb-section-5.5": {
+      "title": "Bốn lớp phòng thủ kỹ thuật cốt lõi",
+      "kind": "section",
+      "number": "5.5",
+      "page": 89,
+      "end_page": 91,
+      "parent_id": "aifb-ch05"
+    },
+    "aifb-section-5.6": {
+      "title": "Sáu khóa an toàn bắt buộc cho mọi Tác nhân AI",
+      "kind": "section",
+      "number": "5.6",
+      "page": 91,
+      "end_page": 94,
+      "parent_id": "aifb-ch05"
+    },
+    "aifb-figure-5.1": {
+      "title": "Sáu khóa an toàn: sáu rào chắn cùng tồn tại quanh một Tác",
+      "kind": "figure",
+      "number": "5.1",
+      "page": 93,
+      "end_page": 93,
+      "parent_id": "aifb-ch05"
+    },
+    "aifb-section-5.7": {
+      "title": "Hợp đồng với nhà cung cấp cũng là một lớp bảo mật",
+      "kind": "section",
+      "number": "5.7",
+      "page": 94,
+      "end_page": 96,
+      "parent_id": "aifb-ch05"
+    },
+    "aifb-ch05": {
+      "title": "Bảo vệ dữ liệu trong doanh nghiệp AI-First",
+      "kind": "chapter",
+      "number": null,
+      "page": 83,
+      "end_page": 96,
+      "parent_id": "aifb-ch05"
+    }
+  },
+  "print_pages": {
+    "83": "aifb-ch05",
+    "84": "aifb-ch05",
+    "85": "aifb-ch05",
+    "86": "aifb-ch05",
+    "87": "aifb-ch05",
+    "88": "aifb-ch05",
+    "89": "aifb-ch05",
+    "90": "aifb-ch05",
+    "91": "aifb-ch05",
+    "92": "aifb-ch05",
+    "93": "aifb-ch05",
+    "94": "aifb-ch05",
+    "95": "aifb-ch05",
+    "96": "aifb-ch05"
+  }
+}

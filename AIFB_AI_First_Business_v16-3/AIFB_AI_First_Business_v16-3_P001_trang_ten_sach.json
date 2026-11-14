@@ -1,0 +1,24 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-p1",
+    "kind": "divider_or_front",
+    "title": "Trang tên sách",
+    "start": 1,
+    "end": 1
+  },
+  "cards": [],
+  "sources": {
+    "aifb-p1": {
+      "title": "Trang tên sách",
+      "kind": "divider_or_front",
+      "number": null,
+      "page": 1,
+      "end_page": 1,
+      "parent_id": "aifb-p1"
+    }
+  },
+  "print_pages": {}
+}

@@ -1,0 +1,220 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-p287",
+    "kind": "back_or_front_matter",
+    "title": "Phụ lục A · ARI địa phương",
+    "start": 287,
+    "end": 291
+  },
+  "cards": [
+    {
+      "id": "aiec-qa-020",
+      "chapter": null,
+      "question": "ARI địa phương dùng để làm gì?",
+      "answer": "ARI giúp tỉnh hoặc thành phố tự đánh giá mức sẵn sàng đón các dự án AI, trung tâm dữ liệu và sản xuất công nghệ cao. Đây là công cụ chẩn đoán do tác giả đề xuất.",
+      "source_ids": [
+        "aiec-p287"
+      ],
+      "aliases": [
+        "ARI",
+        "ARI địa phương",
+        "chỉ số sẵn sàng AI cấp tỉnh",
+        "Phụ lục A · ARI địa phương"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-p287",
+      "region_id": "aiec-p287"
+    },
+    {
+      "id": "aiec-qa-section-A.1",
+      "chapter": null,
+      "region_id": "aiec-p287",
+      "primary_source_id": "aiec-section-A.1",
+      "question": "ARI địa phương được cấu trúc thế nào?",
+      "answer": "ARI địa phương gồm 8 trụ cột (mỗi trụ cột 3 tiêu chí, tổng trọng số 100%): (1) Năng lượng và năng lượng sạch – 15%; (2) Hạ tầng tính toán và AI – 12%; (3) Hạ tầng kết nối và hạ tầng số – 10%; (4) Nhân lực và hệ sinh thái nhân tài – 15%; (5) Dữ liệu và quản trị – 10%; (6) Vốn và hệ sinh thái khởi nghiệp – 11%; (7) Hạ tầng thông minh và khu công nghiệp thế hệ mới – 15%; (8) Hệ sinh thái kinh tế trí tuệ – 12%. Ba trụ cột có trọng số cao nhất (15%) là Năng lượng, Nhân lực và Khu công nghiệp.",
+      "source_ids": [
+        "aiec-section-A.1"
+      ],
+      "aliases": [
+        "Cấu trúc. ARI gồ m tá m trụ cộ t, mỗ i trụ cộ t ba tiê u chí . Trọ ng",
+        "cấu trúc ARI địa phương",
+        "8 trụ cột ARI địa phương",
+        "trọng số ARI địa phương",
+        "bảng A.1",
+        "trụ cột nào của ARI có trọng số cao nhất"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Cấu trúc. ARI gồ m tá m trụ cộ t, mỗ i trụ cộ t ba tiê u chí . Trọ ng"
+    },
+    {
+      "id": "aiec-qa-section-A.2",
+      "chapter": null,
+      "region_id": "aiec-p287",
+      "primary_source_id": "aiec-section-A.2",
+      "question": "Chấm một tiêu chí ARI địa phương thế nào?",
+      "answer": "Dùng thang 1–5 và đối chiếu mô tả mức điểm với bằng chứng triển khai. Một dự án chỉ mới công bố hoặc ký biên bản ghi nhớ chưa đủ để chấm mức 4.",
+      "source_ids": [
+        "aiec-section-A.2"
+      ],
+      "aliases": [
+        "Thang điểm. Mỗ i tiê u chí đượ c chấ m từ 1 đế n 5 theo mô tả"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Thang điểm. Mỗ i tiê u chí đượ c chấ m từ 1 đế n 5 theo mô tả"
+    },
+    {
+      "id": "aiec-qa-section-A.3",
+      "chapter": null,
+      "region_id": "aiec-p287",
+      "primary_source_id": "aiec-section-A.3",
+      "question": "Công thức ARI địa phương là gì?",
+      "answer": "Điểm trụ cột là trung bình ba tiêu chí. Quy đổi mỗi điểm trụ cột bằng (điểm − 1) ÷ 4, nhân trọng số dạng tỷ lệ, cộng tám kết quả và nhân 100.",
+      "source_ids": [
+        "aiec-section-A.3"
+      ],
+      "aliases": [
+        "công thức ARI địa phương",
+        "cách tính ARI địa phương",
+        "Cách tính. Điể m mộ t trụ cộ t là trung bì nh điể m ba tiê u chí ."
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Cách tính. Điể m mộ t trụ cộ t là trung bì nh điể m ba tiê u chí ."
+    },
+    {
+      "id": "aiec-qa-section-A.4",
+      "chapter": null,
+      "region_id": "aiec-p287",
+      "primary_source_id": "aiec-section-A.4",
+      "question": "Một trụ cột ARI dưới 2 điểm ảnh hưởng xếp hạng thế nào?",
+      "answer": "Địa phương được xếp tối đa ở mức đang hình thành. Khi báo cáo, cần kèm điểm tổng, trụ cột thấp nhất và điều kiện chặn nếu có.",
+      "source_ids": [
+        "aiec-section-A.4"
+      ],
+      "aliases": [
+        "quy tắc chặn ARI địa phương",
+        "ARI dưới 2 điểm",
+        "Cách đọc. Dướ i 40 điể m: khở i đầ u. Từ 40 đế n dướ i 60: đang",
+        "Cách đọc. Dướ i 40 điể m",
+        "khở i đầ u. Từ 40 đế n dướ i 60"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Cách đọc. Dướ i 40 điể m: khở i đầ u. Từ 40 đế n dướ i 60: đang"
+    },
+    {
+      "id": "aiec-qa-section-A.5",
+      "chapter": null,
+      "region_id": "aiec-p287",
+      "primary_source_id": "aiec-section-A.5",
+      "question": "Ai tham gia chấm ARI địa phương?",
+      "answer": "Nhóm chấm cần ít nhất năm người. Phụ lục hướng dẫn phối hợp nhiều góc nhìn và dùng bằng chứng để đối chiếu điểm chấm.",
+      "source_ids": [
+        "aiec-section-A.5"
+      ],
+      "aliases": [
+        "Quy trình chấm. Nhó m chấ m gồ m í t nhấ t nă m ngườ i từ í t nhấ t"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Quy trình chấm. Nhó m chấ m gồ m í t nhấ t nă m ngườ i từ í t nhấ t"
+    },
+    {
+      "id": "aiec-qa-section-A.6",
+      "chapter": null,
+      "region_id": "aiec-p287",
+      "primary_source_id": "aiec-section-A.6",
+      "question": "Địa phương có thể điều chỉnh trọng số ARI không?",
+      "answer": "Có thể điều chỉnh trọng số theo loại dự án mục tiêu. Khi báo cáo kết quả, phải công bố bộ trọng số đã dùng để người đọc hiểu và đối chiếu.",
+      "source_ids": [
+        "aiec-section-A.6"
+      ],
+      "aliases": [
+        "Giới hạn. Trọ ng số có thể điề u chỉ nh theo loạ i dự á n mà đị a"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Giới hạn. Trọ ng số có thể điề u chỉ nh theo loạ i dự á n mà đị a"
+    }
+  ],
+  "sources": {
+    "aiec-section-A.1": {
+      "title": "Cấu trúc. ARI gồ m tá m trụ cộ t, mỗ i trụ cộ t ba tiê u chí . Trọ ng",
+      "kind": "section",
+      "number": "A.1",
+      "page": 287,
+      "end_page": 289,
+      "parent_id": "aiec-p287"
+    },
+    "aiec-table-A.1": {
+      "title": "Tám trụ cột, tiêu chí và trọng số của ARI",
+      "kind": "table",
+      "number": "A.1",
+      "page": 288,
+      "end_page": 288,
+      "parent_id": "aiec-p287"
+    },
+    "aiec-section-A.2": {
+      "title": "Thang điểm. Mỗ i tiê u chí đượ c chấ m từ 1 đế n 5 theo mô tả",
+      "kind": "section",
+      "number": "A.2",
+      "page": 289,
+      "end_page": 290,
+      "parent_id": "aiec-p287"
+    },
+    "aiec-table-A.2": {
+      "title": "Thang điểm chung cho mỗi tiêu chí",
+      "kind": "table",
+      "number": "A.2",
+      "page": 290,
+      "end_page": 290,
+      "parent_id": "aiec-p287"
+    },
+    "aiec-section-A.3": {
+      "title": "Cách tính. Điể m mộ t trụ cộ t là trung bì nh điể m ba tiê u chí .",
+      "kind": "section",
+      "number": "A.3",
+      "page": 290,
+      "end_page": 290,
+      "parent_id": "aiec-p287"
+    },
+    "aiec-section-A.4": {
+      "title": "Cách đọc. Dướ i 40 điể m: khở i đầ u. Từ 40 đế n dướ i 60: đang",
+      "kind": "section",
+      "number": "A.4",
+      "page": 290,
+      "end_page": 290,
+      "parent_id": "aiec-p287"
+    },
+    "aiec-section-A.5": {
+      "title": "Quy trình chấm. Nhó m chấ m gồ m í t nhấ t nă m ngườ i từ í t nhấ t",
+      "kind": "section",
+      "number": "A.5",
+      "page": 290,
+      "end_page": 291,
+      "parent_id": "aiec-p287"
+    },
+    "aiec-section-A.6": {
+      "title": "Giới hạn. Trọ ng số có thể điề u chỉ nh theo loạ i dự á n mà đị a",
+      "kind": "section",
+      "number": "A.6",
+      "page": 291,
+      "end_page": 291,
+      "parent_id": "aiec-p287"
+    },
+    "aiec-p287": {
+      "title": "Phụ lục A · ARI địa phương",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 287,
+      "end_page": 291,
+      "parent_id": "aiec-p287"
+    }
+  },
+  "print_pages": {
+    "287": "aiec-p287",
+    "288": "aiec-p287",
+    "289": "aiec-p287",
+    "290": "aiec-p287",
+    "291": "aiec-p287"
+  }
+}

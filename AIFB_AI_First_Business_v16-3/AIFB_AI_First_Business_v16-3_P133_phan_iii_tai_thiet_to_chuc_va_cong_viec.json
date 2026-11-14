@@ -1,0 +1,27 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-p133",
+    "kind": "divider_or_front",
+    "title": "Phần III · Tái thiết tổ chức và công việc",
+    "start": 133,
+    "end": 134
+  },
+  "cards": [],
+  "sources": {
+    "aifb-p133": {
+      "title": "Phần III · Tái thiết tổ chức và công việc",
+      "kind": "divider_or_front",
+      "number": null,
+      "page": 133,
+      "end_page": 134,
+      "parent_id": "aifb-p133"
+    }
+  },
+  "print_pages": {
+    "133": "aifb-p133",
+    "134": "aifb-p133"
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-ch05",
+    "kind": "chapter",
+    "chapter": 5,
+    "title": "Những nước nhỏ và quyền lực từ sự khan hiếm",
+    "start": 111,
+    "end": 130
+  },
+  "cards": [
+    {
+      "id": "aiec-qa-005",
+      "chapter": 5,
+      "question": "Vì sao nền kinh tế nhỏ vẫn có thể có quyền lực lớn?",
+      "answer": "Một nền kinh tế có thể nắm vị thế mạnh khi kiểm soát một công đoạn hoặc công nghệ khan hiếm, khó thay thế và được nhiều bên cần. Sách dùng sản xuất bán dẫn tại Đài Loan và công nghệ của ASML tại Hà Lan để minh họa.",
+      "source_ids": [
+        "aiec-section-5.1",
+        "aiec-section-5.2",
+        "aiec-section-5.3"
+      ],
+      "aliases": [
+        "quyền lực khan hiếm",
+        "ASML",
+        "Khi sự khan hiếm tạo ra quyền lực kinh tế"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-5.1",
+      "region_id": "aiec-ch05"
+    },
+    {
+      "id": "aiec-qa-section-5.1",
+      "chapter": 5,
+      "region_id": "aiec-ch05",
+      "primary_source_id": "aiec-section-5.1",
+      "question": "Khan hiếm tạo quyền lực kinh tế bằng cơ chế nào?",
+      "answer": "Một mắt xích được nhiều khách hàng cần và khó thay thế có thể giữ vị thế thương lượng cao. Thời gian, tri thức và vốn cần để tạo nguồn cung thay thế làm vị thế đó bền hơn.",
+      "source_ids": [
+        "aiec-section-5.1"
+      ],
+      "aliases": [
+        "Khi sự khan hiếm tạo ra quyền lực kinh tế"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Khi sự khan hiếm tạo ra quyền lực kinh tế"
+    },
+    {
+      "id": "aiec-qa-section-5.2",
+      "chapter": 5,
+      "region_id": "aiec-ch05",
+      "primary_source_id": "aiec-section-5.2",
+      "question": "Vị thế bán dẫn của Đài Loan (Trung Quốc) dựa vào điều gì?",
+      "answer": "Năng lực sản xuất bán dẫn tiên tiến dựa trên tích lũy công nghệ, đội ngũ và mạng lưới nhà cung cấp. Điện, nước và áp lực địa chính trị là những điều kiện có thể ảnh hưởng đến năng lực đó.",
+      "source_ids": [
+        "aiec-section-5.2"
+      ],
+      "aliases": [
+        "Đài Loan (Trung Quốc): trung tâm sản xuất bán dẫn của chuỗi cung ứng AI",
+        "Đài Loan (Trung Quốc)",
+        "trung tâm sản xuất bán dẫn của chuỗi cung ứng AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Đài Loan (Trung Quốc): trung tâm sản xuất bán dẫn của chuỗi cung ứng AI"
+    },
+    {
+      "id": "aiec-qa-section-5.3",
+      "chapter": 5,
+      "region_id": "aiec-ch05",
+      "primary_source_id": "aiec-section-5.3",
+      "question": "Vì sao ASML có vị thế đặc biệt trong chuỗi bán dẫn?",
+      "answer": "ASML nắm công nghệ quang khắc khó sao chép, dựa vào mạng lưới nhà cung cấp chuyên sâu và tích lũy kỹ thuật dài hạn. Vị thế đến từ một mắt xích thiết yếu.",
+      "source_ids": [
+        "aiec-section-5.3"
+      ],
+      "aliases": [
+        "Hà Lan: ASML và quyền lực từ công nghệ khó thay thế",
+        "Hà Lan",
+        "ASML và quyền lực từ công nghệ khó thay thế"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Hà Lan: ASML và quyền lực từ công nghệ khó thay thế"
+    },
+    {
+      "id": "aiec-qa-section-5.4",
+      "chapter": 5,
+      "region_id": "aiec-ch05",
+      "primary_source_id": "aiec-section-5.4",
+      "question": "Hàn Quốc gắn tái cấu trúc vùng với bán dẫn ra sao?",
+      "answer": "Sách xem chiến lược theo vùng là cách phối hợp hạ tầng, nhân lực và đầu tư để phát triển cụm bán dẫn. Kết quả phụ thuộc vào khả năng biến quy hoạch thành năng lực triển khai.",
+      "source_ids": [
+        "aiec-section-5.4"
+      ],
+      "aliases": [
+        "Hàn Quốc: tái cấu trúc vùng và chiến lược phát triển bán dẫn",
+        "Hàn Quốc",
+        "tái cấu trúc vùng và chiến lược phát triển bán dẫn"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Hàn Quốc: tái cấu trúc vùng và chiến lược phát triển bán dẫn"
+    },
+    {
+      "id": "aiec-qa-section-5.5",
+      "chapter": 5,
+      "region_id": "aiec-ch05",
+      "primary_source_id": "aiec-section-5.5",
+      "question": "Nhật Bản theo hai hướng nào trong bán dẫn?",
+      "answer": "Nhật Bản vừa mở rộng trên nền cụm công nghiệp sẵn có, vừa đầu tư vào năng lực sản xuất tiên tiến mới. Hai hướng có thời gian hoàn vốn và rủi ro khác nhau.",
+      "source_ids": [
+        "aiec-section-5.5"
+      ],
+      "aliases": [
+        "Nhật Bản: xây trên nền cũ và đặt cược vào công nghệ mới",
+        "Nhật Bản",
+        "xây trên nền cũ và đặt cược vào công nghệ mới"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Nhật Bản: xây trên nền cũ và đặt cược vào công nghệ mới"
+    },
+    {
+      "id": "aiec-qa-section-5.6",
+      "chapter": 5,
+      "region_id": "aiec-ch05",
+      "primary_source_id": "aiec-section-5.6",
+      "question": "Lợi thế khan hiếm mới có thể xuất hiện ở đâu?",
+      "answer": "Khi công nghệ đổi, điểm nghẽn và tiêu chí chọn nhà cung cấp cũng đổi. Chương gợi ý quan sát những công đoạn mới cần năng lực chuyên môn và nguồn cung còn hạn chế.",
+      "source_ids": [
+        "aiec-section-5.6"
+      ],
+      "aliases": [
+        "Những cánh cửa đang mở: nơi các lợi thế mới có thể hình thành",
+        "Những cánh cửa đang mở",
+        "nơi các lợi thế mới có thể hình thành"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Những cánh cửa đang mở: nơi các lợi thế mới có thể hình thành"
+    },
+    {
+      "id": "aiec-qa-section-5.7",
+      "chapter": 5,
+      "region_id": "aiec-ch05",
+      "primary_source_id": "aiec-section-5.7",
+      "question": "Một vị thế khó thay thế phải trả giá gì?",
+      "answer": "Tập trung vào một mắt xích mang lại sức mạnh nhưng tạo phụ thuộc vào tài nguyên, khách hàng hoặc môi trường địa chính trị. Mở rộng và bảo vệ lợi thế cần được cân bằng.",
+      "source_ids": [
+        "aiec-section-5.7"
+      ],
+      "aliases": [
+        "Cái giá của vị thế khó thay thế"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Cái giá của vị thế khó thay thế"
+    }
+  ],
+  "sources": {
+    "aiec-section-5.1": {
+      "title": "Khi sự khan hiếm tạo ra quyền lực kinh tế",
+      "kind": "section",
+      "number": "5.1",
+      "page": 112,
+      "end_page": 113,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-figure-5.1": {
+      "title": "Các điểm nghẽn trong chuỗi cung ứng chip AI",
+      "kind": "figure",
+      "number": "5.1",
+      "page": 113,
+      "end_page": 113,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-section-5.2": {
+      "title": "Đài Loan (Trung Quốc): trung tâm sản xuất bán dẫn của chuỗi cung ứng AI",
+      "kind": "section",
+      "number": "5.2",
+      "page": 113,
+      "end_page": 115,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-section-5.3": {
+      "title": "Hà Lan: ASML và quyền lực từ công nghệ khó thay thế",
+      "kind": "section",
+      "number": "5.3",
+      "page": 115,
+      "end_page": 117,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-section-5.4": {
+      "title": "Hàn Quốc: tái cấu trúc vùng và chiến lược phát triển bán dẫn",
+      "kind": "section",
+      "number": "5.4",
+      "page": 117,
+      "end_page": 119,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-section-5.5": {
+      "title": "Nhật Bản: xây trên nền cũ và đặt cược vào công nghệ mới",
+      "kind": "section",
+      "number": "5.5",
+      "page": 119,
+      "end_page": 124,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-figure-5.2": {
+      "title": "Cụm Kumamoto: một nhà máy neo kéo theo cả hệ",
+      "kind": "figure",
+      "number": "5.2",
+      "page": 120,
+      "end_page": 120,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-figure-5.3": {
+      "title": "Chuỗi chiến lược của Đài Loan (Trung Quốc),",
+      "kind": "figure",
+      "number": "5.3",
+      "page": 123,
+      "end_page": 123,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-section-5.6": {
+      "title": "Những cánh cửa đang mở: nơi các lợi thế mới có thể hình thành",
+      "kind": "section",
+      "number": "5.6",
+      "page": 124,
+      "end_page": 126,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-section-5.7": {
+      "title": "Cái giá của vị thế khó thay thế",
+      "kind": "section",
+      "number": "5.7",
+      "page": 126,
+      "end_page": 130,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-figure-5.4": {
+      "title": "Từ nắm điểm nghẽn đến làm chủ trọn chuỗi",
+      "kind": "figure",
+      "number": "5.4",
+      "page": 127,
+      "end_page": 127,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-ch05": {
+      "title": "Những nước nhỏ và quyền lực từ sự khan hiếm",
+      "kind": "chapter",
+      "number": null,
+      "page": 111,
+      "end_page": 130,
+      "parent_id": "aiec-ch05"
+    }
+  },
+  "print_pages": {
+    "111": "aiec-ch05",
+    "112": "aiec-ch05",
+    "113": "aiec-ch05",
+    "114": "aiec-ch05",
+    "115": "aiec-ch05",
+    "116": "aiec-ch05",
+    "117": "aiec-ch05",
+    "118": "aiec-ch05",
+    "119": "aiec-ch05",
+    "120": "aiec-ch05",
+    "121": "aiec-ch05",
+    "122": "aiec-ch05",
+    "123": "aiec-ch05",
+    "124": "aiec-ch05",
+    "125": "aiec-ch05",
+    "126": "aiec-ch05",
+    "127": "aiec-ch05",
+    "128": "aiec-ch05",
+    "129": "aiec-ch05",
+    "130": "aiec-ch05"
+  }
+}

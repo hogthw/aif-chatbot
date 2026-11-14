@@ -1,0 +1,45 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-p233",
+    "kind": "back_or_front_matter",
+    "title": "Phụ lục E · Bảng thuật ngữ",
+    "start": 233,
+    "end": 236
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-p233",
+      "chapter": null,
+      "region_id": "aifb-p233",
+      "primary_source_id": "aifb-p233",
+      "question": "Tìm thuật ngữ quản trị AI-First ở đâu?",
+      "answer": "Phụ lục E tập hợp thuật ngữ của sách và chỉ chương liên quan để tra cứu thêm, trong đó có 3A, Hồ Sơ Agent, Sơ Đồ Công Việc và EAR Index™.",
+      "source_ids": [
+        "aifb-p233"
+      ],
+      "aliases": [
+        "Phụ lục E · Bảng thuật ngữ"
+      ],
+      "status": "draft_for_editorial_review"
+    }
+  ],
+  "sources": {
+    "aifb-p233": {
+      "title": "Phụ lục E · Bảng thuật ngữ",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 233,
+      "end_page": 236,
+      "parent_id": "aifb-p233"
+    }
+  },
+  "print_pages": {
+    "233": "aifb-p233",
+    "234": "aifb-p233",
+    "235": "aifb-p233",
+    "236": "aifb-p233"
+  }
+}

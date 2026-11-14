@@ -1,0 +1,242 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-ch13",
+    "kind": "chapter",
+    "chapter": 13,
+    "title": "Lựa chọn thuộc về chúng ta",
+    "start": 277,
+    "end": 286
+  },
+  "cards": [
+    {
+      "id": "aiec-qa-013",
+      "chapter": 13,
+      "question": "Chương cuối đặt ra lựa chọn gì cho Việt Nam?",
+      "answer": "Chương đặt phân hóa việc làm trong bối cảnh tái cấu trúc kinh tế và nêu chương trình hành động cần phối hợp giữa các chủ thể. Sách cũng chỉ ra những điều kiện có thể làm lập luận của chương thay đổi.",
+      "source_ids": [
+        "aiec-section-13.1",
+        "aiec-section-13.3",
+        "aiec-section-13.4",
+        "aiec-section-13.5"
+      ],
+      "aliases": [
+        "lựa chọn thuộc về chúng ta",
+        "phân hóa lao động",
+        "Thực tế việc làm và sự phân hóa"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-13.1",
+      "region_id": "aiec-ch13"
+    },
+    {
+      "id": "aiec-qa-section-13.1",
+      "chapter": 13,
+      "region_id": "aiec-ch13",
+      "primary_source_id": "aiec-section-13.1",
+      "question": "Sự phân hóa việc làm khác nhau ra sao giữa các nhóm?",
+      "answer": "AI chưa tạo ra làn sóng thất nghiệp hàng loạt mà thúc đẩy quá trình tái cấu trúc và phân hóa lao động quy mô lớn, thể hiện qua ba bằng chứng: (1) Thị trường tách thành hai làn — theo PwC, nhóm việc làm được AI “chuyên nghiệp hóa” tăng nhanh gấp đôi và có mức tăng lương cao hơn 42% so với nhóm “phổ thông hóa”; (2) Tác động không đều theo giới — ở các nước thu nhập cao, tỷ lệ việc làm của nữ thuộc nhóm phơi nhiễm cao nhất gần gấp ba của nam; (3) Người trẻ chịu tác động trước — dữ liệu bảng lương ở Mỹ (nghiên cứu Stanford) cho thấy việc làm của lao động 22–25 tuổi trong các nghề phơi nhiễm AI cao giảm tương đối khoảng 13% do doanh nghiệp giảm tuyển mới.",
+      "source_ids": [
+        "aiec-section-13.1"
+      ],
+      "aliases": [
+        "Thực tế việc làm và sự phân hóa",
+        "sự phân hóa việc làm khác nhau ra sao giữa các nhóm",
+        "thực tế việc làm và sự phân hóa",
+        "ba bằng chứng phân hóa lao động"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Thực tế việc làm và sự phân hóa"
+    },
+    {
+      "id": "aiec-qa-section-13.2",
+      "chapter": 13,
+      "region_id": "aiec-ch13",
+      "primary_source_id": "aiec-section-13.2",
+      "question": "Việt Nam cần chuẩn bị gì trước giai đoạn chuyển đổi?",
+      "answer": "Cần nâng chất lượng nhân lực, năng lực công nghệ và khả năng biến tri thức thành năng suất. Kết quả phụ thuộc vào mức độ các thay đổi này đi vào sản xuất và công việc.",
+      "source_ids": [
+        "aiec-section-13.2"
+      ],
+      "aliases": [
+        "Việt Nam trước một giai đoạn chuyển đổi lớn"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Việt Nam trước một giai đoạn chuyển đổi lớn"
+    },
+    {
+      "id": "aiec-qa-section-13.3",
+      "chapter": 13,
+      "region_id": "aiec-ch13",
+      "primary_source_id": "aiec-section-13.3",
+      "question": "Các chủ thể phối hợp phát triển AI theo hướng nào?",
+      "answer": "Cơ quan quản lý, địa phương, doanh nghiệp và cơ sở giáo dục, nghiên cứu phối hợp từ ứng dụng công nghệ sẵn có đến thích ứng với Việt Nam và làm chủ có chọn lọc.",
+      "source_ids": [
+        "aiec-section-13.3"
+      ],
+      "aliases": [
+        "Sự phối hợp giữa các chủ thể"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Sự phối hợp giữa các chủ thể"
+    },
+    {
+      "id": "aiec-qa-section-13.4",
+      "chapter": 13,
+      "region_id": "aiec-ch13",
+      "primary_source_id": "aiec-section-13.4",
+      "question": "Điều gì có thể làm các lập luận của sách thay đổi?",
+      "answer": "Tác giả nêu các kịch bản cần theo dõi, trong đó có năng suất đến chậm hơn kỳ vọng. Các nhận định về cơ hội và đầu tư cần được cập nhật theo bằng chứng.",
+      "source_ids": [
+        "aiec-section-13.4"
+      ],
+      "aliases": [
+        "Điều gì có thể khiến lập luận này sai"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Điều gì có thể khiến lập luận này sai"
+    },
+    {
+      "id": "aiec-qa-section-13.5",
+      "chapter": 13,
+      "region_id": "aiec-ch13",
+      "primary_source_id": "aiec-section-13.5",
+      "question": "Chương trình hành động hướng tới những nhóm nào?",
+      "answer": "Sách phân vai giữa Nhà nước, doanh nghiệp và người dân. Mỗi nhóm cần chọn việc cụ thể giúp chuyển cơ hội AI thành năng lực có thể sử dụng và đo lường.",
+      "source_ids": [
+        "aiec-section-13.5"
+      ],
+      "aliases": [
+        "Chương trình hành động: biến cơ hội thành năng lực",
+        "Chương trình hành động",
+        "biến cơ hội thành năng lực"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Chương trình hành động: biến cơ hội thành năng lực"
+    },
+    {
+      "id": "aiec-qa-section-13.6",
+      "chapter": 13,
+      "region_id": "aiec-ch13",
+      "primary_source_id": "aiec-section-13.6",
+      "question": "Kết quả chuyển đổi AI được nhìn thấy qua những việc gì?",
+      "answer": "Kết quả thể hiện qua việc cụ thể như thủ tục ngắn hơn, nhà máy số hóa, kỹ năng mới được áp dụng hoặc khả năng tiếp cận hạ tầng tính toán được cải thiện.",
+      "source_ids": [
+        "aiec-section-13.6"
+      ],
+      "aliases": [
+        "Từ phân tích đến lựa chọn"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Từ phân tích đến lựa chọn"
+    },
+    {
+      "id": "aiec-qa-extra-01",
+      "chapter": 13,
+      "question": "AI sẽ ảnh hưởng đến công việc của người lao động như thế nào?",
+      "answer": "AI không gây thất nghiệp hàng loạt ngay lập tức mà tạo ra cuộc tái cấu trúc và phân hóa lao động sâu rộng: IMF ước tính khoảng 40% việc làm toàn cầu phơi nhiễm với AI (khoảng 60% ở các nền kinh tế phát triển); WEF dự báo đến năm 2030 có khoảng 39% kỹ năng cốt lõi thay đổi, 59/100 lao động cần đào tạo lại, khoảng 92 triệu việc làm mất đi và 170 triệu việc làm mới hình thành (tăng ròng khoảng 78 triệu). Tại Việt Nam (53,5 triệu người trong lực lượng lao động, 63,1% việc làm phi chính thức, chỉ 29,2% có bằng cấp hoặc chứng chỉ), tác động diễn ra qua ba xu hướng rõ rệt: (1) Các tác vụ lặp lại (lắp ráp đơn giản, kiểm tra theo mẫu, nhập liệu, xử lý chứng từ, hành chính cơ bản) bị tự động hóa nhanh; (2) Người trẻ mới vào nghề chịu tác động sớm nhất (nghiên cứu của Stanford cho thấy lao động 22–25 tuổi ở các nghề phơi nhiễm AI cao giảm việc làm tương đối khoảng 13% do doanh nghiệp tuyển ít người mới hơn); (3) Thị trường tách thành hai làn — theo PwC, nhóm việc làm được AI “chuyên nghiệp hóa” tăng nhanh gấp đôi và có mức tăng lương cao hơn 42% so với nhóm “phổ thông hóa”, đòi hỏi người lao động chuyển sang kỹ năng vận hành công nghệ, xử lý ngoại lệ, tư duy phản biện và giải quyết vấn đề liên ngành.",
+      "source_ids": [
+        "aiec-section-10.1",
+        "aiec-section-10.5",
+        "aiec-section-13.1"
+      ],
+      "aliases": [
+        "AI sẽ ảnh hưởng đến công việc của người lao động như thế nào",
+        "AI ảnh hưởng đến việc làm của người lao động ra sao",
+        "tác động của AI đến công việc người lao động",
+        "AI có lấy mất việc của người lao động không"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-13.1",
+      "region_id": "aiec-ch13"
+    }
+  ],
+  "sources": {
+    "aiec-section-13.1": {
+      "title": "Thực tế việc làm và sự phân hóa",
+      "kind": "section",
+      "number": "13.1",
+      "page": 277,
+      "end_page": 278,
+      "parent_id": "aiec-ch13"
+    },
+    "aiec-section-13.2": {
+      "title": "Việt Nam trước một giai đoạn chuyển đổi lớn",
+      "kind": "section",
+      "number": "13.2",
+      "page": 278,
+      "end_page": 279,
+      "parent_id": "aiec-ch13"
+    },
+    "aiec-section-13.3": {
+      "title": "Sự phối hợp giữa các chủ thể",
+      "kind": "section",
+      "number": "13.3",
+      "page": 279,
+      "end_page": 280,
+      "parent_id": "aiec-ch13"
+    },
+    "aiec-section-13.4": {
+      "title": "Điều gì có thể khiến lập luận này sai",
+      "kind": "section",
+      "number": "13.4",
+      "page": 280,
+      "end_page": 281,
+      "parent_id": "aiec-ch13"
+    },
+    "aiec-section-13.5": {
+      "title": "Chương trình hành động: biến cơ hội thành năng lực",
+      "kind": "section",
+      "number": "13.5",
+      "page": 281,
+      "end_page": 284,
+      "parent_id": "aiec-ch13"
+    },
+    "aiec-section-13.6": {
+      "title": "Từ phân tích đến lựa chọn",
+      "kind": "section",
+      "number": "13.6",
+      "page": 284,
+      "end_page": 286,
+      "parent_id": "aiec-ch13"
+    },
+    "aiec-ch13": {
+      "title": "Lựa chọn thuộc về chúng ta",
+      "kind": "chapter",
+      "number": null,
+      "page": 277,
+      "end_page": 286,
+      "parent_id": "aiec-ch13"
+    },
+    "aiec-section-10.1": {
+      "title": "Lao động sản xuất: Lợi thế \"đông người, chi phí thấp\" đang dần khép lại",
+      "kind": "section",
+      "number": "10.1",
+      "page": 236,
+      "end_page": 238,
+      "parent_id": "aiec-ch10"
+    },
+    "aiec-section-10.5": {
+      "title": "Những nghề mới sẽ bùng nổ cùng nền kinh tế AI",
+      "kind": "section",
+      "number": "10.5",
+      "page": 242,
+      "end_page": 243,
+      "parent_id": "aiec-ch10"
+    }
+  },
+  "print_pages": {
+    "277": "aiec-ch13",
+    "278": "aiec-ch13",
+    "279": "aiec-ch13",
+    "280": "aiec-ch13",
+    "281": "aiec-ch13",
+    "282": "aiec-ch13",
+    "283": "aiec-ch13",
+    "284": "aiec-ch13",
+    "285": "aiec-ch13",
+    "286": "aiec-ch13"
+  }
+}

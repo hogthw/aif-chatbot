@@ -1,0 +1,45 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-p237",
+    "kind": "back_or_front_matter",
+    "title": "Tài liệu tham khảo",
+    "start": 237,
+    "end": 240
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-p237",
+      "chapter": null,
+      "region_id": "aifb-p237",
+      "primary_source_id": "aifb-p237",
+      "question": "Tài liệu tham khảo AI First Business bắt đầu ở đâu?",
+      "answer": "Danh mục tài liệu tham khảo bắt đầu ở trang 237. Khi cần xác định nguồn cho một ý cụ thể, đọc thêm chú thích của chương, hình hoặc bảng liên quan.",
+      "source_ids": [
+        "aifb-p237"
+      ],
+      "aliases": [
+        "Tài liệu tham khảo"
+      ],
+      "status": "draft_for_editorial_review"
+    }
+  ],
+  "sources": {
+    "aifb-p237": {
+      "title": "Tài liệu tham khảo",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 237,
+      "end_page": 240,
+      "parent_id": "aifb-p237"
+    }
+  },
+  "print_pages": {
+    "237": "aifb-p237",
+    "238": "aifb-p237",
+    "239": "aifb-p237",
+    "240": "aifb-p237"
+  }
+}

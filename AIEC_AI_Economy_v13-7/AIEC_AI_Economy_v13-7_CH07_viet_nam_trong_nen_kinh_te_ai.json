@@ -1,0 +1,341 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-ch07",
+    "kind": "chapter",
+    "chapter": 7,
+    "title": "Việt Nam trong nền kinh tế AI",
+    "start": 159,
+    "end": 184
+  },
+  "cards": [
+    {
+      "id": "aiec-qa-007",
+      "chapter": 7,
+      "question": "Việt Nam cần chuyển đổi lợi thế cạnh tranh như thế nào?",
+      "answer": "Bốn làn sóng FDI: (1) 1988–2005, khai thác chi phí lao động (dệt may, giày dép, liên doanh ô tô); (2) 2006–2010, hậu WTO, dự án tỷ USD (Intel 2006, Samsung 2008); (3) 2008–2020, điện tử-thiết bị số quy mô lớn (Samsung Thái Nguyên, LG, Pegatron); (4) từ 2020, tái định vị chuỗi cung ứng (đóng gói-kiểm thử bán dẫn, hạ tầng số, R&D). Cần thận trọng gọi tên “làn sóng AI”: phần lớn vốn vẫn là chế biến-chế tạo truyền thống, nhiều hợp tác AI còn ở giai đoạn biên bản ghi nhớ, chưa phải vốn đã giải ngân.",
+      "source_ids": [
+        "aiec-section-7.2",
+        "aiec-section-7.3",
+        "aiec-section-7.6"
+      ],
+      "aliases": [
+        "Việt Nam 2035",
+        "FDI",
+        "chi phí sang năng suất",
+        "Bốn làn sóng FDI và câu hỏi về làn sóng thứ tư",
+        "bốn làn sóng FDI",
+        "4 làn sóng FDI vào Việt Nam",
+        "làn sóng FDI thứ tư",
+        "Việt Nam cần chuyển đổi lợi thế cạnh tranh như thế nào"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-7.2",
+      "region_id": "aiec-ch07"
+    },
+    {
+      "id": "aiec-qa-section-7.1",
+      "chapter": 7,
+      "region_id": "aiec-ch07",
+      "primary_source_id": "aiec-section-7.1",
+      "question": "Cửa sổ cơ hội đến 2035 của Việt Nam nghĩa là gì?",
+      "answer": "Giai đoạn tái bố trí chuỗi giá trị tạo cơ hội thu hút đầu tư có hàm lượng công nghệ cao hơn. Việt Nam cần chuẩn bị năng lực hấp thụ và liên kết nội địa trong thời gian cơ hội còn mở.",
+      "source_ids": [
+        "aiec-section-7.1"
+      ],
+      "aliases": [
+        "Cửa sổ cơ hội của Việt Nam đến năm 2035"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Cửa sổ cơ hội của Việt Nam đến năm 2035"
+    },
+    {
+      "id": "aiec-qa-section-7.2",
+      "chapter": 7,
+      "region_id": "aiec-ch07",
+      "primary_source_id": "aiec-section-7.2",
+      "question": "Sách dùng bốn làn sóng FDI để giải thích điều gì?",
+      "answer": "Bốn làn sóng FDI: (1) 1988–2005, khai thác chi phí lao động (dệt may, giày dép, liên doanh ô tô); (2) 2006–2010, hậu WTO, dự án tỷ USD (Intel 2006, Samsung 2008); (3) 2008–2020, điện tử-thiết bị số quy mô lớn (Samsung Thái Nguyên, LG, Pegatron); (4) từ 2020, tái định vị chuỗi cung ứng (đóng gói-kiểm thử bán dẫn, hạ tầng số, R&D). Cần thận trọng gọi tên “làn sóng AI”: phần lớn vốn vẫn là chế biến-chế tạo truyền thống, nhiều hợp tác AI còn ở giai đoạn biên bản ghi nhớ, chưa phải vốn đã giải ngân.",
+      "source_ids": [
+        "aiec-section-7.2"
+      ],
+      "aliases": [
+        "Bốn làn sóng FDI và câu hỏi về làn sóng thứ tư",
+        "sách dùng bốn làn sóng FDI để giải thích điều gì",
+        "bốn làn sóng FDI và câu hỏi về làn sóng thứ tư"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Bốn làn sóng FDI và câu hỏi về làn sóng thứ tư"
+    },
+    {
+      "id": "aiec-qa-section-7.3",
+      "chapter": 7,
+      "region_id": "aiec-ch07",
+      "primary_source_id": "aiec-section-7.3",
+      "question": "Địa điểm đầu tư dựa trên năng suất cần chứng minh điều gì?",
+      "answer": "Nhà đầu tư cần thấy hạ tầng đáng tin cậy, lao động có kỹ năng và khả năng đưa dự án vào vận hành. Những yếu tố này ảnh hưởng chi phí và kết quả trong cả vòng đời.",
+      "source_ids": [
+        "aiec-section-7.3"
+      ],
+      "aliases": [
+        "Từ lợi thế chi phí đến lợi thế năng suất"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Từ lợi thế chi phí đến lợi thế năng suất"
+    },
+    {
+      "id": "aiec-qa-section-7.4",
+      "chapter": 7,
+      "region_id": "aiec-ch07",
+      "primary_source_id": "aiec-section-7.4",
+      "question": "Lợi thế tiềm năng của Việt Nam trở thành lợi thế thực tế khi nào?",
+      "answer": "Việt Nam sở hữu 7 lợi thế tiềm năng trong nền kinh tế AI: (1) Tiềm năng năng lượng tái tạo lớn (hơn 3.200 km bờ biển thuận lợi cho điện gió ngoài khơi, bức xạ mặt trời cao, thủy điện phát triển kết hợp cơ chế mua bán điện trực tiếp DPPA cung cấp điện sạch cho trung tâm dữ liệu AI); (2) Môi trường chính trị ổn định; (3) Vị trí trung tâm chuỗi cung ứng công nghệ châu Á; (4) Lực lượng lao động trẻ và nền tảng STEM; (5) Kinh nghiệm tích lũy qua 30 năm thu hút FDI; (6) Thị trường nội địa 100 triệu dân hấp thụ số hóa nhanh; (7) Quyết tâm chính sách chuyển dịch sang công nghệ cao.",
+      "source_ids": [
+        "aiec-section-7.4"
+      ],
+      "aliases": [
+        "bảy lợi thế tiềm năng của Việt Nam",
+        "7 lợi thế tiềm năng của Việt Nam",
+        "lợi thế năng lượng tái tạo của Việt Nam là gì",
+        "năng lượng tái tạo của Việt Nam",
+        "tiềm năng năng lượng tái tạo",
+        "3200 km bờ biển",
+        "Bảy lợi thế tiềm năng của Việt Nam"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Bảy lợi thế tiềm năng của Việt Nam"
+    },
+    {
+      "id": "aiec-qa-section-7.5",
+      "chapter": 7,
+      "region_id": "aiec-ch07",
+      "primary_source_id": "aiec-section-7.5",
+      "question": "Khoảng cách cấu trúc có ý nghĩa gì với Việt Nam?",
+      "answer": "Bên cạnh 7 lợi thế, Việt Nam phải vượt qua 7 khoảng cách cấu trúc: (1) Áp lực lưới truyền tải và thủ tục đấu nối điện sạch cho phụ tải lớn; (2) Hạ tầng tính toán hiệu năng cao (HPC/GPU) trong nước còn mỏng; (3) Độ trễ và tính dự phòng của tuyến cáp quang biển quốc tế; (4) Thiếu hụt kỹ sư AI trình độ cao và giảng viên thực chiến; (5) Dữ liệu còn phân mảnh, thiếu chuẩn liên thông; (6) Thị trường vốn mạo hiểm nội địa cho công nghệ sâu còn nhỏ; (7) Tốc độ thực thi và phối hợp liên ngành.",
+      "source_ids": [
+        "aiec-section-7.5"
+      ],
+      "aliases": [
+        "Bảy khoảng cách cấu trúc cần vượt qua",
+        "bảy khoảng cách cấu trúc cần vượt qua",
+        "7 khoảng cách cấu trúc của Việt Nam",
+        "điểm nghẽn cấu trúc của Việt Nam"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Bảy khoảng cách cấu trúc cần vượt qua"
+    },
+    {
+      "id": "aiec-qa-section-7.6",
+      "chapter": 7,
+      "region_id": "aiec-ch07",
+      "primary_source_id": "aiec-section-7.6",
+      "question": "Ứng dụng, thích ứng và làm chủ có ý nghĩa gì ở cấp quốc gia?",
+      "answer": "Ứng dụng giúp khai thác công nghệ có sẵn. Thích ứng đưa công nghệ vào điều kiện Việt Nam. Làm chủ tập trung ở những năng lực có lý do chiến lược và khả năng tích lũy.",
+      "source_ids": [
+        "aiec-section-7.6"
+      ],
+      "aliases": [
+        "Từ khoảng cách đến hành động: Lời giải chiến lược cho Việt Nam",
+        "Từ khoảng cách đến hành động",
+        "Lời giải chiến lược cho Việt Nam"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Từ khoảng cách đến hành động: Lời giải chiến lược cho Việt Nam"
+    },
+    {
+      "id": "aiec-qa-section-7.7",
+      "chapter": 7,
+      "region_id": "aiec-ch07",
+      "primary_source_id": "aiec-section-7.7",
+      "question": "Nếu dòng vốn AI chững lại, Việt Nam nên đánh giá chiến lược bằng gì?",
+      "answer": "Xem các khoản đầu tư có tạo ra năng lực sử dụng được cho nhiều ngành và nhiều kịch bản hay không. Năng suất, kỹ năng và hạ tầng dùng chung giúp chiến lược chịu được biến động dòng vốn.",
+      "source_ids": [
+        "aiec-section-7.7"
+      ],
+      "aliases": [
+        "Phép thử cho lời giải: nếu làn sóng vốn AI chững lại",
+        "Phép thử cho lời giải",
+        "nếu làn sóng vốn AI chững lại"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Phép thử cho lời giải: nếu làn sóng vốn AI chững lại"
+    },
+    {
+      "id": "aiec-qa-eval-tc02",
+      "chapter": 7,
+      "question": "Lợi thế năng lượng tái tạo của Việt Nam là gì?",
+      "answer": "Lợi thế năng lượng tái tạo của Việt Nam gồm: hơn 3.200 km bờ biển rất thuận lợi cho điện gió ngoài khơi, cường độ bức xạ mặt trời cao và hệ thống thủy điện phát triển (Quy hoạch điện VIII điều chỉnh đặt mục tiêu 183–236 GW vào năm 2030, trong đó điện mặt trời 46–73 GW). Khi kết hợp với cơ chế mua bán điện trực tiếp (DPPA theo Nghị định 57/2025/NĐ-CP), đây là lợi thế chiến lược để cung cấp nguồn điện xanh, sạch cho các trung tâm dữ liệu AI và khu công nghiệp thế hệ mới của các tập đoàn toàn cầu.",
+      "source_ids": [
+        "aiec-section-7.4"
+      ],
+      "aliases": [
+        "lợi thế năng lượng tái tạo của Việt Nam là gì",
+        "tiềm năng năng lượng tái tạo của Việt Nam",
+        "lợi thế điện gió điện mặt trời Việt Nam cho AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-7.4",
+      "region_id": "aiec-ch07"
+    }
+  ],
+  "sources": {
+    "aiec-section-7.1": {
+      "title": "Cửa sổ cơ hội của Việt Nam đến năm 2035",
+      "kind": "section",
+      "number": "7.1",
+      "page": 160,
+      "end_page": 162,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-section-7.2": {
+      "title": "Bốn làn sóng FDI và câu hỏi về làn sóng thứ tư",
+      "kind": "section",
+      "number": "7.2",
+      "page": 162,
+      "end_page": 168,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-figure-7.1": {
+      "title": "Bốn làn sóng đầu tư trực tiếp nước ngoài vào Việt Nam",
+      "kind": "figure",
+      "number": "7.1",
+      "page": 162,
+      "end_page": 162,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-figure-7.2": {
+      "title": "Giá trị Việt Nam giữ lại qua bốn làn sóng: từ tiền",
+      "kind": "figure",
+      "number": "7.2",
+      "page": 165,
+      "end_page": 165,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-figure-7.3": {
+      "title": "Ứng dụng, Thích ứng, Làm chủ: thứ tự ưu tiên ở",
+      "kind": "figure",
+      "number": "7.3",
+      "page": 168,
+      "end_page": 168,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-section-7.3": {
+      "title": "Từ lợi thế chi phí đến lợi thế năng suất",
+      "kind": "section",
+      "number": "7.3",
+      "page": 168,
+      "end_page": 170,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-section-7.4": {
+      "title": "Bảy lợi thế tiềm năng của Việt Nam",
+      "kind": "section",
+      "number": "7.4",
+      "page": 170,
+      "end_page": 173,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-figure-7.4": {
+      "title": "Hệ thống chính sách AI của Việt Nam",
+      "kind": "figure",
+      "number": "7.4",
+      "page": 172,
+      "end_page": 172,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-section-7.5": {
+      "title": "Bảy khoảng cách cấu trúc cần vượt qua",
+      "kind": "section",
+      "number": "7.5",
+      "page": 173,
+      "end_page": 175,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-section-7.6": {
+      "title": "Từ khoảng cách đến hành động: Lời giải chiến lược cho Việt Nam",
+      "kind": "section",
+      "number": "7.6",
+      "page": 175,
+      "end_page": 180,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-table-7.1": {
+      "title": "Ma trận ưu tiên theo ba nấc: mỗi nấc cần công cụ gì",
+      "kind": "table",
+      "number": "7.1",
+      "page": 176,
+      "end_page": 176,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-figure-7.5": {
+      "title": "Việt Nam trên các tầng công nghệ AI: nút hấp thụ",
+      "kind": "figure",
+      "number": "7.5",
+      "page": 178,
+      "end_page": 178,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-figure-7.6": {
+      "title": "Học gì, không sao chép gì",
+      "kind": "figure",
+      "number": "7.6",
+      "page": 179,
+      "end_page": 179,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-section-7.7": {
+      "title": "Phép thử cho lời giải: nếu làn sóng vốn AI chững lại",
+      "kind": "section",
+      "number": "7.7",
+      "page": 180,
+      "end_page": 184,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-figure-7.7": {
+      "title": "Ba lớp của một bong bóng công nghệ",
+      "kind": "figure",
+      "number": "7.7",
+      "page": 181,
+      "end_page": 181,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-ch07": {
+      "title": "Việt Nam trong nền kinh tế AI",
+      "kind": "chapter",
+      "number": null,
+      "page": 159,
+      "end_page": 184,
+      "parent_id": "aiec-ch07"
+    }
+  },
+  "print_pages": {
+    "159": "aiec-ch07",
+    "160": "aiec-ch07",
+    "161": "aiec-ch07",
+    "162": "aiec-ch07",
+    "163": "aiec-ch07",
+    "164": "aiec-ch07",
+    "165": "aiec-ch07",
+    "166": "aiec-ch07",
+    "167": "aiec-ch07",
+    "168": "aiec-ch07",
+    "169": "aiec-ch07",
+    "170": "aiec-ch07",
+    "171": "aiec-ch07",
+    "172": "aiec-ch07",
+    "173": "aiec-ch07",
+    "174": "aiec-ch07",
+    "175": "aiec-ch07",
+    "176": "aiec-ch07",
+    "177": "aiec-ch07",
+    "178": "aiec-ch07",
+    "179": "aiec-ch07",
+    "180": "aiec-ch07",
+    "181": "aiec-ch07",
+    "182": "aiec-ch07",
+    "183": "aiec-ch07",
+    "184": "aiec-ch07"
+  }
+}

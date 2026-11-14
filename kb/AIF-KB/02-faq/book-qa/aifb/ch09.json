@@ -1,0 +1,224 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-ch09",
+    "kind": "chapter",
+    "chapter": 9,
+    "title": "Bản đồ chuyển đổi theo phòng ban",
+    "start": 149,
+    "end": 160
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-009",
+      "chapter": 9,
+      "question": "Bản đồ chuyển đổi theo phòng ban giúp quyết định việc gì?",
+      "answer": "Bản đồ giúp phân loại công việc theo phần nên tự động hóa, phần nên dùng AI để tăng cường và phần cần con người giữ vai trò chính. Đơn vị phân tích là công việc cụ thể trong phòng ban.",
+      "source_ids": [
+        "aifb-section-9.1",
+        "aifb-section-9.2"
+      ],
+      "aliases": [
+        "bản đồ phòng ban",
+        "ma trận tự động hóa tăng cường",
+        "Vận hành & Sản xuất"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-9.1",
+      "region_id": "aifb-ch09"
+    },
+    {
+      "id": "aifb-qa-section-9.1",
+      "chapter": 9,
+      "region_id": "aifb-ch09",
+      "primary_source_id": "aifb-section-9.1",
+      "question": "Vận hành và sản xuất nên phân vai AI ra sao?",
+      "answer": "AI có thể hỗ trợ phân tích dữ liệu, phát hiện bất thường và gợi ý điều chỉnh. Quyết định tác động lớn tới an toàn, chất lượng hoặc sản lượng cần kiểm soát và người chịu trách nhiệm.",
+      "source_ids": [
+        "aifb-section-9.1"
+      ],
+      "aliases": [
+        "Vận hành & Sản xuất"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Vận hành & Sản xuất"
+    },
+    {
+      "id": "aifb-qa-section-9.2",
+      "chapter": 9,
+      "region_id": "aifb-ch09",
+      "primary_source_id": "aifb-section-9.2",
+      "question": "AI hỗ trợ tài chính và kế toán ở phần việc nào?",
+      "answer": "AI có thể chuẩn bị dữ liệu, hỗ trợ đối chiếu và phát hiện ngoại lệ. Người có thẩm quyền kiểm tra và phê duyệt các quyết định tài chính quan trọng.",
+      "source_ids": [
+        "aifb-section-9.2"
+      ],
+      "aliases": [
+        "Tài chính – Kế toán"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Tài chính – Kế toán"
+    },
+    {
+      "id": "aifb-qa-section-9.3",
+      "chapter": 9,
+      "region_id": "aifb-ch09",
+      "primary_source_id": "aifb-section-9.3",
+      "question": "Marketing và bán hàng nên giao việc gì cho AI?",
+      "answer": "Dùng AI cho nghiên cứu, chuẩn bị nội dung, phân loại nhu cầu hoặc hỗ trợ báo giá trong phạm vi đã định. Đội nghiệp vụ kiểm tra thông điệp và cam kết với khách hàng.",
+      "source_ids": [
+        "aifb-section-9.3"
+      ],
+      "aliases": [
+        "Marketing & Bán hàng"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Marketing & Bán hàng"
+    },
+    {
+      "id": "aifb-qa-section-9.4",
+      "chapter": 9,
+      "region_id": "aifb-ch09",
+      "primary_source_id": "aifb-section-9.4",
+      "question": "Chăm sóc khách hàng nên chuyển từ AI sang người khi nào?",
+      "answer": "Dùng AI cho yêu cầu phổ biến và có quy tắc. Chuyển cho người khi xuất hiện khiếu nại phức tạp, ngoại lệ hoặc cần quyền quyết định vượt phạm vi giao.",
+      "source_ids": [
+        "aifb-section-9.4"
+      ],
+      "aliases": [
+        "Chăm sóc khách hàng"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Chăm sóc khách hàng"
+    },
+    {
+      "id": "aifb-qa-section-9.5",
+      "chapter": 9,
+      "region_id": "aifb-ch09",
+      "primary_source_id": "aifb-section-9.5",
+      "question": "Nhân sự có thể dùng AI ra sao trong quy trình?",
+      "answer": "AI hỗ trợ tìm, tổng hợp và chuẩn bị thông tin. Doanh nghiệp cần kiểm soát dữ liệu, kiểm định sai lệch và giữ người chịu trách nhiệm đối với quyết định ảnh hưởng đến nhân viên.",
+      "source_ids": [
+        "aifb-section-9.5"
+      ],
+      "aliases": [
+        "Nhân sự"
+      ],
+      "status": "draft_for_editorial_review"
+    },
+    {
+      "id": "aifb-qa-eval-28a",
+      "chapter": 9,
+      "question": "Doanh nghiệp sản xuất truyền thống muốn chuyển đổi AI thì nên ưu tiên khâu nào trước?",
+      "answer": "Doanh nghiệp sản xuất truyền thống nên ưu tiên các khâu có dữ liệu định lượng rõ, quy trình lặp lại và đo được ngay hiệu quả (ROI Tầng 1) gồm: (1) Kiểm tra chất lượng sản phẩm (KCS/QA ngoại quan bằng thị giác máy tính); (2) Dự báo nhu cầu và tối ưu tồn kho vật tư; (3) Bảo trì dự đoán (Predictive Maintenance) cho thiết bị trọng yếu; hoặc chuẩn hóa báo giá/đơn hàng ở khối vận hành.",
+      "source_ids": [
+        "aifb-section-9.1"
+      ],
+      "aliases": [
+        "doanh nghiệp sản xuất truyền thống muốn chuyển đổi AI thì nên ưu tiên khâu nào trước",
+        "ưu tiên khâu nào trong sản xuất"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-9.1",
+      "region_id": "aifb-ch09"
+    },
+    {
+      "id": "aifb-qa-eval-33b",
+      "chapter": 9,
+      "question": "Khoản mục cắt giảm chi phí hành chính và xử lý chứng từ lặp lại thường giúp tiết kiệm rõ rệt nhất ở bộ phận nào?",
+      "answer": "Khoản mục đầu tiên (tự động hóa xử lý chứng từ, nhập liệu, đối soát và tổng hợp báo cáo theo mẫu) giúp tiết kiệm rõ rệt và đo được nhanh nhất ở bộ phận Tài chính – Kế toán và bộ phận Chăm sóc khách hàng / Hành chính nhân sự.",
+      "source_ids": [
+        "aifb-section-9.2"
+      ],
+      "aliases": [
+        "khoản mục đầu tiên mà bạn vừa liệt kê thường giúp tiết kiệm được ở bộ phận nào rõ rệt nhất",
+        "tiết kiệm được ở bộ phận nào rõ rệt nhất"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-9.2",
+      "region_id": "aifb-ch09"
+    }
+  ],
+  "sources": {
+    "aifb-figure-9.1": {
+      "title": "Ma trận Tự động hóa – Tăng cường theo mức rủi ro",
+      "kind": "figure",
+      "number": "9.1",
+      "page": 150,
+      "end_page": 150,
+      "parent_id": "aifb-ch09"
+    },
+    "aifb-section-9.1": {
+      "title": "Vận hành & Sản xuất",
+      "kind": "section",
+      "number": "9.1",
+      "page": 151,
+      "end_page": 152,
+      "parent_id": "aifb-ch09"
+    },
+    "aifb-section-9.2": {
+      "title": "Tài chính – Kế toán",
+      "kind": "section",
+      "number": "9.2",
+      "page": 152,
+      "end_page": 153,
+      "parent_id": "aifb-ch09"
+    },
+    "aifb-section-9.3": {
+      "title": "Marketing & Bán hàng",
+      "kind": "section",
+      "number": "9.3",
+      "page": 153,
+      "end_page": 154,
+      "parent_id": "aifb-ch09"
+    },
+    "aifb-section-9.4": {
+      "title": "Chăm sóc khách hàng",
+      "kind": "section",
+      "number": "9.4",
+      "page": 154,
+      "end_page": 155,
+      "parent_id": "aifb-ch09"
+    },
+    "aifb-section-9.5": {
+      "title": "Nhân sự",
+      "kind": "section",
+      "number": "9.5",
+      "page": 155,
+      "end_page": 160,
+      "parent_id": "aifb-ch09"
+    },
+    "aifb-figure-9.2": {
+      "title": "Trình tự triển khai gợi ý qua năm phòng ban (minh họa,",
+      "kind": "figure",
+      "number": "9.2",
+      "page": 158,
+      "end_page": 158,
+      "parent_id": "aifb-ch09"
+    },
+    "aifb-ch09": {
+      "title": "Bản đồ chuyển đổi theo phòng ban",
+      "kind": "chapter",
+      "number": null,
+      "page": 149,
+      "end_page": 160,
+      "parent_id": "aifb-ch09"
+    }
+  },
+  "print_pages": {
+    "149": "aifb-ch09",
+    "150": "aifb-ch09",
+    "151": "aifb-ch09",
+    "152": "aifb-ch09",
+    "153": "aifb-ch09",
+    "154": "aifb-ch09",
+    "155": "aifb-ch09",
+    "156": "aifb-ch09",
+    "157": "aifb-ch09",
+    "158": "aifb-ch09",
+    "159": "aifb-ch09",
+    "160": "aifb-ch09"
+  }
+}

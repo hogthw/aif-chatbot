@@ -1,0 +1,85 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-p5",
+    "kind": "back_or_front_matter",
+    "title": "Lời mở đầu",
+    "start": 5,
+    "end": 20
+  },
+  "cards": [
+    {
+      "id": "aiec-qa-p5",
+      "chapter": null,
+      "region_id": "aiec-p5",
+      "primary_source_id": "aiec-p5",
+      "question": "Lời mở đầu dùng hình ảnh hecta và megawatt để nói điều gì?",
+      "answer": "Lời mở đầu sách Nền Kinh tế Trí tuệ (AI Economy — tác giả Trần Tấn Sỹ) đặt ra luận đề trung tâm: AI không chỉ là một công cụ phần mềm mà đang trở thành yếu tố sản xuất mới và hạ tầng chiến lược của quốc gia ('tập trung ở tầng xây, phân tán ở tầng dùng'). Cuốn sách cung cấp bản đồ phân tích dòng vốn, chuỗi cung ứng bán dẫn – năng lượng, chiến lược của các cường quốc và lộ trình 8 trụ cột để Việt Nam nắm bắt cửa sổ cơ hội đến năm 2035.",
+      "source_ids": [
+        "aiec-p5"
+      ],
+      "aliases": [
+        "Lời mở đầu",
+        "lời mở đầu AI Economy",
+        "luận đề cuốn sách Nền Kinh tế Trí tuệ",
+        "tác giả Trần Tấn Sỹ",
+        "tập trung ở tầng xây phân tán ở tầng dùng"
+      ],
+      "status": "draft_for_editorial_review"
+    }
+  ],
+  "sources": {
+    "aiec-figure-0.1": {
+      "title": "Luận đề trong một hình: tập trung ở tầng xây, phân tán ở tầng dùng",
+      "kind": "figure",
+      "number": "0.1",
+      "page": 10,
+      "end_page": 10,
+      "parent_id": "aiec-p5"
+    },
+    "aiec-figure-0.2": {
+      "title": "Số liệu từ lời công bố đến kết quả thực tế",
+      "kind": "figure",
+      "number": "0.2",
+      "page": 16,
+      "end_page": 16,
+      "parent_id": "aiec-p5"
+    },
+    "aiec-table-0.1": {
+      "title": "Bản đồ khung phân tích: mỗi câu hỏi, một cách đọc",
+      "kind": "table",
+      "number": "0.1",
+      "page": 17,
+      "end_page": 17,
+      "parent_id": "aiec-p5"
+    },
+    "aiec-p5": {
+      "title": "Lời mở đầu",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 5,
+      "end_page": 20,
+      "parent_id": "aiec-p5"
+    }
+  },
+  "print_pages": {
+    "5": "aiec-p5",
+    "6": "aiec-p5",
+    "7": "aiec-p5",
+    "8": "aiec-p5",
+    "9": "aiec-p5",
+    "10": "aiec-p5",
+    "11": "aiec-p5",
+    "12": "aiec-p5",
+    "13": "aiec-p5",
+    "14": "aiec-p5",
+    "15": "aiec-p5",
+    "16": "aiec-p5",
+    "17": "aiec-p5",
+    "18": "aiec-p5",
+    "19": "aiec-p5",
+    "20": "aiec-p5"
+  }
+}

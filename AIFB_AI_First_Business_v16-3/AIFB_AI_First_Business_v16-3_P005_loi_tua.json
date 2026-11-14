@@ -1,0 +1,48 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-p5",
+    "kind": "back_or_front_matter",
+    "title": "Lời tựa",
+    "start": 5,
+    "end": 7
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-p5",
+      "chapter": null,
+      "region_id": "aifb-p5",
+      "primary_source_id": "aifb-p5",
+      "question": "Lời tựa AI First Business đặt ra vấn đề gì?",
+      "answer": "Lời tựa sách AI First Business (tác giả Trần Tấn Sỹ — nhà sáng lập IEP) đặt ra bài toán chuyển dịch từ cấp độ vĩ mô của Nền Kinh tế Trí tuệ về cấp độ vi mô của từng doanh nghiệp: làm thế nào để thu hẹp khoảng cách giữa 'biết và dùng thử công cụ AI' với việc biến AI thành năng lực vận hành thực chất, tái thiết quy trình và tạo ra kết quả kinh doanh đo lường được.",
+      "source_ids": [
+        "aifb-p5"
+      ],
+      "aliases": [
+        "Lời tựa",
+        "lời tựa AI First Business",
+        "tác giả Trần Tấn Sỹ",
+        "Trần Tấn Sỹ là ai",
+        "mục đích cuốn sách AI First Business"
+      ],
+      "status": "draft_for_editorial_review"
+    }
+  ],
+  "sources": {
+    "aifb-p5": {
+      "title": "Lời tựa",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 5,
+      "end_page": 7,
+      "parent_id": "aifb-p5"
+    }
+  },
+  "print_pages": {
+    "5": "aifb-p5",
+    "6": "aifb-p5",
+    "7": "aifb-p5"
+  }
+}

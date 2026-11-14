@@ -1,0 +1,293 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-ch09",
+    "kind": "chapter",
+    "chapter": 9,
+    "title": "Tự động hóa và cơn địa chấn ngành nghề",
+    "start": 217,
+    "end": 232
+  },
+  "cards": [
+    {
+      "id": "aiec-qa-009",
+      "chapter": 9,
+      "question": "Vì sao sản lượng có thể tăng mà việc làm tăng chậm?",
+      "answer": "Tự động hóa thay đổi lượng và loại lao động cần cho mỗi đơn vị sản lượng. Sách xem xét tác động theo ngành, từ dệt may, điện tử và nông nghiệp đến tài chính và bất động sản công nghiệp.",
+      "source_ids": [
+        "aiec-section-9.1",
+        "aiec-section-9.2",
+        "aiec-section-9.3",
+        "aiec-section-9.4",
+        "aiec-section-9.5",
+        "aiec-section-9.6"
+      ],
+      "aliases": [
+        "sản lượng và việc làm",
+        "tự động hóa ngành nghề",
+        "Rủi ro đối với nền kinh tế quốc gia"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-9.1",
+      "region_id": "aiec-ch09"
+    },
+    {
+      "id": "aiec-qa-section-9.1",
+      "chapter": 9,
+      "region_id": "aiec-ch09",
+      "primary_source_id": "aiec-section-9.1",
+      "question": "Tự động hóa tạo rủi ro gì ở cấp nền kinh tế?",
+      "answer": "Khi công nghệ giảm lượng lao động cần cho một đơn vị đầu ra, tăng xuất khẩu hoặc sản lượng có thể tạo ít việc hơn trước. Rủi ro lớn hơn ở ngành dựa mạnh vào lao động giá thấp.",
+      "source_ids": [
+        "aiec-section-9.1"
+      ],
+      "aliases": [
+        "Rủi ro đối với nền kinh tế quốc gia"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Rủi ro đối với nền kinh tế quốc gia"
+    },
+    {
+      "id": "aiec-qa-section-9.2",
+      "chapter": 9,
+      "region_id": "aiec-ch09",
+      "primary_source_id": "aiec-section-9.2",
+      "question": "Dệt may và da giày cần cạnh tranh bằng gì khi lao động giá rẻ mất lợi thế?",
+      "answer": "Chương nhấn mạnh thiết kế, tốc độ đáp ứng, quản lý sản xuất và khả năng tham gia sâu hơn vào chuỗi giá trị. Tự động hóa làm thu hẹp lợi thế của gia công dựa vào chi phí.",
+      "source_ids": [
+        "aiec-section-9.2"
+      ],
+      "aliases": [
+        "Dệt may và da giày: Khi lợi thế lao động giá rẻ dần mất đi",
+        "Dệt may và da giày",
+        "Khi lợi thế lao động giá rẻ dần mất đi"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Dệt may và da giày: Khi lợi thế lao động giá rẻ dần mất đi"
+    },
+    {
+      "id": "aiec-qa-section-9.3",
+      "chapter": 9,
+      "region_id": "aiec-ch09",
+      "primary_source_id": "aiec-section-9.3",
+      "question": "Điện tử và lắp ráp thay đổi thế nào khi dùng AI?",
+      "answer": "AI đi vào kiểm tra chất lượng và vận hành nhà máy. Cơ hội giữ thêm giá trị đến từ năng lực kỹ thuật, tổ chức sản xuất thông minh và tham gia khâu thiết kế.",
+      "source_ids": [
+        "aiec-section-9.3"
+      ],
+      "aliases": [
+        "Điện tử và lắp ráp: Khi Việt Nam bước vào kỷ nguyên nhà máy vận hành bằng AI",
+        "Điện tử và lắp ráp",
+        "Khi Việt Nam bước vào kỷ nguyên nhà máy vận hành bằng AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Điện tử và lắp ráp: Khi Việt Nam bước vào kỷ nguyên nhà máy vận hành bằng AI"
+    },
+    {
+      "id": "aiec-qa-section-9.4",
+      "chapter": 9,
+      "region_id": "aiec-ch09",
+      "primary_source_id": "aiec-section-9.4",
+      "question": "AI có thể tạo giá trị ở đâu trong nông nghiệp?",
+      "answer": "AI hỗ trợ quan sát mùa vụ, phát hiện bất thường và tối ưu quyết định đầu vào. Giá trị thực tế phụ thuộc vào dữ liệu, điều kiện đồng ruộng và khả năng đưa công cụ tới người sản xuất.",
+      "source_ids": [
+        "aiec-section-9.4"
+      ],
+      "aliases": [
+        "Nông nghiệp: Khi AI bước vào cánh đồng",
+        "Nông nghiệp",
+        "Khi AI bước vào cánh đồng"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Nông nghiệp: Khi AI bước vào cánh đồng"
+    },
+    {
+      "id": "aiec-qa-section-9.5",
+      "chapter": 9,
+      "region_id": "aiec-ch09",
+      "primary_source_id": "aiec-section-9.5",
+      "question": "AI thay đổi dịch vụ tài chính theo hai hướng nào?",
+      "answer": "AI cải thiện vận hành như xử lý dữ liệu và quản trị rủi ro, đồng thời giúp thiết kế và cung cấp dịch vụ phù hợp hơn với từng khách hàng.",
+      "source_ids": [
+        "aiec-section-9.5"
+      ],
+      "aliases": [
+        "Ngân hàng và tài chính: Khi AI trở thành chuyên gia tài chính của mọi khách hàng",
+        "Ngân hàng và tài chính",
+        "Khi AI trở thành chuyên gia tài chính của mọi khách hàng"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Ngân hàng và tài chính: Khi AI trở thành \"chuyên gia tài chính\" của mọi khách hàng"
+    },
+    {
+      "id": "aiec-qa-section-9.6",
+      "chapter": 9,
+      "region_id": "aiec-ch09",
+      "primary_source_id": "aiec-section-9.6",
+      "question": "AI thay đổi tiêu chí cạnh tranh của bất động sản công nghiệp thế nào?",
+      "answer": "Ngoài đất và vị trí, dự án công nghệ cần điện, kết nối, dịch vụ vận hành và nhân lực. Khả năng cung cấp các điều kiện này làm thay đổi loại khu công nghiệp có thể thu hút dự án.",
+      "source_ids": [
+        "aiec-section-9.6"
+      ],
+      "aliases": [
+        "Bất động sản công nghiệp: AI đang tạo ra một thế hệ khu công nghiệp hoàn toàn mới",
+        "Bất động sản công nghiệp",
+        "AI đang tạo ra một thế hệ khu công nghiệp hoàn toàn mới"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Bất động sản công nghiệp: AI đang tạo ra một thế hệ khu công nghiệp hoàn toàn mới"
+    },
+    {
+      "id": "aiec-qa-section-9.7",
+      "chapter": 9,
+      "region_id": "aiec-ch09",
+      "primary_source_id": "aiec-section-9.7",
+      "question": "Vì sao tác động của AI lan ra ngoài các ngành chủ lực?",
+      "answer": "AI hỗ trợ nhiều tác vụ chung như phân tích, dự báo và xử lý thông tin. Mỗi ngành kết hợp những năng lực ấy với dữ liệu và quy trình riêng nên hình thức lan tỏa khác nhau.",
+      "source_ids": [
+        "aiec-section-9.7"
+      ],
+      "aliases": [
+        "Lan tỏa toàn diện: Khi AI định hình lại mọi ngóc ngách của nền kinh tế",
+        "Lan tỏa toàn diện",
+        "Khi AI định hình lại mọi ngóc ngách của nền kinh tế"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Lan tỏa toàn diện: Khi AI định hình lại mọi ngóc ngách của nền kinh tế"
+    },
+    {
+      "id": "aiec-qa-section-9.8",
+      "chapter": 9,
+      "region_id": "aiec-ch09",
+      "primary_source_id": "aiec-section-9.8",
+      "question": "Tái thiết ngành nghĩa là gì trong chương này?",
+      "answer": "Tái thiết là điều chỉnh nơi ngành tạo giá trị. Ví dụ, dệt may dịch từ gia công sang thiết kế và tốc độ đáp ứng, còn điện tử tăng vai trò của vận hành thông minh và thiết kế.",
+      "source_ids": [
+        "aiec-section-9.8"
+      ],
+      "aliases": [
+        "Tái thiết trong dòng chảy mới"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Tái thiết trong dòng chảy mới"
+    },
+    {
+      "id": "aiec-qa-eval-33b",
+      "chapter": 9,
+      "question": "Khoản mục giảm chi phí xử lý thông tin và chứng từ lặp lại thường giúp tiết kiệm ở bộ phận nào rõ rệt nhất?",
+      "answer": "Khoản mục đầu tiên (tự động hóa xử lý chứng từ, nhập liệu, đối soát dữ liệu và trả lời truy vấn theo quy tắc) mang lại mức tiết kiệm thời gian và chi phí rõ rệt nhất ở bộ phận Tài chính – Kế toán, Hành chính – Nhân sự và bộ phận Dịch vụ khách hàng / Vận hành nghiệp vụ văn phòng.",
+      "source_ids": [
+        "aiec-section-9.5"
+      ],
+      "aliases": [
+        "khoản mục đầu tiên mà bạn vừa liệt kê thường giúp tiết kiệm được ở bộ phận nào rõ rệt nhất",
+        "tiết kiệm ở bộ phận nào rõ rệt nhất"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-9.5",
+      "region_id": "aiec-ch09"
+    }
+  ],
+  "sources": {
+    "aiec-section-9.1": {
+      "title": "Rủi ro đối với nền kinh tế quốc gia",
+      "kind": "section",
+      "number": "9.1",
+      "page": 219,
+      "end_page": 222,
+      "parent_id": "aiec-ch09"
+    },
+    "aiec-figure-9.1": {
+      "title": "Các ngành chủ lực của Việt Nam theo cơ chế tác động",
+      "kind": "figure",
+      "number": "9.1",
+      "page": 219,
+      "end_page": 219,
+      "parent_id": "aiec-ch09"
+    },
+    "aiec-section-9.2": {
+      "title": "Dệt may và da giày: Khi lợi thế lao động giá rẻ dần mất đi",
+      "kind": "section",
+      "number": "9.2",
+      "page": 222,
+      "end_page": 224,
+      "parent_id": "aiec-ch09"
+    },
+    "aiec-section-9.3": {
+      "title": "Điện tử và lắp ráp: Khi Việt Nam bước vào kỷ nguyên nhà máy vận hành bằng AI",
+      "kind": "section",
+      "number": "9.3",
+      "page": 224,
+      "end_page": 226,
+      "parent_id": "aiec-ch09"
+    },
+    "aiec-section-9.4": {
+      "title": "Nông nghiệp: Khi AI bước vào cánh đồng",
+      "kind": "section",
+      "number": "9.4",
+      "page": 226,
+      "end_page": 227,
+      "parent_id": "aiec-ch09"
+    },
+    "aiec-section-9.5": {
+      "title": "Ngân hàng và tài chính: Khi AI trở thành \"chuyên gia tài chính\" của mọi khách hàng",
+      "kind": "section",
+      "number": "9.5",
+      "page": 227,
+      "end_page": 228,
+      "parent_id": "aiec-ch09"
+    },
+    "aiec-section-9.6": {
+      "title": "Bất động sản công nghiệp: AI đang tạo ra một thế hệ khu công nghiệp hoàn toàn mới",
+      "kind": "section",
+      "number": "9.6",
+      "page": 228,
+      "end_page": 230,
+      "parent_id": "aiec-ch09"
+    },
+    "aiec-section-9.7": {
+      "title": "Lan tỏa toàn diện: Khi AI định hình lại mọi ngóc ngách của nền kinh tế",
+      "kind": "section",
+      "number": "9.7",
+      "page": 230,
+      "end_page": 231,
+      "parent_id": "aiec-ch09"
+    },
+    "aiec-section-9.8": {
+      "title": "Tái thiết trong dòng chảy mới",
+      "kind": "section",
+      "number": "9.8",
+      "page": 231,
+      "end_page": 232,
+      "parent_id": "aiec-ch09"
+    },
+    "aiec-ch09": {
+      "title": "Tự động hóa và cơn địa chấn ngành nghề",
+      "kind": "chapter",
+      "number": null,
+      "page": 217,
+      "end_page": 232,
+      "parent_id": "aiec-ch09"
+    }
+  },
+  "print_pages": {
+    "217": "aiec-ch09",
+    "218": "aiec-ch09",
+    "219": "aiec-ch09",
+    "220": "aiec-ch09",
+    "221": "aiec-ch09",
+    "222": "aiec-ch09",
+    "223": "aiec-ch09",
+    "224": "aiec-ch09",
+    "225": "aiec-ch09",
+    "226": "aiec-ch09",
+    "227": "aiec-ch09",
+    "228": "aiec-ch09",
+    "229": "aiec-ch09",
+    "230": "aiec-ch09",
+    "231": "aiec-ch09",
+    "232": "aiec-ch09"
+  }
+}

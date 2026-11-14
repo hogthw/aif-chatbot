@@ -1,0 +1,306 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-ch02",
+    "kind": "chapter",
+    "chapter": 2,
+    "title": "Mô hình 3A: từ chắp vá đến tái thiết",
+    "start": 25,
+    "end": 40
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-002",
+      "chapter": 2,
+      "question": "Mô hình 3A gồm gì và có phải đi theo thứ tự không?",
+      "answer": "Mô hình 3A gồm 3 nấc chiến lược cho từng sáng kiến: (1) Adopt (Ứng dụng) — dùng công cụ AI đóng gói sẵn để giải quyết nhanh tác vụ phổ thông; (2) Adapt (Thích ứng) — kết nối và tùy biến AI trên dữ liệu, ngữ cảnh và quy trình riêng của doanh nghiệp; (3) Advance (Làm chủ) — tự phát triển mô hình hoặc thuật toán lõi tạo lợi thế độc quyền. Doanh nghiệp không bắt buộc đi tuần tự cho toàn công ty mà chọn nấc theo từng bài toán.",
+      "source_ids": [
+        "aifb-section-2.2",
+        "aifb-section-2.4",
+        "aifb-section-2.5"
+      ],
+      "aliases": [
+        "3A",
+        "adopt adapt advance",
+        "ba bậc bắt buộc",
+        "3A có phải đi tuần tự",
+        "Ba nấc chiến lược: Adopt – Adapt – Advance",
+        "Ba nấc chiến lược",
+        "Adopt – Adapt – Advance",
+        "mô hình 3A là gì",
+        "ba nấc chiến lược 3A",
+        "Adapt là gì",
+        "ứng dụng 3A vào doanh nghiệp như thế nào"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-2.2",
+      "region_id": "aifb-ch02"
+    },
+    {
+      "id": "aifb-qa-section-2.1",
+      "chapter": 2,
+      "region_id": "aifb-ch02",
+      "primary_source_id": "aifb-section-2.1",
+      "question": "Vì sao nhiều dự án AI chưa chứng minh được giá trị?",
+      "answer": "Một thử nghiệm có thể cho kết quả kỹ thuật tốt nhưng thiếu chỉ số kinh doanh, dữ liệu thực tế, chủ sở hữu hoặc theo dõi sau triển khai. Cần đọc số liệu khảo sát cùng cách định nghĩa thành công.",
+      "source_ids": [
+        "aifb-section-2.1"
+      ],
+      "aliases": [
+        "Con số không thể làm ngơ, và giới hạn thực sự của nó"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Con số không thể làm ngơ, và giới hạn thực sự của nó"
+    },
+    {
+      "id": "aifb-qa-section-2.2",
+      "chapter": 2,
+      "region_id": "aifb-ch02",
+      "primary_source_id": "aifb-section-2.2",
+      "question": "Doanh nghiệp chọn Adopt, Adapt hay Advance như thế nào?",
+      "answer": "Adopt dùng giải pháp sẵn có. Adapt điều chỉnh công nghệ theo dữ liệu và quy trình. Advance xây năng lực làm chủ khi có lý do chiến lược. Đây là ba lựa chọn mức tham gia cho từng sáng kiến.",
+      "source_ids": [
+        "aifb-section-2.2"
+      ],
+      "aliases": [
+        "Ba nấc chiến lược: Adopt – Adapt – Advance",
+        "Ba nấc chiến lược",
+        "Adopt – Adapt – Advance"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Ba nấc chiến lược: Adopt – Adapt – Advance"
+    },
+    {
+      "id": "aifb-qa-section-2.3",
+      "chapter": 2,
+      "region_id": "aifb-ch02",
+      "primary_source_id": "aifb-section-2.3",
+      "question": "Bolt-on có chủ đích, Bolt-on chắp vá và AI-First khác nhau ra sao?",
+      "answer": "Doanh nghiệp AI-First đặt AI vào trung tâm chiến lược, kiến trúc dữ liệu và thiết kế lại quy trình vận hành từ gốc; nếu gỡ AI ra thì mô hình vận hành không thể chạy như cũ. Ngược lại, doanh nghiệp truyền thống thường áp dụng AI kiểu Bolt-on (gắn thêm một tính năng rời rạc vào phần mềm hoặc quy trình cũ mà không đổi luồng dữ liệu và quyền quyết định). Bolt-on có chủ đích có thể dùng ngắn hạn nếu gắn với chỉ số đo lường và chủ sở hữu rõ ràng.",
+      "source_ids": [
+        "aifb-section-2.3"
+      ],
+      "aliases": [
+        "bolt on và ai first",
+        "đặc trưng cốt lõi của doanh nghiệp ai first",
+        "doanh nghiệp truyền thống áp dụng ai",
+        "sản phẩm thiết kế theo tư duy ai first",
+        "khác biệt với phần mềm cũ gắn thêm tính năng chatbot",
+        "“Bolt-on” và “AI-First”, không phải nhị nguyên chắp vá và toàn diện"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "“Bolt-on” và “AI-First”, không phải nhị nguyên chắp vá và toàn diện"
+    },
+    {
+      "id": "aifb-qa-section-2.4",
+      "chapter": 2,
+      "region_id": "aifb-ch02",
+      "primary_source_id": "aifb-section-2.4",
+      "question": "Bộ lọc ba điều kiện triển khai AI gồm gì?",
+      "answer": "Kiểm tra năng lực công nghệ, độ phù hợp với ngôn ngữ, dữ liệu và quy trình thực tế, cùng năng lực bổ trợ của tổ chức như dữ liệu, kỹ năng, quản trị và hạ tầng.",
+      "source_ids": [
+        "aifb-section-2.4"
+      ],
+      "aliases": [
+        "bộ lọc ba điều kiện",
+        "3 điều kiện triển khai AI",
+        "Bộ lọc ba điều kiện triển khai AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Bộ lọc ba điều kiện triển khai AI"
+    },
+    {
+      "id": "aifb-qa-section-2.5",
+      "chapter": 2,
+      "region_id": "aifb-ch02",
+      "primary_source_id": "aifb-section-2.5",
+      "question": "Đánh giá năng lực quản trị trước khi mở rộng AI bằng tiêu chí nào?",
+      "answer": "Xem sáu thói quen: quản trị theo mục tiêu, chuẩn hóa quy trình, chủ sở hữu quyết định, kỷ luật dữ liệu, cơ chế học hỏi và khả năng nhân rộng. Điểm trung bình dưới 3 trên thang 5 là tín hiệu cần củng cố.",
+      "source_ids": [
+        "aifb-section-2.5"
+      ],
+      "aliases": [
+        "Kiểm tra năng lực quản trị trước khi mở rộng AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Kiểm tra năng lực quản trị trước khi mở rộng AI"
+    },
+    {
+      "id": "aifb-qa-section-2.6",
+      "chapter": 2,
+      "region_id": "aifb-ch02",
+      "primary_source_id": "aifb-section-2.6",
+      "question": "Năm bước đánh giá trước khi rót vốn AI là gì?",
+      "answer": "Xác định mục tiêu kinh doanh, kiểm tra dữ liệu và hạ tầng cùng chi phí, đánh giá năng lực và tâm thế đội ngũ, xác lập bảo trợ cấp cao, rồi định nghĩa thành công bằng chỉ số.",
+      "source_ids": [
+        "aifb-section-2.6"
+      ],
+      "aliases": [
+        "Khung 5 bước đánh giá năng lực sẵn sàng trước khi rót vốn"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Khung 5 bước đánh giá năng lực sẵn sàng trước khi rót vốn"
+    },
+    {
+      "id": "aifb-qa-section-2.7",
+      "chapter": 2,
+      "region_id": "aifb-ch02",
+      "primary_source_id": "aifb-section-2.7",
+      "question": "Tự chấm nhanh một sáng kiến AI cần hỏi gì?",
+      "answer": "Hỏi về chỉ số kinh doanh, lựa chọn 3A, bằng chứng vượt qua bộ lọc ba điều kiện, năng lực quản trị nền tảng và cá nhân chịu trách nhiệm về kết quả.",
+      "source_ids": [
+        "aifb-section-2.7"
+      ],
+      "aliases": [
+        "Tự chấm điểm nhanh: Tổ chức của bạn đang ở đâu?",
+        "Tự chấm điểm nhanh",
+        "Tổ chức của bạn đang ở đâu?"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Tự chấm điểm nhanh: Tổ chức của bạn đang ở đâu?"
+    },
+    {
+      "id": "aifb-qa-eval-12",
+      "chapter": 2,
+      "question": "Dùng AI rồi, tại sao nhân viên vẫn phải chuẩn hóa dữ liệu và quy trình?",
+      "answer": "AI là 'tấm gương phóng đại' năng lực vận hành: nó không tự sửa được nền tảng quản trị yếu. Nếu dữ liệu đầu vào rác hoặc phân mảnh, AI sẽ sinh ảo giác (hallucination); nếu quy trình thiếu chuẩn và không rõ quyền quyết định, tự động hóa chỉ làm sai sót lan nhanh hơn. Chuẩn hóa dữ liệu và quy trình giúp vượt qua Bộ lọc 3 điều kiện triển khai AI, cung cấp Tri thức xác thực cho Agent và tích lũy tài sản bổ trợ ROI Tầng 2.",
+      "source_ids": [
+        "aifb-section-2.4"
+      ],
+      "aliases": [
+        "tại sao nhân viên vẫn phải chuẩn hóa dữ liệu và quy trình",
+        "chuẩn hóa dữ liệu trước khi dùng AI",
+        "tấm gương phóng đại"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-2.4",
+      "region_id": "aifb-ch02"
+    },
+    {
+      "id": "aifb-qa-eval-34b",
+      "chapter": 2,
+      "question": "Làm sao nhận biết sớm công ty đang mắc sai lầm về dữ liệu phân mảnh và thiếu chuẩn hóa khi triển khai AI?",
+      "answer": "Các dấu hiệu nhận biết sớm công ty đang mắc sai lầm thứ hai (dữ liệu phân mảnh, chưa chuẩn hóa và chưa kiểm thử bối cảnh — Mục 2.4 & Trụ cột 2 EAR Index™) gồm: (1) Không xác định được ngay ai là chủ sở hữu (Data Owner) của tập dữ liệu phục vụ bài toán; (2) Cùng một chỉ số hoặc danh mục sản phẩm nhưng mỗi phòng ban lưu một file Excel/hệ thống khác nhau; (3) AI trả lời tốt câu hỏi mẫu tiếng Anh nhưng liên tục nhầm lẫn thuật ngữ chuyên ngành, chính sách giá hoặc quy định nội bộ khi chạy thử với dữ liệu thực tế.",
+      "source_ids": [
+        "aifb-section-2.4"
+      ],
+      "aliases": [
+        "làm sao để nhận biết sớm công ty mình đang mắc phải sai lầm thứ hai mà bạn vừa nói",
+        "dấu hiệu nhận biết sai lầm thứ hai"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-2.4",
+      "region_id": "aifb-ch02"
+    }
+  ],
+  "sources": {
+    "aifb-section-2.1": {
+      "title": "Con số không thể làm ngơ, và giới hạn thực sự của nó",
+      "kind": "section",
+      "number": "2.1",
+      "page": 28,
+      "end_page": 30,
+      "parent_id": "aifb-ch02"
+    },
+    "aifb-section-2.2": {
+      "title": "Ba nấc chiến lược: Adopt – Adapt – Advance",
+      "kind": "section",
+      "number": "2.2",
+      "page": 30,
+      "end_page": 32,
+      "parent_id": "aifb-ch02"
+    },
+    "aifb-figure-2.1": {
+      "title": "Mô hình 3A: Adopt – Adapt – Advance",
+      "kind": "figure",
+      "number": "2.1",
+      "page": 31,
+      "end_page": 31,
+      "parent_id": "aifb-ch02"
+    },
+    "aifb-section-2.3": {
+      "title": "“Bolt-on” và “AI-First”, không phải nhị nguyên chắp vá và toàn diện",
+      "kind": "section",
+      "number": "2.3",
+      "page": 32,
+      "end_page": 34,
+      "parent_id": "aifb-ch02"
+    },
+    "aifb-table-2.1": {
+      "title": "Bolt-on có chủ đích và Bolt-on chắp vá",
+      "kind": "table",
+      "number": "2.1",
+      "page": 33,
+      "end_page": 33,
+      "parent_id": "aifb-ch02"
+    },
+    "aifb-figure-2.2": {
+      "title": "Bolt-on và AI-First: từ chắp vá đến tái thiết",
+      "kind": "figure",
+      "number": "2.2",
+      "page": 34,
+      "end_page": 34,
+      "parent_id": "aifb-ch02"
+    },
+    "aifb-section-2.4": {
+      "title": "Bộ lọc ba điều kiện triển khai AI",
+      "kind": "section",
+      "number": "2.4",
+      "page": 34,
+      "end_page": 36,
+      "parent_id": "aifb-ch02"
+    },
+    "aifb-section-2.5": {
+      "title": "Kiểm tra năng lực quản trị trước khi mở rộng AI",
+      "kind": "section",
+      "number": "2.5",
+      "page": 36,
+      "end_page": 37,
+      "parent_id": "aifb-ch02"
+    },
+    "aifb-section-2.6": {
+      "title": "Khung 5 bước đánh giá năng lực sẵn sàng trước khi rót vốn",
+      "kind": "section",
+      "number": "2.6",
+      "page": 37,
+      "end_page": 38,
+      "parent_id": "aifb-ch02"
+    },
+    "aifb-section-2.7": {
+      "title": "Tự chấm điểm nhanh: Tổ chức của bạn đang ở đâu?",
+      "kind": "section",
+      "number": "2.7",
+      "page": 38,
+      "end_page": 40,
+      "parent_id": "aifb-ch02"
+    },
+    "aifb-ch02": {
+      "title": "Mô hình 3A: từ chắp vá đến tái thiết",
+      "kind": "chapter",
+      "number": null,
+      "page": 25,
+      "end_page": 40,
+      "parent_id": "aifb-ch02"
+    }
+  },
+  "print_pages": {
+    "25": "aifb-ch02",
+    "26": "aifb-ch02",
+    "27": "aifb-ch02",
+    "28": "aifb-ch02",
+    "29": "aifb-ch02",
+    "30": "aifb-ch02",
+    "31": "aifb-ch02",
+    "32": "aifb-ch02",
+    "33": "aifb-ch02",
+    "34": "aifb-ch02",
+    "35": "aifb-ch02",
+    "36": "aifb-ch02",
+    "37": "aifb-ch02",
+    "38": "aifb-ch02",
+    "39": "aifb-ch02",
+    "40": "aifb-ch02"
+  }
+}

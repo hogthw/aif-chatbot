@@ -1,0 +1,27 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-p247",
+    "kind": "divider_or_front",
+    "title": "Phần III · Từ chiến lược đến thực thi",
+    "start": 247,
+    "end": 248
+  },
+  "cards": [],
+  "sources": {
+    "aiec-p247": {
+      "title": "Phần III · Từ chiến lược đến thực thi",
+      "kind": "divider_or_front",
+      "number": null,
+      "page": 247,
+      "end_page": 248,
+      "parent_id": "aiec-p247"
+    }
+  },
+  "print_pages": {
+    "247": "aiec-p247",
+    "248": "aiec-p247"
+  }
+}

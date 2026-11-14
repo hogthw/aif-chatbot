@@ -1,0 +1,27 @@
+{
+  "book_id": "aifb",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-aiec-comparisons",
+    "kind": "collection",
+    "title": "Các đối chiếu được biên tập giữa hai cuốn sách"
+  },
+  "cards": [
+    {
+      "id": "aifb-aiec-qa-ear-people-vs-national-talent",
+      "question": "EAR trụ cột 8 về Con người khác khung quốc gia trụ cột 4 về Nhân lực thế nào?",
+      "answer": "Không giống nhau. EAR trụ cột 8 đo ma trận kỹ năng theo vai trò, cơ chế bảo vệ bậc thang kinh nghiệm và an toàn tâm lý khi thử nghiệm ở cấp một doanh nghiệp cụ thể. Trụ cột 4 cấp quốc gia đo số kỹ sư/kỹ thuật viên tốt nghiệp mỗi năm trong vùng, chương trình đào tạo lại gắn doanh nghiệp, và khả năng thu hút, giữ chân chuyên gia ở cấp địa phương/quốc gia.",
+      "source_ids": ["aifb-section-12.2", "aifb-p226", "aiec-section-8.5"],
+      "aliases": [
+        "EAR trụ cột 8 vs khung quốc gia trụ cột 4",
+        "trụ cột con người của EAR khác trụ cột nhân lực quốc gia ra sao",
+        "so sánh EAR con người với nhân lực quốc gia"
+      ]
+    }
+  ],
+  "sources": {
+    "aifb-section-12.2": {"book_id": "aifb", "title": "Tám trụ cột của EAR Index", "kind": "section", "number": "12.2", "page": 200, "end_page": 203},
+    "aifb-p226": {"book_id": "aifb", "title": "Phụ lục C: Đánh giá năng lực lực lượng lao động cấp tổ chức", "page": 226},
+    "aiec-section-8.5": {"book_id": "aiec", "title": "Trụ cột 4: Nhân lực và hệ sinh thái nhân tài", "kind": "section", "number": "8.5", "page": 196, "end_page": 198}
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-ch06",
+    "kind": "chapter",
+    "chapter": 6,
+    "title": "Quyền lực từ tốc độ chuyển hóa nguồn lực",
+    "start": 131,
+    "end": 154
+  },
+  "cards": [
+    {
+      "id": "aiec-qa-006",
+      "chapter": 6,
+      "question": "Tốc độ tạo lợi thế cạnh tranh cho quốc gia bằng cách nào?",
+      "answer": "Một quốc gia có thể tạo vị thế bằng khả năng nhanh chóng chuyển vốn, thể chế, nhân lực và quan hệ đối tác thành năng lực triển khai. Chương đối chiếu các trường hợp để xem tốc độ có thể bù đắp hạn chế về quy mô ở đâu.",
+      "source_ids": [
+        "aiec-section-6.1",
+        "aiec-section-6.8",
+        "aiec-section-6.10"
+      ],
+      "aliases": [
+        "tốc độ chuyển hóa nguồn lực",
+        "quy mô quốc gia",
+        "Khi tốc độ thay thế quy mô"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-6.1",
+      "region_id": "aiec-ch06"
+    },
+    {
+      "id": "aiec-qa-section-6.1",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.1",
+      "question": "Tốc độ có thể bù cho quy mô như thế nào?",
+      "answer": "Quốc gia có thể đi nhanh nhờ rút ngắn thời gian từ quyết định đến vận hành, tận dụng nguồn lực mình có và kết nối với đối tác có năng lực bổ sung.",
+      "source_ids": [
+        "aiec-section-6.1"
+      ],
+      "aliases": [
+        "Khi tốc độ thay thế quy mô"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Khi tốc độ thay thế quy mô"
+    },
+    {
+      "id": "aiec-qa-section-6.2",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.2",
+      "question": "UAE dùng gì để rút ngắn thời gian tham gia AI?",
+      "answer": "UAE kết hợp vốn chủ quyền, năng lượng, năng lực ra quyết định tập trung và quan hệ đối tác để tiếp cận công nghệ, hạ tầng và nhân lực nhanh hơn.",
+      "source_ids": [
+        "aiec-section-6.2"
+      ],
+      "aliases": [
+        "UAE: sử dụng vốn và tốc độ để xây dựng vị thế trong nền kinh tế AI",
+        "sử dụng vốn và tốc độ để xây dựng vị thế trong nền kinh tế AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "UAE: sử dụng vốn và tốc độ để xây dựng vị thế trong nền kinh tế AI"
+    },
+    {
+      "id": "aiec-qa-section-6.3",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.3",
+      "question": "Israel chuyển năng lực quốc phòng thành khởi nghiệp như thế nào?",
+      "answer": "Các môi trường nghiên cứu và giải quyết bài toán khó tạo nhân lực kỹ thuật, mạng lưới tin cậy và kinh nghiệm hệ thống. Năng lực này được chuyển sang doanh nghiệp khi nhân sự rời khu vực quốc phòng.",
+      "source_ids": [
+        "aiec-section-6.3"
+      ],
+      "aliases": [
+        "Israel: từ năng lực nghiên cứu quốc phòng đến hệ sinh thái khởi nghiệp",
+        "Israel",
+        "từ năng lực nghiên cứu quốc phòng đến hệ sinh thái khởi nghiệp"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Israel: từ năng lực nghiên cứu quốc phòng đến hệ sinh thái khởi nghiệp"
+    },
+    {
+      "id": "aiec-qa-section-6.4",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.4",
+      "question": "AI gây áp lực gì lên dịch vụ công nghệ Ấn Độ?",
+      "answer": "AI có thể thực hiện nhanh hơn một phần công việc từng tính phí theo giờ hoặc theo số người. Doanh nghiệp dịch vụ phải tìm cách bán kết quả và năng lực chuyên sâu hơn.",
+      "source_ids": [
+        "aiec-section-6.4"
+      ],
+      "aliases": [
+        "Ấn Độ: ngành dịch vụ công nghệ trước tác động của AI",
+        "Ấn Độ",
+        "ngành dịch vụ công nghệ trước tác động của AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Ấn Độ: ngành dịch vụ công nghệ trước tác động của AI"
+    },
+    {
+      "id": "aiec-qa-section-6.5",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.5",
+      "question": "Singapore cạnh tranh bằng thể chế và vận hành thế nào?",
+      "answer": "Singapore đưa AI vào công việc cụ thể, xây điều kiện quản trị và dùng hạ tầng, dữ liệu cùng kỹ năng để triển khai nhất quán. Giá trị được thể hiện qua khả năng vận hành.",
+      "source_ids": [
+        "aiec-section-6.5"
+      ],
+      "aliases": [
+        "Singapore: cạnh tranh bằng thể chế và khả năng vận hành",
+        "Singapore",
+        "cạnh tranh bằng thể chế và khả năng vận hành"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Singapore: cạnh tranh bằng thể chế và khả năng vận hành"
+    },
+    {
+      "id": "aiec-qa-section-6.6",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.6",
+      "question": "Malaysia và Thái Lan gặp giới hạn gì khi hút trung tâm dữ liệu?",
+      "answer": "Chi phí và thủ tục có thể thu hút dự án, nhưng điện, nước, kết nối và khả năng duy trì hạ tầng quyết định công suất đưa vào hoạt động.",
+      "source_ids": [
+        "aiec-section-6.6"
+      ],
+      "aliases": [
+        "Malaysia và Thái Lan: làn sóng trung tâm dữ liệu và giới hạn hạ tầng",
+        "Malaysia và Thái Lan",
+        "làn sóng trung tâm dữ liệu và giới hạn hạ tầng"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Malaysia và Thái Lan: làn sóng trung tâm dữ liệu và giới hạn hạ tầng"
+    },
+    {
+      "id": "aiec-qa-section-6.7",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.7",
+      "question": "Khoảng cách năng lực AI của Indonesia nằm ở đâu?",
+      "answer": "Tham vọng và quy mô thị trường phải đi cùng điện, kết nối, nhân lực và năng lực triển khai trên địa bàn phân tán. Sách dùng khoảng cách này để phân biệt mục tiêu với kết quả.",
+      "source_ids": [
+        "aiec-section-6.7"
+      ],
+      "aliases": [
+        "Indonesia: tham vọng lớn và khoảng cách năng lực",
+        "Indonesia",
+        "tham vọng lớn và khoảng cách năng lực"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Indonesia: tham vọng lớn và khoảng cách năng lực"
+    },
+    {
+      "id": "aiec-qa-section-6.8",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.8",
+      "question": "Ba loại quyền lực kinh tế trong khung của sách là gì?",
+      "answer": "Khung phân biệt quyền lực đặt luật chơi, quyền lực từ mắt xích khan hiếm và quyền lực nhờ tốc độ chuyển hóa nguồn lực. Một nền kinh tế có thể kết hợp nhiều loại.",
+      "source_ids": [
+        "aiec-section-6.8"
+      ],
+      "aliases": [
+        "ba loại quyền lực kinh tế",
+        "quyền lực luật chơi khan hiếm tốc độ",
+        "Áp dụng khung ba loại quyền lực cho một nền kinh tế bất kỳ"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Áp dụng khung ba loại quyền lực cho một nền kinh tế bất kỳ"
+    },
+    {
+      "id": "aiec-qa-section-6.9",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.9",
+      "question": "Quyền lực kinh tế chuyển thành của cải qua đâu?",
+      "answer": "Quyền lực tạo của cải khi chuyển được thành năng suất, thu nhập và giá trị giữ lại. Cần xem nhóm lao động, địa phương hoặc doanh nghiệp nào tham gia được vào quá trình đó.",
+      "source_ids": [
+        "aiec-section-6.9"
+      ],
+      "aliases": [
+        "Quyền lực biến thành của cải như thế nào và ai đứng ngoài dòng chảy đó"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Quyền lực biến thành của cải như thế nào và ai đứng ngoài dòng chảy đó"
+    },
+    {
+      "id": "aiec-qa-section-6.10",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.10",
+      "question": "Nền kinh tế thiếu đòn bẩy cấu trúc có thể bắt đầu từ đâu?",
+      "answer": "Chọn nguồn lực có thể chuyển thành năng lực vận hành nhanh, như vốn, kỹ năng, thể chế hoặc mạng lưới đối tác. Chương đối chiếu nhiều hướng đi để xác định đòn bẩy phù hợp.",
+      "source_ids": [
+        "aiec-section-6.10"
+      ],
+      "aliases": [
+        "Tăng tốc khi không có đòn bẩy cấu trúc"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Tăng tốc khi không có đòn bẩy cấu trúc"
+    }
+  ],
+  "sources": {
+    "aiec-section-6.1": {
+      "title": "Khi tốc độ thay thế quy mô",
+      "kind": "section",
+      "number": "6.1",
+      "page": 132,
+      "end_page": 133,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-figure-6.1": {
+      "title": "Chuỗi chiến lược của Singapore, UAE và Ấn Độ",
+      "kind": "figure",
+      "number": "6.1",
+      "page": 133,
+      "end_page": 133,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-section-6.2": {
+      "title": "UAE: sử dụng vốn và tốc độ để xây dựng vị thế trong nền kinh tế AI",
+      "kind": "section",
+      "number": "6.2",
+      "page": 133,
+      "end_page": 135,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-section-6.3": {
+      "title": "Israel: từ năng lực nghiên cứu quốc phòng đến hệ sinh thái khởi nghiệp",
+      "kind": "section",
+      "number": "6.3",
+      "page": 135,
+      "end_page": 136,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-section-6.4": {
+      "title": "Ấn Độ: ngành dịch vụ công nghệ trước tác động của AI",
+      "kind": "section",
+      "number": "6.4",
+      "page": 136,
+      "end_page": 137,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-section-6.5": {
+      "title": "Singapore: cạnh tranh bằng thể chế và khả năng vận hành",
+      "kind": "section",
+      "number": "6.5",
+      "page": 137,
+      "end_page": 139,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-section-6.6": {
+      "title": "Malaysia và Thái Lan: làn sóng trung tâm dữ liệu và giới hạn hạ tầng",
+      "kind": "section",
+      "number": "6.6",
+      "page": 139,
+      "end_page": 140,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-section-6.7": {
+      "title": "Indonesia: tham vọng lớn và khoảng cách năng lực",
+      "kind": "section",
+      "number": "6.7",
+      "page": 140,
+      "end_page": 143,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-figure-6.2": {
+      "title": "ASEAN: liên thông trong khác biệt",
+      "kind": "figure",
+      "number": "6.2",
+      "page": 142,
+      "end_page": 142,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-section-6.8": {
+      "title": "Áp dụng khung ba loại quyền lực cho một nền kinh tế bất kỳ",
+      "kind": "section",
+      "number": "6.8",
+      "page": 143,
+      "end_page": 147,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-figure-6.3": {
+      "title": "Bản đồ mô hình chiến lược của các nền kinh tế",
+      "kind": "figure",
+      "number": "6.3",
+      "page": 143,
+      "end_page": 143,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-figure-6.4": {
+      "title": "Ba câu hỏi để định vị một nền kinh tế bất kỳ",
+      "kind": "figure",
+      "number": "6.4",
+      "page": 144,
+      "end_page": 144,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-table-6.1": {
+      "title": "Chín mô hình chiến lược AI quốc gia",
+      "kind": "table",
+      "number": "6.1",
+      "page": 145,
+      "end_page": 145,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-section-6.9": {
+      "title": "Quyền lực biến thành của cải như thế nào và ai đứng ngoài dòng chảy đó",
+      "kind": "section",
+      "number": "6.9",
+      "page": 147,
+      "end_page": 152,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-figure-6.5": {
+      "title": "Năm hình thức của cải trong nền kinh tế AI",
+      "kind": "figure",
+      "number": "6.5",
+      "page": 148,
+      "end_page": 148,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-figure-6.6": {
+      "title": "“Thuế AI”: tiền đầu tư hạ tầng AI chảy về đâu",
+      "kind": "figure",
+      "number": "6.6",
+      "page": 151,
+      "end_page": 151,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-section-6.10": {
+      "title": "Tăng tốc khi không có đòn bẩy cấu trúc",
+      "kind": "section",
+      "number": "6.10",
+      "page": 152,
+      "end_page": 154,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-ch06": {
+      "title": "Quyền lực từ tốc độ chuyển hóa nguồn lực",
+      "kind": "chapter",
+      "number": null,
+      "page": 131,
+      "end_page": 154,
+      "parent_id": "aiec-ch06"
+    }
+  },
+  "print_pages": {
+    "131": "aiec-ch06",
+    "132": "aiec-ch06",
+    "133": "aiec-ch06",
+    "134": "aiec-ch06",
+    "135": "aiec-ch06",
+    "136": "aiec-ch06",
+    "137": "aiec-ch06",
+    "138": "aiec-ch06",
+    "139": "aiec-ch06",
+    "140": "aiec-ch06",
+    "141": "aiec-ch06",
+    "142": "aiec-ch06",
+    "143": "aiec-ch06",
+    "144": "aiec-ch06",
+    "145": "aiec-ch06",
+    "146": "aiec-ch06",
+    "147": "aiec-ch06",
+    "148": "aiec-ch06",
+    "149": "aiec-ch06",
+    "150": "aiec-ch06",
+    "151": "aiec-ch06",
+    "152": "aiec-ch06",
+    "153": "aiec-ch06",
+    "154": "aiec-ch06"
+  }
+}

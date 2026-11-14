@@ -1,0 +1,88 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-p219",
+    "kind": "back_or_front_matter",
+    "title": "Phụ lục B · Bộ công cụ thực hành Hồ Sơ Agent",
+    "start": 219,
+    "end": 225
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-p219",
+      "chapter": null,
+      "region_id": "aifb-p219",
+      "primary_source_id": "aifb-p219",
+      "question": "Phụ lục B có những mẫu thực hành Hồ Sơ Agent nào?",
+      "answer": "Có Hồ Sơ Agent, lịch trình vận hành hằng ngày, bảng theo dõi hiệu suất, danh sách Agent và nhật ký ranh giới an toàn. Phụ lục dùng ví dụ Trợ lý Báo giá AI để minh họa.",
+      "source_ids": [
+        "aifb-p219"
+      ],
+      "aliases": [
+        "Phụ lục B · Bộ công cụ thực hành Hồ Sơ Agent"
+      ],
+      "status": "draft_for_editorial_review"
+    }
+  ],
+  "sources": {
+    "aifb-template-1": {
+      "title": "Hồ Sơ Agent",
+      "kind": "appendix_item",
+      "number": "1",
+      "page": 219,
+      "end_page": 219,
+      "parent_id": "aifb-p219"
+    },
+    "aifb-template-2": {
+      "title": "Lịch trình vận hành hằng ngày",
+      "kind": "appendix_item",
+      "number": "2",
+      "page": 220,
+      "end_page": 220,
+      "parent_id": "aifb-p219"
+    },
+    "aifb-template-3": {
+      "title": "Bảng theo dõi hiệu suất",
+      "kind": "appendix_item",
+      "number": "3",
+      "page": 221,
+      "end_page": 221,
+      "parent_id": "aifb-p219"
+    },
+    "aifb-template-4": {
+      "title": "Danh sách Agent trong tổ chức",
+      "kind": "appendix_item",
+      "number": "4",
+      "page": 221,
+      "end_page": 221,
+      "parent_id": "aifb-p219"
+    },
+    "aifb-template-5": {
+      "title": "Nhật ký ranh giới an toàn",
+      "kind": "appendix_item",
+      "number": "5",
+      "page": 221,
+      "end_page": 221,
+      "parent_id": "aifb-p219"
+    },
+    "aifb-p219": {
+      "title": "Phụ lục B · Bộ công cụ thực hành Hồ Sơ Agent",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 219,
+      "end_page": 225,
+      "parent_id": "aifb-p219"
+    }
+  },
+  "print_pages": {
+    "219": "aifb-p219",
+    "220": "aifb-p219",
+    "221": "aifb-p219",
+    "222": "aifb-p219",
+    "223": "aifb-p219",
+    "224": "aifb-p219",
+    "225": "aifb-p219"
+  }
+}

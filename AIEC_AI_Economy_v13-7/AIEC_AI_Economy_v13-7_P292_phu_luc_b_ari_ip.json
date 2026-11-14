@@ -1,0 +1,189 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-p292",
+    "kind": "back_or_front_matter",
+    "title": "Phụ lục B · ARI-IP",
+    "start": 292,
+    "end": 294
+  },
+  "cards": [
+    {
+      "id": "aiec-qa-021",
+      "chapter": null,
+      "question": "ARI-IP dùng cho ai?",
+      "answer": "ARI-IP giúp chủ đầu tư hạ tầng và ban quản lý khu công nghiệp tự đánh giá năng lực của khu trước khi thu hút các dự án như trung tâm dữ liệu, bán dẫn hoặc sản xuất thông minh.",
+      "source_ids": [
+        "aiec-p292"
+      ],
+      "aliases": [
+        "ARI-IP",
+        "chỉ số khu công nghiệp",
+        "Phụ lục B · ARI-IP"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-p292",
+      "region_id": "aiec-p292"
+    },
+    {
+      "id": "aiec-qa-section-B.1",
+      "chapter": null,
+      "region_id": "aiec-p292",
+      "primary_source_id": "aiec-section-B.1",
+      "question": "Trong ARI-IP, cấu phần nào có trọng số cao nhất?",
+      "answer": "ARI-IP (Chỉ số sẵn sàng AI của khu công nghiệp — Phụ lục B, Bảng B.1) gồm 6 cấu phần với tổng trọng số 100%: (1) Hạ tầng thông minh (điện công suất lớn, cáp quang đa tuyến) – 25% (trọng số cao nhất vì là điều kiện chặn đầu tiên); (2) Hạ tầng xanh (điện tái tạo DPPA, nước tuần hoàn, kế toán carbon) – 20%; (3) Nhân lực chất lượng cao – 15%; (4) Hệ sinh thái kinh doanh – 15%; (5) Dịch vụ hỗ trợ một cửa – 15%; (6) Tiện ích sống cho chuyên gia – 10%.",
+      "source_ids": [
+        "aiec-section-B.1"
+      ],
+      "aliases": [
+        "Cấu trúc và trọng số. Hạ tầ ng thô ng minh có trọ ng số cao nhấ t",
+        "cấu trúc và trọng số ARI-IP",
+        "6 cấu phần ARI-IP",
+        "sáu cấu phần khu công nghiệp thế hệ mới",
+        "bảng B.1",
+        "trong ARI-IP cấu phần nào có trọng số cao nhất"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Cấu trúc và trọng số. Hạ tầ ng thô ng minh có trọ ng số cao nhấ t"
+    },
+    {
+      "id": "aiec-qa-section-B.2",
+      "chapter": null,
+      "region_id": "aiec-p292",
+      "primary_source_id": "aiec-section-B.2",
+      "question": "ARI-IP dùng thang điểm nào?",
+      "answer": "Mỗi tiêu chí được chấm từ 1 đến 5 theo mô tả. Các điểm được tổng hợp theo trọng số và quy đổi về thang 100, với các mức đọc tương ứng ARI.",
+      "source_ids": [
+        "aiec-section-B.2"
+      ],
+      "aliases": [
+        "Thang điểm và cách tính. Mỗ i tiê u chí chấ m từ 1 đế n 5 theo"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Thang điểm và cách tính. Mỗ i tiê u chí chấ m từ 1 đế n 5 theo"
+    },
+    {
+      "id": "aiec-qa-section-B.3",
+      "chapter": null,
+      "region_id": "aiec-p292",
+      "primary_source_id": "aiec-section-B.3",
+      "question": "Khi nào khu công nghiệp chưa phù hợp với một loại dự án dù điểm ARI-IP cao?",
+      "answer": "Nếu một cấu phần bắt buộc của loại dự án đó dưới 3 điểm, khu chưa phù hợp với loại dự án ấy. Bảng B.2 chỉ ra các cấu phần bắt buộc theo nhóm dự án.",
+      "source_ids": [
+        "aiec-section-B.3"
+      ],
+      "aliases": [
+        "ngưỡng chặn ARI-IP",
+        "ARI-IP dưới 3 điểm",
+        "Mức đòi hỏi theo loại dự án. Cù ng mộ t điể m tổ ng có thể phù"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Mức đòi hỏi theo loại dự án. Cù ng mộ t điể m tổ ng có thể phù"
+    },
+    {
+      "id": "aiec-qa-section-B.4",
+      "chapter": null,
+      "region_id": "aiec-p292",
+      "primary_source_id": "aiec-section-B.4",
+      "question": "Vì sao nên dùng ARI-IP cùng điểm chất lượng dự án?",
+      "answer": "ARI-IP đo mức sẵn sàng của khu. Điểm chất lượng xem giá trị và khả năng thực hiện của dự án. Dùng cả hai để đối chiếu khả năng của khu với yêu cầu và lợi ích của dự án.",
+      "source_ids": [
+        "aiec-section-B.4"
+      ],
+      "aliases": [
+        "Dùng cùng chấm điểm chất lượng dự án. ARI-IP đo khu cô ng"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Dùng cùng chấm điểm chất lượng dự án. ARI-IP đo khu cô ng"
+    },
+    {
+      "id": "aiec-qa-section-B.5",
+      "chapter": null,
+      "region_id": "aiec-p292",
+      "primary_source_id": "aiec-section-B.5",
+      "question": "Giới hạn của ARI-IP là gì?",
+      "answer": "Các ngưỡng là giá trị tham khảo, cần cập nhật khi công nghệ và nhu cầu dự án thay đổi. Quyết định đầu tư cần thêm thẩm định kỹ thuật.",
+      "source_ids": [
+        "aiec-section-B.5"
+      ],
+      "aliases": [
+        "Giới hạn. Cá c ngưỡ ng trong phụ lụ c là giá trị tham khả o, cầ n"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Giới hạn. Cá c ngưỡ ng trong phụ lụ c là giá trị tham khả o, cầ n"
+    }
+  ],
+  "sources": {
+    "aiec-section-B.1": {
+      "title": "Cấu trúc và trọng số. Hạ tầ ng thô ng minh có trọ ng số cao nhấ t",
+      "kind": "section",
+      "number": "B.1",
+      "page": 292,
+      "end_page": 293,
+      "parent_id": "aiec-p292"
+    },
+    "aiec-table-B.1": {
+      "title": "Sáu cấu phần, tiêu chí và trọng số của ARI-IP",
+      "kind": "table",
+      "number": "B.1",
+      "page": 292,
+      "end_page": 292,
+      "parent_id": "aiec-p292"
+    },
+    "aiec-section-B.2": {
+      "title": "Thang điểm và cách tính. Mỗ i tiê u chí chấ m từ 1 đế n 5 theo",
+      "kind": "section",
+      "number": "B.2",
+      "page": 293,
+      "end_page": 293,
+      "parent_id": "aiec-p292"
+    },
+    "aiec-section-B.3": {
+      "title": "Mức đòi hỏi theo loại dự án. Cù ng mộ t điể m tổ ng có thể phù",
+      "kind": "section",
+      "number": "B.3",
+      "page": 293,
+      "end_page": 294,
+      "parent_id": "aiec-p292"
+    },
+    "aiec-table-B.2": {
+      "title": "Cấu phần bắt buộc theo loại dự án",
+      "kind": "table",
+      "number": "B.2",
+      "page": 294,
+      "end_page": 294,
+      "parent_id": "aiec-p292"
+    },
+    "aiec-section-B.4": {
+      "title": "Dùng cùng chấm điểm chất lượng dự án. ARI-IP đo khu cô ng",
+      "kind": "section",
+      "number": "B.4",
+      "page": 294,
+      "end_page": 294,
+      "parent_id": "aiec-p292"
+    },
+    "aiec-section-B.5": {
+      "title": "Giới hạn. Cá c ngưỡ ng trong phụ lụ c là giá trị tham khả o, cầ n",
+      "kind": "section",
+      "number": "B.5",
+      "page": 294,
+      "end_page": 294,
+      "parent_id": "aiec-p292"
+    },
+    "aiec-p292": {
+      "title": "Phụ lục B · ARI-IP",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 292,
+      "end_page": 294,
+      "parent_id": "aiec-p292"
+    }
+  },
+  "print_pages": {
+    "292": "aiec-p292",
+    "293": "aiec-p292",
+    "294": "aiec-p292"
+  }
+}

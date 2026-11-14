@@ -1,0 +1,318 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-ch01",
+    "kind": "chapter",
+    "chapter": 1,
+    "title": "Trí tuệ trở thành yếu tố sản xuất",
+    "start": 23,
+    "end": 44
+  },
+  "cards": [
+    {
+      "id": "aiec-qa-001",
+      "chapter": 1,
+      "question": "Vì sao sách xem trí tuệ là yếu tố sản xuất?",
+      "answer": "Ba đặc điểm kinh tế quyết định quốc gia hay doanh nghiệp nào hưởng lợi thực sự từ AI gồm: (1) Năng lực công nghệ và hạ tầng tính toán (khả năng tiếp cận điện, chip, mô hình với chi phí hợp lý); (2) Mức độ tập trung ở tầng xây dựng hạ tầng so với sự phân tán ở tầng ứng dụng; (3) Các yếu tố bổ trợ (Complementarities — dữ liệu bản địa, thể chế, kỹ năng nhân lực và tái thiết quy trình doanh nghiệp để hấp thụ AI thành năng suất).",
+      "source_ids": [
+        "aiec-section-1.3"
+      ],
+      "aliases": [
+        "trí tuệ yếu tố sản xuất",
+        "ba yếu tố hưởng lợi",
+        "Ba đặc điểm quyết định ai hưởng lợi từ AI: Năng lực, Mức độ tập trung, Yếu tố bổ trợ",
+        "Ba đặc điểm quyết định ai hưởng lợi từ AI",
+        "Năng lực, Mức độ tập trung, Yếu tố bổ trợ",
+        "ba đặc điểm quyết định ai hưởng lợi từ AI",
+        "3 yếu tố quyết định ai hưởng lợi từ AI",
+        "năng lực mức độ tập trung yếu tố bổ trợ"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-1.3",
+      "region_id": "aiec-ch01"
+    },
+    {
+      "id": "aiec-qa-014",
+      "chapter": 1,
+      "question": "Vì sao sự phổ cập của ChatGPT có ý nghĩa kinh tế?",
+      "answer": "ChatGPT cán mốc 100 triệu người dùng chỉ sau khoảng 60 ngày (2 tháng) kể từ khi ra mắt ngày 30/11/2022, nhanh hơn nhiều so với TikTok (9 tháng) và Instagram (2,5 năm). Hai năm sau, khoảng 40% người trưởng thành ở Mỹ đã dùng AI tạo sinh (đến tháng 5/2026 đạt 62% ở nhóm 18–64 tuổi), nhưng thời gian làm việc tiết kiệm được mới khoảng 2,2% tổng giờ làm việc — cho thấy khoảng cách giữa phổ cập tiêu dùng và chuyển hóa thành năng suất thực tế.",
+      "source_ids": [
+        "aiec-section-1.1"
+      ],
+      "aliases": [
+        "ChatGPT và cú sốc năng suất",
+        "phổ cập ChatGPT",
+        "Từ ứng dụng tiêu dùng đến cú sốc năng suất toàn cầu",
+        "tốc độ phổ cập AI tạo sinh",
+        "ChatGPT mất bao lâu đạt 100 triệu người dùng",
+        "100 triệu người dùng",
+        "từ ứng dụng tiêu dùng đến cú sốc năng suất toàn cầu"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-1.1",
+      "region_id": "aiec-ch01"
+    },
+    {
+      "id": "aiec-qa-015",
+      "chapter": 1,
+      "question": "Nhà máy trí tuệ giữ những vai trò gì trong nền kinh tế?",
+      "answer": "Nó cung cấp năng lực tính toán, tạo điều kiện tăng năng suất và trở thành một thước đo của năng lực cạnh tranh. Doanh nghiệp có thể tiếp cận năng lực này qua hạ tầng dùng chung và dịch vụ đám mây.",
+      "source_ids": [
+        "aiec-section-1.2"
+      ],
+      "aliases": [
+        "vai trò nhà máy trí tuệ",
+        "ba vai trò của nhà máy",
+        "Nhà máy trí tuệ và vai trò định hình nền kinh tế mới"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-1.2",
+      "region_id": "aiec-ch01"
+    },
+    {
+      "id": "aiec-qa-016",
+      "chapter": 1,
+      "question": "AI thay đổi năng suất qua loại công việc nào?",
+      "answer": "AI mở rộng năng lực thực hiện tác vụ nhận thức như đọc hiểu, phân tích, lập kế hoạch và viết mã. Việc đưa năng lực này vào sản xuất mở thêm cách tăng đầu ra từ các nguồn lực hiện có.",
+      "source_ids": [
+        "aiec-section-1.4"
+      ],
+      "aliases": [
+        "AI và năng suất",
+        "AI tác vụ nhận thức",
+        "Cuộc cách mạng năng suất"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-1.4",
+      "region_id": "aiec-ch01"
+    },
+    {
+      "id": "aiec-qa-017",
+      "chapter": 1,
+      "question": "Vì sao hạ tầng là điều kiện tiên quyết của kinh tế AI?",
+      "answer": "Trong nền kinh tế mới, trí tuệ trở thành yếu tố sản xuất trực tiếp và phải được sản xuất công nghiệp trong các “nhà máy trí tuệ” (trung tâm dữ liệu AI) với bốn đầu vào là điện năng, chip bán dẫn, dữ liệu và kỹ sư. Để huấn luyện và vận hành AI trên quy mô lớn, quốc gia bắt buộc phải có hạ tầng tính toán, nguồn điện ổn định và mạng kết nối tốc độ cao; đây là điều kiện tiên quyết để bảo đảm chủ quyền AI và năng lực cạnh tranh quốc gia.",
+      "source_ids": [
+        "aiec-section-1.5"
+      ],
+      "aliases": [
+        "điều kiện hạ tầng AI",
+        "Khi hạ tầng trở thành điều kiện tiên quyết",
+        "vì sao hạ tầng là điều kiện tiên quyết của kinh tế AI",
+        "điều kiện tiên quyết của kinh tế AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-1.5",
+      "region_id": "aiec-ch01"
+    },
+    {
+      "id": "aiec-qa-018",
+      "chapter": 1,
+      "question": "Quốc gia cần làm gì để biến năng lực AI thành lợi thế?",
+      "answer": "Chương đặt trọng tâm vào khả năng tiếp cận và hấp thụ năng lực AI. Lựa chọn chiến lược phải tính đến các yếu tố bổ trợ trong nước để công nghệ đi vào công việc và tạo năng suất.",
+      "source_ids": [
+        "aiec-section-1.6"
+      ],
+      "aliases": [
+        "chiến lược quốc gia AI",
+        "nâng tầm quốc gia",
+        "Từ cuộc cạnh tranh công nghệ đến chiến lược nâng tầm quốc gia"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-1.6",
+      "region_id": "aiec-ch01"
+    },
+    {
+      "id": "aiec-qa-019",
+      "chapter": 1,
+      "question": "Chín tầng kinh tế trí tuệ được chia thành những nhóm nào?",
+      "answer": "Chín tầng của nền kinh tế trí tuệ từ hạ tầng vật lý đến ứng dụng và thể chế gồm: (1) Năng lượng và điện sạch; (2) Bán dẫn, chip AI và phần cứng; (3) Trung tâm dữ liệu và hạ tầng đám mây (Nhà máy trí tuệ); (4) Dữ liệu và hạ tầng dữ liệu; (5) Mô hình AI nền tảng (Foundation Models); (6) Công cụ phát triển, khung vận hành và bảo mật; (7) Ứng dụng và Tác nhân AI theo ngành; (8) Nhân lực và hệ sinh thái nhân tài; (9) Thể chế, quản trị và chính sách quốc gia.",
+      "source_ids": [
+        "aiec-section-1.7",
+        "aiec-figure-1.6"
+      ],
+      "aliases": [
+        "chín tầng kinh tế trí tuệ",
+        "9 tầng AI",
+        "Chín tầng của một nền kinh tế trí tuệ",
+        "chín tầng của nền kinh tế trí tuệ",
+        "9 tầng của nền kinh tế trí tuệ",
+        "chín tầng kinh tế AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-1.7",
+      "region_id": "aiec-ch01"
+    },
+    {
+      "id": "aiec-qa-eval-03",
+      "chapter": 1,
+      "question": "Nền kinh tế AI (AI Economy) tác động ra sao đến cơ cấu thị trường lao động và năng suất toàn cầu?",
+      "answer": "Trong Nền kinh tế Trí tuệ, AI biến trí tuệ thành yếu tố sản xuất mới và tạo cú sốc năng suất vĩ mô theo Đường cong chữ J (giai đoạn đầu cần thời gian tích lũy hạ tầng, dữ liệu và tái thiết kế quy trình trước khi năng suất bứt phá). Trên thị trường lao động, AI không gây thất nghiệp đồng loạt ngay lập tức mà tạo ra sự phân hóa sâu sắc: các tác vụ nhận thức lặp lại (nhập liệu, hành chính, bước đầu thang nghề nghiệp của người trẻ 22–25 tuổi) bị tự động hóa mạnh, trong khi nhóm lao động làm chủ AI, tư duy phản biện và điều phối liên ngành có năng suất và mức tăng lương cao hơn hẳn (cao hơn tới 42% theo dữ liệu PwC dẫn trong sách).",
+      "source_ids": [
+        "aiec-section-1.4"
+      ],
+      "aliases": [
+        "nền kinh tế AI tác động ra sao đến cơ cấu thị trường lao động và năng suất toàn cầu",
+        "tác động của kinh tế AI đến thị trường lao động và năng suất"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-1.4",
+      "region_id": "aiec-ch01"
+    },
+    {
+      "id": "aiec-qa-eval-13",
+      "chapter": 1,
+      "question": "Trong nền kinh tế trí tuệ, AI giúp doanh nghiệp tạo lợi thế cạnh tranh lâu dài như thế nào?",
+      "answer": "Khi công cụ AI ngày càng rẻ và phổ cập (giá suy luận giảm nhanh theo Mục 2.4), lợi thế cạnh tranh lâu dài không nằm ở việc mua mô hình đắt tiền mà nằm ở 'Yếu tố bổ trợ' (Complementarities): khả năng tích lũy dữ liệu độc quyền gắn với ngữ cảnh ngành, tái cấu trúc quy trình vận hành và nâng cấp kỹ năng đội ngũ để biến năng lực tính toán thành năng suất thực tế.",
+      "source_ids": [
+        "aiec-section-1.3"
+      ],
+      "aliases": [
+        "AI có thể giúp doanh nghiệp tạo lợi thế cạnh tranh lâu dài như thế nào",
+        "ba đặc điểm quyết định ai hưởng lợi từ AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-1.3",
+      "region_id": "aiec-ch01"
+    }
+  ],
+  "sources": {
+    "aiec-section-1.1": {
+      "title": "Từ ứng dụng tiêu dùng đến cú sốc năng suất toàn cầu",
+      "kind": "section",
+      "number": "1.1",
+      "page": 24,
+      "end_page": 27,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-figure-1.1": {
+      "title": "Tốc độ phổ cập: AI tạo sinh so với máy tính cá nhân",
+      "kind": "figure",
+      "number": "1.1",
+      "page": 25,
+      "end_page": 25,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-section-1.2": {
+      "title": "Nhà máy trí tuệ và vai trò định hình nền kinh tế mới",
+      "kind": "section",
+      "number": "1.2",
+      "page": 27,
+      "end_page": 28,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-section-1.3": {
+      "title": "Ba đặc điểm quyết định ai hưởng lợi từ AI: Năng lực, Mức độ tập trung, Yếu tố bổ trợ",
+      "kind": "section",
+      "number": "1.3",
+      "page": 28,
+      "end_page": 31,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-figure-1.2": {
+      "title": "Ba yếu tố quyết định ai hưởng lợi từ AI",
+      "kind": "figure",
+      "number": "1.2",
+      "page": 29,
+      "end_page": 29,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-section-1.4": {
+      "title": "Cuộc cách mạng năng suất",
+      "kind": "section",
+      "number": "1.4",
+      "page": 31,
+      "end_page": 35,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-figure-1.3": {
+      "title": "Trí tuệ trở thành một yếu tố sản xuất",
+      "kind": "figure",
+      "number": "1.3",
+      "page": 32,
+      "end_page": 32,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-figure-1.4": {
+      "title": "Chi phí để có cùng một mức năng lực AI giảm hơn",
+      "kind": "figure",
+      "number": "1.4",
+      "page": 33,
+      "end_page": 33,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-figure-1.5": {
+      "title": "Đường cong chữ J của năng suất",
+      "kind": "figure",
+      "number": "1.5",
+      "page": 35,
+      "end_page": 35,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-section-1.5": {
+      "title": "Khi hạ tầng trở thành điều kiện tiên quyết",
+      "kind": "section",
+      "number": "1.5",
+      "page": 35,
+      "end_page": 37,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-section-1.6": {
+      "title": "Từ cuộc cạnh tranh công nghệ đến chiến lược nâng tầm quốc gia",
+      "kind": "section",
+      "number": "1.6",
+      "page": 37,
+      "end_page": 38,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-section-1.7": {
+      "title": "Chín tầng của một nền kinh tế trí tuệ",
+      "kind": "section",
+      "number": "1.7",
+      "page": 38,
+      "end_page": 44,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-figure-1.6": {
+      "title": "Chín tầng của nền kinh tế trí tuệ",
+      "kind": "figure",
+      "number": "1.6",
+      "page": 38,
+      "end_page": 38,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-ch01": {
+      "title": "Trí tuệ trở thành yếu tố sản xuất",
+      "kind": "chapter",
+      "number": null,
+      "page": 23,
+      "end_page": 44,
+      "parent_id": "aiec-ch01"
+    }
+  },
+  "print_pages": {
+    "23": "aiec-ch01",
+    "24": "aiec-ch01",
+    "25": "aiec-ch01",
+    "26": "aiec-ch01",
+    "27": "aiec-ch01",
+    "28": "aiec-ch01",
+    "29": "aiec-ch01",
+    "30": "aiec-ch01",
+    "31": "aiec-ch01",
+    "32": "aiec-ch01",
+    "33": "aiec-ch01",
+    "34": "aiec-ch01",
+    "35": "aiec-ch01",
+    "36": "aiec-ch01",
+    "37": "aiec-ch01",
+    "38": "aiec-ch01",
+    "39": "aiec-ch01",
+    "40": "aiec-ch01",
+    "41": "aiec-ch01",
+    "42": "aiec-ch01",
+    "43": "aiec-ch01",
+    "44": "aiec-ch01"
+  }
+}

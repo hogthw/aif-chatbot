@@ -1,0 +1,57 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-p295",
+    "kind": "back_or_front_matter",
+    "title": "Phụ lục C · Bảng thuật ngữ",
+    "start": 295,
+    "end": 302
+  },
+  "cards": [
+    {
+      "id": "aiec-qa-p295",
+      "chapter": null,
+      "region_id": "aiec-p295",
+      "primary_source_id": "aiec-p295",
+      "question": "Tìm thuật ngữ kinh tế và công nghệ AI ở đâu?",
+      "answer": "Phụ lục C giải thích các thuật ngữ theo thứ tự chúng xuất hiện trong sách. Thuật ngữ quản trị và vận hành doanh nghiệp có thể tra thêm trong AI First Business.",
+      "source_ids": [
+        "aiec-p295"
+      ],
+      "aliases": [
+        "Phụ lục C · Bảng thuật ngữ"
+      ],
+      "status": "draft_for_editorial_review"
+    }
+  ],
+  "sources": {
+    "aiec-table-C.1": {
+      "title": "Thuật ngữ theo thứ tự xuất hiện",
+      "kind": "table",
+      "number": "C.1",
+      "page": 295,
+      "end_page": 295,
+      "parent_id": "aiec-p295"
+    },
+    "aiec-p295": {
+      "title": "Phụ lục C · Bảng thuật ngữ",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 295,
+      "end_page": 302,
+      "parent_id": "aiec-p295"
+    }
+  },
+  "print_pages": {
+    "295": "aiec-p295",
+    "296": "aiec-p295",
+    "297": "aiec-p295",
+    "298": "aiec-p295",
+    "299": "aiec-p295",
+    "300": "aiec-p295",
+    "301": "aiec-p295",
+    "302": "aiec-p295"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-p217",
+    "kind": "back_or_front_matter",
+    "title": "Phụ lục A · Mẫu chính sách sử dụng AI nội bộ",
+    "start": 217,
+    "end": 218
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-p217",
+      "chapter": null,
+      "region_id": "aifb-p217",
+      "primary_source_id": "aifb-p217",
+      "question": "Phụ lục A cung cấp mẫu gì?",
+      "answer": "Đây là mẫu chính sách sử dụng AI nội bộ. Mẫu đề cập phạm vi, dữ liệu, trách nhiệm, kiểm toán và xử lý sự cố để doanh nghiệp cụ thể hóa cùng bộ phận pháp chế.",
+      "source_ids": [
+        "aifb-p217"
+      ],
+      "aliases": [
+        "Phụ lục A · Mẫu chính sách sử dụng AI nội bộ"
+      ],
+      "status": "draft_for_editorial_review"
+    }
+  ],
+  "sources": {
+    "aifb-policy-1": {
+      "title": "Phạm vi áp dụng",
+      "kind": "appendix_item",
+      "number": "1",
+      "page": 217,
+      "end_page": 217,
+      "parent_id": "aifb-p217"
+    },
+    "aifb-policy-2": {
+      "title": "Phân loại và xử lý dữ liệu",
+      "kind": "appendix_item",
+      "number": "2",
+      "page": 217,
+      "end_page": 217,
+      "parent_id": "aifb-p217"
+    },
+    "aifb-policy-3": {
+      "title": "Trách nhiệm và minh bạch",
+      "kind": "appendix_item",
+      "number": "3",
+      "page": 217,
+      "end_page": 217,
+      "parent_id": "aifb-p217"
+    },
+    "aifb-policy-4": {
+      "title": "Nhân sự phụ trách và kiểm toán định kỳ",
+      "kind": "appendix_item",
+      "number": "4",
+      "page": 218,
+      "end_page": 218,
+      "parent_id": "aifb-p217"
+    },
+    "aifb-policy-5": {
+      "title": "Xử lý sự cố và minh bạch với khách hàng",
+      "kind": "appendix_item",
+      "number": "5",
+      "page": 218,
+      "end_page": 218,
+      "parent_id": "aifb-p217"
+    },
+    "aifb-policy-6": {
+      "title": "Chuyển dữ liệu ra nước ngoài, hiệu lực và sửa đổi",
+      "kind": "appendix_item",
+      "number": "6",
+      "page": 218,
+      "end_page": 218,
+      "parent_id": "aifb-p217"
+    },
+    "aifb-p217": {
+      "title": "Phụ lục A · Mẫu chính sách sử dụng AI nội bộ",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 217,
+      "end_page": 218,
+      "parent_id": "aifb-p217"
+    }
+  },
+  "print_pages": {
+    "217": "aifb-p217",
+    "218": "aifb-p217"
+  }
+}

@@ -1,0 +1,809 @@
+{
+  "version": "2.2.0",
+  "book_id": "ai_first_business",
+  "catalog": {
+    "title": "AI First Business – Tái thiết doanh nghiệp trong kỷ nguyên AI",
+    "price_vnd": 330000,
+    "sample": "https://aifirstbusiness.vn/sach/ai-first-business/doc-thu/",
+    "website_price_vnd": 231000
+  },
+  "quick_questions": [
+    {
+      "faq_id": "level",
+      "label": "Sách dành cho ai?"
+    },
+    {
+      "faq_id": "overview",
+      "label": "Sách nói về gì?"
+    },
+    {
+      "faq_id": "sme_fit",
+      "label": "Doanh nghiệp nhỏ bắt đầu sao?"
+    },
+    {
+      "faq_id": "ear",
+      "label": "EAR Index™ giúp làm gì?"
+    },
+    {
+      "faq_id": "sample",
+      "label": "Đọc thử"
+    },
+    {
+      "faq_id": "price",
+      "label": "Giá và cách mua"
+    }
+  ],
+  "actions": {
+    "contact": {
+      "label": "Liên hệ",
+      "target_ref": "existing_website_contact"
+    },
+    "read_sample": {
+      "label": "Đọc thử",
+      "target_ref": "sample_of_answered_book"
+    },
+    "sample_and_contact": {
+      "items": [
+        "read_sample",
+        "contact"
+      ]
+    },
+    "consulting_choices": {
+      "items": [
+        "ear_survey",
+        "consulting_contact"
+      ]
+    },
+    "ear_survey": {
+      "label": "Làm khảo sát EAR",
+      "target_ref": "existing_ear_survey"
+    },
+    "consulting_contact": {
+      "label": "Liên hệ tư vấn",
+      "target_ref": "existing_consulting_contact"
+    }
+  },
+  "cards": [
+    {
+      "id": "level",
+      "aliases": [
+        "phù hợp với trình độ nào",
+        "sách dành cho ai",
+        "đối tượng độc giả",
+        "ai nên đọc cuốn này",
+        "người mới đọc được không",
+        "mới bắt đầu đọc được không",
+        "chưa biết gì về ai đọc được không",
+        "cần kiến thức nền không",
+        "sách có dễ hiểu không",
+        "sách có hợp với sinh viên không",
+        "sách có quá kỹ thuật không",
+        "có phù hợp người chưa biết gì không"
+      ],
+      "answer": "Người mới tìm hiểu chuyển đổi AI có thể đọc cuốn này, đặc biệt nếu đang quản lý một doanh nghiệp, một phòng ban hoặc một quy trình. Sách bắt đầu từ câu hỏi quen thuộc như chọn việc gì để thử, đo kết quả ra sao và ai chịu trách nhiệm khi AI sai. Người mới có thể đọc tình huống mở đầu trước, rồi dùng bảng thuật ngữ khi gặp khái niệm mới.",
+      "action": "read_sample",
+      "source": "Lời tựa, Chương 1 và Phụ lục E"
+    },
+    {
+      "id": "coding",
+      "aliases": [
+        "có cần biết lập trình không",
+        "có cần biết python không",
+        "không biết code đọc được không",
+        "có dạy code không",
+        "sách có dạy python không",
+        "có giải thích ai hoạt động thế nào không",
+        "có dạy huấn luyện mô hình không",
+        "sách giải thích dễ hiểu không"
+      ],
+      "answer": "Bạn không cần biết lập trình hay Python để đọc. Sách viết từ góc nhìn quản trị, với các quyết định như chọn quy trình, thiết kế thử nghiệm, giới hạn quyền của tác nhân và đo hiệu quả kinh doanh. Đội kỹ thuật có thể dùng các khung này để thống nhất yêu cầu với người phụ trách nghiệp vụ. Nếu muốn học cách viết mã hoặc huấn luyện mô hình, bạn sẽ cần tài liệu kỹ thuật chuyên biệt.",
+      "action": "read_sample",
+      "source": "Lời tựa, Bản đồ công cụ"
+    },
+    {
+      "id": "overview",
+      "aliases": [
+        "nội dung chính và góc tiếp cận là gì",
+        "sách nói về gì",
+        "nội dung chính",
+        "tóm tắt cuốn sách",
+        "sách tập trung vào gì",
+        "sách bàn về gì",
+        "góc tiếp cận",
+        "sách có chung chung không",
+        "sách có bao quát mọi thứ không",
+        "sách có quá hời hợt không",
+        "sách có kiểu ai bible không"
+      ],
+      "answer": "AI First Business bàn về cách doanh nghiệp tổ chức lại công việc khi đưa AI vào vận hành. Sách đi từ chọn mức đầu tư theo mô hình 3A đến đánh giá ROI, giao quyền cho tác nhân, bảo vệ dữ liệu và đào tạo nhân viên. EAR Index™ và Lộ trình 90 ngày giúp lãnh đạo chọn điểm bắt đầu, đặt chỉ số cho thử nghiệm và xác định bằng chứng cần có trước khi mở rộng.",
+      "action": "read_sample",
+      "source": "Lời tựa và Bản đồ công cụ"
+    },
+    {
+      "id": "practice",
+      "aliases": [
+        "giá trị thực tiễn",
+        "đọc xong áp dụng được ngay không",
+        "đọc xong áp dụng được gì",
+        "có áp dụng được vào công việc không",
+        "sách có ích gì",
+        "so với tài liệu miễn phí thì sao",
+        "so với khóa học online thì sao",
+        "sách có đáng mua không",
+        "sách có hướng dẫn dùng ai hàng ngày không",
+        "có dạy prompt không"
+      ],
+      "answer": "Bạn có thể bắt đầu từ một quy trình đang gây chậm hoặc tốn chi phí. Dùng EAR Index™ để đánh giá năng lực sẵn sàng, chọn một chỉ số hiện trạng và dùng Lộ trình 90 ngày để thiết kế thử nghiệm. Giá trị của sách nằm ở chuỗi quyết định từ chọn việc đến đo kết quả, giúp lãnh đạo, người phụ trách nghiệp vụ và đội công nghệ cùng làm việc trên một bài toán.",
+      "action": "read_sample",
+      "source": "Bản đồ công cụ, Phụ lục D và phần Lộ trình 90 ngày"
+    },
+    {
+      "id": "examples",
+      "aliases": [
+        "có ví dụ công việc thực tế không",
+        "có nhiều ví dụ thực tế không",
+        "có case study không",
+        "sách có tình huống thực tế không",
+        "có ví dụ doanh nghiệp không",
+        "có ví dụ việt nam không",
+        "ví dụ trong sách là thật hay giả định"
+      ],
+      "answer": "Có. Chương 3 bàn về Klarna và những giới hạn khi tự động hóa chăm sóc khách hàng. Lời giới thiệu cũng có tình huống minh họa về tác nhân soạn báo giá: khi khách xin chiết khấu ngoài chính sách, người quản lý phải quyết định ai được duyệt và ai có thể dừng tác nhân. Hai dạng ví dụ giúp người đọc xem cách chọn chỉ số và đặt quyền hạn.",
+      "action": "read_sample",
+      "source": "Chương 3 và lời giới thiệu website"
+    },
+    {
+      "id": "risk",
+      "aliases": [
+        "sách có nói về rủi ro không",
+        "có nói về ảo giác không",
+        "có bàn về đạo đức ai không",
+        "có bàn về an toàn ai không",
+        "có nói về tác động xã hội không",
+        "có nói về bảo mật dữ liệu không",
+        "có nói về mất việc không"
+      ],
+      "answer": "Cuốn này bàn về ảo giác, dữ liệu nhạy cảm, quyền của tác nhân và trách nhiệm của người quản lý. Bạn sẽ gặp những câu hỏi cụ thể như tác nhân được đọc nguồn nào, khi nào phải chuyển quyết định cho con người và ai có quyền dừng nó. Sách cũng xem xét tác động lên việc học nghề của nhân viên khi AI đảm nhận các nhiệm vụ cơ bản.",
+      "action": "read_sample",
+      "source": "Các phần về bảo mật, quản trị, Hồ Sơ Agent và lực lượng lao động"
+    },
+    {
+      "id": "tools",
+      "aliases": [
+        "có bài tập checklist framework thực tế không",
+        "có bài tập không",
+        "có checklist không",
+        "có công cụ thực hành không",
+        "có mẫu biểu không",
+        "có framework không",
+        "có bảng thuật ngữ không",
+        "có tài liệu đi kèm không"
+      ],
+      "answer": "Sách có EAR Index™ với tám trụ cột, Hồ Sơ Agent, mẫu chính sách sử dụng AI nội bộ và Lộ trình 90 ngày. Chẳng hạn, bạn có thể dùng Hồ Sơ Agent để ghi rõ mục tiêu, nguồn tri thức, công cụ, mức tự chủ và giới hạn an toàn trước khi chạy thử. Phụ lục có thêm bảng chấm điểm EAR và bảng thuật ngữ để đội ngũ tra cứu.",
+      "action": "read_sample",
+      "source": "Bản đồ công cụ, Phụ lục A–E"
+    },
+    {
+      "id": "currency",
+      "aliases": [
+        "sách còn cập nhật không",
+        "sách có lỗi thời không",
+        "số liệu cập nhật tới khi nào",
+        "dữ liệu đến ngày nào",
+        "có đề cập mô hình gần đây không",
+        "có cập nhật chatgpt mới nhất không",
+        "phần nào bền theo thời gian"
+      ],
+      "answer": "Bản thảo có các ví dụ và tài liệu tham khảo năm **2026**. Giá trị có thể dùng lâu hơn nằm ở cách chọn bài toán, đo ROI, phân quyền và quản trị rủi ro. Tên mô hình, tính năng và giá công cụ có thể thay đổi; hãy kiểm tra tài liệu hiện hành nếu cần chọn công cụ. Bạn có thể đọc chương mẫu để xem mức độ chi tiết trước khi quyết định.",
+      "action": "read_sample",
+      "source": "Tài liệu tham khảo và Lời tựa"
+    },
+    {
+      "id": "author",
+      "aliases": [
+        "tác giả là ai và có uy tín không",
+        "tác giả là ai",
+        "ai viết sách",
+        "tác giả có kinh nghiệm gì",
+        "tác giả có uy tín không",
+        "tác giả có phải chuyên gia không",
+        "tác giả có kinh nghiệm thực tế không",
+        "sách có ăn theo xu hướng không"
+      ],
+      "answer": "Cả hai cuốn do **Trần Tấn Sỹ** viết. Tác giả tiếp cận AI từ kinh nghiệm thu hút đầu tư và phát triển khu công nghiệp, hạ tầng công nghệ cao. AI Economy đưa góc nhìn đó vào dòng vốn, năng lực hạ tầng và chuỗi giá trị. AI First Business tập trung vào quyết định đầu tư, vận hành và quản trị trong doanh nghiệp. Bạn có thể đọc thử để tự đánh giá cách lập luận và dẫn nguồn.",
+      "action": "read_sample",
+      "source": "Lời giới thiệu và lời tựa hai cuốn"
+    },
+    {
+      "id": "choose",
+      "aliases": [
+        "hai cuốn khác nhau thế nào",
+        "nên đọc cuốn nào trước",
+        "nên mua cuốn nào",
+        "chọn cuốn nào",
+        "có cần đọc ai economy trước không",
+        "hai sách có trùng nhau không",
+        "so sánh hai cuốn",
+        "nên đọc theo thứ tự nào",
+        "chỉ mua một cuốn nên chọn cuốn nào"
+      ],
+      "answer": "Hai cuốn đọc độc lập, **không cần theo thứ tự**. Chọn **AI Economy** nếu điều bạn muốn hiểu nhất là AI thay đổi đầu tư, năng suất, việc làm và vị thế của Việt Nam như thế nào. Chọn **AI First Business** nếu bạn đang quyết định nên đưa AI vào quy trình nào, đầu tư bao nhiêu và quản trị ra sao. Bạn có thể đọc thử cả hai để chọn theo câu hỏi mình đang quan tâm.",
+      "action": "read_sample",
+      "source": "Lời giới thiệu hai cuốn"
+    },
+    {
+      "id": "sample",
+      "aliases": [
+        "có chương đọc thử không",
+        "đọc thử",
+        "cho tôi link đọc thử",
+        "cho mình xem chương mẫu",
+        "có mục lục không",
+        "xin link chương mẫu",
+        "xem thử trước khi mua",
+        "đọc thử ở đâu"
+      ],
+      "answer": "Bạn có thể mở chương đọc thử của **AI First Business – Tái thiết doanh nghiệp trong kỷ nguyên AI** trên website để xem giọng văn, cách trình bày và mức độ chi tiết trước khi mua.",
+      "action": "read_sample",
+      "source": "Link website do chủ dự án cung cấp"
+    },
+    {
+      "id": "reviews",
+      "aliases": [
+        "review và đánh giá thực tế",
+        "có review không",
+        "sách được đánh giá thế nào",
+        "review goodreads",
+        "review amazon",
+        "review tiki",
+        "review shopee",
+        "điểm goodreads bao nhiêu",
+        "có review tiêu cực không",
+        "có đánh giá độc giả không",
+        "có phê bình nào không"
+      ],
+      "answer": "Chatbot hiện chưa có nguồn đánh giá độc giả đã xác minh cho cuốn này. Bạn có thể xem chương đọc thử để tự đánh giá độ sâu, ví dụ và cách dẫn nguồn.",
+      "action": "read_sample",
+      "source": null
+    },
+    {
+      "id": "ai_use",
+      "aliases": [
+        "sách có phải do ai viết không",
+        "sách do ai viết à",
+        "tác giả có dùng chatgpt để viết không",
+        "ai có hỗ trợ viết sách không",
+        "mức độ dùng ai để viết sách"
+      ],
+      "answer": "Trần Tấn Sỹ là tác giả được ghi trên trang tên sách. Hiện chưa có xác nhận công khai về AI đã được dùng ở bước nào trong quá trình viết hoặc biên tập. Để đánh giá nội dung trước khi mua, bạn có thể đọc thử và kiểm tra cách tác giả dẫn nguồn, đưa ví dụ và giải thích các khung phân tích.",
+      "action": "read_sample",
+      "source": "Trang tên sách"
+    },
+    {
+      "id": "publisher",
+      "aliases": [
+        "nhà xuất bản nào",
+        "nxb nào",
+        "ai phát hành",
+        "đơn vị xuất bản là ai",
+        "sách có tự xuất bản không"
+      ],
+      "answer": "Chatbot chưa có thông tin đã xác nhận về nhà xuất bản trên ấn bản **AI First Business** đang bán. Bấm **Liên hệ** để kiểm tra.",
+      "action": "contact",
+      "source": null
+    },
+    {
+      "id": "edition",
+      "aliases": [
+        "xuất bản năm nào",
+        "năm xuất bản",
+        "sách phát hành năm nào",
+        "bao giờ phát hành",
+        "sách bao nhiêu trang",
+        "bao nhiêu trang",
+        "độ dài bao nhiêu trang",
+        "isbn là gì",
+        "mã isbn của sách",
+        "khổ sách",
+        "bản in lần thứ mấy",
+        "có tái bản không",
+        "số trang và năm xuất bản"
+      ],
+      "answer": "Bản thảo AI First Business tháng **10/2026** có **4 phần, 12 chương và 5 phụ lục**, trong đó có các công cụ như Hồ Sơ Agent và EAR Index™. Bấm **Liên hệ** để xác nhận số trang, ISBN hoặc quy cách ấn bản đang bán.",
+      "action": "contact",
+      "source": "Mục lục và bản thảo đối chiếu"
+    },
+    {
+      "id": "language",
+      "aliases": [
+        "sách viết bằng tiếng gì",
+        "có phải sách dịch không",
+        "có bản tiếng việt không",
+        "bản tiếng việt có dễ hiểu không",
+        "có bản tiếng anh không"
+      ],
+      "answer": "Bản giới thiệu và nội dung đọc thử của **AI First Business – Tái thiết doanh nghiệp trong kỷ nguyên AI** bằng tiếng Việt, do Trần Tấn Sỹ viết. Bạn có thể xem chương đọc thử để đánh giá giọng văn. Nếu cần hỏi về ấn bản ngôn ngữ khác, bấm **Liên hệ**.",
+      "action": "sample_and_contact",
+      "source": "Trang tên sách và lời giới thiệu"
+    },
+    {
+      "id": "formats",
+      "aliases": [
+        "có bản ebook không",
+        "có audiobook không",
+        "có sách nói không",
+        "có sách điện tử không",
+        "có bản pdf để mua không",
+        "có kindle không",
+        "có ebook hoặc audiobook không",
+        "có những định dạng nào"
+      ],
+      "answer": "Chatbot chưa có thông tin đã xác nhận về bản ebook hoặc audiobook. Bấm **Liên hệ** để hỏi về các định dạng đang bán.",
+      "action": "contact",
+      "source": null
+    },
+    {
+      "id": "price",
+      "aliases": [
+        "giá bao nhiêu",
+        "sách giá bao nhiêu",
+        "bao nhiêu tiền",
+        "cuốn này giá bao nhiêu",
+        "giá bán",
+        "giảm giá bao nhiêu",
+        "mua web giá bao nhiêu",
+        "giá sau giảm",
+        "có khuyến mãi không",
+        "mua website giảm bao nhiêu"
+      ],
+      "answer": "Giá niêm yết của **AI First Business – Tái thiết doanh nghiệp trong kỷ nguyên AI** là **330.000 ₫**. Mua qua website giảm **30%**, còn **231.000 ₫**. Bấm **Liên hệ** để đặt mua và xác nhận tổng tiền đơn hàng.",
+      "action": "contact",
+      "source": "Chính sách bán hàng do chủ dự án cung cấp"
+    },
+    {
+      "id": "buy",
+      "aliases": [
+        "mua ở đâu",
+        "mua sách ở đâu",
+        "mua như thế nào",
+        "cách mua qua website",
+        "mua qua webstie",
+        "đặt mua",
+        "cho tôi mua sách",
+        "tôi muốn mua cuốn này",
+        "mua sách qua website như thế nào",
+        "mua trên tiki được không",
+        "mua trên shopee được không",
+        "còn hàng không",
+        "có sách ký tên không",
+        "mua tặng người khác được không",
+        "mua số lượng lớn",
+        "mua làm quà cho đội ngũ",
+        "có chiết khấu mua nhiều không"
+      ],
+      "answer": "Để đặt mua sách qua website hoặc hỏi về tồn kho, đơn quà tặng và đơn số lượng lớn, bấm **Liên hệ**. Giá mua qua website được giảm **30%**.",
+      "action": "contact",
+      "source": "Chính sách bán hàng do chủ dự án cung cấp"
+    },
+    {
+      "id": "delivery",
+      "aliases": [
+        "giao hàng thế nào",
+        "phí ship bao nhiêu",
+        "mấy ngày nhận sách",
+        "có giao tỉnh không",
+        "có giao ra nước ngoài không",
+        "thanh toán thế nào",
+        "có cod không",
+        "có xuất hóa đơn không",
+        "có được kiểm tra hàng không",
+        "tra đơn hàng",
+        "đơn hàng của tôi đến đâu",
+        "đã mua chưa nhận sách"
+      ],
+      "answer": "Bấm **Liên hệ** để xác nhận phí và thời gian giao hàng, phương thức thanh toán, hóa đơn hoặc tình trạng đơn. Nếu đã đặt mua, bạn có thể chuẩn bị mã đơn để bộ phận hỗ trợ tra cứu.",
+      "action": "contact",
+      "source": null
+    },
+    {
+      "id": "returns",
+      "aliases": [
+        "sách có đổi trả không",
+        "có được đổi không",
+        "có được trả sách không",
+        "chính sách đổi trả",
+        "mua rồi đổi ý có trả được không",
+        "hoàn tiền sách",
+        "sách giao lỗi",
+        "giao nhầm sách",
+        "sách bị hỏng khi giao"
+      ],
+      "answer": "Theo chính sách bán hàng, sách mua tại Việt Nam **không áp dụng đổi trả**. Nếu sách giao bị lỗi, hư hỏng hoặc sai đơn, bấm **Liên hệ** để bộ phận bán hàng kiểm tra trường hợp cụ thể.",
+      "action": "contact",
+      "source": "Chính sách bán hàng do chủ dự án cung cấp"
+    },
+    {
+      "id": "buy_fallback",
+      "aliases": [
+        "hỏi về đơn sách",
+        "hỗ trợ mua sách"
+      ],
+      "answer": "Bấm **Liên hệ** để được hướng dẫn về việc mua sách hoặc kiểm tra đơn hàng.",
+      "action": "contact",
+      "source": null
+    },
+    {
+      "id": "clarify",
+      "aliases": [
+        "thông tin",
+        "cuốn này thì sao"
+      ],
+      "answer": "Bạn muốn hỏi cuốn sách phù hợp với ai, xem chương đọc thử, hay hỏi giá và cách mua?",
+      "action": null,
+      "source": null
+    },
+    {
+      "id": "first_step",
+      "question": "Doanh nghiệp nên bắt đầu chuyển đổi AI từ đâu?",
+      "aliases": [
+        "Doanh nghiệp nên bắt đầu chuyển đổi AI từ đâu?",
+        "sme nên bắt đầu từ đâu",
+        "áp dụng ai vào doanh nghiệp như thế nào"
+      ],
+      "answer": "Bắt đầu từ một quy trình có vấn đề đo được, chẳng hạn thời gian chuẩn bị báo giá hoặc tỷ lệ hồ sơ phải làm lại. Xác định người chịu trách nhiệm và đo hiện trạng. Sau đó chọn mức ứng dụng phù hợp, chạy thử trong phạm vi nhỏ và thống nhất tiêu chí để quyết định có mở rộng. EAR Index™ và Lộ trình 90 ngày giúp tổ chức các bước này.",
+      "source": "Chương 12",
+      "action": null
+    },
+    {
+      "id": "three_a",
+      "question": "Ba nấc Adopt, Adapt và Advance khác nhau thế nào?",
+      "aliases": [
+        "Ba nấc Adopt, Adapt và Advance khác nhau thế nào?",
+        "mô hình 3a là gì",
+        "ba nấc ứng dụng ai là gì"
+      ],
+      "answer": "Adopt là dùng công cụ sẵn có cho bài toán phù hợp. Adapt là điều chỉnh và kết nối công cụ với dữ liệu, ngôn ngữ, quy trình và bối cảnh riêng. Advance là xây năng lực AI có tính làm chủ, ở mức phù hợp với mục tiêu của doanh nghiệp. Khi chọn nấc, hãy xem bài toán đòi hỏi khác biệt đến đâu và tổ chức có đủ nguồn lực để duy trì hay chưa.",
+      "source": "Mục 2.2",
+      "action": null
+    },
+    {
+      "id": "adapt",
+      "question": "Adapt là gì?",
+      "aliases": [
+        "Adapt là gì?",
+        "adapt nghĩa là gì",
+        "nấc thích ứng trong mô hình 3a là gì"
+      ],
+      "answer": "**Adapt (Thích ứng)** là nấc thứ hai của mô hình 3A. Doanh nghiệp điều chỉnh và kết nối công cụ AI với dữ liệu, ngôn ngữ, quy trình và bối cảnh riêng. Ví dụ trong sách là xưởng may huấn luyện lại công cụ kiểm tra chất lượng vải để nhận diện những lỗi dệt đặc thù. Mức tùy biến được quyết định bởi bài toán và khả năng duy trì giải pháp.",
+      "source": "Mục 2.2",
+      "action": null
+    },
+    {
+      "id": "roi",
+      "question": "Đo hiệu quả đầu tư AI như thế nào?",
+      "aliases": [
+        "Đo hiệu quả đầu tư AI như thế nào?",
+        "roi hai tầng là gì",
+        "đo roi ai ra sao",
+        "tính hiệu quả pilot ai thế nào"
+      ],
+      "answer": "ROI hai tầng bắt đầu bằng kết quả trực tiếp như thời gian xử lý, chất lượng công việc hoặc chi phí. Sau đó xem đến giá trị của tài sản bổ trợ có thể dùng lại, chẳng hạn dữ liệu được chuẩn hóa và quy trình được thiết kế lại. Trước khi thử nghiệm, hãy ghi số đo hiện trạng và tính chi phí vòng đời, gồm vận hành và giám sát sau khi đưa vào dùng.",
+      "source": "Bản đồ công cụ và Mục 7.9",
+      "action": null
+    },
+    {
+      "id": "agent",
+      "question": "Giao việc và giới hạn quyền cho AI Agent thế nào?",
+      "aliases": [
+        "Giao việc và giới hạn quyền cho AI Agent thế nào?",
+        "hồ sơ agent có những gì",
+        "agent được tự quyết đến đâu",
+        "ai được quyền dừng tác nhân"
+      ],
+      "answer": "Hồ Sơ Agent có sáu phần: vai trò, mục tiêu, tri thức, công cụ, mức tự chủ và ranh giới an toàn. Với tác nhân soạn báo giá, có thể cho phép đọc bảng giá và tạo bản nháp, đồng thời chuyển yêu cầu chiết khấu ngoài chính sách cho người có thẩm quyền. Trước khi mở rộng quyền, người phụ trách cần xem bằng chứng thử nghiệm và xác định ai có quyền dừng tác nhân.",
+      "source": "Mục 7.2–7.6 và 7.8",
+      "action": null
+    },
+    {
+      "id": "security",
+      "question": "Shadow AI là gì và doanh nghiệp nên xử lý ra sao?",
+      "aliases": [
+        "Shadow AI là gì và doanh nghiệp nên xử lý ra sao?",
+        "nhân viên tự dùng ai có rủi ro gì",
+        "đưa dữ liệu công ty vào ai có an toàn không"
+      ],
+      "answer": "Shadow AI là việc nhân viên dùng công cụ AI bên ngoài phạm vi doanh nghiệp phê duyệt. Sách đề nghị nhìn cả nhu cầu công việc khiến nhân viên tự tìm công cụ và rủi ro khi đưa dữ liệu ra ngoài. Nhà quản lý có thể bắt đầu bằng cách phân loại dữ liệu, quy định nguồn nào được dùng và thiết lập công cụ, quyền hạn và người chịu trách nhiệm phù hợp.",
+      "source": "Chương 5–6",
+      "action": null
+    },
+    {
+      "id": "departments",
+      "question": "Sách đề cập ứng dụng AI ở những phòng ban nào?",
+      "aliases": [
+        "Sách đề cập ứng dụng AI ở những phòng ban nào?",
+        "ai dùng trong nhân sự kế toán được không",
+        "sách có ví dụ theo phòng ban không"
+      ],
+      "answer": "Chương 9 có bản đồ chuyển đổi cho vận hành và sản xuất, tài chính và kế toán, marketing và bán hàng, chăm sóc khách hàng, và nhân sự. Bạn có thể chọn phần gần với công việc của mình, xác định một bước đang chậm hoặc dễ sai, rồi đặt chỉ số để đánh giá thay đổi. Ví dụ ở bán hàng, hãy bắt đầu với chất lượng và tốc độ chuẩn bị báo giá.",
+      "source": "Chương 9, Mục 7.8",
+      "action": null
+    },
+    {
+      "id": "ear",
+      "question": "EAR Index™ giúp doanh nghiệp làm gì?",
+      "aliases": [
+        "EAR Index™ giúp doanh nghiệp làm gì?",
+        "ear index là gì",
+        "đánh giá mức sẵn sàng ai của doanh nghiệp thế nào"
+      ],
+      "answer": "EAR Index™ giúp doanh nghiệp đánh giá mức sẵn sàng AI theo tám trụ cột. Bạn có thể dùng bảng chấm điểm để tìm năng lực đang giới hạn việc triển khai và nối kết quả với Lộ trình 90 ngày. Ví dụ, nếu dữ liệu chưa đủ tin cậy cho một quy trình, có thể ưu tiên cải thiện nguồn dữ liệu trước khi thử tăng quyền hành động cho tác nhân.",
+      "source": "Mục 12.2–12.6, Phụ lục D",
+      "action": null
+    },
+    {
+      "id": "pilot",
+      "question": "Khi nào nên nhân rộng thử nghiệm AI?",
+      "aliases": [
+        "Khi nào nên nhân rộng thử nghiệm AI?",
+        "sau pilot khi nào mở rộng",
+        "đánh giá sandbox ai thế nào"
+      ],
+      "answer": "Hãy thống nhất tiêu chí trước khi chạy thử: cải thiện nào cần đo, rủi ro nào cần kiểm soát và ai sẽ chịu trách nhiệm khi đưa vào vận hành. Đo kết quả trên công việc thực tế, xem các ngoại lệ và chi phí giám sát, rồi mới quyết định mở rộng. Nếu dữ liệu chưa đủ hoặc quyền hành động chưa kiểm soát được, có thể sửa thiết kế và thử lại trong phạm vi nhỏ.",
+      "source": "Chương 11–12",
+      "action": null
+    },
+    {
+      "id": "people",
+      "question": "Doanh nghiệp đào tạo nhân viên thế nào khi AI làm việc cơ bản?",
+      "aliases": [
+        "Doanh nghiệp đào tạo nhân viên thế nào khi AI làm việc cơ bản?",
+        "ai làm việc cơ bản thì nhân viên mới học nghề thế nào",
+        "sách có nói về đào tạo nhân viên không"
+      ],
+      "answer": "Sách đề nghị bảo vệ bậc thang kinh nghiệm cho nhân sự mới. Khi AI đảm nhận khâu cơ bản, quản lý cần tìm những nhiệm vụ khác để người mới tập kiểm chứng, xử lý ngoại lệ và rèn phán đoán. Ma trận kỹ năng giúp xác định từng vai trò cần học gì, còn Sơ Đồ Công Việc giúp đội ngũ thấy AI và con người phối hợp ở điểm nào.",
+      "source": "Mục 8.2 và Chương 10",
+      "action": null
+    },
+    {
+      "id": "read_apply",
+      "question": "Tôi muốn dùng AI ngay, cuốn này giúp tôi làm gì từ hôm nay?",
+      "aliases": [
+        "Tôi muốn dùng AI ngay, cuốn này giúp tôi làm gì từ hôm nay?",
+        "có hướng dẫn thực hành cụ thể không",
+        "đọc phần nào để áp dụng ngay"
+      ],
+      "answer": "Bạn có thể lấy một quy trình đang chậm để lập thử nghiệm. Ví dụ, với soạn báo giá, ghi thời gian xử lý hiện tại, cho AI chuẩn bị bản nháp từ bảng giá đã duyệt và để nhân viên kiểm tra trước khi gửi. So kết quả theo thời gian và lỗi. Mục 7.8 trình bày tình huống báo giá, còn Chương 11–12 giúp bạn thiết kế thử nghiệm và chọn bước tiếp theo.",
+      "source": "Mục 7.8, Chương 11–12",
+      "action": "read_sample"
+    },
+    {
+      "id": "read_example",
+      "question": "Tôi muốn xem một ví dụ có thể liên hệ với công việc của mình. Nên đọc phần nào?",
+      "aliases": [
+        "Tôi muốn xem một ví dụ có thể liên hệ với công việc của mình. Nên đọc phần nào?",
+        "có ví dụ sát công việc của tôi không",
+        "muốn xem ví dụ trước khi mua sách"
+      ],
+      "answer": "Nếu muốn xem AI đổi cách làm việc ra sao, hãy đọc tình huống Trợ lý Báo giá ở mục 7.8. Ví dụ đặt câu hỏi cụ thể: AI được dùng bảng giá nào, ai duyệt chiết khấu ngoài quy định và ai có thể dừng tác nhân. Nếu công việc của bạn thuộc kế toán, chăm sóc khách hàng, nhân sự hoặc sản xuất, Chương 9 có bản đồ chuyển đổi theo phòng ban.",
+      "source": "Mục 7.8, Chương 9",
+      "action": "read_sample"
+    },
+    {
+      "id": "read_depth",
+      "question": "Tôi muốn hiểu bản chất AI. Sách giải thích đến mức nào?",
+      "aliases": [
+        "Tôi muốn hiểu bản chất AI. Sách giải thích đến mức nào?",
+        "có nhiều thuật ngữ kỹ thuật quá không",
+        "tôi muốn hiểu bản chất ai"
+      ],
+      "answer": "Sách giúp bạn hiểu AI ở mức ra quyết định trong doanh nghiệp. Ví dụ, một tác nhân có thể đọc tài liệu, dùng công cụ và chuẩn bị hành động. Nhưng người quản lý cần xác định dữ liệu nào được phép dùng, hành động nào được giao và lúc nào phải chuyển cho con người. Chương 7 giải thích qua Hồ Sơ Agent. Bạn có thể tra thuật ngữ ở Phụ lục E.",
+      "source": "Chương 7, Phụ lục E",
+      "action": "read_sample"
+    },
+    {
+      "id": "read_risk",
+      "question": "Tôi quan tâm đạo đức, an toàn và tương lai việc làm. Cuốn này bàn sâu đến đâu?",
+      "aliases": [
+        "Tôi quan tâm đạo đức, an toàn và tương lai việc làm. Cuốn này bàn sâu đến đâu?",
+        "sách có bàn sâu về đạo đức an toàn tác động xã hội không",
+        "nên đọc gì về rủi ro và tương lai ai"
+      ],
+      "answer": "Trọng tâm là an toàn và trách nhiệm trong doanh nghiệp. Chương 5–7 bàn về dữ liệu nhạy cảm, Shadow AI, quyền của tác nhân và trách nhiệm khi hệ thống gây lỗi. Chương 10 xem xét việc người mới sẽ học nghề thế nào khi AI làm các nhiệm vụ cơ bản. Nếu bạn muốn đánh giá khía cạnh đạo đức trong công việc, hãy bắt đầu từ quyền quyết định, cách giám sát và trách nhiệm đào tạo.",
+      "source": "Chương 5–7 và 10",
+      "action": "read_sample"
+    },
+    {
+      "id": "read_beginner",
+      "question": "Tôi chưa biết gì về AI. Nên đọc từ đâu và tra thuật ngữ ở đâu?",
+      "aliases": [
+        "Tôi chưa biết gì về AI. Nên đọc từ đâu và tra thuật ngữ ở đâu?",
+        "có định nghĩa từng khái niệm không",
+        "người mới hoàn toàn nên đọc phần nào",
+        "chưa biết gì về ai nên bắt đầu đọc ở đâu"
+      ],
+      "answer": "Hãy bắt đầu từ Lời tựa và Chương 1, nơi sách đưa ra các tình huống quản lý quen thuộc. Sau đó dùng Bản đồ công cụ để chọn một vấn đề, như đánh giá mức sẵn sàng hay phân quyền cho tác nhân. Phụ lục E giải thích những thuật ngữ chính. Bạn có thể đọc theo bài toán của mình và quay lại phần khái niệm khi cần, kể cả khi chưa từng dùng công cụ AI.",
+      "source": "Lời tựa, Chương 1, Bản đồ công cụ và Phụ lục E",
+      "action": "read_sample"
+    },
+    {
+      "id": "restructure",
+      "question": "AI tái cấu trúc nền kinh tế như thế nào?",
+      "aliases": [
+        "AI tái cấu trúc nền kinh tế như thế nào?",
+        "ai tái cấu trúc nền kinh tế ra sao",
+        "ai thay đổi cấu trúc nền kinh tế thế nào"
+      ],
+      "answer": "Cuốn này tiếp cận sự tái cấu trúc từ doanh nghiệp. Khi chi phí xử lý một công việc giảm, doanh nghiệp có thể phục vụ thêm khách hàng và phân lại nhiệm vụ giữa nhân viên và AI. Kết quả phụ thuộc vào việc thiết kế quy trình và đo được hiệu quả. Nếu bạn muốn xem dòng vốn, chuỗi giá trị và cạnh tranh giữa các quốc gia thay đổi thế nào, có thể chọn khung AI Economy.",
+      "source": "Lời tựa và Bản đồ công cụ",
+      "action": null
+    },
+    {
+      "id": "social",
+      "question": "AI ảnh hưởng đến phát triển kinh tế và xã hội như thế nào?",
+      "aliases": [
+        "AI ảnh hưởng đến phát triển kinh tế và xã hội như thế nào?",
+        "ai ảnh hưởng đến sự phát triển kinh tế xã hội như thế nào",
+        "năng suất tăng thì người lao động có hưởng lợi không"
+      ],
+      "answer": "Sách xem tác động xã hội qua những thay đổi trong nơi làm việc. Nếu AI đảm nhận việc cơ bản, người có kinh nghiệm có thể xử lý nhiều trường hợp hơn, còn người mới có thể mất một số cơ hội học nghề. Doanh nghiệp có thể chủ động thiết kế lại nhiệm vụ, tạo cơ hội tập xử lý ngoại lệ và đo sự tiến bộ của từng vai trò. Đây là phần tác động mà người quản lý có thể trực tiếp theo dõi.",
+      "source": "Chương 8 và 10",
+      "action": null
+    },
+    {
+      "id": "national",
+      "question": "Nền kinh tế trí tuệ mở ra cơ hội và rủi ro gì cho một quốc gia?",
+      "aliases": [
+        "Nền kinh tế trí tuệ mở ra cơ hội và rủi ro gì cho một quốc gia?",
+        "quốc gia được gì và mất gì từ ai",
+        "cơ hội và rủi ro ai với quốc gia"
+      ],
+      "answer": "Cuốn này nhìn cơ hội cấp quốc gia qua khả năng doanh nghiệp biến AI thành năng suất. Doanh nghiệp cần năng lực triển khai, nhân lực biết phối hợp với AI và trách nhiệm quản trị rõ. Nếu các điều kiện đó yếu, việc có thêm công cụ có thể chưa tạo ra kết quả tương xứng với khoản đầu tư. Để đọc về hạ tầng, chủ quyền AI và lựa chọn của các quốc gia, hãy chuyển sang khung AI Economy.",
+      "source": "Lời tựa và Chương 12",
+      "action": null
+    },
+    {
+      "id": "company",
+      "question": "Nền kinh tế trí tuệ mở ra cơ hội và rủi ro gì cho doanh nghiệp?",
+      "aliases": [
+        "Nền kinh tế trí tuệ mở ra cơ hội và rủi ro gì cho doanh nghiệp?",
+        "cơ hội và rủi ro ai với doanh nghiệp",
+        "doanh nghiệp được gì và đối mặt rủi ro gì khi ai phổ biến"
+      ],
+      "answer": "Cơ hội trước mắt là giảm thời gian xử lý, cải thiện chất lượng hoặc phục vụ thêm khách hàng. Rủi ro gồm dữ liệu bị lộ, AI làm sai ngoài phạm vi cho phép và chi phí giám sát lớn hơn dự tính. Sách gợi ý chọn một quy trình, đo hiện trạng, giới hạn quyền AI và so hiệu quả với chi phí vòng đời. Khi có bằng chứng, doanh nghiệp mới có cơ sở quyết định có mở rộng.",
+      "source": "Chương 5–7 và 11–12",
+      "action": null
+    },
+    {
+      "id": "citizen",
+      "question": "Người dân và người lao động có cơ hội, rủi ro gì khi AI phổ biến?",
+      "aliases": [
+        "Người dân và người lao động có cơ hội, rủi ro gì khi AI phổ biến?",
+        "người dân được gì và mất gì vì ai",
+        "cơ hội và rủi ro ai với người dân",
+        "người lao động nên chuẩn bị gì cho nền kinh tế trí tuệ"
+      ],
+      "answer": "Trong doanh nghiệp, AI có thể giảm bớt việc lặp lại và cho nhân viên thêm thời gian để xử lý việc cần phán đoán. Rủi ro là người mới ít cơ hội học từ việc cơ bản và đội ngũ thiếu cơ hội rèn kỹ năng mới. Sách gợi ý dùng ma trận kỹ năng và thiết kế lại công việc để người lao động biết mình cần học gì, khi nào phải kiểm tra AI và ai chịu trách nhiệm cuối cùng.",
+      "source": "Chương 8 và 10",
+      "action": null
+    },
+    {
+      "id": "series",
+      "question": "Tôi nên đọc cuốn nào nếu muốn phát triển kỹ năng AI cá nhân?",
+      "aliases": [
+        "Tôi nên đọc cuốn nào nếu muốn phát triển kỹ năng AI cá nhân?",
+        "sống cùng ai viết về gì",
+        "bộ sách của trần tấn sỹ có những chủ đề nào",
+        "muốn học kỹ năng ai cá nhân nên đọc cuốn nào"
+      ],
+      "answer": "Nếu quan tâm kỹ năng cá nhân và lộ trình nghề nghiệp, tác giả dẫn bạn sang **Sống Cùng AI**. **AI Economy** đi vào năng suất, việc làm và chuyển dịch ở cấp nền kinh tế. **AI First Business** hướng đến quản lý và tổ chức lại công việc trong doanh nghiệp. Bạn có thể chọn theo câu hỏi đang cần giải quyết.",
+      "source": "Chương 10",
+      "action": null
+    },
+    {
+      "id": "bulk",
+      "question": "Tôi muốn mua sách cho công ty, hỏi hóa đơn và ưu đãi số lượng ở đâu?",
+      "aliases": [
+        "Tôi muốn mua sách cho công ty, hỏi hóa đơn và ưu đãi số lượng ở đâu?",
+        "mua sách cho doanh nghiệp",
+        "mua sách tặng ban giám đốc",
+        "đặt mua số lượng lớn cho công ty",
+        "mua sách có xuất hóa đơn vat không",
+        "có in logo lên sách không"
+      ],
+      "answer": "Bấm **Liên hệ** trên website để hỏi về đơn sách cho công ty. Bạn có thể nêu số lượng, thời điểm cần nhận và yêu cầu về hóa đơn hoặc quà tặng để bộ phận bán hàng xác nhận. Ưu đãi công bố khi mua qua website là **30%**. Giá và điều kiện riêng cho đơn số lượng lớn cần xác nhận theo đơn.",
+      "source": "Chính sách bán hàng do chủ dự án cung cấp",
+      "action": "contact"
+    },
+    {
+      "id": "ari_vs_ear",
+      "question": "ARI và EAR Index™ khác nhau thế nào?",
+      "aliases": [
+        "ARI và EAR Index™ khác nhau thế nào?",
+        "ari khác gì ear index",
+        "hai chỉ số 8 trụ cột khác nhau thế nào",
+        "so sánh ari và ear index"
+      ],
+      "answer": "**ARI** giúp đánh giá một địa phương và **ARI-IP** áp dụng cho khu công nghiệp. Các khung này xem những điều kiện như hạ tầng, điện và kết nối. **EAR Index™** đánh giá năng lực triển khai AI của một doanh nghiệp và giúp chọn ưu tiên cho Lộ trình 90 ngày. Hãy xác định đối tượng cần đánh giá trước khi chọn bảng chấm điểm.",
+      "source": "Chương 12, Phụ lục D và ghi chú sách cùng bộ",
+      "action": null
+    },
+    {
+      "id": "sme_fit",
+      "question": "Doanh nghiệp nhỏ hoặc cửa hàng có áp dụng được sách này không?",
+      "aliases": [
+        "Doanh nghiệp nhỏ hoặc cửa hàng có áp dụng được sách này không?",
+        "doanh nghiệp nhỏ đọc được không",
+        "sme có áp dụng được không",
+        "không có phòng it có làm theo sách được không"
+      ],
+      "answer": "Mục 3.8 dành riêng cho doanh nghiệp nhỏ, vừa và siêu nhỏ. Bạn có thể bắt đầu từ một tác vụ tốn thời gian như chuẩn bị báo giá, thử công cụ sẵn có ở nấc **Adopt** và để người phụ trách kiểm tra đầu ra. Hãy ghi lại thời gian và lỗi trước khi thử để biết việc dùng AI có thực sự giúp ích và có đáng mở rộng hay không.",
+      "source": "Mục 2.2 và 3.8",
+      "action": "read_sample"
+    },
+    {
+      "id": "business_models",
+      "question": "Bốn mô hình kinh doanh AI-Native trong sách là gì?",
+      "aliases": [
+        "Bốn mô hình kinh doanh AI-Native trong sách là gì?",
+        "4 mô hình ai native",
+        "bốn mô hình kinh doanh ai native là gì"
+      ],
+      "answer": "Sách trình bày **Nền tảng Năng suất**, **Chợ Tác nhân AI**, **Trí tuệ Dữ liệu** và **Sản xuất Tăng cường AI**. Các mô hình lần lượt khai thác năng lực xử lý công việc, cung cấp tác nhân, tạo lợi thế từ dữ liệu và cải thiện hoạt động sản xuất. Khi đọc, hãy hỏi doanh nghiệp tạo giá trị ở khâu nào, khách hàng trả tiền cho kết quả gì và năng lực nào cần để duy trì mô hình.",
+      "source": "Chương 3",
+      "action": null
+    },
+    {
+      "id": "why_fail",
+      "question": "Vì sao dự án AI khó tạo hiệu quả kinh doanh?",
+      "aliases": [
+        "Vì sao dự án AI khó tạo hiệu quả kinh doanh?",
+        "vì sao dự án ai thất bại",
+        "tại sao đầu tư ai không hiệu quả",
+        "làm sao tránh mất tiền oan vì ai"
+      ],
+      "answer": "Một dự án có thể cho kết quả kỹ thuật tốt mà vẫn khó tạo giá trị nếu bài toán chưa rõ, dữ liệu chưa đủ hoặc không có ai chịu trách nhiệm theo dõi hiệu quả. Sách hướng dẫn chọn việc có chỉ số, đo hiện trạng, xác định chủ sở hữu và xem lại lợi ích cùng chi phí sau khi thử. Phí sử dụng mô hình, tích hợp và giám sát đều cần tính khi quyết định mở rộng.",
+      "source": "Chương 2, 4 và Mục 7.9",
+      "action": null
+    },
+    {
+      "id": "manager_role",
+      "question": "Vai trò của quản lý thay đổi thế nào khi có AI?",
+      "aliases": [
+        "Vai trò của quản lý thay đổi thế nào khi có AI?",
+        "từ sếp sang nhạc trưởng là gì",
+        "quản lý cấp trung cần làm gì khi có ai",
+        "sơ đồ công việc work chart là gì"
+      ],
+      "answer": "Chương 8 mô tả bốn mẫu hình cộng tác: **Người Viết, Người Biên Tập, Người Đạo Diễn và Người Điều Phối**. Quản lý chọn cách phối hợp theo công việc và trách nhiệm. Dùng Sơ Đồ Công Việc để thấy bước nào giao AI, bước nào cần người kiểm tra và ai xử lý ngoại lệ. Ví dụ, người quản lý có thể giao soạn nháp báo giá cho AI nhưng vẫn giữ quyền duyệt giá cuối cùng.",
+      "source": "Chương 8",
+      "action": null
+    },
+    {
+      "id": "vn_law",
+      "question": "Sách có đề cập pháp lý AI và dữ liệu tại Việt Nam không?",
+      "aliases": [
+        "Sách có đề cập pháp lý AI và dữ liệu tại Việt Nam không?",
+        "sách có nói về pháp lý việt nam không",
+        "luật bảo vệ dữ liệu cá nhân và ai",
+        "nghị định 356 bảo vệ dữ liệu"
+      ],
+      "answer": "Sách bàn về quản trị AI và bảo vệ dữ liệu trong bối cảnh Việt Nam. Các phần thực hành giúp bạn lập chính sách dùng AI, phân loại dữ liệu, đặt giới hạn cho tác nhân và phân công trách nhiệm. Khi cần xác định nghĩa vụ pháp lý cho một quy trình cụ thể, hãy đối chiếu văn bản chính thức và trao đổi với người phụ trách pháp lý hoặc bảo mật.",
+      "source": "Chương 5–6, Phụ lục A",
+      "action": null
+    },
+    {
+      "id": "consulting_next",
+      "question": "Đọc xong tôi nên tự đánh giá EAR hay trao đổi với đội tư vấn?",
+      "aliases": [
+        "Đọc xong tôi nên tự đánh giá EAR hay trao đổi với đội tư vấn?",
+        "sau khi đọc sách có hỗ trợ triển khai không",
+        "tự đánh giá hay tư vấn ai",
+        "đọc xong muốn được hỗ trợ triển khai"
+      ],
+      "answer": "Bạn có thể dùng **Làm khảo sát EAR** nếu muốn tìm điểm nghẽn trước và chọn ưu tiên cho Lộ trình 90 ngày. Nếu đã có một quy trình, mục tiêu hoặc yêu cầu cụ thể cần trao đổi với Go AI, hãy chọn **Liên hệ tư vấn**. Hai lựa chọn phục vụ các bước khác nhau để bạn chọn theo mức chuẩn bị của doanh nghiệp.",
+      "source": "Chương 12 và Phụ lục D",
+      "action": "consulting_choices"
+    }
+  ]
+}
+

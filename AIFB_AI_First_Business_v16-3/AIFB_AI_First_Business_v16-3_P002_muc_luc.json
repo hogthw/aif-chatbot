@@ -1,0 +1,27 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-p2",
+    "kind": "divider_or_front",
+    "title": "Mục lục",
+    "start": 2,
+    "end": 3
+  },
+  "cards": [],
+  "sources": {
+    "aifb-p2": {
+      "title": "Mục lục",
+      "kind": "divider_or_front",
+      "number": null,
+      "page": 2,
+      "end_page": 3,
+      "parent_id": "aifb-p2"
+    }
+  },
+  "print_pages": {
+    "2": "aifb-p2",
+    "3": "aifb-p2"
+  }
+}

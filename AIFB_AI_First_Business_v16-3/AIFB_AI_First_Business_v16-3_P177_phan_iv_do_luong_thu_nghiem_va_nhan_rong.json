@@ -1,0 +1,27 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-p177",
+    "kind": "divider_or_front",
+    "title": "Phần IV · Đo lường, thử nghiệm và nhân rộng",
+    "start": 177,
+    "end": 178
+  },
+  "cards": [],
+  "sources": {
+    "aifb-p177": {
+      "title": "Phần IV · Đo lường, thử nghiệm và nhân rộng",
+      "kind": "divider_or_front",
+      "number": null,
+      "page": 177,
+      "end_page": 178,
+      "parent_id": "aifb-p177"
+    }
+  },
+  "print_pages": {
+    "177": "aifb-p177",
+    "178": "aifb-p177"
+  }
+}

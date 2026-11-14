@@ -1,0 +1,48 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-p303",
+    "kind": "back_or_front_matter",
+    "title": "Tài liệu tham khảo chọn lọc",
+    "start": 303,
+    "end": 309
+  },
+  "cards": [
+    {
+      "id": "aiec-qa-p303",
+      "chapter": null,
+      "region_id": "aiec-p303",
+      "primary_source_id": "aiec-p303",
+      "question": "Tài liệu tham khảo của AI Economy nằm ở đâu?",
+      "answer": "Danh mục chọn lọc bắt đầu ở trang 303. Khi cần kiểm tra một nhận định cụ thể, xem thêm chú thích của chương và nguồn ghi dưới hình hoặc bảng liên quan.",
+      "source_ids": [
+        "aiec-p303"
+      ],
+      "aliases": [
+        "Tài liệu tham khảo chọn lọc"
+      ],
+      "status": "draft_for_editorial_review"
+    }
+  ],
+  "sources": {
+    "aiec-p303": {
+      "title": "Tài liệu tham khảo chọn lọc",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 303,
+      "end_page": 309,
+      "parent_id": "aiec-p303"
+    }
+  },
+  "print_pages": {
+    "303": "aiec-p303",
+    "304": "aiec-p303",
+    "305": "aiec-p303",
+    "306": "aiec-p303",
+    "307": "aiec-p303",
+    "308": "aiec-p303",
+    "309": "aiec-p303"
+  }
+}

@@ -15,11 +15,31 @@ export async function startStream(env, messages) {
   throw lastErr || new Error("Không gọi được mô hình");
 }
 
+export function directClientStream(text, meta) {
+  const enc = new TextEncoder();
+  return new ReadableStream({
+    start(ctrl) {
+      ctrl.enqueue(enc.encode("data: " + JSON.stringify({ t: text }) + "\n\n"));
+      ctrl.enqueue(enc.encode("data: " + JSON.stringify({ done: true, nf: false, src: meta.src, faq: [] }) + "\n\n"));
+      if (meta.onDone) meta.onDone({ text, nf: false });
+      ctrl.close();
+    },
+  });
+}
+
 // Biến luồng SSE của Workers AI thành luồng {t} cho trình duyệt; bỏ ký hiệu [NF] (không tìm thấy) khỏi chữ hiển thị.
 export function toClientStream(aiStream, meta) {
   const enc = new TextEncoder(), dec = new TextDecoder();
   let buf = "", hold = "", nf = false, total = "";
   const send = (ctrl, obj) => ctrl.enqueue(enc.encode("data: " + JSON.stringify(obj) + "\n\n"));
+  const cleanLanguage = (text) => meta.lang === "zh"
+    ? text
+    : text.replace(/[\u3400-\u4DBF\u4E00-\u9FFF\uF900-\uFAFF\u{20000}-\u{2FA1F}\u{30000}-\u{323AF}]+/gu, "");
+  const emit = (ctrl, text) => {
+    let clean = cleanLanguage(text);
+    if (total.endsWith(" ") && clean.startsWith(" ")) clean = clean.trimStart();
+    if (clean) { total += clean; send(ctrl, { t: clean }); }
+  };
   const handle = (ctrl, l) => {
     const m = /^data:\s*(.*)$/.exec(l.trim()); if (!m || m[1] === "[DONE]") return;
     let t = "";
@@ -34,7 +54,7 @@ export function toClientStream(aiStream, meta) {
     const cut = hold.lastIndexOf("[");
     const safe = cut >= 0 && hold.length - cut < 5 ? hold.slice(0, cut) : hold;
     hold = hold.slice(safe.length);
-    if (safe) { total += safe; send(ctrl, { t: safe }); }
+    if (safe) emit(ctrl, safe);
   };
   return aiStream.pipeThrough(new TransformStream({
     transform(chunk, ctrl) {
@@ -45,7 +65,9 @@ export function toClientStream(aiStream, meta) {
     flush(ctrl) {
       if (buf.trim()) handle(ctrl, buf);
       if (hold.includes("[NF]")) { nf = true; hold = hold.replace(/\s*\[NF\]\s*/g, " "); }
-      if (hold.trim()) { total += hold; send(ctrl, { t: hold }); }
+      if (hold.trim()) {
+        emit(ctrl, hold);
+      }
       total = total.trim();
       send(ctrl, { done: true, nf, src: nf ? "" : meta.src, faq: nf ? [] : meta.faq });
       if (meta.onDone) meta.onDone({ text: total, nf });

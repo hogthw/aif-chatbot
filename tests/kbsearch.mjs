@@ -18,7 +18,16 @@ export function mockSearch(kb, calls) {
       async search(opts) {
         calls && calls.push({ name, opts });
         const q = norm(opts.query).split(/\W+/).filter((w) => w.length > 2);
-        const res = kb.map((d) => {
+        let docs = kb;
+        const folder = opts.ai_search_options?.retrieval?.filters?.folder;
+        if (folder && typeof folder === "object") {
+          docs = docs.filter((d) => {
+            const end = d.key.lastIndexOf("/") + 1;
+            const value = d.key.slice(0, end);
+            return (!folder.$gte || value >= folder.$gte) && (!folder.$lt || value < folder.$lt);
+          });
+        }
+        const res = docs.map((d) => {
           const t = norm(d.text); let hit = 0;
           for (const w of q) if (t.includes(w)) hit++;
           return { id: d.key, type: "text", score: q.length ? hit / q.length : 0, text: d.text, item: { key: d.key, timestamp: 0, metadata: {} } };

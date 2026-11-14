@@ -1,0 +1,4248 @@
+{
+  "book_id": "aiec",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "edition": "v13.7",
+  "sources": {
+    "aiec-figure-0.1": {
+      "title": "Luận đề trong một hình: tập trung ở tầng xây, phân tán ở tầng dùng",
+      "kind": "figure",
+      "number": "0.1",
+      "page": 10,
+      "end_page": 10,
+      "parent_id": "aiec-p5"
+    },
+    "aiec-figure-0.2": {
+      "title": "Số liệu từ lời công bố đến kết quả thực tế",
+      "kind": "figure",
+      "number": "0.2",
+      "page": 16,
+      "end_page": 16,
+      "parent_id": "aiec-p5"
+    },
+    "aiec-table-0.1": {
+      "title": "Bản đồ khung phân tích: mỗi câu hỏi, một cách đọc",
+      "kind": "table",
+      "number": "0.1",
+      "page": 17,
+      "end_page": 17,
+      "parent_id": "aiec-p5"
+    },
+    "aiec-section-1.1": {
+      "title": "Từ ứng dụng tiêu dùng đến cú sốc năng suất toàn cầu",
+      "kind": "section",
+      "number": "1.1",
+      "page": 24,
+      "end_page": 27,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-figure-1.1": {
+      "title": "Tốc độ phổ cập: AI tạo sinh so với máy tính cá nhân",
+      "kind": "figure",
+      "number": "1.1",
+      "page": 25,
+      "end_page": 25,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-section-1.2": {
+      "title": "Nhà máy trí tuệ và vai trò định hình nền kinh tế mới",
+      "kind": "section",
+      "number": "1.2",
+      "page": 27,
+      "end_page": 28,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-section-1.3": {
+      "title": "Ba đặc điểm quyết định ai hưởng lợi từ AI: Năng lực, Mức độ tập trung, Yếu tố bổ trợ",
+      "kind": "section",
+      "number": "1.3",
+      "page": 28,
+      "end_page": 31,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-figure-1.2": {
+      "title": "Ba yếu tố quyết định ai hưởng lợi từ AI",
+      "kind": "figure",
+      "number": "1.2",
+      "page": 29,
+      "end_page": 29,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-section-1.4": {
+      "title": "Cuộc cách mạng năng suất",
+      "kind": "section",
+      "number": "1.4",
+      "page": 31,
+      "end_page": 35,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-figure-1.3": {
+      "title": "Trí tuệ trở thành một yếu tố sản xuất",
+      "kind": "figure",
+      "number": "1.3",
+      "page": 32,
+      "end_page": 32,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-figure-1.4": {
+      "title": "Chi phí để có cùng một mức năng lực AI giảm hơn",
+      "kind": "figure",
+      "number": "1.4",
+      "page": 33,
+      "end_page": 33,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-figure-1.5": {
+      "title": "Đường cong chữ J của năng suất",
+      "kind": "figure",
+      "number": "1.5",
+      "page": 35,
+      "end_page": 35,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-section-1.5": {
+      "title": "Khi hạ tầng trở thành điều kiện tiên quyết",
+      "kind": "section",
+      "number": "1.5",
+      "page": 35,
+      "end_page": 37,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-section-1.6": {
+      "title": "Từ cuộc cạnh tranh công nghệ đến chiến lược nâng tầm quốc gia",
+      "kind": "section",
+      "number": "1.6",
+      "page": 37,
+      "end_page": 38,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-section-1.7": {
+      "title": "Chín tầng của một nền kinh tế trí tuệ",
+      "kind": "section",
+      "number": "1.7",
+      "page": 38,
+      "end_page": 44,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-figure-1.6": {
+      "title": "Chín tầng của nền kinh tế trí tuệ",
+      "kind": "figure",
+      "number": "1.6",
+      "page": 38,
+      "end_page": 38,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-section-2.1": {
+      "title": "Một buổi sáng trong phòng máy ở Tân Trúc",
+      "kind": "section",
+      "number": "2.1",
+      "page": 46,
+      "end_page": 47,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-section-2.2": {
+      "title": "Nhà máy trí tuệ là gì: một định nghĩa kinh tế",
+      "kind": "section",
+      "number": "2.2",
+      "page": 47,
+      "end_page": 51,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-figure-2.1": {
+      "title": "Nhà máy trí tuệ: đầu vào, quy trình, đầu ra",
+      "kind": "figure",
+      "number": "2.1",
+      "page": 48,
+      "end_page": 48,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-figure-2.2": {
+      "title": "Từ trung tâm dữ liệu truyền thống",
+      "kind": "figure",
+      "number": "2.2",
+      "page": 49,
+      "end_page": 49,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-section-2.3": {
+      "title": "Chu trình sản xuất và hai dây chuyền",
+      "kind": "section",
+      "number": "2.3",
+      "page": 51,
+      "end_page": 54,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-figure-2.3": {
+      "title": "Hai dây chuyền của nhà máy trí tuệ: huấn luyện và",
+      "kind": "figure",
+      "number": "2.3",
+      "page": 51,
+      "end_page": 51,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-figure-2.4": {
+      "title": "Vốn phần vỏ và vốn phần IT trong vòng đời một",
+      "kind": "figure",
+      "number": "2.4",
+      "page": 53,
+      "end_page": 53,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-section-2.4": {
+      "title": "Giá giảm, cầu tăng: kinh tế học của suy luận",
+      "kind": "section",
+      "number": "2.4",
+      "page": 54,
+      "end_page": 55,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-figure-2.5": {
+      "title": "Giá mỗi đơn vị giảm, tổng nhu cầu tăng",
+      "kind": "figure",
+      "number": "2.5",
+      "page": 54,
+      "end_page": 54,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-section-2.5": {
+      "title": "Bốn yếu tố nền tảng và dữ liệu",
+      "kind": "section",
+      "number": "2.5",
+      "page": 55,
+      "end_page": 58,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-section-2.6": {
+      "title": "Sản phẩm của nhà máy: từ token đến năng lực giải quyết vấn đề",
+      "kind": "section",
+      "number": "2.6",
+      "page": 58,
+      "end_page": 60,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-section-2.7": {
+      "title": "Đo năng suất của nhà máy trí tuệ",
+      "kind": "section",
+      "number": "2.7",
+      "page": 60,
+      "end_page": 62,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-figure-2.6": {
+      "title": "Mật độ điện của tủ máy quyết định công nghệ làm mát",
+      "kind": "figure",
+      "number": "2.6",
+      "page": 62,
+      "end_page": 62,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-section-2.8": {
+      "title": "Năm cơ chế tạo ra giá trị kinh tế",
+      "kind": "section",
+      "number": "2.8",
+      "page": 62,
+      "end_page": 66,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-figure-2.7": {
+      "title": "Năm cơ chế AI tạo ra giá trị kinh tế",
+      "kind": "figure",
+      "number": "2.7",
+      "page": 63,
+      "end_page": 63,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-section-3.1": {
+      "title": "Dòng vốn luôn đi trước nền kinh tế",
+      "kind": "section",
+      "number": "3.1",
+      "page": 67,
+      "end_page": 70,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-section-3.2": {
+      "title": "Sáu điểm đến chiến lược của dòng vốn AI toàn cầu",
+      "kind": "section",
+      "number": "3.2",
+      "page": 70,
+      "end_page": 71,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-figure-3.1": {
+      "title": "Dòng vốn AI: ai đầu tư vào tầng nào",
+      "kind": "figure",
+      "number": "3.1",
+      "page": 70,
+      "end_page": 70,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-section-3.3": {
+      "title": "Các tập đoàn điện toán đám mây lớn: những nhà",
+      "kind": "section",
+      "number": "3.3",
+      "page": 71,
+      "end_page": 74,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-figure-3.2": {
+      "title": "Chi tiêu vốn của bốn tập đoàn điện toán đám mây",
+      "kind": "figure",
+      "number": "3.2",
+      "page": 72,
+      "end_page": 72,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-section-3.4": {
+      "title": "Chủ quyền AI: Khi AI trở thành khoản đầu tư chiến lược quốc gia",
+      "kind": "section",
+      "number": "3.4",
+      "page": 74,
+      "end_page": 76,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-section-3.5": {
+      "title": "Ba cấp độ chủ quyền AI: tránh nhầm lẫn giữa đặt trung tâm dữ liệu và làm chủ công nghệ",
+      "kind": "section",
+      "number": "3.5",
+      "page": 76,
+      "end_page": 78,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-figure-3.3": {
+      "title": "Ba cấp độ chủ quyền AI",
+      "kind": "figure",
+      "number": "3.3",
+      "page": 76,
+      "end_page": 76,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-section-3.6": {
+      "title": "Lợi nhuận tiềm năng và sáu rủi ro lớn của dòng vốn AI",
+      "kind": "section",
+      "number": "3.6",
+      "page": 78,
+      "end_page": 80,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-figure-3.4": {
+      "title": "Sáu rủi ro của dòng vốn AI, xếp theo bản chất",
+      "kind": "figure",
+      "number": "3.4",
+      "page": 79,
+      "end_page": 79,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-section-3.7": {
+      "title": "Phân tích dòng vốn và logic phân bổ trong kỷ nguyên trí tuệ",
+      "kind": "section",
+      "number": "3.7",
+      "page": 80,
+      "end_page": 81,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-section-3.8": {
+      "title": "Điện là giới hạn của trí tuệ",
+      "kind": "section",
+      "number": "3.8",
+      "page": 81,
+      "end_page": 88,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-figure-3.5": {
+      "title": "Điện năng tiêu thụ của các trung tâm dữ liệu trên",
+      "kind": "figure",
+      "number": "3.5",
+      "page": 82,
+      "end_page": 82,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-figure-3.6": {
+      "title": "Hai đồng hồ lệch nhịp: xây trung tâm dữ liệu và xây",
+      "kind": "figure",
+      "number": "3.6",
+      "page": 83,
+      "end_page": 83,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-figure-3.7": {
+      "title": "Chuỗi ràng buộc vật lý: mắt xích yếu nhất quyết định",
+      "kind": "figure",
+      "number": "3.7",
+      "page": 84,
+      "end_page": 84,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-section-4.1": {
+      "title": "Khi lợi thế chi phí không còn đủ",
+      "kind": "section",
+      "number": "4.1",
+      "page": 90,
+      "end_page": 93,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-figure-4.1": {
+      "title": "Ba loại quyền lực và các mô hình chiến lược AI quốc",
+      "kind": "figure",
+      "number": "4.1",
+      "page": 92,
+      "end_page": 92,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-section-4.2": {
+      "title": "Nước Mỹ: Khi khu vực tư nhân đi trước, và cái giá phải trả tại chỗ",
+      "kind": "section",
+      "number": "4.2",
+      "page": 93,
+      "end_page": 98,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-figure-4.2": {
+      "title": "Chuỗi chiến lược của Mỹ",
+      "kind": "figure",
+      "number": "4.2",
+      "page": 95,
+      "end_page": 95,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-figure-4.3": {
+      "title": "Ai trả chi phí nâng cấp lưới điện",
+      "kind": "figure",
+      "number": "4.3",
+      "page": 96,
+      "end_page": 96,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-section-4.3": {
+      "title": "Trung Quốc: Khi trung ương vạch kế hoạch, và địa phương tự viết lại nó",
+      "kind": "section",
+      "number": "4.3",
+      "page": 98,
+      "end_page": 102,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-figure-4.4": {
+      "title": "Chuỗi chiến lược của Trung Quốc và các mục tiêu",
+      "kind": "figure",
+      "number": "4.4",
+      "page": 99,
+      "end_page": 99,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-section-4.4": {
+      "title": "Liên minh châu Âu: Luật lệ tinh vi, và câu hỏi chưa có lời đáp về năng suất",
+      "kind": "section",
+      "number": "4.4",
+      "page": 102,
+      "end_page": 105,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-figure-4.5": {
+      "title": "Chuỗi chiến lược của Liên minh châu Âu và lộ trình",
+      "kind": "figure",
+      "number": "4.5",
+      "page": 103,
+      "end_page": 103,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-section-4.5": {
+      "title": "Ba cách biến vốn, công nghệ và thể chế thành tăng trưởng",
+      "kind": "section",
+      "number": "4.5",
+      "page": 105,
+      "end_page": 110,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-figure-4.6": {
+      "title": "Ba mô hình: ai phân bổ vốn, ai chịu chi phí",
+      "kind": "figure",
+      "number": "4.6",
+      "page": 106,
+      "end_page": 106,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-section-5.1": {
+      "title": "Khi sự khan hiếm tạo ra quyền lực kinh tế",
+      "kind": "section",
+      "number": "5.1",
+      "page": 112,
+      "end_page": 113,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-figure-5.1": {
+      "title": "Các điểm nghẽn trong chuỗi cung ứng chip AI",
+      "kind": "figure",
+      "number": "5.1",
+      "page": 113,
+      "end_page": 113,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-section-5.2": {
+      "title": "Đài Loan (Trung Quốc): trung tâm sản xuất bán dẫn của chuỗi cung ứng AI",
+      "kind": "section",
+      "number": "5.2",
+      "page": 113,
+      "end_page": 115,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-section-5.3": {
+      "title": "Hà Lan: ASML và quyền lực từ công nghệ khó thay thế",
+      "kind": "section",
+      "number": "5.3",
+      "page": 115,
+      "end_page": 117,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-section-5.4": {
+      "title": "Hàn Quốc: tái cấu trúc vùng và chiến lược phát triển bán dẫn",
+      "kind": "section",
+      "number": "5.4",
+      "page": 117,
+      "end_page": 119,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-section-5.5": {
+      "title": "Nhật Bản: xây trên nền cũ và đặt cược vào công nghệ mới",
+      "kind": "section",
+      "number": "5.5",
+      "page": 119,
+      "end_page": 124,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-figure-5.2": {
+      "title": "Cụm Kumamoto: một nhà máy neo kéo theo cả hệ",
+      "kind": "figure",
+      "number": "5.2",
+      "page": 120,
+      "end_page": 120,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-figure-5.3": {
+      "title": "Chuỗi chiến lược của Đài Loan (Trung Quốc),",
+      "kind": "figure",
+      "number": "5.3",
+      "page": 123,
+      "end_page": 123,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-section-5.6": {
+      "title": "Những cánh cửa đang mở: nơi các lợi thế mới có thể hình thành",
+      "kind": "section",
+      "number": "5.6",
+      "page": 124,
+      "end_page": 126,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-section-5.7": {
+      "title": "Cái giá của vị thế khó thay thế",
+      "kind": "section",
+      "number": "5.7",
+      "page": 126,
+      "end_page": 130,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-figure-5.4": {
+      "title": "Từ nắm điểm nghẽn đến làm chủ trọn chuỗi",
+      "kind": "figure",
+      "number": "5.4",
+      "page": 127,
+      "end_page": 127,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-section-6.1": {
+      "title": "Khi tốc độ thay thế quy mô",
+      "kind": "section",
+      "number": "6.1",
+      "page": 132,
+      "end_page": 133,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-figure-6.1": {
+      "title": "Chuỗi chiến lược của Singapore, UAE và Ấn Độ",
+      "kind": "figure",
+      "number": "6.1",
+      "page": 133,
+      "end_page": 133,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-section-6.2": {
+      "title": "UAE: sử dụng vốn và tốc độ để xây dựng vị thế trong nền kinh tế AI",
+      "kind": "section",
+      "number": "6.2",
+      "page": 133,
+      "end_page": 135,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-section-6.3": {
+      "title": "Israel: từ năng lực nghiên cứu quốc phòng đến hệ sinh thái khởi nghiệp",
+      "kind": "section",
+      "number": "6.3",
+      "page": 135,
+      "end_page": 136,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-section-6.4": {
+      "title": "Ấn Độ: ngành dịch vụ công nghệ trước tác động của AI",
+      "kind": "section",
+      "number": "6.4",
+      "page": 136,
+      "end_page": 137,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-section-6.5": {
+      "title": "Singapore: cạnh tranh bằng thể chế và khả năng vận hành",
+      "kind": "section",
+      "number": "6.5",
+      "page": 137,
+      "end_page": 139,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-section-6.6": {
+      "title": "Malaysia và Thái Lan: làn sóng trung tâm dữ liệu và giới hạn hạ tầng",
+      "kind": "section",
+      "number": "6.6",
+      "page": 139,
+      "end_page": 140,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-section-6.7": {
+      "title": "Indonesia: tham vọng lớn và khoảng cách năng lực",
+      "kind": "section",
+      "number": "6.7",
+      "page": 140,
+      "end_page": 143,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-figure-6.2": {
+      "title": "ASEAN: liên thông trong khác biệt",
+      "kind": "figure",
+      "number": "6.2",
+      "page": 142,
+      "end_page": 142,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-section-6.8": {
+      "title": "Áp dụng khung ba loại quyền lực cho một nền kinh tế bất kỳ",
+      "kind": "section",
+      "number": "6.8",
+      "page": 143,
+      "end_page": 147,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-figure-6.3": {
+      "title": "Bản đồ mô hình chiến lược của các nền kinh tế",
+      "kind": "figure",
+      "number": "6.3",
+      "page": 143,
+      "end_page": 143,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-figure-6.4": {
+      "title": "Ba câu hỏi để định vị một nền kinh tế bất kỳ",
+      "kind": "figure",
+      "number": "6.4",
+      "page": 144,
+      "end_page": 144,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-table-6.1": {
+      "title": "Chín mô hình chiến lược AI quốc gia",
+      "kind": "table",
+      "number": "6.1",
+      "page": 145,
+      "end_page": 145,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-section-6.9": {
+      "title": "Quyền lực biến thành của cải như thế nào và ai đứng ngoài dòng chảy đó",
+      "kind": "section",
+      "number": "6.9",
+      "page": 147,
+      "end_page": 152,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-figure-6.5": {
+      "title": "Năm hình thức của cải trong nền kinh tế AI",
+      "kind": "figure",
+      "number": "6.5",
+      "page": 148,
+      "end_page": 148,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-figure-6.6": {
+      "title": "“Thuế AI”: tiền đầu tư hạ tầng AI chảy về đâu",
+      "kind": "figure",
+      "number": "6.6",
+      "page": 151,
+      "end_page": 151,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-section-6.10": {
+      "title": "Tăng tốc khi không có đòn bẩy cấu trúc",
+      "kind": "section",
+      "number": "6.10",
+      "page": 152,
+      "end_page": 154,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-section-7.1": {
+      "title": "Cửa sổ cơ hội của Việt Nam đến năm 2035",
+      "kind": "section",
+      "number": "7.1",
+      "page": 160,
+      "end_page": 162,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-section-7.2": {
+      "title": "Bốn làn sóng FDI và câu hỏi về làn sóng thứ tư",
+      "kind": "section",
+      "number": "7.2",
+      "page": 162,
+      "end_page": 168,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-figure-7.1": {
+      "title": "Bốn làn sóng đầu tư trực tiếp nước ngoài vào Việt Nam",
+      "kind": "figure",
+      "number": "7.1",
+      "page": 162,
+      "end_page": 162,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-figure-7.2": {
+      "title": "Giá trị Việt Nam giữ lại qua bốn làn sóng: từ tiền",
+      "kind": "figure",
+      "number": "7.2",
+      "page": 165,
+      "end_page": 165,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-figure-7.3": {
+      "title": "Ứng dụng, Thích ứng, Làm chủ: thứ tự ưu tiên ở",
+      "kind": "figure",
+      "number": "7.3",
+      "page": 168,
+      "end_page": 168,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-section-7.3": {
+      "title": "Từ lợi thế chi phí đến lợi thế năng suất",
+      "kind": "section",
+      "number": "7.3",
+      "page": 168,
+      "end_page": 170,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-section-7.4": {
+      "title": "Bảy lợi thế tiềm năng của Việt Nam",
+      "kind": "section",
+      "number": "7.4",
+      "page": 170,
+      "end_page": 173,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-figure-7.4": {
+      "title": "Hệ thống chính sách AI của Việt Nam",
+      "kind": "figure",
+      "number": "7.4",
+      "page": 172,
+      "end_page": 172,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-section-7.5": {
+      "title": "Bảy khoảng cách cấu trúc cần vượt qua",
+      "kind": "section",
+      "number": "7.5",
+      "page": 173,
+      "end_page": 175,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-section-7.6": {
+      "title": "Từ khoảng cách đến hành động: Lời giải chiến lược cho Việt Nam",
+      "kind": "section",
+      "number": "7.6",
+      "page": 175,
+      "end_page": 180,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-table-7.1": {
+      "title": "Ma trận ưu tiên theo ba nấc: mỗi nấc cần công cụ gì",
+      "kind": "table",
+      "number": "7.1",
+      "page": 176,
+      "end_page": 176,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-figure-7.5": {
+      "title": "Việt Nam trên các tầng công nghệ AI: nút hấp thụ",
+      "kind": "figure",
+      "number": "7.5",
+      "page": 178,
+      "end_page": 178,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-figure-7.6": {
+      "title": "Học gì, không sao chép gì",
+      "kind": "figure",
+      "number": "7.6",
+      "page": 179,
+      "end_page": 179,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-section-7.7": {
+      "title": "Phép thử cho lời giải: nếu làn sóng vốn AI chững lại",
+      "kind": "section",
+      "number": "7.7",
+      "page": 180,
+      "end_page": 184,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-figure-7.7": {
+      "title": "Ba lớp của một bong bóng công nghệ",
+      "kind": "figure",
+      "number": "7.7",
+      "page": 181,
+      "end_page": 181,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-section-8.1": {
+      "title": "Từ ưu đãi thuế đến mức độ sẵn sàng",
+      "kind": "section",
+      "number": "8.1",
+      "page": 186,
+      "end_page": 190,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-figure-8.1": {
+      "title": "Tám trụ cột sẵn sàng quốc gia",
+      "kind": "figure",
+      "number": "8.1",
+      "page": 186,
+      "end_page": 186,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-table-8.1": {
+      "title": "Việt Nam trên bản đồ sẵn sàng cho công nghệ",
+      "kind": "table",
+      "number": "8.1",
+      "page": 187,
+      "end_page": 187,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-figure-8.2": {
+      "title": "Hai chỉ số, hai đơn vị phân tích",
+      "kind": "figure",
+      "number": "8.2",
+      "page": 189,
+      "end_page": 189,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-section-8.2": {
+      "title": "Trụ cột 1: Năng lượng và năng lượng sạch",
+      "kind": "section",
+      "number": "8.2",
+      "page": 190,
+      "end_page": 192,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-section-8.3": {
+      "title": "Trụ cột 2: Hạ tầng tính toán và AI",
+      "kind": "section",
+      "number": "8.3",
+      "page": 192,
+      "end_page": 194,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-section-8.4": {
+      "title": "Trụ cột 3: Hạ tầng kết nối và hạ tầng số",
+      "kind": "section",
+      "number": "8.4",
+      "page": 194,
+      "end_page": 196,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-section-8.5": {
+      "title": "Trụ cột 4: Nhân lực và hệ sinh thái nhân tài",
+      "kind": "section",
+      "number": "8.5",
+      "page": 196,
+      "end_page": 198,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-section-8.6": {
+      "title": "Trụ cột 5: Dữ liệu và quản trị",
+      "kind": "section",
+      "number": "8.6",
+      "page": 198,
+      "end_page": 201,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-section-8.7": {
+      "title": "Trụ cột 6: Vốn và hệ sinh thái khởi nghiệp",
+      "kind": "section",
+      "number": "8.7",
+      "page": 201,
+      "end_page": 203,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-section-8.8": {
+      "title": "Trụ cột 7: Hạ tầng thông minh và khu công nghiệp thế hệ mới",
+      "kind": "section",
+      "number": "8.8",
+      "page": 203,
+      "end_page": 206,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-figure-8.3": {
+      "title": "Sáu cấu phần của khu công nghiệp thế hệ mới",
+      "kind": "figure",
+      "number": "8.3",
+      "page": 205,
+      "end_page": 205,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-section-8.9": {
+      "title": "Trụ cột 8: Hệ sinh thái kinh tế trí tuệ",
+      "kind": "section",
+      "number": "8.9",
+      "page": 206,
+      "end_page": 208,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-section-8.10": {
+      "title": "Mắt xích yếu nhất",
+      "kind": "section",
+      "number": "8.10",
+      "page": 208,
+      "end_page": 216,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-table-8.2": {
+      "title": "Tám trụ cột: thế giới đang làm gì, Việt Nam đang ở",
+      "kind": "table",
+      "number": "8.2",
+      "page": 208,
+      "end_page": 208,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-figure-8.4": {
+      "title": "Ví dụ minh họa: chấm điểm một địa phương theo",
+      "kind": "figure",
+      "number": "8.4",
+      "page": 210,
+      "end_page": 210,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-section-9.1": {
+      "title": "Rủi ro đối với nền kinh tế quốc gia",
+      "kind": "section",
+      "number": "9.1",
+      "page": 219,
+      "end_page": 222,
+      "parent_id": "aiec-ch09"
+    },
+    "aiec-figure-9.1": {
+      "title": "Các ngành chủ lực của Việt Nam theo cơ chế tác động",
+      "kind": "figure",
+      "number": "9.1",
+      "page": 219,
+      "end_page": 219,
+      "parent_id": "aiec-ch09"
+    },
+    "aiec-section-9.2": {
+      "title": "Dệt may và da giày: Khi lợi thế lao động giá rẻ dần mất đi",
+      "kind": "section",
+      "number": "9.2",
+      "page": 222,
+      "end_page": 224,
+      "parent_id": "aiec-ch09"
+    },
+    "aiec-section-9.3": {
+      "title": "Điện tử và lắp ráp: Khi Việt Nam bước vào kỷ nguyên nhà máy vận hành bằng AI",
+      "kind": "section",
+      "number": "9.3",
+      "page": 224,
+      "end_page": 226,
+      "parent_id": "aiec-ch09"
+    },
+    "aiec-section-9.4": {
+      "title": "Nông nghiệp: Khi AI bước vào cánh đồng",
+      "kind": "section",
+      "number": "9.4",
+      "page": 226,
+      "end_page": 227,
+      "parent_id": "aiec-ch09"
+    },
+    "aiec-section-9.5": {
+      "title": "Ngân hàng và tài chính: Khi AI trở thành \"chuyên gia tài chính\" của mọi khách hàng",
+      "kind": "section",
+      "number": "9.5",
+      "page": 227,
+      "end_page": 228,
+      "parent_id": "aiec-ch09"
+    },
+    "aiec-section-9.6": {
+      "title": "Bất động sản công nghiệp: AI đang tạo ra một thế hệ khu công nghiệp hoàn toàn mới",
+      "kind": "section",
+      "number": "9.6",
+      "page": 228,
+      "end_page": 230,
+      "parent_id": "aiec-ch09"
+    },
+    "aiec-section-9.7": {
+      "title": "Lan tỏa toàn diện: Khi AI định hình lại mọi ngóc ngách của nền kinh tế",
+      "kind": "section",
+      "number": "9.7",
+      "page": 230,
+      "end_page": 231,
+      "parent_id": "aiec-ch09"
+    },
+    "aiec-section-9.8": {
+      "title": "Tái thiết trong dòng chảy mới",
+      "kind": "section",
+      "number": "9.8",
+      "page": 231,
+      "end_page": 232,
+      "parent_id": "aiec-ch09"
+    },
+    "aiec-section-10.1": {
+      "title": "Lao động sản xuất: Lợi thế \"đông người, chi phí thấp\" đang dần khép lại",
+      "kind": "section",
+      "number": "10.1",
+      "page": 236,
+      "end_page": 238,
+      "parent_id": "aiec-ch10"
+    },
+    "aiec-figure-10.1": {
+      "title": "Phơi nhiễm không đồng nghĩa mất việc: ma trận",
+      "kind": "figure",
+      "number": "10.1",
+      "page": 236,
+      "end_page": 236,
+      "parent_id": "aiec-ch10"
+    },
+    "aiec-section-10.2": {
+      "title": "Nhân viên văn phòng: Nhóm chịu tác động nhanh nhất",
+      "kind": "section",
+      "number": "10.2",
+      "page": 238,
+      "end_page": 240,
+      "parent_id": "aiec-ch10"
+    },
+    "aiec-figure-10.2": {
+      "title": "Bậc thang nghề nghiệp và những bậc đầu tiên",
+      "kind": "figure",
+      "number": "10.2",
+      "page": 240,
+      "end_page": 240,
+      "parent_id": "aiec-ch10"
+    },
+    "aiec-section-10.3": {
+      "title": "Lao động tri thức: AI trở thành \"đồng nghiệp\" mới của bác sĩ, luật sư và kỹ sư",
+      "kind": "section",
+      "number": "10.3",
+      "page": 240,
+      "end_page": 242,
+      "parent_id": "aiec-ch10"
+    },
+    "aiec-section-10.4": {
+      "title": "Nhà quản lý: Khi AI trở thành cố vấn chiến lược",
+      "kind": "section",
+      "number": "10.4",
+      "page": 242,
+      "end_page": 242,
+      "parent_id": "aiec-ch10"
+    },
+    "aiec-section-10.5": {
+      "title": "Những nghề mới sẽ bùng nổ cùng nền kinh tế AI",
+      "kind": "section",
+      "number": "10.5",
+      "page": 242,
+      "end_page": 243,
+      "parent_id": "aiec-ch10"
+    },
+    "aiec-section-10.6": {
+      "title": "Những nghề khó bị thay thế nhất: Khi giá trị nằm ở con người",
+      "kind": "section",
+      "number": "10.6",
+      "page": 243,
+      "end_page": 246,
+      "parent_id": "aiec-ch10"
+    },
+    "aiec-section-11.1": {
+      "title": "Không còn nhiều thời gian để chờ đợi",
+      "kind": "section",
+      "number": "11.1",
+      "page": 251,
+      "end_page": 253,
+      "parent_id": "aiec-ch11"
+    },
+    "aiec-section-11.2": {
+      "title": "Năm trụ cột kiến tạo năng lực cạnh tranh quốc gia",
+      "kind": "section",
+      "number": "11.2",
+      "page": 253,
+      "end_page": 259,
+      "parent_id": "aiec-ch11"
+    },
+    "aiec-figure-11.1": {
+      "title": "Năm trụ cột năng lực cạnh tranh quốc gia",
+      "kind": "figure",
+      "number": "11.1",
+      "page": 253,
+      "end_page": 253,
+      "parent_id": "aiec-ch11"
+    },
+    "aiec-table-11.1": {
+      "title": "Đối chiếu năm trụ cột, tám trụ cột và chín trụ cột",
+      "kind": "table",
+      "number": "11.1",
+      "page": 255,
+      "end_page": 255,
+      "parent_id": "aiec-ch11"
+    },
+    "aiec-section-11.3": {
+      "title": "Mỗi chủ thể là một mắt xích của năng lực cạnh tranh quốc gia",
+      "kind": "section",
+      "number": "11.3",
+      "page": 259,
+      "end_page": 263,
+      "parent_id": "aiec-ch11"
+    },
+    "aiec-figure-11.2": {
+      "title": "Hộp công cụ chính sách theo chủ thể",
+      "kind": "figure",
+      "number": "11.2",
+      "page": 260,
+      "end_page": 260,
+      "parent_id": "aiec-ch11"
+    },
+    "aiec-section-11.4": {
+      "title": "Kỷ luật thực thi: Yếu tố quyết định thành công",
+      "kind": "section",
+      "number": "11.4",
+      "page": 263,
+      "end_page": 266,
+      "parent_id": "aiec-ch11"
+    },
+    "aiec-section-12.1": {
+      "title": "Khoảng cách giữa dùng AI và tạo ra giá trị",
+      "kind": "section",
+      "number": "12.1",
+      "page": 268,
+      "end_page": 269,
+      "parent_id": "aiec-ch12"
+    },
+    "aiec-section-12.2": {
+      "title": "Doanh nghiệp nào đi trước, doanh nghiệp nào bị bỏ lại",
+      "kind": "section",
+      "number": "12.2",
+      "page": 269,
+      "end_page": 270,
+      "parent_id": "aiec-ch12"
+    },
+    "aiec-section-12.3": {
+      "title": "Doanh nghiệp là kênh truyền dẫn từ chính sách đến năng suất",
+      "kind": "section",
+      "number": "12.3",
+      "page": 270,
+      "end_page": 273,
+      "parent_id": "aiec-ch12"
+    },
+    "aiec-figure-12.1": {
+      "title": "Doanh nghiệp là kênh truyền dẫn từ chính sách",
+      "kind": "figure",
+      "number": "12.1",
+      "page": 271,
+      "end_page": 271,
+      "parent_id": "aiec-ch12"
+    },
+    "aiec-section-12.4": {
+      "title": "Chính sách đưa AI đến số đông doanh nghiệp",
+      "kind": "section",
+      "number": "12.4",
+      "page": 273,
+      "end_page": 276,
+      "parent_id": "aiec-ch12"
+    },
+    "aiec-section-13.1": {
+      "title": "Thực tế việc làm và sự phân hóa",
+      "kind": "section",
+      "number": "13.1",
+      "page": 277,
+      "end_page": 278,
+      "parent_id": "aiec-ch13"
+    },
+    "aiec-section-13.2": {
+      "title": "Việt Nam trước một giai đoạn chuyển đổi lớn",
+      "kind": "section",
+      "number": "13.2",
+      "page": 278,
+      "end_page": 279,
+      "parent_id": "aiec-ch13"
+    },
+    "aiec-section-13.3": {
+      "title": "Sự phối hợp giữa các chủ thể",
+      "kind": "section",
+      "number": "13.3",
+      "page": 279,
+      "end_page": 280,
+      "parent_id": "aiec-ch13"
+    },
+    "aiec-section-13.4": {
+      "title": "Điều gì có thể khiến lập luận này sai",
+      "kind": "section",
+      "number": "13.4",
+      "page": 280,
+      "end_page": 281,
+      "parent_id": "aiec-ch13"
+    },
+    "aiec-section-13.5": {
+      "title": "Chương trình hành động: biến cơ hội thành năng lực",
+      "kind": "section",
+      "number": "13.5",
+      "page": 281,
+      "end_page": 284,
+      "parent_id": "aiec-ch13"
+    },
+    "aiec-section-13.6": {
+      "title": "Từ phân tích đến lựa chọn",
+      "kind": "section",
+      "number": "13.6",
+      "page": 284,
+      "end_page": 286,
+      "parent_id": "aiec-ch13"
+    },
+    "aiec-section-A.1": {
+      "title": "Cấu trúc. ARI gồ m tá m trụ cộ t, mỗ i trụ cộ t ba tiê u chí . Trọ ng",
+      "kind": "section",
+      "number": "A.1",
+      "page": 287,
+      "end_page": 289,
+      "parent_id": "aiec-p287"
+    },
+    "aiec-table-A.1": {
+      "title": "Tám trụ cột, tiêu chí và trọng số của ARI",
+      "kind": "table",
+      "number": "A.1",
+      "page": 288,
+      "end_page": 288,
+      "parent_id": "aiec-p287"
+    },
+    "aiec-section-A.2": {
+      "title": "Thang điểm. Mỗ i tiê u chí đượ c chấ m từ 1 đế n 5 theo mô tả",
+      "kind": "section",
+      "number": "A.2",
+      "page": 289,
+      "end_page": 290,
+      "parent_id": "aiec-p287"
+    },
+    "aiec-table-A.2": {
+      "title": "Thang điểm chung cho mỗi tiêu chí",
+      "kind": "table",
+      "number": "A.2",
+      "page": 290,
+      "end_page": 290,
+      "parent_id": "aiec-p287"
+    },
+    "aiec-section-A.3": {
+      "title": "Cách tính. Điể m mộ t trụ cộ t là trung bì nh điể m ba tiê u chí .",
+      "kind": "section",
+      "number": "A.3",
+      "page": 290,
+      "end_page": 290,
+      "parent_id": "aiec-p287"
+    },
+    "aiec-section-A.4": {
+      "title": "Cách đọc. Dướ i 40 điể m: khở i đầ u. Từ 40 đế n dướ i 60: đang",
+      "kind": "section",
+      "number": "A.4",
+      "page": 290,
+      "end_page": 290,
+      "parent_id": "aiec-p287"
+    },
+    "aiec-section-A.5": {
+      "title": "Quy trình chấm. Nhó m chấ m gồ m í t nhấ t nă m ngườ i từ í t nhấ t",
+      "kind": "section",
+      "number": "A.5",
+      "page": 290,
+      "end_page": 291,
+      "parent_id": "aiec-p287"
+    },
+    "aiec-section-A.6": {
+      "title": "Giới hạn. Trọ ng số có thể điề u chỉ nh theo loạ i dự á n mà đị a",
+      "kind": "section",
+      "number": "A.6",
+      "page": 291,
+      "end_page": 291,
+      "parent_id": "aiec-p287"
+    },
+    "aiec-section-B.1": {
+      "title": "Cấu trúc và trọng số. Hạ tầ ng thô ng minh có trọ ng số cao nhấ t",
+      "kind": "section",
+      "number": "B.1",
+      "page": 292,
+      "end_page": 293,
+      "parent_id": "aiec-p292"
+    },
+    "aiec-table-B.1": {
+      "title": "Sáu cấu phần, tiêu chí và trọng số của ARI-IP",
+      "kind": "table",
+      "number": "B.1",
+      "page": 292,
+      "end_page": 292,
+      "parent_id": "aiec-p292"
+    },
+    "aiec-section-B.2": {
+      "title": "Thang điểm và cách tính. Mỗ i tiê u chí chấ m từ 1 đế n 5 theo",
+      "kind": "section",
+      "number": "B.2",
+      "page": 293,
+      "end_page": 293,
+      "parent_id": "aiec-p292"
+    },
+    "aiec-section-B.3": {
+      "title": "Mức đòi hỏi theo loại dự án. Cù ng mộ t điể m tổ ng có thể phù",
+      "kind": "section",
+      "number": "B.3",
+      "page": 293,
+      "end_page": 294,
+      "parent_id": "aiec-p292"
+    },
+    "aiec-table-B.2": {
+      "title": "Cấu phần bắt buộc theo loại dự án",
+      "kind": "table",
+      "number": "B.2",
+      "page": 294,
+      "end_page": 294,
+      "parent_id": "aiec-p292"
+    },
+    "aiec-section-B.4": {
+      "title": "Dùng cùng chấm điểm chất lượng dự án. ARI-IP đo khu cô ng",
+      "kind": "section",
+      "number": "B.4",
+      "page": 294,
+      "end_page": 294,
+      "parent_id": "aiec-p292"
+    },
+    "aiec-section-B.5": {
+      "title": "Giới hạn. Cá c ngưỡ ng trong phụ lụ c là giá trị tham khả o, cầ n",
+      "kind": "section",
+      "number": "B.5",
+      "page": 294,
+      "end_page": 294,
+      "parent_id": "aiec-p292"
+    },
+    "aiec-table-C.1": {
+      "title": "Thuật ngữ theo thứ tự xuất hiện",
+      "kind": "table",
+      "number": "C.1",
+      "page": 295,
+      "end_page": 295,
+      "parent_id": "aiec-p295"
+    },
+    "aiec-p1": {
+      "title": "Bìa và trang đầu",
+      "kind": "divider_or_front",
+      "number": null,
+      "page": 1,
+      "end_page": 2,
+      "parent_id": "aiec-p1"
+    },
+    "aiec-p3": {
+      "title": "Mục lục",
+      "kind": "divider_or_front",
+      "number": null,
+      "page": 3,
+      "end_page": 4,
+      "parent_id": "aiec-p3"
+    },
+    "aiec-p5": {
+      "title": "Lời mở đầu",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 5,
+      "end_page": 20,
+      "parent_id": "aiec-p5"
+    },
+    "aiec-p21": {
+      "title": "Phần I · Nền móng mới của nền kinh tế",
+      "kind": "divider_or_front",
+      "number": null,
+      "page": 21,
+      "end_page": 22,
+      "parent_id": "aiec-p21"
+    },
+    "aiec-ch01": {
+      "title": "Trí tuệ trở thành yếu tố sản xuất",
+      "kind": "chapter",
+      "number": null,
+      "page": 23,
+      "end_page": 44,
+      "parent_id": "aiec-ch01"
+    },
+    "aiec-ch02": {
+      "title": "Bên trong nhà máy trí tuệ",
+      "kind": "chapter",
+      "number": null,
+      "page": 45,
+      "end_page": 66,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-ch03": {
+      "title": "Dòng vốn AI đang chảy về đâu?",
+      "kind": "chapter",
+      "number": null,
+      "page": 67,
+      "end_page": 88,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-ch04": {
+      "title": "Kiến trúc sư luật chơi",
+      "kind": "chapter",
+      "number": null,
+      "page": 89,
+      "end_page": 110,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-ch05": {
+      "title": "Những nước nhỏ và quyền lực từ sự khan hiếm",
+      "kind": "chapter",
+      "number": null,
+      "page": 111,
+      "end_page": 130,
+      "parent_id": "aiec-ch05"
+    },
+    "aiec-ch06": {
+      "title": "Quyền lực từ tốc độ chuyển hóa nguồn lực",
+      "kind": "chapter",
+      "number": null,
+      "page": 131,
+      "end_page": 154,
+      "parent_id": "aiec-ch06"
+    },
+    "aiec-p155": {
+      "title": "Phần II · Việt Nam vào cuộc",
+      "kind": "divider_or_front",
+      "number": null,
+      "page": 155,
+      "end_page": 158,
+      "parent_id": "aiec-p155"
+    },
+    "aiec-ch07": {
+      "title": "Việt Nam trong nền kinh tế AI",
+      "kind": "chapter",
+      "number": null,
+      "page": 159,
+      "end_page": 184,
+      "parent_id": "aiec-ch07"
+    },
+    "aiec-ch08": {
+      "title": "Tám trụ cột sẵn sàng",
+      "kind": "chapter",
+      "number": null,
+      "page": 185,
+      "end_page": 216,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-ch09": {
+      "title": "Tự động hóa và cơn địa chấn ngành nghề",
+      "kind": "chapter",
+      "number": null,
+      "page": 217,
+      "end_page": 232,
+      "parent_id": "aiec-ch09"
+    },
+    "aiec-ch10": {
+      "title": "Việt Nam trong kỷ nguyên AI",
+      "kind": "chapter",
+      "number": null,
+      "page": 233,
+      "end_page": 246,
+      "parent_id": "aiec-ch10"
+    },
+    "aiec-p247": {
+      "title": "Phần III · Từ chiến lược đến thực thi",
+      "kind": "divider_or_front",
+      "number": null,
+      "page": 247,
+      "end_page": 248,
+      "parent_id": "aiec-p247"
+    },
+    "aiec-ch11": {
+      "title": "Chín tháng để có một hệ thống máy chủ AI",
+      "kind": "chapter",
+      "number": null,
+      "page": 249,
+      "end_page": 266,
+      "parent_id": "aiec-ch11"
+    },
+    "aiec-ch12": {
+      "title": "Doanh nghiệp",
+      "kind": "chapter",
+      "number": null,
+      "page": 267,
+      "end_page": 276,
+      "parent_id": "aiec-ch12"
+    },
+    "aiec-ch13": {
+      "title": "Lựa chọn thuộc về chúng ta",
+      "kind": "chapter",
+      "number": null,
+      "page": 277,
+      "end_page": 286,
+      "parent_id": "aiec-ch13"
+    },
+    "aiec-p287": {
+      "title": "Phụ lục A · ARI địa phương",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 287,
+      "end_page": 291,
+      "parent_id": "aiec-p287"
+    },
+    "aiec-p292": {
+      "title": "Phụ lục B · ARI-IP",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 292,
+      "end_page": 294,
+      "parent_id": "aiec-p292"
+    },
+    "aiec-p295": {
+      "title": "Phụ lục C · Bảng thuật ngữ",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 295,
+      "end_page": 302,
+      "parent_id": "aiec-p295"
+    },
+    "aiec-p303": {
+      "title": "Tài liệu tham khảo chọn lọc",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 303,
+      "end_page": 309,
+      "parent_id": "aiec-p303"
+    }
+  },
+  "print_pages": {
+    "5": "aiec-p5",
+    "6": "aiec-p5",
+    "7": "aiec-p5",
+    "8": "aiec-p5",
+    "9": "aiec-p5",
+    "10": "aiec-p5",
+    "11": "aiec-p5",
+    "12": "aiec-p5",
+    "13": "aiec-p5",
+    "14": "aiec-p5",
+    "15": "aiec-p5",
+    "16": "aiec-p5",
+    "17": "aiec-p5",
+    "18": "aiec-p5",
+    "19": "aiec-p5",
+    "20": "aiec-p5",
+    "21": "aiec-p21",
+    "22": "aiec-p21",
+    "23": "aiec-ch01",
+    "24": "aiec-ch01",
+    "25": "aiec-ch01",
+    "26": "aiec-ch01",
+    "27": "aiec-ch01",
+    "28": "aiec-ch01",
+    "29": "aiec-ch01",
+    "30": "aiec-ch01",
+    "31": "aiec-ch01",
+    "32": "aiec-ch01",
+    "33": "aiec-ch01",
+    "34": "aiec-ch01",
+    "35": "aiec-ch01",
+    "36": "aiec-ch01",
+    "37": "aiec-ch01",
+    "38": "aiec-ch01",
+    "39": "aiec-ch01",
+    "40": "aiec-ch01",
+    "41": "aiec-ch01",
+    "42": "aiec-ch01",
+    "43": "aiec-ch01",
+    "44": "aiec-ch01",
+    "45": "aiec-ch02",
+    "46": "aiec-ch02",
+    "47": "aiec-ch02",
+    "48": "aiec-ch02",
+    "49": "aiec-ch02",
+    "50": "aiec-ch02",
+    "51": "aiec-ch02",
+    "52": "aiec-ch02",
+    "53": "aiec-ch02",
+    "54": "aiec-ch02",
+    "55": "aiec-ch02",
+    "56": "aiec-ch02",
+    "57": "aiec-ch02",
+    "58": "aiec-ch02",
+    "59": "aiec-ch02",
+    "60": "aiec-ch02",
+    "61": "aiec-ch02",
+    "62": "aiec-ch02",
+    "63": "aiec-ch02",
+    "64": "aiec-ch02",
+    "65": "aiec-ch02",
+    "66": "aiec-ch02",
+    "67": "aiec-ch03",
+    "68": "aiec-ch03",
+    "69": "aiec-ch03",
+    "70": "aiec-ch03",
+    "71": "aiec-ch03",
+    "72": "aiec-ch03",
+    "73": "aiec-ch03",
+    "74": "aiec-ch03",
+    "75": "aiec-ch03",
+    "76": "aiec-ch03",
+    "77": "aiec-ch03",
+    "78": "aiec-ch03",
+    "79": "aiec-ch03",
+    "80": "aiec-ch03",
+    "81": "aiec-ch03",
+    "82": "aiec-ch03",
+    "83": "aiec-ch03",
+    "84": "aiec-ch03",
+    "85": "aiec-ch03",
+    "86": "aiec-ch03",
+    "87": "aiec-ch03",
+    "88": "aiec-ch03",
+    "89": "aiec-ch04",
+    "90": "aiec-ch04",
+    "91": "aiec-ch04",
+    "92": "aiec-ch04",
+    "93": "aiec-ch04",
+    "94": "aiec-ch04",
+    "95": "aiec-ch04",
+    "96": "aiec-ch04",
+    "97": "aiec-ch04",
+    "98": "aiec-ch04",
+    "99": "aiec-ch04",
+    "100": "aiec-ch04",
+    "101": "aiec-ch04",
+    "102": "aiec-ch04",
+    "103": "aiec-ch04",
+    "104": "aiec-ch04",
+    "105": "aiec-ch04",
+    "106": "aiec-ch04",
+    "107": "aiec-ch04",
+    "108": "aiec-ch04",
+    "109": "aiec-ch04",
+    "110": "aiec-ch04",
+    "111": "aiec-ch05",
+    "112": "aiec-ch05",
+    "113": "aiec-ch05",
+    "114": "aiec-ch05",
+    "115": "aiec-ch05",
+    "116": "aiec-ch05",
+    "117": "aiec-ch05",
+    "118": "aiec-ch05",
+    "119": "aiec-ch05",
+    "120": "aiec-ch05",
+    "121": "aiec-ch05",
+    "122": "aiec-ch05",
+    "123": "aiec-ch05",
+    "124": "aiec-ch05",
+    "125": "aiec-ch05",
+    "126": "aiec-ch05",
+    "127": "aiec-ch05",
+    "128": "aiec-ch05",
+    "129": "aiec-ch05",
+    "130": "aiec-ch05",
+    "131": "aiec-ch06",
+    "132": "aiec-ch06",
+    "133": "aiec-ch06",
+    "134": "aiec-ch06",
+    "135": "aiec-ch06",
+    "136": "aiec-ch06",
+    "137": "aiec-ch06",
+    "138": "aiec-ch06",
+    "139": "aiec-ch06",
+    "140": "aiec-ch06",
+    "141": "aiec-ch06",
+    "142": "aiec-ch06",
+    "143": "aiec-ch06",
+    "144": "aiec-ch06",
+    "145": "aiec-ch06",
+    "146": "aiec-ch06",
+    "147": "aiec-ch06",
+    "148": "aiec-ch06",
+    "149": "aiec-ch06",
+    "150": "aiec-ch06",
+    "151": "aiec-ch06",
+    "152": "aiec-ch06",
+    "153": "aiec-ch06",
+    "154": "aiec-ch06",
+    "155": "aiec-p155",
+    "156": "aiec-p155",
+    "157": "aiec-p155",
+    "158": "aiec-p155",
+    "159": "aiec-ch07",
+    "160": "aiec-ch07",
+    "161": "aiec-ch07",
+    "162": "aiec-ch07",
+    "163": "aiec-ch07",
+    "164": "aiec-ch07",
+    "165": "aiec-ch07",
+    "166": "aiec-ch07",
+    "167": "aiec-ch07",
+    "168": "aiec-ch07",
+    "169": "aiec-ch07",
+    "170": "aiec-ch07",
+    "171": "aiec-ch07",
+    "172": "aiec-ch07",
+    "173": "aiec-ch07",
+    "174": "aiec-ch07",
+    "175": "aiec-ch07",
+    "176": "aiec-ch07",
+    "177": "aiec-ch07",
+    "178": "aiec-ch07",
+    "179": "aiec-ch07",
+    "180": "aiec-ch07",
+    "181": "aiec-ch07",
+    "182": "aiec-ch07",
+    "183": "aiec-ch07",
+    "184": "aiec-ch07",
+    "185": "aiec-ch08",
+    "186": "aiec-ch08",
+    "187": "aiec-ch08",
+    "188": "aiec-ch08",
+    "189": "aiec-ch08",
+    "190": "aiec-ch08",
+    "191": "aiec-ch08",
+    "192": "aiec-ch08",
+    "193": "aiec-ch08",
+    "194": "aiec-ch08",
+    "195": "aiec-ch08",
+    "196": "aiec-ch08",
+    "197": "aiec-ch08",
+    "198": "aiec-ch08",
+    "199": "aiec-ch08",
+    "200": "aiec-ch08",
+    "201": "aiec-ch08",
+    "202": "aiec-ch08",
+    "203": "aiec-ch08",
+    "204": "aiec-ch08",
+    "205": "aiec-ch08",
+    "206": "aiec-ch08",
+    "207": "aiec-ch08",
+    "208": "aiec-ch08",
+    "209": "aiec-ch08",
+    "210": "aiec-ch08",
+    "211": "aiec-ch08",
+    "212": "aiec-ch08",
+    "213": "aiec-ch08",
+    "214": "aiec-ch08",
+    "215": "aiec-ch08",
+    "216": "aiec-ch08",
+    "217": "aiec-ch09",
+    "218": "aiec-ch09",
+    "219": "aiec-ch09",
+    "220": "aiec-ch09",
+    "221": "aiec-ch09",
+    "222": "aiec-ch09",
+    "223": "aiec-ch09",
+    "224": "aiec-ch09",
+    "225": "aiec-ch09",
+    "226": "aiec-ch09",
+    "227": "aiec-ch09",
+    "228": "aiec-ch09",
+    "229": "aiec-ch09",
+    "230": "aiec-ch09",
+    "231": "aiec-ch09",
+    "232": "aiec-ch09",
+    "233": "aiec-ch10",
+    "234": "aiec-ch10",
+    "235": "aiec-ch10",
+    "236": "aiec-ch10",
+    "237": "aiec-ch10",
+    "238": "aiec-ch10",
+    "239": "aiec-ch10",
+    "240": "aiec-ch10",
+    "241": "aiec-ch10",
+    "242": "aiec-ch10",
+    "243": "aiec-ch10",
+    "244": "aiec-ch10",
+    "245": "aiec-ch10",
+    "246": "aiec-ch10",
+    "247": "aiec-p247",
+    "248": "aiec-p247",
+    "249": "aiec-ch11",
+    "250": "aiec-ch11",
+    "251": "aiec-ch11",
+    "252": "aiec-ch11",
+    "253": "aiec-ch11",
+    "254": "aiec-ch11",
+    "255": "aiec-ch11",
+    "256": "aiec-ch11",
+    "257": "aiec-ch11",
+    "258": "aiec-ch11",
+    "259": "aiec-ch11",
+    "260": "aiec-ch11",
+    "261": "aiec-ch11",
+    "262": "aiec-ch11",
+    "263": "aiec-ch11",
+    "264": "aiec-ch11",
+    "265": "aiec-ch11",
+    "266": "aiec-ch11",
+    "267": "aiec-ch12",
+    "268": "aiec-ch12",
+    "269": "aiec-ch12",
+    "270": "aiec-ch12",
+    "271": "aiec-ch12",
+    "272": "aiec-ch12",
+    "273": "aiec-ch12",
+    "274": "aiec-ch12",
+    "275": "aiec-ch12",
+    "276": "aiec-ch12",
+    "277": "aiec-ch13",
+    "278": "aiec-ch13",
+    "279": "aiec-ch13",
+    "280": "aiec-ch13",
+    "281": "aiec-ch13",
+    "282": "aiec-ch13",
+    "283": "aiec-ch13",
+    "284": "aiec-ch13",
+    "285": "aiec-ch13",
+    "286": "aiec-ch13",
+    "287": "aiec-p287",
+    "288": "aiec-p287",
+    "289": "aiec-p287",
+    "290": "aiec-p287",
+    "291": "aiec-p287",
+    "292": "aiec-p292",
+    "293": "aiec-p292",
+    "294": "aiec-p292",
+    "295": "aiec-p295",
+    "296": "aiec-p295",
+    "297": "aiec-p295",
+    "298": "aiec-p295",
+    "299": "aiec-p295",
+    "300": "aiec-p295",
+    "301": "aiec-p295",
+    "302": "aiec-p295",
+    "303": "aiec-p303",
+    "304": "aiec-p303",
+    "305": "aiec-p303",
+    "306": "aiec-p303",
+    "307": "aiec-p303",
+    "308": "aiec-p303",
+    "309": "aiec-p303"
+  },
+  "cards": [
+    {
+      "id": "aiec-qa-001",
+      "chapter": 1,
+      "question": "Vì sao sách xem trí tuệ là yếu tố sản xuất?",
+      "answer": "Ba đặc điểm kinh tế quyết định quốc gia hay doanh nghiệp nào hưởng lợi thực sự từ AI gồm: (1) Năng lực công nghệ và hạ tầng tính toán (khả năng tiếp cận điện, chip, mô hình với chi phí hợp lý); (2) Mức độ tập trung ở tầng xây dựng hạ tầng so với sự phân tán ở tầng ứng dụng; (3) Các yếu tố bổ trợ (Complementarities — dữ liệu bản địa, thể chế, kỹ năng nhân lực và tái thiết quy trình doanh nghiệp để hấp thụ AI thành năng suất).",
+      "source_ids": [
+        "aiec-section-1.3"
+      ],
+      "aliases": [
+        "trí tuệ yếu tố sản xuất",
+        "ba yếu tố hưởng lợi",
+        "Ba đặc điểm quyết định ai hưởng lợi từ AI: Năng lực, Mức độ tập trung, Yếu tố bổ trợ",
+        "Ba đặc điểm quyết định ai hưởng lợi từ AI",
+        "Năng lực, Mức độ tập trung, Yếu tố bổ trợ",
+        "ba đặc điểm quyết định ai hưởng lợi từ AI",
+        "3 yếu tố quyết định ai hưởng lợi từ AI",
+        "năng lực mức độ tập trung yếu tố bổ trợ"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-1.3",
+      "region_id": "aiec-ch01"
+    },
+    {
+      "id": "aiec-qa-002",
+      "chapter": 2,
+      "question": "Nhà máy trí tuệ tạo ra sản phẩm gì?",
+      "answer": "Dưới góc nhìn kinh tế học, 'Nhà máy trí tuệ' (AI Factory) là cơ sở hạ tầng công nghiệp kiểu mới: nhận đầu vào là điện năng, nước làm mát, chip bán dẫn và dữ liệu thô để vận hành qua 2 dây chuyền liên hoàn — Dây chuyền Huấn luyện (Training: vốn đầu tư lớn để đúc kết tri thức vào mô hình) và Dây chuyền Suy luận (Inference: vận hành liên tục 24/7 để sản xuất đầu ra là token và năng lực giải quyết công việc cho nền kinh tế).",
+      "source_ids": [
+        "aiec-section-2.2",
+        "aiec-section-2.3",
+        "aiec-section-2.6"
+      ],
+      "aliases": [
+        "nhà máy trí tuệ",
+        "AI factory",
+        "huấn luyện và suy luận",
+        "Nhà máy trí tuệ là gì: một định nghĩa kinh tế",
+        "Nhà máy trí tuệ là gì",
+        "một định nghĩa kinh tế",
+        "nhà máy trí tuệ là gì",
+        "hai dây chuyền của nhà máy trí tuệ",
+        "AI Factory là gì"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-2.2",
+      "region_id": "aiec-ch02"
+    },
+    {
+      "id": "aiec-qa-003",
+      "chapter": 3,
+      "question": "Vì sao điện ảnh hưởng đến dòng vốn AI?",
+      "answer": "Điện năng trở thành giới hạn vật lý lớn nhất của trí tuệ nhân tạo vì một trung tâm dữ liệu AI tiêu thụ điện gấp nhiều lần trung tâm dữ liệu truyền thống và đòi hỏi nguồn điện ổn định 24/7. Sách chỉ ra bài toán 'Hai đồng hồ lệch nhịp': xây một trung tâm dữ liệu AI chỉ mất 18–24 tháng, nhưng quy hoạch và xây mới nhà máy điện cùng lưới truyền tải cao thế phải mất từ 5–10 năm.",
+      "source_ids": [
+        "aiec-section-3.8"
+      ],
+      "aliases": [
+        "dòng vốn AI",
+        "điện giới hạn trí tuệ",
+        "Điện là giới hạn của trí tuệ",
+        "điện là giới hạn của trí tuệ",
+        "hai đồng hồ lệch nhịp",
+        "vì sao điện là giới hạn của AI",
+        "vì sao điện là giới hạn của trí tuệ"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-3.8",
+      "region_id": "aiec-ch03"
+    },
+    {
+      "id": "aiec-qa-004",
+      "chapter": 4,
+      "question": "Sách đối chiếu Mỹ, Trung Quốc và EU theo góc nhìn nào?",
+      "answer": "Nội dung này đặt cạnh nhau ba cách tổ chức nguồn lực: vai trò dẫn dắt của khu vực tư nhân ở Mỹ, định hướng và phối hợp chính sách ở Trung Quốc, và năng lực định hình luật lệ ở Liên minh châu Âu.",
+      "source_ids": [
+        "aiec-section-4.2",
+        "aiec-section-4.3",
+        "aiec-section-4.4",
+        "aiec-section-4.5"
+      ],
+      "aliases": [
+        "kiến trúc sư luật chơi",
+        "Mỹ Trung Quốc EU",
+        "Nước Mỹ: Khi khu vực tư nhân đi trước, và cái giá phải trả tại chỗ",
+        "Nước Mỹ",
+        "Khi khu vực tư nhân đi trước, và cái giá phải trả tại chỗ"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-4.2",
+      "region_id": "aiec-ch04"
+    },
+    {
+      "id": "aiec-qa-005",
+      "chapter": 5,
+      "question": "Vì sao nền kinh tế nhỏ vẫn có thể có quyền lực lớn?",
+      "answer": "Một nền kinh tế có thể nắm vị thế mạnh khi kiểm soát một công đoạn hoặc công nghệ khan hiếm, khó thay thế và được nhiều bên cần. Sách dùng sản xuất bán dẫn tại Đài Loan và công nghệ của ASML tại Hà Lan để minh họa.",
+      "source_ids": [
+        "aiec-section-5.1",
+        "aiec-section-5.2",
+        "aiec-section-5.3"
+      ],
+      "aliases": [
+        "quyền lực khan hiếm",
+        "ASML",
+        "Khi sự khan hiếm tạo ra quyền lực kinh tế"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-5.1",
+      "region_id": "aiec-ch05"
+    },
+    {
+      "id": "aiec-qa-006",
+      "chapter": 6,
+      "question": "Tốc độ tạo lợi thế cạnh tranh cho quốc gia bằng cách nào?",
+      "answer": "Một quốc gia có thể tạo vị thế bằng khả năng nhanh chóng chuyển vốn, thể chế, nhân lực và quan hệ đối tác thành năng lực triển khai. Chương đối chiếu các trường hợp để xem tốc độ có thể bù đắp hạn chế về quy mô ở đâu.",
+      "source_ids": [
+        "aiec-section-6.1",
+        "aiec-section-6.8",
+        "aiec-section-6.10"
+      ],
+      "aliases": [
+        "tốc độ chuyển hóa nguồn lực",
+        "quy mô quốc gia",
+        "Khi tốc độ thay thế quy mô"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-6.1",
+      "region_id": "aiec-ch06"
+    },
+    {
+      "id": "aiec-qa-007",
+      "chapter": 7,
+      "question": "Việt Nam cần chuyển đổi lợi thế cạnh tranh như thế nào?",
+      "answer": "Bốn làn sóng FDI: (1) 1988–2005, khai thác chi phí lao động (dệt may, giày dép, liên doanh ô tô); (2) 2006–2010, hậu WTO, dự án tỷ USD (Intel 2006, Samsung 2008); (3) 2008–2020, điện tử-thiết bị số quy mô lớn (Samsung Thái Nguyên, LG, Pegatron); (4) từ 2020, tái định vị chuỗi cung ứng (đóng gói-kiểm thử bán dẫn, hạ tầng số, R&D). Cần thận trọng gọi tên “làn sóng AI”: phần lớn vốn vẫn là chế biến-chế tạo truyền thống, nhiều hợp tác AI còn ở giai đoạn biên bản ghi nhớ, chưa phải vốn đã giải ngân.",
+      "source_ids": [
+        "aiec-section-7.2",
+        "aiec-section-7.3",
+        "aiec-section-7.6"
+      ],
+      "aliases": [
+        "Việt Nam 2035",
+        "FDI",
+        "chi phí sang năng suất",
+        "Bốn làn sóng FDI và câu hỏi về làn sóng thứ tư",
+        "bốn làn sóng FDI",
+        "4 làn sóng FDI vào Việt Nam",
+        "làn sóng FDI thứ tư",
+        "Việt Nam cần chuyển đổi lợi thế cạnh tranh như thế nào"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-7.2",
+      "region_id": "aiec-ch07"
+    },
+    {
+      "id": "aiec-qa-008",
+      "chapter": 8,
+      "question": "Khung tám trụ cột sẵn sàng AI gồm những gì?",
+      "answer": "Khung gồm năng lượng và năng lượng sạch, hạ tầng tính toán và AI, kết nối và hạ tầng số, nhân lực, dữ liệu và quản trị, vốn và khởi nghiệp, hạ tầng thông minh và khu công nghiệp, cùng hệ sinh thái kinh tế trí tuệ. Sách dùng khung để tìm mắt xích yếu.",
+      "source_ids": [
+        "aiec-section-8.2",
+        "aiec-section-8.3",
+        "aiec-section-8.4",
+        "aiec-section-8.5",
+        "aiec-section-8.6",
+        "aiec-section-8.7",
+        "aiec-section-8.8",
+        "aiec-section-8.9",
+        "aiec-section-8.10"
+      ],
+      "aliases": [
+        "tám trụ cột quốc gia",
+        "8 trụ cột AI Economy",
+        "Năng lượng và năng lượng sạch"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-8.2",
+      "region_id": "aiec-ch08"
+    },
+    {
+      "id": "aiec-qa-009",
+      "chapter": 9,
+      "question": "Vì sao sản lượng có thể tăng mà việc làm tăng chậm?",
+      "answer": "Tự động hóa thay đổi lượng và loại lao động cần cho mỗi đơn vị sản lượng. Sách xem xét tác động theo ngành, từ dệt may, điện tử và nông nghiệp đến tài chính và bất động sản công nghiệp.",
+      "source_ids": [
+        "aiec-section-9.1",
+        "aiec-section-9.2",
+        "aiec-section-9.3",
+        "aiec-section-9.4",
+        "aiec-section-9.5",
+        "aiec-section-9.6"
+      ],
+      "aliases": [
+        "sản lượng và việc làm",
+        "tự động hóa ngành nghề",
+        "Rủi ro đối với nền kinh tế quốc gia"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-9.1",
+      "region_id": "aiec-ch09"
+    },
+    {
+      "id": "aiec-qa-010",
+      "chapter": 10,
+      "question": "Sách phân tích tác động của AI lên những nhóm lao động nào?",
+      "answer": "Chương xem riêng lao động sản xuất, nhân viên văn phòng, lao động tri thức và nhà quản lý. Sách cũng bàn về nghề mới và những công việc khó thay thế để người đọc nhìn theo loại nhiệm vụ và kỹ năng.",
+      "source_ids": [
+        "aiec-section-10.1",
+        "aiec-section-10.2",
+        "aiec-section-10.3",
+        "aiec-section-10.4",
+        "aiec-section-10.5",
+        "aiec-section-10.6"
+      ],
+      "aliases": [
+        "việc làm kỹ năng",
+        "nhóm lao động",
+        "Lao động sản xuất: Lợi thế đông người, chi phí thấp đang dần khép lại",
+        "Lao động sản xuất",
+        "Lợi thế đông người, chi phí thấp đang dần khép lại"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-10.1",
+      "region_id": "aiec-ch10"
+    },
+    {
+      "id": "aiec-qa-011",
+      "chapter": 11,
+      "question": "Chuyện chín tháng để có máy chủ AI minh họa vấn đề gì?",
+      "answer": "Sách dùng câu chuyện triển khai máy chủ để bàn về năng lực thực thi. Nguồn lực chỉ tạo thành năng lực cạnh tranh khi các chủ thể phối hợp và tháo gỡ được điểm nghẽn trong triển khai.",
+      "source_ids": [
+        "aiec-section-11.1",
+        "aiec-section-11.3",
+        "aiec-section-11.4"
+      ],
+      "aliases": [
+        "chín tháng máy chủ",
+        "năng lực thực thi",
+        "Không còn nhiều thời gian để chờ đợi"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-11.1",
+      "region_id": "aiec-ch11"
+    },
+    {
+      "id": "aiec-qa-012",
+      "chapter": 12,
+      "question": "Vì sao doanh nghiệp là nơi AI trở thành năng suất quốc gia?",
+      "answer": "Doanh nghiệp chuyển tiếp cận công nghệ và hỗ trợ chính sách thành thay đổi trong công việc và quy trình. Chương phân tích khoảng cách giữa sử dụng AI và tạo giá trị, đồng thời bàn cách đưa AI đến nhiều doanh nghiệp hơn.",
+      "source_ids": [
+        "aiec-section-12.1",
+        "aiec-section-12.3",
+        "aiec-section-12.4"
+      ],
+      "aliases": [
+        "doanh nghiệp năng suất quốc gia",
+        "chính sách AI",
+        "Khoảng cách giữa dùng AI và tạo ra giá trị"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-12.1",
+      "region_id": "aiec-ch12"
+    },
+    {
+      "id": "aiec-qa-013",
+      "chapter": 13,
+      "question": "Chương cuối đặt ra lựa chọn gì cho Việt Nam?",
+      "answer": "Chương đặt phân hóa việc làm trong bối cảnh tái cấu trúc kinh tế và nêu chương trình hành động cần phối hợp giữa các chủ thể. Sách cũng chỉ ra những điều kiện có thể làm lập luận của chương thay đổi.",
+      "source_ids": [
+        "aiec-section-13.1",
+        "aiec-section-13.3",
+        "aiec-section-13.4",
+        "aiec-section-13.5"
+      ],
+      "aliases": [
+        "lựa chọn thuộc về chúng ta",
+        "phân hóa lao động",
+        "Thực tế việc làm và sự phân hóa"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-13.1",
+      "region_id": "aiec-ch13"
+    },
+    {
+      "id": "aiec-qa-014",
+      "chapter": 1,
+      "question": "Vì sao sự phổ cập của ChatGPT có ý nghĩa kinh tế?",
+      "answer": "ChatGPT cán mốc 100 triệu người dùng chỉ sau khoảng 60 ngày (2 tháng) kể từ khi ra mắt ngày 30/11/2022, nhanh hơn nhiều so với TikTok (9 tháng) và Instagram (2,5 năm). Hai năm sau, khoảng 40% người trưởng thành ở Mỹ đã dùng AI tạo sinh (đến tháng 5/2026 đạt 62% ở nhóm 18–64 tuổi), nhưng thời gian làm việc tiết kiệm được mới khoảng 2,2% tổng giờ làm việc — cho thấy khoảng cách giữa phổ cập tiêu dùng và chuyển hóa thành năng suất thực tế.",
+      "source_ids": [
+        "aiec-section-1.1"
+      ],
+      "aliases": [
+        "ChatGPT và cú sốc năng suất",
+        "phổ cập ChatGPT",
+        "Từ ứng dụng tiêu dùng đến cú sốc năng suất toàn cầu",
+        "tốc độ phổ cập AI tạo sinh",
+        "ChatGPT mất bao lâu đạt 100 triệu người dùng",
+        "100 triệu người dùng",
+        "từ ứng dụng tiêu dùng đến cú sốc năng suất toàn cầu"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-1.1",
+      "region_id": "aiec-ch01"
+    },
+    {
+      "id": "aiec-qa-015",
+      "chapter": 1,
+      "question": "Nhà máy trí tuệ giữ những vai trò gì trong nền kinh tế?",
+      "answer": "Nó cung cấp năng lực tính toán, tạo điều kiện tăng năng suất và trở thành một thước đo của năng lực cạnh tranh. Doanh nghiệp có thể tiếp cận năng lực này qua hạ tầng dùng chung và dịch vụ đám mây.",
+      "source_ids": [
+        "aiec-section-1.2"
+      ],
+      "aliases": [
+        "vai trò nhà máy trí tuệ",
+        "ba vai trò của nhà máy",
+        "Nhà máy trí tuệ và vai trò định hình nền kinh tế mới"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-1.2",
+      "region_id": "aiec-ch01"
+    },
+    {
+      "id": "aiec-qa-016",
+      "chapter": 1,
+      "question": "AI thay đổi năng suất qua loại công việc nào?",
+      "answer": "AI mở rộng năng lực thực hiện tác vụ nhận thức như đọc hiểu, phân tích, lập kế hoạch và viết mã. Việc đưa năng lực này vào sản xuất mở thêm cách tăng đầu ra từ các nguồn lực hiện có.",
+      "source_ids": [
+        "aiec-section-1.4"
+      ],
+      "aliases": [
+        "AI và năng suất",
+        "AI tác vụ nhận thức",
+        "Cuộc cách mạng năng suất"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-1.4",
+      "region_id": "aiec-ch01"
+    },
+    {
+      "id": "aiec-qa-017",
+      "chapter": 1,
+      "question": "Vì sao hạ tầng là điều kiện tiên quyết của kinh tế AI?",
+      "answer": "Trong nền kinh tế mới, trí tuệ trở thành yếu tố sản xuất trực tiếp và phải được sản xuất công nghiệp trong các “nhà máy trí tuệ” (trung tâm dữ liệu AI) với bốn đầu vào là điện năng, chip bán dẫn, dữ liệu và kỹ sư. Để huấn luyện và vận hành AI trên quy mô lớn, quốc gia bắt buộc phải có hạ tầng tính toán, nguồn điện ổn định và mạng kết nối tốc độ cao; đây là điều kiện tiên quyết để bảo đảm chủ quyền AI và năng lực cạnh tranh quốc gia.",
+      "source_ids": [
+        "aiec-section-1.5"
+      ],
+      "aliases": [
+        "điều kiện hạ tầng AI",
+        "Khi hạ tầng trở thành điều kiện tiên quyết",
+        "vì sao hạ tầng là điều kiện tiên quyết của kinh tế AI",
+        "điều kiện tiên quyết của kinh tế AI"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-1.5",
+      "region_id": "aiec-ch01"
+    },
+    {
+      "id": "aiec-qa-018",
+      "chapter": 1,
+      "question": "Quốc gia cần làm gì để biến năng lực AI thành lợi thế?",
+      "answer": "Chương đặt trọng tâm vào khả năng tiếp cận và hấp thụ năng lực AI. Lựa chọn chiến lược phải tính đến các yếu tố bổ trợ trong nước để công nghệ đi vào công việc và tạo năng suất.",
+      "source_ids": [
+        "aiec-section-1.6"
+      ],
+      "aliases": [
+        "chiến lược quốc gia AI",
+        "nâng tầm quốc gia",
+        "Từ cuộc cạnh tranh công nghệ đến chiến lược nâng tầm quốc gia"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-1.6",
+      "region_id": "aiec-ch01"
+    },
+    {
+      "id": "aiec-qa-019",
+      "chapter": 1,
+      "question": "Chín tầng kinh tế trí tuệ được chia thành những nhóm nào?",
+      "answer": "Chín tầng của nền kinh tế trí tuệ từ hạ tầng vật lý đến ứng dụng và thể chế gồm: (1) Năng lượng và điện sạch; (2) Bán dẫn, chip AI và phần cứng; (3) Trung tâm dữ liệu và hạ tầng đám mây (Nhà máy trí tuệ); (4) Dữ liệu và hạ tầng dữ liệu; (5) Mô hình AI nền tảng (Foundation Models); (6) Công cụ phát triển, khung vận hành và bảo mật; (7) Ứng dụng và Tác nhân AI theo ngành; (8) Nhân lực và hệ sinh thái nhân tài; (9) Thể chế, quản trị và chính sách quốc gia.",
+      "source_ids": [
+        "aiec-section-1.7",
+        "aiec-figure-1.6"
+      ],
+      "aliases": [
+        "chín tầng kinh tế trí tuệ",
+        "9 tầng AI",
+        "Chín tầng của một nền kinh tế trí tuệ",
+        "chín tầng của nền kinh tế trí tuệ",
+        "9 tầng của nền kinh tế trí tuệ",
+        "chín tầng kinh tế AI"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-1.7",
+      "region_id": "aiec-ch01"
+    },
+    {
+      "id": "aiec-qa-020",
+      "chapter": null,
+      "question": "ARI địa phương dùng để làm gì?",
+      "answer": "ARI giúp tỉnh hoặc thành phố tự đánh giá mức sẵn sàng đón các dự án AI, trung tâm dữ liệu và sản xuất công nghệ cao. Đây là công cụ chẩn đoán do tác giả đề xuất.",
+      "source_ids": [
+        "aiec-p287"
+      ],
+      "aliases": [
+        "ARI",
+        "ARI địa phương",
+        "chỉ số sẵn sàng AI cấp tỉnh",
+        "Phụ lục A · ARI địa phương"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-p287",
+      "region_id": "aiec-p287"
+    },
+    {
+      "id": "aiec-qa-021",
+      "chapter": null,
+      "question": "ARI-IP dùng cho ai?",
+      "answer": "ARI-IP giúp chủ đầu tư hạ tầng và ban quản lý khu công nghiệp tự đánh giá năng lực của khu trước khi thu hút các dự án như trung tâm dữ liệu, bán dẫn hoặc sản xuất thông minh.",
+      "source_ids": [
+        "aiec-p292"
+      ],
+      "aliases": [
+        "ARI-IP",
+        "chỉ số khu công nghiệp",
+        "Phụ lục B · ARI-IP"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-p292",
+      "region_id": "aiec-p292"
+    },
+    {
+      "id": "aiec-qa-section-2.1",
+      "chapter": 2,
+      "region_id": "aiec-ch02",
+      "primary_source_id": "aiec-section-2.1",
+      "question": "Chuyến thăm phòng máy Tân Trúc cho thấy AI phụ thuộc vào hạ tầng gì?",
+      "answer": "Quan sát tại Tân Trúc cho thấy phía sau phần mềm là máy chủ, thiết bị mạng, điện và hệ thống làm mát hoạt động liên tục. Những điều kiện vật lý này ảnh hưởng tới công suất thực tế của AI.",
+      "source_ids": [
+        "aiec-section-2.1"
+      ],
+      "aliases": [
+        "Một buổi sáng trong phòng máy ở Tân Trúc"
+      ],
+      "status": "approved",
+      "heading_alias": "Một buổi sáng trong phòng máy ở Tân Trúc"
+    },
+    {
+      "id": "aiec-qa-section-2.2",
+      "chapter": 2,
+      "region_id": "aiec-ch02",
+      "primary_source_id": "aiec-section-2.2",
+      "question": "Nhà máy trí tuệ là gì?",
+      "answer": "Đó là hạ tầng tính toán chuyên dụng để biến dữ liệu thành năng lực AI trên quy mô lớn, từ nạp dữ liệu, huấn luyện và tinh chỉnh đến cung cấp suy luận.",
+      "source_ids": [
+        "aiec-section-2.2"
+      ],
+      "aliases": [
+        "định nghĩa nhà máy trí tuệ",
+        "AI factory là gì",
+        "Nhà máy trí tuệ là gì: một định nghĩa kinh tế",
+        "Nhà máy trí tuệ là gì",
+        "một định nghĩa kinh tế"
+      ],
+      "status": "approved",
+      "heading_alias": "Nhà máy trí tuệ là gì: một định nghĩa kinh tế"
+    },
+    {
+      "id": "aiec-qa-section-2.3",
+      "chapter": 2,
+      "region_id": "aiec-ch02",
+      "primary_source_id": "aiec-section-2.3",
+      "question": "Huấn luyện và suy luận khác nhau thế nào trong nhà máy trí tuệ?",
+      "answer": "Huấn luyện và tinh chỉnh tạo ra hoặc điều chỉnh mô hình. Suy luận dùng mô hình đã huấn luyện để đáp ứng yêu cầu thực tế. Nhà máy phải tổ chức tài nguyên cho cả hai loại tải.",
+      "source_ids": [
+        "aiec-section-2.3"
+      ],
+      "aliases": [
+        "Chu trình sản xuất và hai dây chuyền"
+      ],
+      "status": "approved",
+      "heading_alias": "Chu trình sản xuất và hai dây chuyền"
+    },
+    {
+      "id": "aiec-qa-section-2.4",
+      "chapter": 2,
+      "region_id": "aiec-ch02",
+      "primary_source_id": "aiec-section-2.4",
+      "question": "Vì sao giá suy luận giảm mà nhu cầu tính toán tăng?",
+      "answer": "Khi mỗi lần dùng rẻ hơn, nhiều người và quy trình sử dụng AI thường xuyên hơn. Tổng nhu cầu tính toán có thể tăng nếu khối lượng sử dụng tăng nhanh hơn mức giảm giá.",
+      "source_ids": [
+        "aiec-section-2.4"
+      ],
+      "aliases": [
+        "Giá giảm, cầu tăng: kinh tế học của suy luận",
+        "Giá giảm, cầu tăng",
+        "kinh tế học của suy luận"
+      ],
+      "status": "approved",
+      "heading_alias": "Giá giảm, cầu tăng: kinh tế học của suy luận"
+    },
+    {
+      "id": "aiec-qa-section-2.5",
+      "chapter": 2,
+      "region_id": "aiec-ch02",
+      "primary_source_id": "aiec-section-2.5",
+      "question": "Nhà máy trí tuệ cần những đầu vào nào?",
+      "answer": "Ngoài dữ liệu, nhà máy cần năng lực tính toán, nguồn điện, kết nối và đội ngũ vận hành. Dữ liệu cần đủ chất lượng và phù hợp với nhiệm vụ để công suất tính toán tạo được giá trị.",
+      "source_ids": [
+        "aiec-section-2.5"
+      ],
+      "aliases": [
+        "Bốn yếu tố nền tảng và dữ liệu"
+      ],
+      "status": "approved",
+      "heading_alias": "Bốn yếu tố nền tảng và dữ liệu"
+    },
+    {
+      "id": "aiec-qa-section-2.6",
+      "chapter": 2,
+      "region_id": "aiec-ch02",
+      "primary_source_id": "aiec-section-2.6",
+      "question": "Token có phải thước đo giá trị kinh tế của AI?",
+      "answer": "Token là đơn vị mô hình dùng để đọc và tạo nội dung. Giá trị kinh tế phụ thuộc vào công việc đầu ra giải quyết được, như rút ngắn thời gian xử lý hoặc cải thiện một quyết định.",
+      "source_ids": [
+        "aiec-section-2.6"
+      ],
+      "aliases": [
+        "Sản phẩm của nhà máy: từ token đến năng lực giải quyết vấn đề",
+        "Sản phẩm của nhà máy",
+        "từ token đến năng lực giải quyết vấn đề"
+      ],
+      "status": "approved",
+      "heading_alias": "Sản phẩm của nhà máy: từ token đến năng lực giải quyết vấn đề"
+    },
+    {
+      "id": "aiec-qa-section-2.7",
+      "chapter": 2,
+      "region_id": "aiec-ch02",
+      "primary_source_id": "aiec-section-2.7",
+      "question": "Năm chỉ số đo năng suất nhà máy trí tuệ là gì?",
+      "answer": "Sản lượng, độ trễ, mức khai thác chip, chi phí trên mỗi đơn vị sản phẩm, cùng độ sẵn sàng và làm mát. Chi phí mỗi token bằng tổng khấu hao phần cứng, năng lượng và vận hành chia cho số token thực tế sản xuất.",
+      "source_ids": [
+        "aiec-section-2.7"
+      ],
+      "aliases": [
+        "chi phí mỗi token của nhà máy trí tuệ",
+        "chỉ số năng suất nhà máy trí tuệ",
+        "Đo năng suất của nhà máy trí tuệ"
+      ],
+      "status": "approved",
+      "heading_alias": "Đo năng suất của nhà máy trí tuệ"
+    },
+    {
+      "id": "aiec-qa-section-2.8",
+      "chapter": 2,
+      "region_id": "aiec-ch02",
+      "primary_source_id": "aiec-section-2.8",
+      "question": "Năm cơ chế chuyển năng lực AI thành giá trị kinh tế là gì?",
+      "answer": "Năm cơ chế AI tạo ra giá trị kinh tế gồm: (1) Giảm mạnh chi phí biên của việc tạo lập, tổng hợp và xử lý thông tin; (2) Rút ngắn thời gian phân tích và nâng cao chất lượng ra quyết định; (3) Cá nhân hóa sản phẩm, dịch vụ ở quy mô hàng triệu khách hàng; (4) Tự động hóa trọn vẹn các chuỗi tác vụ phức tạp qua Tác nhân AI; (5) Thúc đẩy R&D, tạo ra sản phẩm và mô hình kinh doanh hoàn toàn mới.",
+      "source_ids": [
+        "aiec-section-2.8"
+      ],
+      "aliases": [
+        "Năm cơ chế tạo ra giá trị kinh tế",
+        "năm cơ chế tạo ra giá trị kinh tế",
+        "5 cơ chế AI tạo ra giá trị kinh tế"
+      ],
+      "status": "approved",
+      "heading_alias": "Năm cơ chế tạo ra giá trị kinh tế"
+    },
+    {
+      "id": "aiec-qa-section-3.1",
+      "chapter": 3,
+      "region_id": "aiec-ch03",
+      "primary_source_id": "aiec-section-3.1",
+      "question": "Vì sao sách theo dõi dòng vốn trước khi đánh giá kinh tế AI?",
+      "answer": "Nơi nhà đầu tư cam kết vốn cho chip, điện và hạ tầng cho biết họ kỳ vọng nút thắt hoặc lợi thế dài hạn sẽ nằm ở đâu. Đây là tín hiệu về kỳ vọng, cần đối chiếu với năng lực triển khai thực tế.",
+      "source_ids": [
+        "aiec-section-3.1"
+      ],
+      "aliases": [
+        "Dòng vốn luôn đi trước nền kinh tế"
+      ],
+      "status": "approved",
+      "heading_alias": "Dòng vốn luôn đi trước nền kinh tế"
+    },
+    {
+      "id": "aiec-qa-section-3.2",
+      "chapter": 3,
+      "region_id": "aiec-ch03",
+      "primary_source_id": "aiec-section-3.2",
+      "question": "Sáu điểm đến của dòng vốn AI trong sách là gì?",
+      "answer": "Hạ tầng điện toán quy mô lớn, trung tâm dữ liệu thế hệ mới, bán dẫn và chuỗi cung ứng GPU, dịch vụ cho thuê năng lực tính toán, tổ hợp công nghệ tập trung, và quỹ chuyên đầu tư hạ tầng AI.",
+      "source_ids": [
+        "aiec-section-3.2"
+      ],
+      "aliases": [
+        "Sáu điểm đến chiến lược của dòng vốn AI toàn cầu"
+      ],
+      "status": "approved",
+      "heading_alias": "Sáu điểm đến chiến lược của dòng vốn AI toàn cầu"
+    },
+    {
+      "id": "aiec-qa-section-3.3",
+      "chapter": 3,
+      "region_id": "aiec-ch03",
+      "primary_source_id": "aiec-section-3.3",
+      "question": "Các tập đoàn điện toán đám mây tác động gì đến dòng vốn AI?",
+      "answer": "Họ vừa cung cấp hạ tầng vừa trực tiếp đặt hàng phần cứng, xây công suất tính toán và tích hợp mô hình vào hệ sinh thái dịch vụ. Quyết định của họ ảnh hưởng nhiều nhà cung cấp trong chuỗi.",
+      "source_ids": [
+        "aiec-section-3.3"
+      ],
+      "aliases": [
+        "Các tập đoàn điện toán đám mây lớn: những nhà",
+        "Các tập đoàn điện toán đám mây lớn",
+        "những nhà"
+      ],
+      "status": "approved",
+      "heading_alias": "Các tập đoàn điện toán đám mây lớn: những nhà"
+    },
+    {
+      "id": "aiec-qa-section-3.4",
+      "chapter": 3,
+      "region_id": "aiec-ch03",
+      "primary_source_id": "aiec-section-3.4",
+      "question": "Chủ quyền AI là gì?",
+      "answer": "Chủ quyền AI là khả năng chủ động phát triển, vận hành và kiểm soát các thành phần quan trọng như hạ tầng, dữ liệu, mô hình, nhân lực và quản trị để phục vụ lợi ích quốc gia.",
+      "source_ids": [
+        "aiec-section-3.4"
+      ],
+      "aliases": [
+        "Chủ quyền AI: Khi AI trở thành khoản đầu tư chiến lược quốc gia",
+        "Chủ quyền AI",
+        "Khi AI trở thành khoản đầu tư chiến lược quốc gia"
+      ],
+      "status": "approved",
+      "heading_alias": "Chủ quyền AI: Khi AI trở thành khoản đầu tư chiến lược quốc gia"
+    },
+    {
+      "id": "aiec-qa-section-3.5",
+      "chapter": 3,
+      "region_id": "aiec-ch03",
+      "primary_source_id": "aiec-section-3.5",
+      "question": "Có trung tâm dữ liệu trong nước đã đạt chủ quyền AI đến mức nào?",
+      "answer": "Sách phân biệt 3 cấp độ chủ quyền AI để các quốc gia tránh nhầm lẫn giữa việc 'có trung tâm dữ liệu đặt trên lãnh thổ' với 'làm chủ công nghệ': (1) Cấp độ 1 — Chủ quyền dữ liệu và hạ tầng lưu trữ tại chỗ (đảm bảo dữ liệu trọng yếu được quản lý theo luật nội địa); (2) Cấp độ 2 — Chủ quyền thích ứng và vận hành (làm chủ dữ liệu tiếng Việt, tinh chỉnh mô hình và ứng dụng phục vụ bài toán quốc gia); (3) Cấp độ 3 — Chủ quyền công nghệ lõi toàn chuỗi (tự chủ từ chip đến mô hình nền tảng).",
+      "source_ids": [
+        "aiec-section-3.5"
+      ],
+      "aliases": [
+        "Ba cấp độ chủ quyền AI: tránh nhầm lẫn giữa đặt trung tâm dữ liệu và làm chủ công nghệ",
+        "Ba cấp độ chủ quyền AI",
+        "tránh nhầm lẫn giữa đặt trung tâm dữ liệu và làm chủ công nghệ",
+        "ba cấp độ chủ quyền AI",
+        "3 cấp độ chủ quyền AI",
+        "chủ quyền AI là gì"
+      ],
+      "status": "approved",
+      "heading_alias": "Ba cấp độ chủ quyền AI: tránh nhầm lẫn giữa đặt trung tâm dữ liệu và làm chủ công nghệ"
+    },
+    {
+      "id": "aiec-qa-section-3.6",
+      "chapter": 3,
+      "region_id": "aiec-ch03",
+      "primary_source_id": "aiec-section-3.6",
+      "question": "Vì sao đầu tư vào hạ tầng AI vẫn có thể thua lỗ?",
+      "answer": "Dự án có thể thiếu điện, chậm tiến độ, khó huy động vốn hoặc gặp cầu thấp hơn dự kiến. Sách dùng trường hợp Stargate để xem rủi ro triển khai có thể xuất hiện ngay cả khi dự án được công bố ở quy mô lớn.",
+      "source_ids": [
+        "aiec-section-3.6"
+      ],
+      "aliases": [
+        "Lợi nhuận tiềm năng và sáu rủi ro lớn của dòng vốn AI"
+      ],
+      "status": "approved",
+      "heading_alias": "Lợi nhuận tiềm năng và sáu rủi ro lớn của dòng vốn AI"
+    },
+    {
+      "id": "aiec-qa-section-3.7",
+      "chapter": 3,
+      "region_id": "aiec-ch03",
+      "primary_source_id": "aiec-section-3.7",
+      "question": "Vì sao vốn AI tập trung vào tài sản nền tảng?",
+      "answer": "Điện, bán dẫn, kết nối và trung tâm dữ liệu cung cấp công suất cho nhiều lớp dịch vụ AI. Đầu tư vào chúng là cách đặt cược vào nhu cầu chung của chuỗi, với rủi ro về công suất và thời điểm đưa vào vận hành.",
+      "source_ids": [
+        "aiec-section-3.7"
+      ],
+      "aliases": [
+        "Phân tích dòng vốn và logic phân bổ trong kỷ nguyên trí tuệ"
+      ],
+      "status": "approved",
+      "heading_alias": "Phân tích dòng vốn và logic phân bổ trong kỷ nguyên trí tuệ"
+    },
+    {
+      "id": "aiec-qa-section-3.8",
+      "chapter": 3,
+      "region_id": "aiec-ch03",
+      "primary_source_id": "aiec-section-3.8",
+      "question": "Vì sao điện là giới hạn của trí tuệ?",
+      "answer": "Điện năng trở thành giới hạn vật lý lớn nhất của mở rộng AI vì một dự án có thể huy động đủ vốn và đặt mua chip nhưng vẫn bị chặn nếu lưới điện không cấp đủ công suất ổn định 24/7. Sách chỉ ra bài toán 'Hai đồng hồ lệch nhịp': xây một trung tâm dữ liệu AI mất 18–24 tháng, trong khi quy hoạch và xây mới nguồn điện cùng lưới truyền tải cao thế phải mất 5–10 năm.",
+      "source_ids": [
+        "aiec-section-3.8"
+      ],
+      "aliases": [
+        "Điện là giới hạn của trí tuệ",
+        "vì sao điện là nút thắt mới của mở rộng AI"
+      ],
+      "status": "approved",
+      "heading_alias": "Điện là giới hạn của trí tuệ"
+    },
+    {
+      "id": "aiec-qa-section-4.1",
+      "chapter": 4,
+      "region_id": "aiec-ch04",
+      "primary_source_id": "aiec-section-4.1",
+      "question": "Vì sao lợi thế chi phí lao động không còn đủ?",
+      "answer": "Khi AI đổi cách sản xuất, lợi thế còn phụ thuộc vào dữ liệu, tính toán, nhân lực và khả năng vận hành. Lao động giá thấp chỉ giải quyết một phần bài toán địa điểm và năng suất.",
+      "source_ids": [
+        "aiec-section-4.1"
+      ],
+      "aliases": [
+        "Khi lợi thế chi phí không còn đủ"
+      ],
+      "status": "approved",
+      "heading_alias": "Khi lợi thế chi phí không còn đủ"
+    },
+    {
+      "id": "aiec-qa-section-4.2",
+      "chapter": 4,
+      "region_id": "aiec-ch04",
+      "primary_source_id": "aiec-section-4.2",
+      "question": "Mô hình đầu tư AI của Mỹ có lợi thế và chi phí gì?",
+      "answer": "Khu vực tư nhân huy động vốn và triển khai nhanh. Tại địa phương, trung tâm dữ liệu đặt thêm áp lực lên điện, nước và cộng đồng, làm phát sinh câu hỏi ai chịu chi phí.",
+      "source_ids": [
+        "aiec-section-4.2"
+      ],
+      "aliases": [
+        "Nước Mỹ: Khi khu vực tư nhân đi trước, và cái giá phải trả tại chỗ",
+        "Nước Mỹ",
+        "Khi khu vực tư nhân đi trước, và cái giá phải trả tại chỗ"
+      ],
+      "status": "approved",
+      "heading_alias": "Nước Mỹ: Khi khu vực tư nhân đi trước, và cái giá phải trả tại chỗ"
+    },
+    {
+      "id": "aiec-qa-section-4.3",
+      "chapter": 4,
+      "region_id": "aiec-ch04",
+      "primary_source_id": "aiec-section-4.3",
+      "question": "Điều phối AI ở Trung Quốc gặp khó khăn gì?",
+      "answer": "Trung ương đặt định hướng, còn địa phương chọn dự án và triển khai. Khi nhiều địa phương cùng theo một xu hướng, đầu tư có thể trùng lặp hoặc vượt nhu cầu ở từng nơi.",
+      "source_ids": [
+        "aiec-section-4.3"
+      ],
+      "aliases": [
+        "Trung Quốc: Khi trung ương vạch kế hoạch, và địa phương tự viết lại nó",
+        "Trung Quốc",
+        "Khi trung ương vạch kế hoạch, và địa phương tự viết lại nó"
+      ],
+      "status": "approved",
+      "heading_alias": "Trung Quốc: Khi trung ương vạch kế hoạch, và địa phương tự viết lại nó"
+    },
+    {
+      "id": "aiec-qa-section-4.4",
+      "chapter": 4,
+      "region_id": "aiec-ch04",
+      "primary_source_id": "aiec-section-4.4",
+      "question": "EU cạnh tranh trong AI bằng cách nào?",
+      "answer": "EU tận dụng thị trường, công nghiệp chế tạo, nghiên cứu và năng lực đặt quy tắc. Câu hỏi của chương là những điều kiện này chuyển thành ứng dụng và năng suất nhanh đến đâu.",
+      "source_ids": [
+        "aiec-section-4.4"
+      ],
+      "aliases": [
+        "Liên minh châu Âu: Luật lệ tinh vi, và câu hỏi chưa có lời đáp về năng suất",
+        "Liên minh châu Âu",
+        "Luật lệ tinh vi, và câu hỏi chưa có lời đáp về năng suất"
+      ],
+      "status": "approved",
+      "heading_alias": "Liên minh châu Âu: Luật lệ tinh vi, và câu hỏi chưa có lời đáp về năng suất"
+    },
+    {
+      "id": "aiec-qa-section-4.5",
+      "chapter": 4,
+      "region_id": "aiec-ch04",
+      "primary_source_id": "aiec-section-4.5",
+      "question": "Mỹ, Trung Quốc và EU chuyển vốn thành tăng trưởng theo ba cách nào?",
+      "answer": "Mỹ dựa mạnh vào thị trường và khu vực tư nhân. Trung Quốc điều phối qua định hướng trung ương và triển khai địa phương. EU xây điều kiện cạnh tranh qua thể chế, chuẩn mực và thị trường chung.",
+      "source_ids": [
+        "aiec-section-4.5"
+      ],
+      "aliases": [
+        "Ba cách biến vốn, công nghệ và thể chế thành tăng trưởng"
+      ],
+      "status": "approved",
+      "heading_alias": "Ba cách biến vốn, công nghệ và thể chế thành tăng trưởng"
+    },
+    {
+      "id": "aiec-qa-section-5.1",
+      "chapter": 5,
+      "region_id": "aiec-ch05",
+      "primary_source_id": "aiec-section-5.1",
+      "question": "Khan hiếm tạo quyền lực kinh tế bằng cơ chế nào?",
+      "answer": "Một mắt xích được nhiều khách hàng cần và khó thay thế có thể giữ vị thế thương lượng cao. Thời gian, tri thức và vốn cần để tạo nguồn cung thay thế làm vị thế đó bền hơn.",
+      "source_ids": [
+        "aiec-section-5.1"
+      ],
+      "aliases": [
+        "Khi sự khan hiếm tạo ra quyền lực kinh tế"
+      ],
+      "status": "approved",
+      "heading_alias": "Khi sự khan hiếm tạo ra quyền lực kinh tế"
+    },
+    {
+      "id": "aiec-qa-section-5.2",
+      "chapter": 5,
+      "region_id": "aiec-ch05",
+      "primary_source_id": "aiec-section-5.2",
+      "question": "Vị thế bán dẫn của Đài Loan (Trung Quốc) dựa vào điều gì?",
+      "answer": "Năng lực sản xuất bán dẫn tiên tiến dựa trên tích lũy công nghệ, đội ngũ và mạng lưới nhà cung cấp. Điện, nước và áp lực địa chính trị là những điều kiện có thể ảnh hưởng đến năng lực đó.",
+      "source_ids": [
+        "aiec-section-5.2"
+      ],
+      "aliases": [
+        "Đài Loan (Trung Quốc): trung tâm sản xuất bán dẫn của chuỗi cung ứng AI",
+        "Đài Loan (Trung Quốc)",
+        "trung tâm sản xuất bán dẫn của chuỗi cung ứng AI"
+      ],
+      "status": "approved",
+      "heading_alias": "Đài Loan (Trung Quốc): trung tâm sản xuất bán dẫn của chuỗi cung ứng AI"
+    },
+    {
+      "id": "aiec-qa-section-5.3",
+      "chapter": 5,
+      "region_id": "aiec-ch05",
+      "primary_source_id": "aiec-section-5.3",
+      "question": "Vì sao ASML có vị thế đặc biệt trong chuỗi bán dẫn?",
+      "answer": "ASML nắm công nghệ quang khắc khó sao chép, dựa vào mạng lưới nhà cung cấp chuyên sâu và tích lũy kỹ thuật dài hạn. Vị thế đến từ một mắt xích thiết yếu.",
+      "source_ids": [
+        "aiec-section-5.3"
+      ],
+      "aliases": [
+        "Hà Lan: ASML và quyền lực từ công nghệ khó thay thế",
+        "Hà Lan",
+        "ASML và quyền lực từ công nghệ khó thay thế"
+      ],
+      "status": "approved",
+      "heading_alias": "Hà Lan: ASML và quyền lực từ công nghệ khó thay thế"
+    },
+    {
+      "id": "aiec-qa-section-5.4",
+      "chapter": 5,
+      "region_id": "aiec-ch05",
+      "primary_source_id": "aiec-section-5.4",
+      "question": "Hàn Quốc gắn tái cấu trúc vùng với bán dẫn ra sao?",
+      "answer": "Sách xem chiến lược theo vùng là cách phối hợp hạ tầng, nhân lực và đầu tư để phát triển cụm bán dẫn. Kết quả phụ thuộc vào khả năng biến quy hoạch thành năng lực triển khai.",
+      "source_ids": [
+        "aiec-section-5.4"
+      ],
+      "aliases": [
+        "Hàn Quốc: tái cấu trúc vùng và chiến lược phát triển bán dẫn",
+        "Hàn Quốc",
+        "tái cấu trúc vùng và chiến lược phát triển bán dẫn"
+      ],
+      "status": "approved",
+      "heading_alias": "Hàn Quốc: tái cấu trúc vùng và chiến lược phát triển bán dẫn"
+    },
+    {
+      "id": "aiec-qa-section-5.5",
+      "chapter": 5,
+      "region_id": "aiec-ch05",
+      "primary_source_id": "aiec-section-5.5",
+      "question": "Nhật Bản theo hai hướng nào trong bán dẫn?",
+      "answer": "Nhật Bản vừa mở rộng trên nền cụm công nghiệp sẵn có, vừa đầu tư vào năng lực sản xuất tiên tiến mới. Hai hướng có thời gian hoàn vốn và rủi ro khác nhau.",
+      "source_ids": [
+        "aiec-section-5.5"
+      ],
+      "aliases": [
+        "Nhật Bản: xây trên nền cũ và đặt cược vào công nghệ mới",
+        "Nhật Bản",
+        "xây trên nền cũ và đặt cược vào công nghệ mới"
+      ],
+      "status": "approved",
+      "heading_alias": "Nhật Bản: xây trên nền cũ và đặt cược vào công nghệ mới"
+    },
+    {
+      "id": "aiec-qa-section-5.6",
+      "chapter": 5,
+      "region_id": "aiec-ch05",
+      "primary_source_id": "aiec-section-5.6",
+      "question": "Lợi thế khan hiếm mới có thể xuất hiện ở đâu?",
+      "answer": "Khi công nghệ đổi, điểm nghẽn và tiêu chí chọn nhà cung cấp cũng đổi. Chương gợi ý quan sát những công đoạn mới cần năng lực chuyên môn và nguồn cung còn hạn chế.",
+      "source_ids": [
+        "aiec-section-5.6"
+      ],
+      "aliases": [
+        "Những cánh cửa đang mở: nơi các lợi thế mới có thể hình thành",
+        "Những cánh cửa đang mở",
+        "nơi các lợi thế mới có thể hình thành"
+      ],
+      "status": "approved",
+      "heading_alias": "Những cánh cửa đang mở: nơi các lợi thế mới có thể hình thành"
+    },
+    {
+      "id": "aiec-qa-section-5.7",
+      "chapter": 5,
+      "region_id": "aiec-ch05",
+      "primary_source_id": "aiec-section-5.7",
+      "question": "Một vị thế khó thay thế phải trả giá gì?",
+      "answer": "Tập trung vào một mắt xích mang lại sức mạnh nhưng tạo phụ thuộc vào tài nguyên, khách hàng hoặc môi trường địa chính trị. Mở rộng và bảo vệ lợi thế cần được cân bằng.",
+      "source_ids": [
+        "aiec-section-5.7"
+      ],
+      "aliases": [
+        "Cái giá của vị thế khó thay thế"
+      ],
+      "status": "approved",
+      "heading_alias": "Cái giá của vị thế khó thay thế"
+    },
+    {
+      "id": "aiec-qa-section-6.1",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.1",
+      "question": "Tốc độ có thể bù cho quy mô như thế nào?",
+      "answer": "Quốc gia có thể đi nhanh nhờ rút ngắn thời gian từ quyết định đến vận hành, tận dụng nguồn lực mình có và kết nối với đối tác có năng lực bổ sung.",
+      "source_ids": [
+        "aiec-section-6.1"
+      ],
+      "aliases": [
+        "Khi tốc độ thay thế quy mô"
+      ],
+      "status": "approved",
+      "heading_alias": "Khi tốc độ thay thế quy mô"
+    },
+    {
+      "id": "aiec-qa-section-6.2",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.2",
+      "question": "UAE dùng gì để rút ngắn thời gian tham gia AI?",
+      "answer": "UAE kết hợp vốn chủ quyền, năng lượng, năng lực ra quyết định tập trung và quan hệ đối tác để tiếp cận công nghệ, hạ tầng và nhân lực nhanh hơn.",
+      "source_ids": [
+        "aiec-section-6.2"
+      ],
+      "aliases": [
+        "UAE: sử dụng vốn và tốc độ để xây dựng vị thế trong nền kinh tế AI",
+        "sử dụng vốn và tốc độ để xây dựng vị thế trong nền kinh tế AI"
+      ],
+      "status": "approved",
+      "heading_alias": "UAE: sử dụng vốn và tốc độ để xây dựng vị thế trong nền kinh tế AI"
+    },
+    {
+      "id": "aiec-qa-section-6.3",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.3",
+      "question": "Israel chuyển năng lực quốc phòng thành khởi nghiệp như thế nào?",
+      "answer": "Các môi trường nghiên cứu và giải quyết bài toán khó tạo nhân lực kỹ thuật, mạng lưới tin cậy và kinh nghiệm hệ thống. Năng lực này được chuyển sang doanh nghiệp khi nhân sự rời khu vực quốc phòng.",
+      "source_ids": [
+        "aiec-section-6.3"
+      ],
+      "aliases": [
+        "Israel: từ năng lực nghiên cứu quốc phòng đến hệ sinh thái khởi nghiệp",
+        "Israel",
+        "từ năng lực nghiên cứu quốc phòng đến hệ sinh thái khởi nghiệp"
+      ],
+      "status": "approved",
+      "heading_alias": "Israel: từ năng lực nghiên cứu quốc phòng đến hệ sinh thái khởi nghiệp"
+    },
+    {
+      "id": "aiec-qa-section-6.4",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.4",
+      "question": "AI gây áp lực gì lên dịch vụ công nghệ Ấn Độ?",
+      "answer": "AI có thể thực hiện nhanh hơn một phần công việc từng tính phí theo giờ hoặc theo số người. Doanh nghiệp dịch vụ phải tìm cách bán kết quả và năng lực chuyên sâu hơn.",
+      "source_ids": [
+        "aiec-section-6.4"
+      ],
+      "aliases": [
+        "Ấn Độ: ngành dịch vụ công nghệ trước tác động của AI",
+        "Ấn Độ",
+        "ngành dịch vụ công nghệ trước tác động của AI"
+      ],
+      "status": "approved",
+      "heading_alias": "Ấn Độ: ngành dịch vụ công nghệ trước tác động của AI"
+    },
+    {
+      "id": "aiec-qa-section-6.5",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.5",
+      "question": "Singapore cạnh tranh bằng thể chế và vận hành thế nào?",
+      "answer": "Singapore đưa AI vào công việc cụ thể, xây điều kiện quản trị và dùng hạ tầng, dữ liệu cùng kỹ năng để triển khai nhất quán. Giá trị được thể hiện qua khả năng vận hành.",
+      "source_ids": [
+        "aiec-section-6.5"
+      ],
+      "aliases": [
+        "Singapore: cạnh tranh bằng thể chế và khả năng vận hành",
+        "Singapore",
+        "cạnh tranh bằng thể chế và khả năng vận hành"
+      ],
+      "status": "approved",
+      "heading_alias": "Singapore: cạnh tranh bằng thể chế và khả năng vận hành"
+    },
+    {
+      "id": "aiec-qa-section-6.6",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.6",
+      "question": "Malaysia và Thái Lan gặp giới hạn gì khi hút trung tâm dữ liệu?",
+      "answer": "Chi phí và thủ tục có thể thu hút dự án, nhưng điện, nước, kết nối và khả năng duy trì hạ tầng quyết định công suất đưa vào hoạt động.",
+      "source_ids": [
+        "aiec-section-6.6"
+      ],
+      "aliases": [
+        "Malaysia và Thái Lan: làn sóng trung tâm dữ liệu và giới hạn hạ tầng",
+        "Malaysia và Thái Lan",
+        "làn sóng trung tâm dữ liệu và giới hạn hạ tầng"
+      ],
+      "status": "approved",
+      "heading_alias": "Malaysia và Thái Lan: làn sóng trung tâm dữ liệu và giới hạn hạ tầng"
+    },
+    {
+      "id": "aiec-qa-section-6.7",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.7",
+      "question": "Khoảng cách năng lực AI của Indonesia nằm ở đâu?",
+      "answer": "Tham vọng và quy mô thị trường phải đi cùng điện, kết nối, nhân lực và năng lực triển khai trên địa bàn phân tán. Sách dùng khoảng cách này để phân biệt mục tiêu với kết quả.",
+      "source_ids": [
+        "aiec-section-6.7"
+      ],
+      "aliases": [
+        "Indonesia: tham vọng lớn và khoảng cách năng lực",
+        "Indonesia",
+        "tham vọng lớn và khoảng cách năng lực"
+      ],
+      "status": "approved",
+      "heading_alias": "Indonesia: tham vọng lớn và khoảng cách năng lực"
+    },
+    {
+      "id": "aiec-qa-section-6.8",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.8",
+      "question": "Ba loại quyền lực kinh tế trong khung của sách là gì?",
+      "answer": "Khung phân biệt quyền lực đặt luật chơi, quyền lực từ mắt xích khan hiếm và quyền lực nhờ tốc độ chuyển hóa nguồn lực. Một nền kinh tế có thể kết hợp nhiều loại.",
+      "source_ids": [
+        "aiec-section-6.8"
+      ],
+      "aliases": [
+        "ba loại quyền lực kinh tế",
+        "quyền lực luật chơi khan hiếm tốc độ",
+        "Áp dụng khung ba loại quyền lực cho một nền kinh tế bất kỳ"
+      ],
+      "status": "approved",
+      "heading_alias": "Áp dụng khung ba loại quyền lực cho một nền kinh tế bất kỳ"
+    },
+    {
+      "id": "aiec-qa-section-6.9",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.9",
+      "question": "Quyền lực kinh tế chuyển thành của cải qua đâu?",
+      "answer": "Quyền lực tạo của cải khi chuyển được thành năng suất, thu nhập và giá trị giữ lại. Cần xem nhóm lao động, địa phương hoặc doanh nghiệp nào tham gia được vào quá trình đó.",
+      "source_ids": [
+        "aiec-section-6.9"
+      ],
+      "aliases": [
+        "Quyền lực biến thành của cải như thế nào và ai đứng ngoài dòng chảy đó"
+      ],
+      "status": "approved",
+      "heading_alias": "Quyền lực biến thành của cải như thế nào và ai đứng ngoài dòng chảy đó"
+    },
+    {
+      "id": "aiec-qa-section-6.10",
+      "chapter": 6,
+      "region_id": "aiec-ch06",
+      "primary_source_id": "aiec-section-6.10",
+      "question": "Nền kinh tế thiếu đòn bẩy cấu trúc có thể bắt đầu từ đâu?",
+      "answer": "Chọn nguồn lực có thể chuyển thành năng lực vận hành nhanh, như vốn, kỹ năng, thể chế hoặc mạng lưới đối tác. Chương đối chiếu nhiều hướng đi để xác định đòn bẩy phù hợp.",
+      "source_ids": [
+        "aiec-section-6.10"
+      ],
+      "aliases": [
+        "Tăng tốc khi không có đòn bẩy cấu trúc"
+      ],
+      "status": "approved",
+      "heading_alias": "Tăng tốc khi không có đòn bẩy cấu trúc"
+    },
+    {
+      "id": "aiec-qa-section-7.1",
+      "chapter": 7,
+      "region_id": "aiec-ch07",
+      "primary_source_id": "aiec-section-7.1",
+      "question": "Cửa sổ cơ hội đến 2035 của Việt Nam nghĩa là gì?",
+      "answer": "Giai đoạn tái bố trí chuỗi giá trị tạo cơ hội thu hút đầu tư có hàm lượng công nghệ cao hơn. Việt Nam cần chuẩn bị năng lực hấp thụ và liên kết nội địa trong thời gian cơ hội còn mở.",
+      "source_ids": [
+        "aiec-section-7.1"
+      ],
+      "aliases": [
+        "Cửa sổ cơ hội của Việt Nam đến năm 2035"
+      ],
+      "status": "approved",
+      "heading_alias": "Cửa sổ cơ hội của Việt Nam đến năm 2035"
+    },
+    {
+      "id": "aiec-qa-section-7.2",
+      "chapter": 7,
+      "region_id": "aiec-ch07",
+      "primary_source_id": "aiec-section-7.2",
+      "question": "Sách dùng bốn làn sóng FDI để giải thích điều gì?",
+      "answer": "Bốn làn sóng FDI: (1) 1988–2005, khai thác chi phí lao động (dệt may, giày dép, liên doanh ô tô); (2) 2006–2010, hậu WTO, dự án tỷ USD (Intel 2006, Samsung 2008); (3) 2008–2020, điện tử-thiết bị số quy mô lớn (Samsung Thái Nguyên, LG, Pegatron); (4) từ 2020, tái định vị chuỗi cung ứng (đóng gói-kiểm thử bán dẫn, hạ tầng số, R&D). Cần thận trọng gọi tên “làn sóng AI”: phần lớn vốn vẫn là chế biến-chế tạo truyền thống, nhiều hợp tác AI còn ở giai đoạn biên bản ghi nhớ, chưa phải vốn đã giải ngân.",
+      "source_ids": [
+        "aiec-section-7.2"
+      ],
+      "aliases": [
+        "Bốn làn sóng FDI và câu hỏi về làn sóng thứ tư",
+        "sách dùng bốn làn sóng FDI để giải thích điều gì",
+        "bốn làn sóng FDI và câu hỏi về làn sóng thứ tư"
+      ],
+      "status": "approved",
+      "heading_alias": "Bốn làn sóng FDI và câu hỏi về làn sóng thứ tư"
+    },
+    {
+      "id": "aiec-qa-section-7.3",
+      "chapter": 7,
+      "region_id": "aiec-ch07",
+      "primary_source_id": "aiec-section-7.3",
+      "question": "Địa điểm đầu tư dựa trên năng suất cần chứng minh điều gì?",
+      "answer": "Nhà đầu tư cần thấy hạ tầng đáng tin cậy, lao động có kỹ năng và khả năng đưa dự án vào vận hành. Những yếu tố này ảnh hưởng chi phí và kết quả trong cả vòng đời.",
+      "source_ids": [
+        "aiec-section-7.3"
+      ],
+      "aliases": [
+        "Từ lợi thế chi phí đến lợi thế năng suất"
+      ],
+      "status": "approved",
+      "heading_alias": "Từ lợi thế chi phí đến lợi thế năng suất"
+    },
+    {
+      "id": "aiec-qa-section-7.4",
+      "chapter": 7,
+      "region_id": "aiec-ch07",
+      "primary_source_id": "aiec-section-7.4",
+      "question": "Lợi thế tiềm năng của Việt Nam trở thành lợi thế thực tế khi nào?",
+      "answer": "Việt Nam sở hữu 7 lợi thế tiềm năng trong nền kinh tế AI: (1) Tiềm năng năng lượng tái tạo lớn (hơn 3.200 km bờ biển thuận lợi cho điện gió ngoài khơi, bức xạ mặt trời cao, thủy điện phát triển kết hợp cơ chế mua bán điện trực tiếp DPPA cung cấp điện sạch cho trung tâm dữ liệu AI); (2) Môi trường chính trị ổn định; (3) Vị trí trung tâm chuỗi cung ứng công nghệ châu Á; (4) Lực lượng lao động trẻ và nền tảng STEM; (5) Kinh nghiệm tích lũy qua 30 năm thu hút FDI; (6) Thị trường nội địa 100 triệu dân hấp thụ số hóa nhanh; (7) Quyết tâm chính sách chuyển dịch sang công nghệ cao.",
+      "source_ids": [
+        "aiec-section-7.4"
+      ],
+      "aliases": [
+        "bảy lợi thế tiềm năng của Việt Nam",
+        "7 lợi thế tiềm năng của Việt Nam",
+        "lợi thế năng lượng tái tạo của Việt Nam là gì",
+        "năng lượng tái tạo của Việt Nam",
+        "tiềm năng năng lượng tái tạo",
+        "3200 km bờ biển",
+        "Bảy lợi thế tiềm năng của Việt Nam"
+      ],
+      "status": "approved",
+      "heading_alias": "Bảy lợi thế tiềm năng của Việt Nam"
+    },
+    {
+      "id": "aiec-qa-section-7.5",
+      "chapter": 7,
+      "region_id": "aiec-ch07",
+      "primary_source_id": "aiec-section-7.5",
+      "question": "Khoảng cách cấu trúc có ý nghĩa gì với Việt Nam?",
+      "answer": "Bên cạnh 7 lợi thế, Việt Nam phải vượt qua 7 khoảng cách cấu trúc: (1) Áp lực lưới truyền tải và thủ tục đấu nối điện sạch cho phụ tải lớn; (2) Hạ tầng tính toán hiệu năng cao (HPC/GPU) trong nước còn mỏng; (3) Độ trễ và tính dự phòng của tuyến cáp quang biển quốc tế; (4) Thiếu hụt kỹ sư AI trình độ cao và giảng viên thực chiến; (5) Dữ liệu còn phân mảnh, thiếu chuẩn liên thông; (6) Thị trường vốn mạo hiểm nội địa cho công nghệ sâu còn nhỏ; (7) Tốc độ thực thi và phối hợp liên ngành.",
+      "source_ids": [
+        "aiec-section-7.5"
+      ],
+      "aliases": [
+        "Bảy khoảng cách cấu trúc cần vượt qua",
+        "bảy khoảng cách cấu trúc cần vượt qua",
+        "7 khoảng cách cấu trúc của Việt Nam",
+        "điểm nghẽn cấu trúc của Việt Nam"
+      ],
+      "status": "approved",
+      "heading_alias": "Bảy khoảng cách cấu trúc cần vượt qua"
+    },
+    {
+      "id": "aiec-qa-section-7.6",
+      "chapter": 7,
+      "region_id": "aiec-ch07",
+      "primary_source_id": "aiec-section-7.6",
+      "question": "Ứng dụng, thích ứng và làm chủ có ý nghĩa gì ở cấp quốc gia?",
+      "answer": "Ứng dụng giúp khai thác công nghệ có sẵn. Thích ứng đưa công nghệ vào điều kiện Việt Nam. Làm chủ tập trung ở những năng lực có lý do chiến lược và khả năng tích lũy.",
+      "source_ids": [
+        "aiec-section-7.6"
+      ],
+      "aliases": [
+        "Từ khoảng cách đến hành động: Lời giải chiến lược cho Việt Nam",
+        "Từ khoảng cách đến hành động",
+        "Lời giải chiến lược cho Việt Nam"
+      ],
+      "status": "approved",
+      "heading_alias": "Từ khoảng cách đến hành động: Lời giải chiến lược cho Việt Nam"
+    },
+    {
+      "id": "aiec-qa-section-7.7",
+      "chapter": 7,
+      "region_id": "aiec-ch07",
+      "primary_source_id": "aiec-section-7.7",
+      "question": "Nếu dòng vốn AI chững lại, Việt Nam nên đánh giá chiến lược bằng gì?",
+      "answer": "Xem các khoản đầu tư có tạo ra năng lực sử dụng được cho nhiều ngành và nhiều kịch bản hay không. Năng suất, kỹ năng và hạ tầng dùng chung giúp chiến lược chịu được biến động dòng vốn.",
+      "source_ids": [
+        "aiec-section-7.7"
+      ],
+      "aliases": [
+        "Phép thử cho lời giải: nếu làn sóng vốn AI chững lại",
+        "Phép thử cho lời giải",
+        "nếu làn sóng vốn AI chững lại"
+      ],
+      "status": "approved",
+      "heading_alias": "Phép thử cho lời giải: nếu làn sóng vốn AI chững lại"
+    },
+    {
+      "id": "aiec-qa-section-8.1",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.1",
+      "question": "Vì sao nhà đầu tư AI quan tâm mức sẵn sàng hơn ưu đãi thuế?",
+      "answer": "Khi thu hút đầu tư công nghệ cao và AI, ưu đãi thuế không còn đủ vì thuế tối thiểu toàn cầu (15%) làm giảm tác dụng của miễn giảm thuế; nhà đầu tư quốc tế chuyển sang chấm điểm mức độ sẵn sàng vận hành thực tế (điện sạch, hạ tầng tính toán, kết nối, nhân lực, dữ liệu, thủ tục). Theo Chỉ số sẵn sàng cho công nghệ tiên phong của UNCTAD năm 2024, Việt Nam xếp hạng 64/170 nền kinh tế (giảm từ hạng 53 năm 2022); trong đó Tài chính xếp hạng 15, Công nghiệp hạng 23, Nghiên cứu & Phát triển (R&D) hạng 51, Hạ tầng số hạng 81 và Kỹ năng hạng 120.",
+      "source_ids": [
+        "aiec-section-8.1",
+        "aiec-table-8.1"
+      ],
+      "aliases": [
+        "chỉ số sẵn sàng cho công nghệ tiên phong của UNCTAD",
+        "UNCTAD xếp Việt Nam thứ mấy",
+        "170 nền kinh tế",
+        "xếp hạng UNCTAD của Việt Nam",
+        "từ ưu đãi thuế đến mức độ sẵn sàng",
+        "xếp hạng 64/170",
+        "hạng 64 trong 170 nền kinh tế",
+        "bảng 8.1",
+        "vì sao ưu đãi thuế không còn đủ",
+        "Từ ưu đãi thuế đến mức độ sẵn sàng",
+        "Việt Nam đang đứng ở đâu so với các nước khác về AI",
+        "Việt Nam đứng thứ mấy về AI"
+      ],
+      "status": "approved",
+      "heading_alias": "Từ ưu đãi thuế đến mức độ sẵn sàng"
+    },
+    {
+      "id": "aiec-qa-section-8.2",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.2",
+      "question": "Trụ cột năng lượng cần xem xét điều gì?",
+      "answer": "Trụ cột 1 của khung sẵn sàng quốc gia là Năng lượng và năng lượng sạch — yếu tố quyết định đối với trung tâm dữ liệu AI. Việt Nam có lợi thế tiềm năng năng lượng tái tạo (Quy hoạch điện VIII điều chỉnh đặt mục tiêu 183–236 GW năm 2030, điện mặt trời 46–73 GW, pin lưu trữ 10–16 GW) và Nghị định 57/2025/NĐ-CP cho phép mua bán điện trực tiếp (DPPA) từ nhà máy năng lượng tái tạo. Tuy nhiên, cần giải quyết 3 điểm nghẽn: lưới truyền tải lệch vùng, hệ thống lưu trữ điện cho phụ tải AI chạy 24/7 và thời gian đấu nối trạm biến áp.",
+      "source_ids": [
+        "aiec-section-8.2"
+      ],
+      "aliases": [
+        "trụ cột 1 năng lượng và năng lượng sạch",
+        "điện sạch cho trung tâm dữ liệu",
+        "nghị định 57 mua bán điện trực tiếp",
+        "quy hoạch điện VIII",
+        "điểm nghẽn lưới điện cho AI",
+        "Năng lượng và năng lượng sạch"
+      ],
+      "status": "approved",
+      "heading_alias": "Trụ cột 1: Năng lượng và năng lượng sạch"
+    },
+    {
+      "id": "aiec-qa-section-8.3",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.3",
+      "question": "Trụ cột tính toán đánh giá điều gì?",
+      "answer": "Trụ cột xem khả năng tiếp cận và vận hành công suất AI cho huấn luyện và suy luận. Quy mô lắp đặt chỉ có ý nghĩa khi doanh nghiệp và tổ chức có thể sử dụng công suất đó.",
+      "source_ids": [
+        "aiec-section-8.3"
+      ],
+      "aliases": [
+        "Hạ tầng tính toán và AI"
+      ],
+      "status": "approved",
+      "heading_alias": "Trụ cột 2: Hạ tầng tính toán và AI"
+    },
+    {
+      "id": "aiec-qa-section-8.4",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.4",
+      "question": "Trụ cột kết nối và hạ tầng số đóng vai trò gì?",
+      "answer": "Mạng trong nước và kết nối quốc tế cho phép truyền dữ liệu và cung cấp dịch vụ AI ổn định. Chất lượng, độ dự phòng và độ trễ ảnh hưởng khả năng vận hành.",
+      "source_ids": [
+        "aiec-section-8.4"
+      ],
+      "aliases": [
+        "Hạ tầng kết nối và hạ tầng số"
+      ],
+      "status": "approved",
+      "heading_alias": "Trụ cột 3: Hạ tầng kết nối và hạ tầng số"
+    },
+    {
+      "id": "aiec-qa-section-8.5",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.5",
+      "question": "Vì sao hệ sinh thái nhân tài quan trọng với AI?",
+      "answer": "Hệ sinh thái phải tạo, thu hút và giữ người có thể phát triển, vận hành và áp dụng AI. Năng lực cần có ở đội kỹ thuật lẫn người làm nghiệp vụ.",
+      "source_ids": [
+        "aiec-section-8.5"
+      ],
+      "aliases": [
+        "Nhân lực và hệ sinh thái nhân tài"
+      ],
+      "status": "approved",
+      "heading_alias": "Trụ cột 4: Nhân lực và hệ sinh thái nhân tài"
+    },
+    {
+      "id": "aiec-qa-section-8.6",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.6",
+      "question": "Dữ liệu và quản trị tạo mức sẵn sàng như thế nào?",
+      "answer": "Dữ liệu cần có chất lượng, quyền truy cập rõ và cơ chế dùng an toàn. Quản trị giúp dữ liệu được chia sẻ và sử dụng đúng mục đích trong các hệ thống AI.",
+      "source_ids": [
+        "aiec-section-8.6"
+      ],
+      "aliases": [
+        "Dữ liệu và quản trị"
+      ],
+      "status": "approved",
+      "heading_alias": "Trụ cột 5: Dữ liệu và quản trị"
+    },
+    {
+      "id": "aiec-qa-section-8.7",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.7",
+      "question": "Vốn và khởi nghiệp đóng góp gì cho hệ sinh thái AI?",
+      "answer": "Vốn tài trợ giai đoạn thử nghiệm, tăng trưởng và mở rộng. Hệ sinh thái khởi nghiệp giúp kết nối công nghệ với vấn đề thực tế, khách hàng và kênh thương mại hóa.",
+      "source_ids": [
+        "aiec-section-8.7"
+      ],
+      "aliases": [
+        "Vốn và hệ sinh thái khởi nghiệp"
+      ],
+      "status": "approved",
+      "heading_alias": "Trụ cột 6: Vốn và hệ sinh thái khởi nghiệp"
+    },
+    {
+      "id": "aiec-qa-section-8.8",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.8",
+      "question": "Khu công nghiệp thế hệ mới kết nối những yếu tố nào?",
+      "answer": "Khu công nghiệp kết nối điện, dữ liệu, cáp quang, nhân lực và dịch vụ vận hành tại một địa điểm. Sự phối hợp này giúp nhà đầu tư đưa dự án vào hoạt động.",
+      "source_ids": [
+        "aiec-section-8.8"
+      ],
+      "aliases": [
+        "Hạ tầng thông minh và khu công nghiệp thế hệ mới"
+      ],
+      "status": "approved",
+      "heading_alias": "Trụ cột 7: Hạ tầng thông minh và khu công nghiệp thế hệ mới"
+    },
+    {
+      "id": "aiec-qa-section-8.9",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.9",
+      "question": "Trụ cột hệ sinh thái kinh tế trí tuệ đo điều gì?",
+      "answer": "Trụ cột xem các nguồn lực còn lại có kết nối để hình thành ứng dụng, doanh nghiệp và năng suất hay chỉ tồn tại riêng lẻ.",
+      "source_ids": [
+        "aiec-section-8.9"
+      ],
+      "aliases": [
+        "Hệ sinh thái kinh tế trí tuệ"
+      ],
+      "status": "approved",
+      "heading_alias": "Trụ cột 8: Hệ sinh thái kinh tế trí tuệ"
+    },
+    {
+      "id": "aiec-qa-section-8.10",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.10",
+      "question": "Tại sao phải tìm mắt xích yếu nhất?",
+      "answer": "Một điều kiện còn yếu có thể chặn cả dự án dù các trụ cột khác mạnh. Khung tám trụ cột giúp xác định điểm nghẽn cần ưu tiên tháo gỡ.",
+      "source_ids": [
+        "aiec-section-8.10"
+      ],
+      "aliases": [
+        "Mắt xích yếu nhất"
+      ],
+      "status": "approved",
+      "heading_alias": "Mắt xích yếu nhất"
+    },
+    {
+      "id": "aiec-qa-section-9.1",
+      "chapter": 9,
+      "region_id": "aiec-ch09",
+      "primary_source_id": "aiec-section-9.1",
+      "question": "Tự động hóa tạo rủi ro gì ở cấp nền kinh tế?",
+      "answer": "Khi công nghệ giảm lượng lao động cần cho một đơn vị đầu ra, tăng xuất khẩu hoặc sản lượng có thể tạo ít việc hơn trước. Rủi ro lớn hơn ở ngành dựa mạnh vào lao động giá thấp.",
+      "source_ids": [
+        "aiec-section-9.1"
+      ],
+      "aliases": [
+        "Rủi ro đối với nền kinh tế quốc gia"
+      ],
+      "status": "approved",
+      "heading_alias": "Rủi ro đối với nền kinh tế quốc gia"
+    },
+    {
+      "id": "aiec-qa-section-9.2",
+      "chapter": 9,
+      "region_id": "aiec-ch09",
+      "primary_source_id": "aiec-section-9.2",
+      "question": "Dệt may và da giày cần cạnh tranh bằng gì khi lao động giá rẻ mất lợi thế?",
+      "answer": "Chương nhấn mạnh thiết kế, tốc độ đáp ứng, quản lý sản xuất và khả năng tham gia sâu hơn vào chuỗi giá trị. Tự động hóa làm thu hẹp lợi thế của gia công dựa vào chi phí.",
+      "source_ids": [
+        "aiec-section-9.2"
+      ],
+      "aliases": [
+        "Dệt may và da giày: Khi lợi thế lao động giá rẻ dần mất đi",
+        "Dệt may và da giày",
+        "Khi lợi thế lao động giá rẻ dần mất đi"
+      ],
+      "status": "approved",
+      "heading_alias": "Dệt may và da giày: Khi lợi thế lao động giá rẻ dần mất đi"
+    },
+    {
+      "id": "aiec-qa-section-9.3",
+      "chapter": 9,
+      "region_id": "aiec-ch09",
+      "primary_source_id": "aiec-section-9.3",
+      "question": "Điện tử và lắp ráp thay đổi thế nào khi dùng AI?",
+      "answer": "AI đi vào kiểm tra chất lượng và vận hành nhà máy. Cơ hội giữ thêm giá trị đến từ năng lực kỹ thuật, tổ chức sản xuất thông minh và tham gia khâu thiết kế.",
+      "source_ids": [
+        "aiec-section-9.3"
+      ],
+      "aliases": [
+        "Điện tử và lắp ráp: Khi Việt Nam bước vào kỷ nguyên nhà máy vận hành bằng AI",
+        "Điện tử và lắp ráp",
+        "Khi Việt Nam bước vào kỷ nguyên nhà máy vận hành bằng AI"
+      ],
+      "status": "approved",
+      "heading_alias": "Điện tử và lắp ráp: Khi Việt Nam bước vào kỷ nguyên nhà máy vận hành bằng AI"
+    },
+    {
+      "id": "aiec-qa-section-9.4",
+      "chapter": 9,
+      "region_id": "aiec-ch09",
+      "primary_source_id": "aiec-section-9.4",
+      "question": "AI có thể tạo giá trị ở đâu trong nông nghiệp?",
+      "answer": "AI hỗ trợ quan sát mùa vụ, phát hiện bất thường và tối ưu quyết định đầu vào. Giá trị thực tế phụ thuộc vào dữ liệu, điều kiện đồng ruộng và khả năng đưa công cụ tới người sản xuất.",
+      "source_ids": [
+        "aiec-section-9.4"
+      ],
+      "aliases": [
+        "Nông nghiệp: Khi AI bước vào cánh đồng",
+        "Nông nghiệp",
+        "Khi AI bước vào cánh đồng"
+      ],
+      "status": "approved",
+      "heading_alias": "Nông nghiệp: Khi AI bước vào cánh đồng"
+    },
+    {
+      "id": "aiec-qa-section-9.5",
+      "chapter": 9,
+      "region_id": "aiec-ch09",
+      "primary_source_id": "aiec-section-9.5",
+      "question": "AI thay đổi dịch vụ tài chính theo hai hướng nào?",
+      "answer": "AI cải thiện vận hành như xử lý dữ liệu và quản trị rủi ro, đồng thời giúp thiết kế và cung cấp dịch vụ phù hợp hơn với từng khách hàng.",
+      "source_ids": [
+        "aiec-section-9.5"
+      ],
+      "aliases": [
+        "Ngân hàng và tài chính: Khi AI trở thành chuyên gia tài chính của mọi khách hàng",
+        "Ngân hàng và tài chính",
+        "Khi AI trở thành chuyên gia tài chính của mọi khách hàng"
+      ],
+      "status": "approved",
+      "heading_alias": "Ngân hàng và tài chính: Khi AI trở thành \"chuyên gia tài chính\" của mọi khách hàng"
+    },
+    {
+      "id": "aiec-qa-section-9.6",
+      "chapter": 9,
+      "region_id": "aiec-ch09",
+      "primary_source_id": "aiec-section-9.6",
+      "question": "AI thay đổi tiêu chí cạnh tranh của bất động sản công nghiệp thế nào?",
+      "answer": "Ngoài đất và vị trí, dự án công nghệ cần điện, kết nối, dịch vụ vận hành và nhân lực. Khả năng cung cấp các điều kiện này làm thay đổi loại khu công nghiệp có thể thu hút dự án.",
+      "source_ids": [
+        "aiec-section-9.6"
+      ],
+      "aliases": [
+        "Bất động sản công nghiệp: AI đang tạo ra một thế hệ khu công nghiệp hoàn toàn mới",
+        "Bất động sản công nghiệp",
+        "AI đang tạo ra một thế hệ khu công nghiệp hoàn toàn mới"
+      ],
+      "status": "approved",
+      "heading_alias": "Bất động sản công nghiệp: AI đang tạo ra một thế hệ khu công nghiệp hoàn toàn mới"
+    },
+    {
+      "id": "aiec-qa-section-9.7",
+      "chapter": 9,
+      "region_id": "aiec-ch09",
+      "primary_source_id": "aiec-section-9.7",
+      "question": "Vì sao tác động của AI lan ra ngoài các ngành chủ lực?",
+      "answer": "AI hỗ trợ nhiều tác vụ chung như phân tích, dự báo và xử lý thông tin. Mỗi ngành kết hợp những năng lực ấy với dữ liệu và quy trình riêng nên hình thức lan tỏa khác nhau.",
+      "source_ids": [
+        "aiec-section-9.7"
+      ],
+      "aliases": [
+        "Lan tỏa toàn diện: Khi AI định hình lại mọi ngóc ngách của nền kinh tế",
+        "Lan tỏa toàn diện",
+        "Khi AI định hình lại mọi ngóc ngách của nền kinh tế"
+      ],
+      "status": "approved",
+      "heading_alias": "Lan tỏa toàn diện: Khi AI định hình lại mọi ngóc ngách của nền kinh tế"
+    },
+    {
+      "id": "aiec-qa-section-9.8",
+      "chapter": 9,
+      "region_id": "aiec-ch09",
+      "primary_source_id": "aiec-section-9.8",
+      "question": "Tái thiết ngành nghĩa là gì trong chương này?",
+      "answer": "Tái thiết là điều chỉnh nơi ngành tạo giá trị. Ví dụ, dệt may dịch từ gia công sang thiết kế và tốc độ đáp ứng, còn điện tử tăng vai trò của vận hành thông minh và thiết kế.",
+      "source_ids": [
+        "aiec-section-9.8"
+      ],
+      "aliases": [
+        "Tái thiết trong dòng chảy mới"
+      ],
+      "status": "approved",
+      "heading_alias": "Tái thiết trong dòng chảy mới"
+    },
+    {
+      "id": "aiec-qa-section-10.1",
+      "chapter": 10,
+      "region_id": "aiec-ch10",
+      "primary_source_id": "aiec-section-10.1",
+      "question": "AI ảnh hưởng thế nào tới lao động sản xuất?",
+      "answer": "Tại Việt Nam (53,5 triệu người trong lực lượng lao động, 33,5% trong công nghiệp và xây dựng, 63,1% việc làm phi chính thức và chỉ 29,2% có bằng cấp hoặc chứng chỉ), lợi thế “đông người, chi phí thấp” đang dần khép lại khi số robot công nghiệp lắp đặt mỗi năm trên thế giới đã tăng gấp đôi trong mười năm (Trung Quốc chiếm hơn một nửa). Các tác vụ lặp lại như hàn, lắp ráp đơn giản, đóng gói, phân loại và kiểm tra bằng mắt thường ngày càng bị tự động hóa bằng robot và thị giác máy tính; ngược lại, nhu cầu kỹ thuật viên vận hành robot, bảo trì thiết bị tự động, quản lý dữ liệu sản xuất và xử lý ngoại lệ tăng nhanh.",
+      "source_ids": [
+        "aiec-section-10.1"
+      ],
+      "aliases": [
+        "Lao động sản xuất: Lợi thế đông người, chi phí thấp đang dần khép lại",
+        "Lao động sản xuất",
+        "Lợi thế đông người, chi phí thấp đang dần khép lại",
+        "AI ảnh hưởng thế nào tới lao động sản xuất",
+        "lao động sản xuất lợi thế đông người chi phí thấp"
+      ],
+      "status": "approved",
+      "heading_alias": "Lao động sản xuất: Lợi thế \"đông người, chi phí thấp\" đang dần khép lại"
+    },
+    {
+      "id": "aiec-qa-section-10.2",
+      "chapter": 10,
+      "region_id": "aiec-ch10",
+      "primary_source_id": "aiec-section-10.2",
+      "question": "Vì sao nhân viên văn phòng chịu tác động nhanh?",
+      "answer": "Nhiều tác vụ văn phòng đã ở dạng số, như xử lý chứng từ, tổng hợp và viết báo cáo. Công cụ AI dễ đi vào những nhiệm vụ này, làm thay đổi việc giao cho nhân sự và yêu cầu kiểm tra.",
+      "source_ids": [
+        "aiec-section-10.2"
+      ],
+      "aliases": [
+        "Nhân viên văn phòng: Nhóm chịu tác động nhanh nhất",
+        "Nhân viên văn phòng",
+        "Nhóm chịu tác động nhanh nhất"
+      ],
+      "status": "approved",
+      "heading_alias": "Nhân viên văn phòng: Nhóm chịu tác động nhanh nhất"
+    },
+    {
+      "id": "aiec-qa-section-10.3",
+      "chapter": 10,
+      "region_id": "aiec-ch10",
+      "primary_source_id": "aiec-section-10.3",
+      "question": "AI bổ trợ lao động tri thức như thế nào?",
+      "answer": "AI giúp bác sĩ, luật sư và kỹ sư tìm thông tin, phân tích hoặc chuẩn bị phương án. Chuyên gia vẫn chịu trách nhiệm về phán đoán chuyên môn và kiểm định kết quả.",
+      "source_ids": [
+        "aiec-section-10.3"
+      ],
+      "aliases": [
+        "Lao động tri thức: AI trở thành đồng nghiệp mới của bác sĩ, luật sư và kỹ sư",
+        "Lao động tri thức",
+        "AI trở thành đồng nghiệp mới của bác sĩ, luật sư và kỹ sư"
+      ],
+      "status": "approved",
+      "heading_alias": "Lao động tri thức: AI trở thành \"đồng nghiệp\" mới của bác sĩ, luật sư và kỹ sư"
+    },
+    {
+      "id": "aiec-qa-section-10.4",
+      "chapter": 10,
+      "region_id": "aiec-ch10",
+      "primary_source_id": "aiec-section-10.4",
+      "question": "AI thay đổi vai trò nhà quản lý ra sao?",
+      "answer": "AI có thể tổng hợp báo cáo và mô phỏng kịch bản nhanh hơn. Nhà quản lý cần giỏi đặt câu hỏi, đánh giá giả định và chịu trách nhiệm cho quyết định.",
+      "source_ids": [
+        "aiec-section-10.4"
+      ],
+      "aliases": [
+        "Nhà quản lý: Khi AI trở thành cố vấn chiến lược",
+        "Nhà quản lý",
+        "Khi AI trở thành cố vấn chiến lược"
+      ],
+      "status": "approved",
+      "heading_alias": "Nhà quản lý: Khi AI trở thành cố vấn chiến lược"
+    },
+    {
+      "id": "aiec-qa-section-10.5",
+      "chapter": 10,
+      "region_id": "aiec-ch10",
+      "primary_source_id": "aiec-section-10.5",
+      "question": "Sách phân biệt nghề tăng nhanh và nghề tăng nhiều như thế nào?",
+      "answer": "Tốc độ tăng theo tỷ lệ có thể cao ở nghề công nghệ, dữ liệu và an ninh mạng. Số lượng việc làm tăng tuyệt đối còn phụ thuộc quy mô lao động ban đầu và có thể lớn ở các nghề tuyến đầu.",
+      "source_ids": [
+        "aiec-section-10.5"
+      ],
+      "aliases": [
+        "Những nghề mới sẽ bùng nổ cùng nền kinh tế AI"
+      ],
+      "status": "approved",
+      "heading_alias": "Những nghề mới sẽ bùng nổ cùng nền kinh tế AI"
+    },
+    {
+      "id": "aiec-qa-section-10.6",
+      "chapter": 10,
+      "region_id": "aiec-ch10",
+      "primary_source_id": "aiec-section-10.6",
+      "question": "Đặc điểm nào khiến một công việc khó bị AI thay thế?",
+      "answer": "Công việc cần tin cậy, cảm xúc, ứng biến và tương tác thực tế khó lường có nhiều phần khó giao hoàn toàn cho máy. AI có thể hỗ trợ những tác vụ cụ thể trong cùng công việc.",
+      "source_ids": [
+        "aiec-section-10.6"
+      ],
+      "aliases": [
+        "Những nghề khó bị thay thế nhất: Khi giá trị nằm ở con người",
+        "Những nghề khó bị thay thế nhất",
+        "Khi giá trị nằm ở con người"
+      ],
+      "status": "approved",
+      "heading_alias": "Những nghề khó bị thay thế nhất: Khi giá trị nằm ở con người"
+    },
+    {
+      "id": "aiec-qa-section-11.1",
+      "chapter": 11,
+      "region_id": "aiec-ch11",
+      "primary_source_id": "aiec-section-11.1",
+      "question": "Vì sao chương nhấn mạnh tốc độ thích ứng?",
+      "answer": "Khi công nghệ đổi nhanh, độ trễ trong quyết định và triển khai làm giảm thời gian học hỏi và tích lũy năng lực. Tốc độ thích ứng cần được đo bằng thay đổi thực tế.",
+      "source_ids": [
+        "aiec-section-11.1"
+      ],
+      "aliases": [
+        "Không còn nhiều thời gian để chờ đợi"
+      ],
+      "status": "approved",
+      "heading_alias": "Không còn nhiều thời gian để chờ đợi"
+    },
+    {
+      "id": "aiec-qa-section-11.2",
+      "chapter": 11,
+      "region_id": "aiec-ch11",
+      "primary_source_id": "aiec-section-11.2",
+      "question": "Năm trụ cột năng lực cạnh tranh quốc gia là gì?",
+      "answer": "Thể chế, hạ tầng AI, nguồn nhân lực, doanh nghiệp và hệ sinh thái đổi mới sáng tạo. Khung giúp đặt ưu tiên thực thi và khác với khung tám trụ cột sẵn sàng",
+      "source_ids": [
+        "aiec-section-11.2"
+      ],
+      "aliases": [
+        "Năm trụ cột kiến tạo năng lực cạnh tranh quốc gia"
+      ],
+      "status": "approved",
+      "heading_alias": "Năm trụ cột kiến tạo năng lực cạnh tranh quốc gia"
+    },
+    {
+      "id": "aiec-qa-section-11.3",
+      "chapter": 11,
+      "region_id": "aiec-ch11",
+      "primary_source_id": "aiec-section-11.3",
+      "question": "Những ai cùng tạo năng lực cạnh tranh quốc gia về AI?",
+      "answer": "Nhà nước, doanh nghiệp, trường đại học, địa phương và người dân giữ các vai trò bổ sung. Năng lực quốc gia hình thành khi các bên phối hợp được trong các công việc cụ thể.",
+      "source_ids": [
+        "aiec-section-11.3"
+      ],
+      "aliases": [
+        "Mỗi chủ thể là một mắt xích của năng lực cạnh tranh quốc gia"
+      ],
+      "status": "approved",
+      "heading_alias": "Mỗi chủ thể là một mắt xích của năng lực cạnh tranh quốc gia"
+    },
+    {
+      "id": "aiec-qa-section-11.4",
+      "chapter": 11,
+      "region_id": "aiec-ch11",
+      "primary_source_id": "aiec-section-11.4",
+      "question": "Kỷ luật thực thi thể hiện như thế nào?",
+      "answer": "Cần biến chiến lược thành việc có trách nhiệm rõ, theo dõi tiến độ và tháo gỡ điểm nghẽn. Sách dùng tốc độ thực hiện và kết quả để đánh giá năng lực triển khai.",
+      "source_ids": [
+        "aiec-section-11.4"
+      ],
+      "aliases": [
+        "Kỷ luật thực thi: Yếu tố quyết định thành công",
+        "Kỷ luật thực thi",
+        "Yếu tố quyết định thành công"
+      ],
+      "status": "approved",
+      "heading_alias": "Kỷ luật thực thi: Yếu tố quyết định thành công"
+    },
+    {
+      "id": "aiec-qa-section-12.1",
+      "chapter": 12,
+      "region_id": "aiec-ch12",
+      "primary_source_id": "aiec-section-12.1",
+      "question": "Dùng AI khác gì với tạo giá trị từ AI?",
+      "answer": "Dùng AI có thể là thử công cụ ở một số việc. Tạo giá trị đòi hỏi tích hợp AI vào quy trình, đo kết quả và duy trì được thay đổi trong vận hành.",
+      "source_ids": [
+        "aiec-section-12.1"
+      ],
+      "aliases": [
+        "Khoảng cách giữa dùng AI và tạo ra giá trị"
+      ],
+      "status": "approved",
+      "heading_alias": "Khoảng cách giữa dùng AI và tạo ra giá trị"
+    },
+    {
+      "id": "aiec-qa-section-12.2",
+      "chapter": 12,
+      "region_id": "aiec-ch12",
+      "primary_source_id": "aiec-section-12.2",
+      "question": "Vì sao AI lan không đều giữa các doanh nghiệp?",
+      "answer": "Quy mô, ngành, dữ liệu, kỹ năng và nguồn lực đầu tư khác nhau làm doanh nghiệp có khả năng triển khai khác nhau. Số liệu dùng AI cần đọc cùng bối cảnh khảo sát.",
+      "source_ids": [
+        "aiec-section-12.2"
+      ],
+      "aliases": [
+        "Doanh nghiệp nào đi trước, doanh nghiệp nào bị bỏ lại"
+      ],
+      "status": "approved",
+      "heading_alias": "Doanh nghiệp nào đi trước, doanh nghiệp nào bị bỏ lại"
+    },
+    {
+      "id": "aiec-qa-section-12.3",
+      "chapter": 12,
+      "region_id": "aiec-ch12",
+      "primary_source_id": "aiec-section-12.3",
+      "question": "Doanh nghiệp chuyển chính sách AI thành năng suất qua đâu?",
+      "answer": "Doanh nghiệp biến tiếp cận hạ tầng, kỹ năng và hỗ trợ chính sách thành thay đổi trong quy trình, sản phẩm hoặc quyết định. Kết quả phụ thuộc vào khả năng tổ chức vận hành.",
+      "source_ids": [
+        "aiec-section-12.3"
+      ],
+      "aliases": [
+        "Doanh nghiệp là kênh truyền dẫn từ chính sách đến năng suất"
+      ],
+      "status": "approved",
+      "heading_alias": "Doanh nghiệp là kênh truyền dẫn từ chính sách đến năng suất"
+    },
+    {
+      "id": "aiec-qa-section-12.4",
+      "chapter": 12,
+      "region_id": "aiec-ch12",
+      "primary_source_id": "aiec-section-12.4",
+      "question": "Doanh nghiệp nhỏ và vừa cần điều kiện gì để áp dụng AI?",
+      "answer": "Sách dẫn bốn nhóm điều kiện gồm kết nối, dữ liệu và tính toán, kỹ năng, cùng tài chính. Chính sách cần tập trung vào những điều kiện còn thiếu ở nhóm doanh nghiệp mục tiêu.",
+      "source_ids": [
+        "aiec-section-12.4"
+      ],
+      "aliases": [
+        "Chính sách đưa AI đến số đông doanh nghiệp"
+      ],
+      "status": "approved",
+      "heading_alias": "Chính sách đưa AI đến số đông doanh nghiệp"
+    },
+    {
+      "id": "aiec-qa-section-13.1",
+      "chapter": 13,
+      "region_id": "aiec-ch13",
+      "primary_source_id": "aiec-section-13.1",
+      "question": "Sự phân hóa việc làm khác nhau ra sao giữa các nhóm?",
+      "answer": "AI chưa tạo ra làn sóng thất nghiệp hàng loạt mà thúc đẩy quá trình tái cấu trúc và phân hóa lao động quy mô lớn, thể hiện qua ba bằng chứng: (1) Thị trường tách thành hai làn — theo PwC, nhóm việc làm được AI “chuyên nghiệp hóa” tăng nhanh gấp đôi và có mức tăng lương cao hơn 42% so với nhóm “phổ thông hóa”; (2) Tác động không đều theo giới — ở các nước thu nhập cao, tỷ lệ việc làm của nữ thuộc nhóm phơi nhiễm cao nhất gần gấp ba của nam; (3) Người trẻ chịu tác động trước — dữ liệu bảng lương ở Mỹ (nghiên cứu Stanford) cho thấy việc làm của lao động 22–25 tuổi trong các nghề phơi nhiễm AI cao giảm tương đối khoảng 13% do doanh nghiệp giảm tuyển mới.",
+      "source_ids": [
+        "aiec-section-13.1"
+      ],
+      "aliases": [
+        "Thực tế việc làm và sự phân hóa",
+        "sự phân hóa việc làm khác nhau ra sao giữa các nhóm",
+        "thực tế việc làm và sự phân hóa",
+        "ba bằng chứng phân hóa lao động"
+      ],
+      "status": "approved",
+      "heading_alias": "Thực tế việc làm và sự phân hóa"
+    },
+    {
+      "id": "aiec-qa-section-13.2",
+      "chapter": 13,
+      "region_id": "aiec-ch13",
+      "primary_source_id": "aiec-section-13.2",
+      "question": "Việt Nam cần chuẩn bị gì trước giai đoạn chuyển đổi?",
+      "answer": "Cần nâng chất lượng nhân lực, năng lực công nghệ và khả năng biến tri thức thành năng suất. Kết quả phụ thuộc vào mức độ các thay đổi này đi vào sản xuất và công việc.",
+      "source_ids": [
+        "aiec-section-13.2"
+      ],
+      "aliases": [
+        "Việt Nam trước một giai đoạn chuyển đổi lớn"
+      ],
+      "status": "approved",
+      "heading_alias": "Việt Nam trước một giai đoạn chuyển đổi lớn"
+    },
+    {
+      "id": "aiec-qa-section-13.3",
+      "chapter": 13,
+      "region_id": "aiec-ch13",
+      "primary_source_id": "aiec-section-13.3",
+      "question": "Các chủ thể phối hợp phát triển AI theo hướng nào?",
+      "answer": "Cơ quan quản lý, địa phương, doanh nghiệp và cơ sở giáo dục, nghiên cứu phối hợp từ ứng dụng công nghệ sẵn có đến thích ứng với Việt Nam và làm chủ có chọn lọc.",
+      "source_ids": [
+        "aiec-section-13.3"
+      ],
+      "aliases": [
+        "Sự phối hợp giữa các chủ thể"
+      ],
+      "status": "approved",
+      "heading_alias": "Sự phối hợp giữa các chủ thể"
+    },
+    {
+      "id": "aiec-qa-section-13.4",
+      "chapter": 13,
+      "region_id": "aiec-ch13",
+      "primary_source_id": "aiec-section-13.4",
+      "question": "Điều gì có thể làm các lập luận của sách thay đổi?",
+      "answer": "Tác giả nêu các kịch bản cần theo dõi, trong đó có năng suất đến chậm hơn kỳ vọng. Các nhận định về cơ hội và đầu tư cần được cập nhật theo bằng chứng.",
+      "source_ids": [
+        "aiec-section-13.4"
+      ],
+      "aliases": [
+        "Điều gì có thể khiến lập luận này sai"
+      ],
+      "status": "approved",
+      "heading_alias": "Điều gì có thể khiến lập luận này sai"
+    },
+    {
+      "id": "aiec-qa-section-13.5",
+      "chapter": 13,
+      "region_id": "aiec-ch13",
+      "primary_source_id": "aiec-section-13.5",
+      "question": "Chương trình hành động hướng tới những nhóm nào?",
+      "answer": "Sách phân vai giữa Nhà nước, doanh nghiệp và người dân. Mỗi nhóm cần chọn việc cụ thể giúp chuyển cơ hội AI thành năng lực có thể sử dụng và đo lường.",
+      "source_ids": [
+        "aiec-section-13.5"
+      ],
+      "aliases": [
+        "Chương trình hành động: biến cơ hội thành năng lực",
+        "Chương trình hành động",
+        "biến cơ hội thành năng lực"
+      ],
+      "status": "approved",
+      "heading_alias": "Chương trình hành động: biến cơ hội thành năng lực"
+    },
+    {
+      "id": "aiec-qa-section-13.6",
+      "chapter": 13,
+      "region_id": "aiec-ch13",
+      "primary_source_id": "aiec-section-13.6",
+      "question": "Kết quả chuyển đổi AI được nhìn thấy qua những việc gì?",
+      "answer": "Kết quả thể hiện qua việc cụ thể như thủ tục ngắn hơn, nhà máy số hóa, kỹ năng mới được áp dụng hoặc khả năng tiếp cận hạ tầng tính toán được cải thiện.",
+      "source_ids": [
+        "aiec-section-13.6"
+      ],
+      "aliases": [
+        "Từ phân tích đến lựa chọn"
+      ],
+      "status": "approved",
+      "heading_alias": "Từ phân tích đến lựa chọn"
+    },
+    {
+      "id": "aiec-qa-section-A.1",
+      "chapter": null,
+      "region_id": "aiec-p287",
+      "primary_source_id": "aiec-section-A.1",
+      "question": "ARI địa phương được cấu trúc thế nào?",
+      "answer": "ARI địa phương gồm 8 trụ cột (mỗi trụ cột 3 tiêu chí, tổng trọng số 100%): (1) Năng lượng và năng lượng sạch – 15%; (2) Hạ tầng tính toán và AI – 12%; (3) Hạ tầng kết nối và hạ tầng số – 10%; (4) Nhân lực và hệ sinh thái nhân tài – 15%; (5) Dữ liệu và quản trị – 10%; (6) Vốn và hệ sinh thái khởi nghiệp – 11%; (7) Hạ tầng thông minh và khu công nghiệp thế hệ mới – 15%; (8) Hệ sinh thái kinh tế trí tuệ – 12%. Ba trụ cột có trọng số cao nhất (15%) là Năng lượng, Nhân lực và Khu công nghiệp.",
+      "source_ids": [
+        "aiec-section-A.1"
+      ],
+      "aliases": [
+        "Cấu trúc. ARI gồ m tá m trụ cộ t, mỗ i trụ cộ t ba tiê u chí . Trọ ng",
+        "cấu trúc ARI địa phương",
+        "8 trụ cột ARI địa phương",
+        "trọng số ARI địa phương",
+        "bảng A.1",
+        "trụ cột nào của ARI có trọng số cao nhất"
+      ],
+      "status": "approved",
+      "heading_alias": "Cấu trúc. ARI gồ m tá m trụ cộ t, mỗ i trụ cộ t ba tiê u chí . Trọ ng"
+    },
+    {
+      "id": "aiec-qa-section-A.2",
+      "chapter": null,
+      "region_id": "aiec-p287",
+      "primary_source_id": "aiec-section-A.2",
+      "question": "Chấm một tiêu chí ARI địa phương thế nào?",
+      "answer": "Dùng thang 1–5 và đối chiếu mô tả mức điểm với bằng chứng triển khai. Một dự án chỉ mới công bố hoặc ký biên bản ghi nhớ chưa đủ để chấm mức 4.",
+      "source_ids": [
+        "aiec-section-A.2"
+      ],
+      "aliases": [
+        "Thang điểm. Mỗ i tiê u chí đượ c chấ m từ 1 đế n 5 theo mô tả"
+      ],
+      "status": "approved",
+      "heading_alias": "Thang điểm. Mỗ i tiê u chí đượ c chấ m từ 1 đế n 5 theo mô tả"
+    },
+    {
+      "id": "aiec-qa-section-A.3",
+      "chapter": null,
+      "region_id": "aiec-p287",
+      "primary_source_id": "aiec-section-A.3",
+      "question": "Công thức ARI địa phương là gì?",
+      "answer": "Điểm trụ cột là trung bình ba tiêu chí. Quy đổi mỗi điểm trụ cột bằng (điểm − 1) ÷ 4, nhân trọng số dạng tỷ lệ, cộng tám kết quả và nhân 100.",
+      "source_ids": [
+        "aiec-section-A.3"
+      ],
+      "aliases": [
+        "công thức ARI địa phương",
+        "cách tính ARI địa phương",
+        "Cách tính. Điể m mộ t trụ cộ t là trung bì nh điể m ba tiê u chí ."
+      ],
+      "status": "approved",
+      "heading_alias": "Cách tính. Điể m mộ t trụ cộ t là trung bì nh điể m ba tiê u chí ."
+    },
+    {
+      "id": "aiec-qa-section-A.4",
+      "chapter": null,
+      "region_id": "aiec-p287",
+      "primary_source_id": "aiec-section-A.4",
+      "question": "Một trụ cột ARI dưới 2 điểm ảnh hưởng xếp hạng thế nào?",
+      "answer": "Địa phương được xếp tối đa ở mức đang hình thành. Khi báo cáo, cần kèm điểm tổng, trụ cột thấp nhất và điều kiện chặn nếu có.",
+      "source_ids": [
+        "aiec-section-A.4"
+      ],
+      "aliases": [
+        "quy tắc chặn ARI địa phương",
+        "ARI dưới 2 điểm",
+        "Cách đọc. Dướ i 40 điể m: khở i đầ u. Từ 40 đế n dướ i 60: đang",
+        "Cách đọc. Dướ i 40 điể m",
+        "khở i đầ u. Từ 40 đế n dướ i 60"
+      ],
+      "status": "approved",
+      "heading_alias": "Cách đọc. Dướ i 40 điể m: khở i đầ u. Từ 40 đế n dướ i 60: đang"
+    },
+    {
+      "id": "aiec-qa-section-A.5",
+      "chapter": null,
+      "region_id": "aiec-p287",
+      "primary_source_id": "aiec-section-A.5",
+      "question": "Ai tham gia chấm ARI địa phương?",
+      "answer": "Nhóm chấm cần ít nhất năm người. Phụ lục hướng dẫn phối hợp nhiều góc nhìn và dùng bằng chứng để đối chiếu điểm chấm.",
+      "source_ids": [
+        "aiec-section-A.5"
+      ],
+      "aliases": [
+        "Quy trình chấm. Nhó m chấ m gồ m í t nhấ t nă m ngườ i từ í t nhấ t"
+      ],
+      "status": "approved",
+      "heading_alias": "Quy trình chấm. Nhó m chấ m gồ m í t nhấ t nă m ngườ i từ í t nhấ t"
+    },
+    {
+      "id": "aiec-qa-section-A.6",
+      "chapter": null,
+      "region_id": "aiec-p287",
+      "primary_source_id": "aiec-section-A.6",
+      "question": "Địa phương có thể điều chỉnh trọng số ARI không?",
+      "answer": "Có thể điều chỉnh trọng số theo loại dự án mục tiêu. Khi báo cáo kết quả, phải công bố bộ trọng số đã dùng để người đọc hiểu và đối chiếu.",
+      "source_ids": [
+        "aiec-section-A.6"
+      ],
+      "aliases": [
+        "Giới hạn. Trọ ng số có thể điề u chỉ nh theo loạ i dự á n mà đị a"
+      ],
+      "status": "approved",
+      "heading_alias": "Giới hạn. Trọ ng số có thể điề u chỉ nh theo loạ i dự á n mà đị a"
+    },
+    {
+      "id": "aiec-qa-section-B.1",
+      "chapter": null,
+      "region_id": "aiec-p292",
+      "primary_source_id": "aiec-section-B.1",
+      "question": "Trong ARI-IP, cấu phần nào có trọng số cao nhất?",
+      "answer": "ARI-IP (Chỉ số sẵn sàng AI của khu công nghiệp — Phụ lục B, Bảng B.1) gồm 6 cấu phần với tổng trọng số 100%: (1) Hạ tầng thông minh (điện công suất lớn, cáp quang đa tuyến) – 25% (trọng số cao nhất vì là điều kiện chặn đầu tiên); (2) Hạ tầng xanh (điện tái tạo DPPA, nước tuần hoàn, kế toán carbon) – 20%; (3) Nhân lực chất lượng cao – 15%; (4) Hệ sinh thái kinh doanh – 15%; (5) Dịch vụ hỗ trợ một cửa – 15%; (6) Tiện ích sống cho chuyên gia – 10%.",
+      "source_ids": [
+        "aiec-section-B.1"
+      ],
+      "aliases": [
+        "Cấu trúc và trọng số. Hạ tầ ng thô ng minh có trọ ng số cao nhấ t",
+        "cấu trúc và trọng số ARI-IP",
+        "6 cấu phần ARI-IP",
+        "sáu cấu phần khu công nghiệp thế hệ mới",
+        "bảng B.1",
+        "trong ARI-IP cấu phần nào có trọng số cao nhất"
+      ],
+      "status": "approved",
+      "heading_alias": "Cấu trúc và trọng số. Hạ tầ ng thô ng minh có trọ ng số cao nhấ t"
+    },
+    {
+      "id": "aiec-qa-section-B.2",
+      "chapter": null,
+      "region_id": "aiec-p292",
+      "primary_source_id": "aiec-section-B.2",
+      "question": "ARI-IP dùng thang điểm nào?",
+      "answer": "Mỗi tiêu chí được chấm từ 1 đến 5 theo mô tả. Các điểm được tổng hợp theo trọng số và quy đổi về thang 100, với các mức đọc tương ứng ARI.",
+      "source_ids": [
+        "aiec-section-B.2"
+      ],
+      "aliases": [
+        "Thang điểm và cách tính. Mỗ i tiê u chí chấ m từ 1 đế n 5 theo"
+      ],
+      "status": "approved",
+      "heading_alias": "Thang điểm và cách tính. Mỗ i tiê u chí chấ m từ 1 đế n 5 theo"
+    },
+    {
+      "id": "aiec-qa-section-B.3",
+      "chapter": null,
+      "region_id": "aiec-p292",
+      "primary_source_id": "aiec-section-B.3",
+      "question": "Khi nào khu công nghiệp chưa phù hợp với một loại dự án dù điểm ARI-IP cao?",
+      "answer": "Nếu một cấu phần bắt buộc của loại dự án đó dưới 3 điểm, khu chưa phù hợp với loại dự án ấy. Bảng B.2 chỉ ra các cấu phần bắt buộc theo nhóm dự án.",
+      "source_ids": [
+        "aiec-section-B.3"
+      ],
+      "aliases": [
+        "ngưỡng chặn ARI-IP",
+        "ARI-IP dưới 3 điểm",
+        "Mức đòi hỏi theo loại dự án. Cù ng mộ t điể m tổ ng có thể phù"
+      ],
+      "status": "approved",
+      "heading_alias": "Mức đòi hỏi theo loại dự án. Cù ng mộ t điể m tổ ng có thể phù"
+    },
+    {
+      "id": "aiec-qa-section-B.4",
+      "chapter": null,
+      "region_id": "aiec-p292",
+      "primary_source_id": "aiec-section-B.4",
+      "question": "Vì sao nên dùng ARI-IP cùng điểm chất lượng dự án?",
+      "answer": "ARI-IP đo mức sẵn sàng của khu. Điểm chất lượng xem giá trị và khả năng thực hiện của dự án. Dùng cả hai để đối chiếu khả năng của khu với yêu cầu và lợi ích của dự án.",
+      "source_ids": [
+        "aiec-section-B.4"
+      ],
+      "aliases": [
+        "Dùng cùng chấm điểm chất lượng dự án. ARI-IP đo khu cô ng"
+      ],
+      "status": "approved",
+      "heading_alias": "Dùng cùng chấm điểm chất lượng dự án. ARI-IP đo khu cô ng"
+    },
+    {
+      "id": "aiec-qa-section-B.5",
+      "chapter": null,
+      "region_id": "aiec-p292",
+      "primary_source_id": "aiec-section-B.5",
+      "question": "Giới hạn của ARI-IP là gì?",
+      "answer": "Các ngưỡng là giá trị tham khảo, cần cập nhật khi công nghệ và nhu cầu dự án thay đổi. Quyết định đầu tư cần thêm thẩm định kỹ thuật.",
+      "source_ids": [
+        "aiec-section-B.5"
+      ],
+      "aliases": [
+        "Giới hạn. Cá c ngưỡ ng trong phụ lụ c là giá trị tham khả o, cầ n"
+      ],
+      "status": "approved",
+      "heading_alias": "Giới hạn. Cá c ngưỡ ng trong phụ lụ c là giá trị tham khả o, cầ n"
+    },
+    {
+      "id": "aiec-qa-p5",
+      "chapter": null,
+      "region_id": "aiec-p5",
+      "primary_source_id": "aiec-p5",
+      "question": "Lời mở đầu dùng hình ảnh hecta và megawatt để nói điều gì?",
+      "answer": "Lời mở đầu sách Nền Kinh tế Trí tuệ (AI Economy — tác giả Trần Tấn Sỹ) đặt ra luận đề trung tâm: AI không chỉ là một công cụ phần mềm mà đang trở thành yếu tố sản xuất mới và hạ tầng chiến lược của quốc gia ('tập trung ở tầng xây, phân tán ở tầng dùng'). Cuốn sách cung cấp bản đồ phân tích dòng vốn, chuỗi cung ứng bán dẫn – năng lượng, chiến lược của các cường quốc và lộ trình 8 trụ cột để Việt Nam nắm bắt cửa sổ cơ hội đến năm 2035.",
+      "source_ids": [
+        "aiec-p5"
+      ],
+      "aliases": [
+        "Lời mở đầu",
+        "lời mở đầu AI Economy",
+        "luận đề cuốn sách Nền Kinh tế Trí tuệ",
+        "tác giả Trần Tấn Sỹ",
+        "tập trung ở tầng xây phân tán ở tầng dùng"
+      ],
+      "status": "approved"
+    },
+    {
+      "id": "aiec-qa-p295",
+      "chapter": null,
+      "region_id": "aiec-p295",
+      "primary_source_id": "aiec-p295",
+      "question": "Tìm thuật ngữ kinh tế và công nghệ AI ở đâu?",
+      "answer": "Phụ lục C giải thích các thuật ngữ theo thứ tự chúng xuất hiện trong sách. Thuật ngữ quản trị và vận hành doanh nghiệp có thể tra thêm trong AI First Business.",
+      "source_ids": [
+        "aiec-p295"
+      ],
+      "aliases": [
+        "Phụ lục C · Bảng thuật ngữ"
+      ],
+      "status": "approved"
+    },
+    {
+      "id": "aiec-qa-p303",
+      "chapter": null,
+      "region_id": "aiec-p303",
+      "primary_source_id": "aiec-p303",
+      "question": "Tài liệu tham khảo của AI Economy nằm ở đâu?",
+      "answer": "Danh mục chọn lọc bắt đầu ở trang 303. Khi cần kiểm tra một nhận định cụ thể, xem thêm chú thích của chương và nguồn ghi dưới hình hoặc bảng liên quan.",
+      "source_ids": [
+        "aiec-p303"
+      ],
+      "aliases": [
+        "Tài liệu tham khảo chọn lọc"
+      ],
+      "status": "approved"
+    },
+    {
+      "id": "aiec-qa-extra-01",
+      "chapter": 13,
+      "question": "AI sẽ ảnh hưởng đến công việc của người lao động như thế nào?",
+      "answer": "AI không gây thất nghiệp hàng loạt ngay lập tức mà tạo ra cuộc tái cấu trúc và phân hóa lao động sâu rộng: IMF ước tính khoảng 40% việc làm toàn cầu phơi nhiễm với AI (khoảng 60% ở các nền kinh tế phát triển); WEF dự báo đến năm 2030 có khoảng 39% kỹ năng cốt lõi thay đổi, 59/100 lao động cần đào tạo lại, khoảng 92 triệu việc làm mất đi và 170 triệu việc làm mới hình thành (tăng ròng khoảng 78 triệu). Tại Việt Nam (53,5 triệu người trong lực lượng lao động, 63,1% việc làm phi chính thức, chỉ 29,2% có bằng cấp hoặc chứng chỉ), tác động diễn ra qua ba xu hướng rõ rệt: (1) Các tác vụ lặp lại (lắp ráp đơn giản, kiểm tra theo mẫu, nhập liệu, xử lý chứng từ, hành chính cơ bản) bị tự động hóa nhanh; (2) Người trẻ mới vào nghề chịu tác động sớm nhất (nghiên cứu của Stanford cho thấy lao động 22–25 tuổi ở các nghề phơi nhiễm AI cao giảm việc làm tương đối khoảng 13% do doanh nghiệp tuyển ít người mới hơn); (3) Thị trường tách thành hai làn — theo PwC, nhóm việc làm được AI “chuyên nghiệp hóa” tăng nhanh gấp đôi và có mức tăng lương cao hơn 42% so với nhóm “phổ thông hóa”, đòi hỏi người lao động chuyển sang kỹ năng vận hành công nghệ, xử lý ngoại lệ, tư duy phản biện và giải quyết vấn đề liên ngành.",
+      "source_ids": [
+        "aiec-section-10.1",
+        "aiec-section-10.5",
+        "aiec-section-13.1"
+      ],
+      "aliases": [
+        "AI sẽ ảnh hưởng đến công việc của người lao động như thế nào",
+        "AI ảnh hưởng đến việc làm của người lao động ra sao",
+        "tác động của AI đến công việc người lao động",
+        "AI có lấy mất việc của người lao động không"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-13.1",
+      "region_id": "aiec-ch13"
+    },
+    {
+      "id": "aiec-qa-extra-02",
+      "chapter": 2,
+      "question": "Vì sao các nước đang đổ tiền xây trung tâm dữ liệu nhiều vậy?",
+      "answer": "Các quốc gia và tập đoàn đổ vốn lớn xây dựng trung tâm dữ liệu vì trong nền kinh tế mới, trí tuệ trở thành một yếu tố sản xuất trực tiếp và phải được sản xuất công nghiệp trong các “nhà máy trí tuệ” (trung tâm dữ liệu AI) — cơ sở biến bốn đầu vào (điện năng, chip bán dẫn, dữ liệu và kỹ sư) qua hai dây chuyền huấn luyện và suy luận thành đầu ra là token và năng lực giải quyết vấn đề. Hạ tầng tính toán trong nước là điều kiện tiên quyết của nền kinh tế AI, giúp giảm độ trễ, giữ dữ liệu chiến lược và bảo đảm chủ quyền AI để quốc gia không phụ thuộc hoàn toàn vào các nền tảng nước ngoài.",
+      "source_ids": [
+        "aiec-section-2.2",
+        "aiec-section-2.5",
+        "aiec-section-3.4"
+      ],
+      "aliases": [
+        "vì sao các nước đang đổ tiền xây trung tâm dữ liệu nhiều vậy",
+        "tại sao các quốc gia đầu tư mạnh vào trung tâm dữ liệu AI",
+        "vì sao thế giới đổ tiền xây trung tâm dữ liệu",
+        "tại sao phải xây trung tâm dữ liệu AI"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-2.2",
+      "region_id": "aiec-ch02"
+    },
+    {
+      "id": "aiec-qa-extra-03",
+      "chapter": 8,
+      "question": "Việt Nam có đang bị tụt lại trong cuộc đua AI không?",
+      "answer": "Có, về thứ hạng tương đối — Việt Nam tụt từ hạng 53 (2022) xuống 64/170 (2024) theo UNCTAD. Nhưng đây là tụt hạng tương đối vì các nước khác tiến nhanh hơn, không có nghĩa năng lực Việt Nam giảm đi. Điểm yếu nhất là Kỹ năng (hạng 120) và Hạ tầng số (hạng 81); điểm mạnh là Tài chính (hạng 15) và Công nghiệp (hạng 23).",
+      "source_ids": [
+        "aiec-section-8.1"
+      ],
+      "aliases": [
+        "Việt Nam có đang bị tụt lại trong cuộc đua AI không",
+        "Việt Nam có bị tụt hậu về AI không",
+        "Việt Nam có tụt hạng AI không",
+        "thứ hạng AI của Việt Nam tăng hay giảm"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-8.1",
+      "region_id": "aiec-ch08"
+    },
+    {
+      "id": "aiec-qa-eval-03",
+      "chapter": 1,
+      "question": "Nền kinh tế AI (AI Economy) tác động ra sao đến cơ cấu thị trường lao động và năng suất toàn cầu?",
+      "answer": "Trong Nền kinh tế Trí tuệ, AI biến trí tuệ thành yếu tố sản xuất mới và tạo cú sốc năng suất vĩ mô theo Đường cong chữ J (giai đoạn đầu cần thời gian tích lũy hạ tầng, dữ liệu và tái thiết kế quy trình trước khi năng suất bứt phá). Trên thị trường lao động, AI không gây thất nghiệp đồng loạt ngay lập tức mà tạo ra sự phân hóa sâu sắc: các tác vụ nhận thức lặp lại (nhập liệu, hành chính, bước đầu thang nghề nghiệp của người trẻ 22–25 tuổi) bị tự động hóa mạnh, trong khi nhóm lao động làm chủ AI, tư duy phản biện và điều phối liên ngành có năng suất và mức tăng lương cao hơn hẳn (cao hơn tới 42% theo dữ liệu PwC dẫn trong sách).",
+      "source_ids": [
+        "aiec-section-1.4"
+      ],
+      "aliases": [
+        "nền kinh tế AI tác động ra sao đến cơ cấu thị trường lao động và năng suất toàn cầu",
+        "tác động của kinh tế AI đến thị trường lao động và năng suất"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-1.4",
+      "region_id": "aiec-ch01"
+    },
+    {
+      "id": "aiec-qa-eval-05",
+      "chapter": 12,
+      "question": "Làm sao biết đầu tư AI thực sự tạo ra giá trị và giúp doanh nghiệp kiếm thêm tiền trong nền kinh tế AI?",
+      "answer": "Việc chỉ mua tài khoản AI không tự động sinh lời. Đầu tư AI chỉ thực sự giúp doanh nghiệp kiếm thêm tiền khi đo lường được qua 2 lớp giá trị: (1) Hiệu quả tài chính trực tiếp (giảm chi phí đơn vị trên mỗi tác vụ, rút ngắn thời gian chu trình, tăng doanh thu/tỷ lệ chuyển đổi); và (2) Tích lũy các yếu tố bổ trợ (dữ liệu sạch độc quyền, quy trình chuẩn hóa và kỹ năng nhân sự) để vượt qua phần đáy Đường cong chữ J.",
+      "source_ids": [
+        "aiec-section-12.1"
+      ],
+      "aliases": [
+        "làm sao biết đầu tư AI có thực sự giúp công ty kiếm thêm tiền không",
+        "khoảng cách giữa dùng AI và tạo ra giá trị kinh tế"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-12.1",
+      "region_id": "aiec-ch12"
+    },
+    {
+      "id": "aiec-qa-eval-13",
+      "chapter": 1,
+      "question": "Trong nền kinh tế trí tuệ, AI giúp doanh nghiệp tạo lợi thế cạnh tranh lâu dài như thế nào?",
+      "answer": "Khi công cụ AI ngày càng rẻ và phổ cập (giá suy luận giảm nhanh theo Mục 2.4), lợi thế cạnh tranh lâu dài không nằm ở việc mua mô hình đắt tiền mà nằm ở 'Yếu tố bổ trợ' (Complementarities): khả năng tích lũy dữ liệu độc quyền gắn với ngữ cảnh ngành, tái cấu trúc quy trình vận hành và nâng cấp kỹ năng đội ngũ để biến năng lực tính toán thành năng suất thực tế.",
+      "source_ids": [
+        "aiec-section-1.3"
+      ],
+      "aliases": [
+        "AI có thể giúp doanh nghiệp tạo lợi thế cạnh tranh lâu dài như thế nào",
+        "ba đặc điểm quyết định ai hưởng lợi từ AI"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-1.3",
+      "region_id": "aiec-ch01"
+    },
+    {
+      "id": "aiec-qa-eval-16",
+      "chapter": 2,
+      "question": "Sự trỗi dậy của nền kinh tế AI tạo ra những mô hình kinh doanh mới nào cho doanh nghiệp cung cấp dịch vụ B2B?",
+      "answer": "Trong nền kinh tế AI, sản phẩm của 'nhà máy trí tuệ' chuyển từ token thô sang năng lực giải quyết công việc trọn gói, mở ra 4 mô hình kinh doanh B2B AI-Native nổi bật: (1) Nền tảng Năng suất (cung cấp công cụ AI chuyên biệt theo ngành); (2) Chợ Tác nhân AI / Dịch vụ dưới dạng phần mềm (cung cấp đội ngũ Agent thực thi quy trình và thu phí theo kết quả đầu ra thay vì theo giờ công); (3) Trí tuệ Dữ liệu (thương mại hóa dữ liệu và ngữ cảnh chuyên ngành độc quyền); (4) Sản xuất Tăng cường AI (tối ưu hóa chuỗi cung ứng và sản xuất thông minh).",
+      "source_ids": [
+        "aiec-section-2.8"
+      ],
+      "aliases": [
+        "sự trỗi dậy của nền kinh tế AI sẽ tạo ra những mô hình kinh doanh mới nào cho các doanh nghiệp cung cấp dịch vụ B2B",
+        "mô hình kinh doanh mới cho doanh nghiệp B2B"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-2.8",
+      "region_id": "aiec-ch02"
+    },
+    {
+      "id": "aiec-qa-eval-19",
+      "chapter": 2,
+      "question": "Trong nền kinh tế AI, tài sản vô hình nào của doanh nghiệp sẽ trở nên đắt giá nhất và quyết định định giá công ty?",
+      "answer": "Khi năng lực tính toán và mô hình AI nền tảng có thể thuê qua đám mây, tài sản vô hình đắt giá nhất quyết định vị thế và định giá của doanh nghiệp là Dữ liệu độc quyền gắn với ngữ cảnh chuyên ngành (Proprietary Domain Data), cùng với quy trình vận hành đã được tái thiết kế để tích hợp tác nhân AI và đội ngũ nhân sự có khả năng điều phối hệ thống trí tuệ.",
+      "source_ids": [
+        "aiec-section-2.5"
+      ],
+      "aliases": [
+        "trong nền kinh tế AI tài sản vô hình nào của doanh nghiệp sẽ trở nên đắt giá nhất",
+        "quyết định định giá của công ty"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-2.5",
+      "region_id": "aiec-ch02"
+    },
+    {
+      "id": "aiec-qa-eval-22",
+      "chapter": 12,
+      "question": "Trong nền kinh tế AI (AI Economy), các doanh nghiệp vừa và nhỏ (SME) có lợi thế cạnh tranh gì khi đối đầu các tập đoàn lớn?",
+      "answer": "Các tập đoàn lớn thống trị tầng xây dựng hạ tầng nhưng SME lại có lợi thế lớn ở tầng ứng dụng: tốc độ ra quyết định nhanh, bộ máy linh hoạt không bị trói buộc bởi hệ thống công nghệ cũ (legacy) và sự am hiểu sâu sắc thị trường ngách/ngữ cảnh địa phương. SME nên tận dụng bằng cách thuê hạ tầng/công cụ AI sẵn có với chi phí suy luận đang giảm mạnh để tự động hóa quy trình và cá nhân hóa dịch vụ trong ngách của mình.",
+      "source_ids": [
+        "aiec-section-12.2"
+      ],
+      "aliases": [
+        "trong nền kinh tế AI các doanh nghiệp vừa và nhỏ SME có lợi thế cạnh tranh gì",
+        "SME đối đầu với các tập đoàn lớn"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-12.2",
+      "region_id": "aiec-ch12"
+    },
+    {
+      "id": "aiec-qa-eval-30a",
+      "chapter": 12,
+      "question": "Nền kinh tế AI thay đổi cách thức cạnh tranh giữa các công ty như thế nào?",
+      "answer": "Nền kinh tế AI dịch chuyển trục cạnh tranh từ lợi thế quy mô lao động giá rẻ sang tốc độ chuyển hóa trí tuệ nhân tạo thành năng suất vận hành. Khoảng cách phân hóa mở rộng rất nhanh giữa nhóm doanh nghiệp đi trước (tái thiết kế quy trình, chuẩn hóa dữ liệu và dùng AI để tạo ra sản phẩm/dịch vụ mới với chi phí biên thấp) và nhóm doanh nghiệp chỉ dùng AI rời rạc hoặc đứng ngoài cuộc.",
+      "source_ids": [
+        "aiec-section-12.2"
+      ],
+      "aliases": [
+        "nền kinh tế AI thay đổi cách thức cạnh tranh giữa các công ty như thế nào",
+        "thay đổi cách thức cạnh tranh giữa các công ty"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-12.2",
+      "region_id": "aiec-ch12"
+    },
+    {
+      "id": "aiec-qa-eval-30b",
+      "chapter": 12,
+      "question": "Trong bối cảnh cạnh tranh của nền kinh tế AI, các doanh nghiệp địa phương quy mô nhỏ có cửa thắng các tập đoàn đa quốc gia không?",
+      "answer": "Hoàn toàn có cơ hội thắng ở tầng ứng dụng và thị trường ngách. Sách chỉ rõ luận đề 'Tập trung ở tầng xây, phân tán ở tầng dùng': doanh nghiệp địa phương quy mô nhỏ không cần đua hàng tỷ USD xây mô hình nền tảng với các tập đoàn đa quốc gia, mà có thể tận dụng chi phí suy luận AI ngày càng rẻ kết hợp dữ liệu ngôn ngữ, văn hóa, quy định và mạng lưới khách hàng bản địa để giải quyết bài toán ngách nhanh và sát thực tế hơn tập đoàn lớn.",
+      "source_ids": [
+        "aiec-section-12.4"
+      ],
+      "aliases": [
+        "trong bối cảnh đó các doanh nghiệp địa phương quy mô nhỏ có cửa thắng các tập đoàn đa quốc gia không",
+        "doanh nghiệp địa phương quy mô nhỏ có cửa thắng tập đoàn đa quốc gia"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-12.4",
+      "region_id": "aiec-ch12"
+    },
+    {
+      "id": "aiec-qa-eval-33a",
+      "chapter": 2,
+      "question": "Theo phân tích kinh tế học AI, AI giúp giảm chi phí vận hành cho doanh nghiệp ở những khoản mục nào?",
+      "answer": "AI giúp doanh nghiệp cắt giảm chi phí vận hành mạnh nhất ở 4 khoản mục: (1) Chi phí xử lý thông tin, hành chính, chứng từ và báo cáo lặp lại; (2) Chi phí giao tiếp, chăm sóc khách hàng và tư vấn tuyến đầu; (3) Chi phí hao hụt, kiểm định chất lượng (KCS) và dự báo tồn kho trong sản xuất – logistics; (4) Chi phí tra cứu, phân tích dữ liệu phục vụ ra quyết định.",
+      "source_ids": [
+        "aiec-section-2.8"
+      ],
+      "aliases": [
+        "AI giúp giảm chi phí vận hành cho doanh nghiệp ở những khoản mục nào",
+        "năm cơ chế tạo ra giá trị kinh tế"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-2.8",
+      "region_id": "aiec-ch02"
+    },
+    {
+      "id": "aiec-qa-eval-33b",
+      "chapter": 9,
+      "question": "Khoản mục giảm chi phí xử lý thông tin và chứng từ lặp lại thường giúp tiết kiệm ở bộ phận nào rõ rệt nhất?",
+      "answer": "Khoản mục đầu tiên (tự động hóa xử lý chứng từ, nhập liệu, đối soát dữ liệu và trả lời truy vấn theo quy tắc) mang lại mức tiết kiệm thời gian và chi phí rõ rệt nhất ở bộ phận Tài chính – Kế toán, Hành chính – Nhân sự và bộ phận Dịch vụ khách hàng / Vận hành nghiệp vụ văn phòng.",
+      "source_ids": [
+        "aiec-section-9.5"
+      ],
+      "aliases": [
+        "khoản mục đầu tiên mà bạn vừa liệt kê thường giúp tiết kiệm được ở bộ phận nào rõ rệt nhất",
+        "tiết kiệm ở bộ phận nào rõ rệt nhất"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-9.5",
+      "region_id": "aiec-ch09"
+    },
+    {
+      "id": "aiec-qa-eval-36a",
+      "chapter": 10,
+      "question": "Các kỹ năng mềm nào sẽ lên ngôi trong nền kinh tế AI?",
+      "answer": "Các kỹ năng mềm lên ngôi trong nền kinh tế AI gồm: (1) Tư duy phản biện (Critical Thinking) và khả năng kiểm chứng, đánh giá chất lượng đầu ra của AI; (2) Khả năng giải quyết vấn đề phức tạp liên ngành và ra quyết định chiến lược trong điều kiện bất định; (3) Sự thấu cảm, giao tiếp sâu sắc, đàm phán và kết nối giữa người với người; (4) Đạo đức nghề nghiệp và khả năng học lại (reskilling) liên tục.",
+      "source_ids": [
+        "aiec-section-10.6"
+      ],
+      "aliases": [
+        "các kỹ năng mềm nào sẽ lên ngôi trong nền kinh tế AI",
+        "những nghề khó bị thay thế nhất khi giá trị nằm ở con người"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-10.6",
+      "region_id": "aiec-ch10"
+    },
+    {
+      "id": "aiec-qa-eval-36b",
+      "chapter": 10,
+      "question": "Làm sao thiết kế một buổi workshop nội bộ kéo dài 2 tiếng để rèn luyện kỹ năng tư duy phản biện cùng AI cho nhân viên?",
+      "answer": "Để rèn luyện kỹ năng quan trọng nhất là Tư duy phản biện và làm việc cùng AI như một 'đồng nghiệp', buổi workshop 2 tiếng có thể thiết kế theo 3 chặng thực hành: (1) Phút 0–30 (Nhận thức): Phân tích các tình huống thực tế mà AI tạo sinh đưa ra thông tin sai lệch hoặc thiếu bối cảnh ngành để phá bỏ tâm lý tin tưởng mù quáng; (2) Phút 30–90 (Thực chiến theo cặp): Giao một bài toán chuyên môn thực tế, yêu cầu nhân viên dùng AI tạo phương án, sau đó bắt buộc phản biện, chỉ ra 3 điểm yếu và hiệu chỉnh lại bằng tri thức chuyên môn; (3) Phút 90–120 (Chuẩn hóa): Thống nhất bộ nguyên tắc kiểm chứng chéo trước khi sử dụng kết quả của AI trong công việc.",
+      "source_ids": [
+        "aiec-section-10.3"
+      ],
+      "aliases": [
+        "hãy thiết kế một buổi workshop nội bộ kéo dài 2 tiếng để rèn luyện kỹ năng quan trọng nhất trong số đó cho nhân viên",
+        "thiết kế buổi workshop nội bộ 2 tiếng"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-10.3",
+      "region_id": "aiec-ch10"
+    },
+    {
+      "id": "aiec-qa-eval-37a",
+      "chapter": 8,
+      "question": "Trong nền kinh tế AI, làm thế nào để bảo mật dữ liệu nội bộ khi cho nhân viên dùng các công cụ AI tạo sinh?",
+      "answer": "Theo Trụ cột 5 (Dữ liệu và quản trị) và Chương 12, để bảo mật dữ liệu khi ứng dụng AI tạo sinh, tổ chức cần: (1) Phân loại dữ liệu rõ ràng theo mức độ nhạy cảm và tuân thủ nghiêm Luật Bảo vệ dữ liệu cá nhân (tuyệt đối không đưa dữ liệu định danh khách hàng, bí mật kinh doanh lên công cụ AI công cộng miễn phí); (2) Cung cấp môi trường làm việc AI cấp doanh nghiệp có cam kết không dùng dữ liệu người dùng để huấn luyện mô hình; (3) Thiết lập quy chế quản trị dữ liệu và đào tạo nhận thức bảo mật cho nhân viên.",
+      "source_ids": [
+        "aiec-section-8.6"
+      ],
+      "aliases": [
+        "làm thế nào để bảo mật dữ liệu nội bộ khi cho nhân viên dùng các công cụ AI tạo sinh",
+        "bảo mật dữ liệu nội bộ khi dùng AI"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-8.6",
+      "region_id": "aiec-ch08"
+    },
+    {
+      "id": "aiec-qa-eval-37b",
+      "chapter": 8,
+      "question": "Nếu chỉ ban hành quy định bằng văn bản mà nhân viên vẫn lén copy dữ liệu khách hàng dán vào AI công cộng thì có biện pháp kỹ thuật nào chặn lại không?",
+      "answer": "Để ngăn chặn bằng kỹ thuật thay vì chỉ dựa vào văn bản quy định, doanh nghiệp cần triển khai các lớp kiểm soát hạ tầng: (1) Hệ thống chống thất thoát dữ liệu (DLP / AI Gateway) trên mạng doanh nghiệp để tự động phát hiện và chặn thao tác copy-paste dữ liệu nhạy cảm (số điện thoại, CCCD, danh sách khách hàng) lên các tên miền AI công cộng; (2) Cơ chế ẩn danh hóa / che dữ liệu nhạy cảm (Data Masking) tự động; (3) Phân quyền truy cập tối thiểu (chỉ cấp quyền xem từng bản ghi thay vì xuất toàn bộ danh sách) kèm nhật ký truy vết (Audit Log).",
+      "source_ids": [
+        "aiec-section-8.6"
+      ],
+      "aliases": [
+        "nếu chỉ ban hành quy định bằng văn bản như thế mà nhân viên vẫn lén copy dữ liệu khách hàng dán vào AI công cộng thì có biện pháp kỹ thuật nào chặn lại không",
+        "biện pháp kỹ thuật chặn nhân viên copy dữ liệu khách hàng vào AI"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-8.6",
+      "region_id": "aiec-ch08"
+    },
+    {
+      "id": "aiec-qa-eval-tc02",
+      "chapter": 7,
+      "question": "Lợi thế năng lượng tái tạo của Việt Nam là gì?",
+      "answer": "Lợi thế năng lượng tái tạo của Việt Nam gồm: hơn 3.200 km bờ biển rất thuận lợi cho điện gió ngoài khơi, cường độ bức xạ mặt trời cao và hệ thống thủy điện phát triển (Quy hoạch điện VIII điều chỉnh đặt mục tiêu 183–236 GW vào năm 2030, trong đó điện mặt trời 46–73 GW). Khi kết hợp với cơ chế mua bán điện trực tiếp (DPPA theo Nghị định 57/2025/NĐ-CP), đây là lợi thế chiến lược để cung cấp nguồn điện xanh, sạch cho các trung tâm dữ liệu AI và khu công nghiệp thế hệ mới của các tập đoàn toàn cầu.",
+      "source_ids": [
+        "aiec-section-7.4"
+      ],
+      "aliases": [
+        "lợi thế năng lượng tái tạo của Việt Nam là gì",
+        "tiềm năng năng lượng tái tạo của Việt Nam",
+        "lợi thế điện gió điện mặt trời Việt Nam cho AI"
+      ],
+      "status": "approved",
+      "primary_source_id": "aiec-section-7.4",
+      "region_id": "aiec-ch07"
+    }
+  ],
+  "source_file": "09-20261103_NKTTT_v13-7_BAN_CHOT_IN_HC.pdf"
+}

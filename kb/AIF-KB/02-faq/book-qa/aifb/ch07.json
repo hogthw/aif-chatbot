@@ -1,0 +1,464 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-ch07",
+    "kind": "chapter",
+    "chapter": 7,
+    "title": "AI Agent: đơn vị vận hành mới",
+    "start": 113,
+    "end": 132
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-007",
+      "chapter": 7,
+      "question": "Hồ Sơ Agent gồm những thành phần nào?",
+      "answer": "Để xây dựng một Tác nhân AI (như Agent tư vấn khách hàng), doanh nghiệp cần thiết lập Hồ Sơ Agent gồm 6 thành phần bắt buộc: (1) Vai trò (nhiệm vụ cụ thể); (2) Mục tiêu (KPI định lượng rõ ràng); (3) Tri thức (kho dữ liệu, chính sách bán hàng, FAQ xác thực được phép tra cứu); (4) Công cụ (CRM, API được cấp quyền gọi); (5) Mức tự chủ (4 bậc từ đề xuất đến tự thực thi); (6) Ranh giới an toàn (điểm dừng bắt buộc chuyển cho con người khi gặp ngoại lệ).",
+      "source_ids": [
+        "aifb-section-7.2"
+      ],
+      "aliases": [
+        "Hồ Sơ Agent",
+        "6 thành phần agent",
+        "sáu thành phần hồ sơ agent",
+        "làm một Agent chuyên tư vấn khách hàng cần chuẩn bị những gì",
+        "thiết lập AI Agent",
+        "Hồ Sơ Agent: sáu thành phần không thể thiếu",
+        "sáu thành phần không thể thiếu"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-7.2",
+      "region_id": "aifb-ch07"
+    },
+    {
+      "id": "aifb-qa-020",
+      "chapter": 7,
+      "question": "Bốn bậc tự chủ của Tác nhân AI là gì?",
+      "answer": "Chỉ đề xuất, chuẩn bị hành động, thực thi sau phê duyệt, và tự thực thi trong giới hạn đã kiểm chứng. Bậc được chọn theo rủi ro và bằng chứng vận hành.",
+      "source_ids": [
+        "aifb-section-7.3",
+        "aifb-section-7.6"
+      ],
+      "aliases": [
+        "bốn bậc tự chủ",
+        "4 bậc tự chủ",
+        "Mức tự chủ: khả năng làm được không đồng nghĩa được phép tự quyết",
+        "Mức tự chủ",
+        "khả năng làm được không đồng nghĩa được phép tự quyết"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-7.3",
+      "region_id": "aifb-ch07"
+    },
+    {
+      "id": "aifb-qa-section-7.1",
+      "chapter": 7,
+      "region_id": "aifb-ch07",
+      "primary_source_id": "aifb-section-7.1",
+      "question": "Điều khó khi giao việc cho Tác nhân AI là gì?",
+      "answer": "Doanh nghiệp cần diễn đạt rõ công việc, dữ liệu, quyền và ngoại lệ, rồi kiểm tra chúng bằng tình huống thật. Mục tiêu chung cần được chuyển thành giới hạn có thể thực thi.",
+      "source_ids": [
+        "aifb-section-7.1"
+      ],
+      "aliases": [
+        "Vì sao “biết AI nên làm gì” chưa từng là điều khó nhất"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Vì sao “biết AI nên làm gì” chưa từng là điều khó nhất"
+    },
+    {
+      "id": "aifb-qa-section-7.4",
+      "chapter": 7,
+      "region_id": "aifb-ch07",
+      "primary_source_id": "aifb-section-7.4",
+      "question": "Ranh giới an toàn của tác nhân cần ghi gì?",
+      "answer": "Ghi dữ liệu và công cụ được dùng, hành động được phép, hạn mức, trường hợp phải dừng và người nhận ngoại lệ. Cơ chế kiểm soát cần thực thi được các giới hạn này.",
+      "source_ids": [
+        "aifb-section-7.4"
+      ],
+      "aliases": [
+        "Ranh giới an toàn: mắt xích nhỏ nhất của hệ thống quản trị AI",
+        "Ranh giới an toàn",
+        "mắt xích nhỏ nhất của hệ thống quản trị AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Ranh giới an toàn: mắt xích nhỏ nhất của hệ thống quản trị AI"
+    },
+    {
+      "id": "aifb-qa-section-7.5",
+      "chapter": 7,
+      "region_id": "aifb-ch07",
+      "primary_source_id": "aifb-section-7.5",
+      "question": "Bảy bước triển khai một Tác nhân AI là gì?",
+      "answer": "Xác định vai trò, xác định mục tiêu, chuẩn bị dữ liệu, kết nối công cụ, thiết lập ranh giới, thiết kế lịch vận hành, rồi đo lường và cải tiến. Bước cuối tạo vòng phản hồi để cập nhật dữ liệu và ranh giới.",
+      "source_ids": [
+        "aifb-section-7.5"
+      ],
+      "aliases": [
+        "Bảy bước triển khai, không phải một cú bấm nút"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Bảy bước triển khai, không phải một cú bấm nút"
+    },
+    {
+      "id": "aifb-qa-section-7.6",
+      "chapter": 7,
+      "region_id": "aifb-ch07",
+      "primary_source_id": "aifb-section-7.6",
+      "question": "Khi nào nên tăng quyền tự chủ cho tác nhân?",
+      "answer": "Khi bằng chứng từ thử nghiệm và vận hành cho thấy tác nhân ổn định trong tình huống thường gặp, nhận biết ngoại lệ và tuân thủ hạn mức. Mở quyền theo phạm vi đã kiểm chứng.",
+      "source_ids": [
+        "aifb-section-7.6"
+      ],
+      "aliases": [
+        "Quyền tự chủ phải được chứng minh, không mặc định theo khả năng"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Quyền tự chủ phải được chứng minh, không mặc định theo khả năng"
+    },
+    {
+      "id": "aifb-qa-section-7.7",
+      "chapter": 7,
+      "region_id": "aifb-ch07",
+      "primary_source_id": "aifb-section-7.7",
+      "question": "Hồ Sơ Agent được dùng như bản mô tả công việc ra sao?",
+      "answer": "Hồ sơ ghi vai trò, mục tiêu và quyền của từng tác nhân trong Sơ Đồ Công Việc. Nhờ vậy tổ chức biết tác nhân phụ trách việc gì và ai quản lý điểm giao với con người.",
+      "source_ids": [
+        "aifb-section-7.7"
+      ],
+      "aliases": [
+        "Hồ Sơ Agent là bản mô tả công việc cho từng ô trong mô hình tổ chức mới"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Hồ Sơ Agent là bản mô tả công việc cho từng ô trong mô hình tổ chức mới"
+    },
+    {
+      "id": "aifb-qa-section-7.8",
+      "chapter": 7,
+      "region_id": "aifb-ch07",
+      "primary_source_id": "aifb-section-7.8",
+      "question": "Trợ lý Báo giá AI được thiết kế lại theo hướng nào?",
+      "answer": "Tác nhân tra cứu và soạn dựa trên chính sách giá. Quy tắc quyết định trường hợp được xử lý trong hạn mức và trường hợp phải chuyển quản lý phê duyệt.",
+      "source_ids": [
+        "aifb-section-7.8"
+      ],
+      "aliases": [
+        "Trở lại câu chuyện mở đầu: Trợ lý Báo giá AI, phiên bản đã sửa",
+        "Trở lại câu chuyện mở đầu",
+        "Trợ lý Báo giá AI, phiên bản đã sửa"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Trở lại câu chuyện mở đầu: Trợ lý Báo giá AI, phiên bản đã sửa"
+    },
+    {
+      "id": "aifb-qa-section-7.9",
+      "chapter": 7,
+      "region_id": "aifb-ch07",
+      "primary_source_id": "aifb-section-7.9",
+      "question": "Chi phí vòng đời của Tác nhân AI gồm những gì?",
+      "answer": "Tổng chi phí vòng đời của một Tác nhân AI không chỉ có chi phí xây dựng, bản quyền và tích hợp ban đầu mà còn gồm 3 khoản chi phí vận hành liên tục thường lớn hơn: (1) Chi phí duy trì chất lượng dữ liệu nguồn (cập nhật bảng giá, chính sách, sản phẩm mới để tránh suy giảm chất lượng); (2) Chi phí giám sát và điều chỉnh định kỳ của nhân sự phụ trách; (3) Chi phí tái cấu hình, mở rộng khi quy trình hoặc mô hình kinh doanh thay đổi.",
+      "source_ids": [
+        "aifb-section-7.9"
+      ],
+      "aliases": [
+        "Chi phí vòng đời của một Tác nhân AI: đừng chỉ tính chi phí xây dựng ban đầu",
+        "Chi phí vòng đời của một Tác nhân AI",
+        "đừng chỉ tính chi phí xây dựng ban đầu",
+        "chi phí vòng đời của một Tác nhân AI",
+        "ba khoản chi phí vận hành liên tục của Agent",
+        "tổng chi phí vòng đời của AI gồm những gì",
+        "chi phí triển khai bao nhiêu"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Chi phí vòng đời của một Tác nhân AI: đừng chỉ tính chi phí xây dựng ban đầu"
+    },
+    {
+      "id": "aifb-qa-section-7.10",
+      "chapter": 7,
+      "region_id": "aifb-ch07",
+      "primary_source_id": "aifb-section-7.10",
+      "question": "Khi nào nên cho một Tác nhân AI nghỉ việc?",
+      "answer": "Rà lại khi tác nhân mất giá trị, thường xuyên gây lỗi hoặc phạm vi nghiệp vụ thay đổi. Có thể thu hồi quyền, thay thế hoặc ngừng hệ thống theo quyết định của chủ sở hữu.",
+      "source_ids": [
+        "aifb-section-7.10"
+      ],
+      "aliases": [
+        "Khi nào một Tác nhân AI nên bị “cho nghỉ việc”"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Khi nào một Tác nhân AI nên bị “cho nghỉ việc”"
+    },
+    {
+      "id": "aifb-qa-section-7.11",
+      "chapter": 7,
+      "region_id": "aifb-ch07",
+      "primary_source_id": "aifb-section-7.11",
+      "question": "Giám sát nhiều Tác nhân AI cần thông tin gì?",
+      "answer": "Cần danh mục tác nhân và chủ sở hữu, quyền và phụ thuộc giữa các hệ thống, tình trạng vận hành, chi phí và lịch sử sự cố. Nhờ đó tổ chức biết tác nhân nào cần điều chỉnh hoặc dừng.",
+      "source_ids": [
+        "aifb-section-7.11"
+      ],
+      "aliases": [
+        "Khi một doanh nghiệp có nhiều Tác nhân AI: bài toán giám sát tổng thể",
+        "Khi một doanh nghiệp có nhiều Tác nhân AI",
+        "bài toán giám sát tổng thể"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Khi một doanh nghiệp có nhiều Tác nhân AI: bài toán giám sát tổng thể"
+    },
+    {
+      "id": "aifb-qa-extra-01",
+      "chapter": 7,
+      "question": "Một doanh nghiệp muốn triển khai Agent tư vấn khách hàng ở mức Adapt, cần áp dụng những khung nào theo đúng thứ tự?",
+      "answer": "Theo thứ tự: (1) Bộ lọc ba điều kiện và sáu tiêu chí quản trị để xác nhận đủ năng lực Adapt; (2) điền Hồ Sơ Agent sáu thành phần (vai trò, mục tiêu, tri thức, công cụ, mức tự chủ, ranh giới an toàn); (3) triển khai theo bảy bước, từ xác định vai trò đến đo lường-cải tiến; (4) áp sáu khóa an toàn trước khi mở rộng quyền; (5) nâng mức tự chủ dần theo bằng chứng vận hành.",
+      "source_ids": [
+        "aifb-section-2.4",
+        "aifb-section-2.5",
+        "aifb-section-7.2",
+        "aifb-section-7.5",
+        "aifb-section-5.6",
+        "aifb-section-7.6"
+      ],
+      "aliases": [
+        "triển khai Agent tư vấn khách hàng ở mức Adapt cần áp dụng những khung nào theo đúng thứ tự",
+        "triển khai Agent ở mức Adapt cần áp dụng những khung nào",
+        "thứ tự áp dụng các khung khi triển khai Agent",
+        "áp dụng những khung nào theo đúng thứ tự",
+        "triển khai Agent tư vấn khách hàng ở mức Adapt"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-7.2",
+      "region_id": "aifb-ch07"
+    },
+    {
+      "id": "aifb-qa-extra-04",
+      "chapter": 7,
+      "question": "Hồ Sơ Agent, AI Lifecycle Card và Sơ Đồ Công Việc khác nhau như thế nào trong quản trị và vận hành AI?",
+      "answer": "Ba công cụ quản lý ở ba góc độ bổ trợ nhau: (1) AI Lifecycle Card (11 trường) là hồ sơ quản trị rủi ro và vòng đời kỹ thuật – pháp lý của một hệ thống AI; (2) Hồ Sơ Agent (6 thành phần) là bản mô tả công việc số cho một Tác nhân AI cụ thể (vai trò, mục tiêu, tri thức, công cụ, mức tự chủ, ranh giới an toàn); (3) Sơ Đồ Công Việc (Work Chart) là bản đồ quy trình phân vai cụ thể bước nào do con người làm, bước nào do Tác nhân AI thực hiện và điểm bàn giao kiểm duyệt theo bốn mẫu hình cộng tác.",
+      "source_ids": [
+        "aifb-section-6.6",
+        "aifb-section-7.2",
+        "aifb-section-8.2"
+      ],
+      "aliases": [
+        "phân biệt Hồ Sơ Agent AI Lifecycle Card và Sơ Đồ Công Việc",
+        "Hồ Sơ Agent khác gì AI Lifecycle Card",
+        "Hồ Sơ Agent và Work Chart phối hợp thế nào"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-7.2",
+      "region_id": "aifb-ch07"
+    },
+    {
+      "id": "aifb-qa-eval-11",
+      "chapter": 7,
+      "question": "Có nên để AI tự quyết định giá bán hoặc mức chiết khấu cho khách hàng không?",
+      "answer": "Tuyệt đối không để AI tự ý quyết định hoặc cam kết giá bán, chiết khấu ngoài khung chính sách chuẩn. Theo bài học 'Trợ lý Báo giá AI', AI chỉ nên vận hành ở bậc Chuẩn bị hành động (soạn bản nháp báo giá dựa trên bảng giá xác thực và hạn mức vận hành). Mọi mức giá đặc biệt, ưu đãi ngoại lệ hoặc hợp đồng giá trị lớn bắt buộc kích hoạt Ranh giới an toàn để chuyển cho con người phê duyệt trước khi gửi khách.",
+      "source_ids": [
+        "aifb-section-7.8"
+      ],
+      "aliases": [
+        "có nên để AI tự quyết định giá bán cho khách không",
+        "AI tự gửi báo giá hoặc ký hợp đồng",
+        "trợ lý báo giá AI phiên bản đã sửa"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-7.8",
+      "region_id": "aifb-ch07"
+    }
+  ],
+  "sources": {
+    "aifb-section-7.1": {
+      "title": "Vì sao “biết AI nên làm gì” chưa từng là điều khó nhất",
+      "kind": "section",
+      "number": "7.1",
+      "page": 114,
+      "end_page": 115,
+      "parent_id": "aifb-ch07"
+    },
+    "aifb-section-7.2": {
+      "title": "Hồ Sơ Agent: sáu thành phần không thể thiếu",
+      "kind": "section",
+      "number": "7.2",
+      "page": 115,
+      "end_page": 118,
+      "parent_id": "aifb-ch07"
+    },
+    "aifb-figure-7.1": {
+      "title": "Hồ Sơ Agent: sáu thành phần không thể thiếu",
+      "kind": "figure",
+      "number": "7.1",
+      "page": 117,
+      "end_page": 117,
+      "parent_id": "aifb-ch07"
+    },
+    "aifb-section-7.3": {
+      "title": "Mức tự chủ: khả năng làm được không đồng nghĩa được phép tự quyết",
+      "kind": "section",
+      "number": "7.3",
+      "page": 118,
+      "end_page": 120,
+      "parent_id": "aifb-ch07"
+    },
+    "aifb-figure-7.2": {
+      "title": "Bốn bậc tự chủ của Tác nhân AI",
+      "kind": "figure",
+      "number": "7.2",
+      "page": 119,
+      "end_page": 119,
+      "parent_id": "aifb-ch07"
+    },
+    "aifb-section-7.4": {
+      "title": "Ranh giới an toàn: mắt xích nhỏ nhất của hệ thống quản trị AI",
+      "kind": "section",
+      "number": "7.4",
+      "page": 120,
+      "end_page": 121,
+      "parent_id": "aifb-ch07"
+    },
+    "aifb-section-7.5": {
+      "title": "Bảy bước triển khai, không phải một cú bấm nút",
+      "kind": "section",
+      "number": "7.5",
+      "page": 121,
+      "end_page": 122,
+      "parent_id": "aifb-ch07"
+    },
+    "aifb-table-7.1": {
+      "title": "Bảy bước triển khai một Tác nhân AI",
+      "kind": "table",
+      "number": "7.1",
+      "page": 121,
+      "end_page": 121,
+      "parent_id": "aifb-ch07"
+    },
+    "aifb-section-7.6": {
+      "title": "Quyền tự chủ phải được chứng minh, không mặc định theo khả năng",
+      "kind": "section",
+      "number": "7.6",
+      "page": 122,
+      "end_page": 123,
+      "parent_id": "aifb-ch07"
+    },
+    "aifb-section-7.7": {
+      "title": "Hồ Sơ Agent là bản mô tả công việc cho từng ô trong mô hình tổ chức mới",
+      "kind": "section",
+      "number": "7.7",
+      "page": 123,
+      "end_page": 124,
+      "parent_id": "aifb-ch07"
+    },
+    "aifb-section-7.8": {
+      "title": "Trở lại câu chuyện mở đầu: Trợ lý Báo giá AI, phiên bản đã sửa",
+      "kind": "section",
+      "number": "7.8",
+      "page": 124,
+      "end_page": 126,
+      "parent_id": "aifb-ch07"
+    },
+    "aifb-section-7.9": {
+      "title": "Chi phí vòng đời của một Tác nhân AI: đừng chỉ tính chi phí xây dựng ban đầu",
+      "kind": "section",
+      "number": "7.9",
+      "page": 126,
+      "end_page": 129,
+      "parent_id": "aifb-ch07"
+    },
+    "aifb-figure-7.3": {
+      "title": "Vòng đời của một Tác nhân AI",
+      "kind": "figure",
+      "number": "7.3",
+      "page": 127,
+      "end_page": 127,
+      "parent_id": "aifb-ch07"
+    },
+    "aifb-section-7.10": {
+      "title": "Khi nào một Tác nhân AI nên bị “cho nghỉ việc”",
+      "kind": "section",
+      "number": "7.10",
+      "page": 129,
+      "end_page": 130,
+      "parent_id": "aifb-ch07"
+    },
+    "aifb-section-7.11": {
+      "title": "Khi một doanh nghiệp có nhiều Tác nhân AI: bài toán giám sát tổng thể",
+      "kind": "section",
+      "number": "7.11",
+      "page": 130,
+      "end_page": 132,
+      "parent_id": "aifb-ch07"
+    },
+    "aifb-ch07": {
+      "title": "AI Agent: đơn vị vận hành mới",
+      "kind": "chapter",
+      "number": null,
+      "page": 113,
+      "end_page": 132,
+      "parent_id": "aifb-ch07"
+    },
+    "aifb-section-2.4": {
+      "title": "Bộ lọc ba điều kiện triển khai AI",
+      "kind": "section",
+      "number": "2.4",
+      "page": 34,
+      "end_page": 36,
+      "parent_id": "aifb-ch02"
+    },
+    "aifb-section-2.5": {
+      "title": "Kiểm tra năng lực quản trị trước khi mở rộng AI",
+      "kind": "section",
+      "number": "2.5",
+      "page": 36,
+      "end_page": 37,
+      "parent_id": "aifb-ch02"
+    },
+    "aifb-section-5.6": {
+      "title": "Sáu khóa an toàn bắt buộc cho mọi Tác nhân AI",
+      "kind": "section",
+      "number": "5.6",
+      "page": 91,
+      "end_page": 94,
+      "parent_id": "aifb-ch05"
+    },
+    "aifb-section-6.6": {
+      "title": "AI Lifecycle Card: thẻ theo dõi vòng đời cho mỗi hệ thống AI",
+      "kind": "section",
+      "number": "6.6",
+      "page": 104,
+      "end_page": 105,
+      "parent_id": "aifb-ch06"
+    },
+    "aifb-section-8.2": {
+      "title": "“Sơ Đồ Công Việc”: bản đồ tổ chức mới",
+      "kind": "section",
+      "number": "8.2",
+      "page": 138,
+      "end_page": 141,
+      "parent_id": "aifb-ch08"
+    }
+  },
+  "print_pages": {
+    "113": "aifb-ch07",
+    "114": "aifb-ch07",
+    "115": "aifb-ch07",
+    "116": "aifb-ch07",
+    "117": "aifb-ch07",
+    "118": "aifb-ch07",
+    "119": "aifb-ch07",
+    "120": "aifb-ch07",
+    "121": "aifb-ch07",
+    "122": "aifb-ch07",
+    "123": "aifb-ch07",
+    "124": "aifb-ch07",
+    "125": "aifb-ch07",
+    "126": "aifb-ch07",
+    "127": "aifb-ch07",
+    "128": "aifb-ch07",
+    "129": "aifb-ch07",
+    "130": "aifb-ch07",
+    "131": "aifb-ch07",
+    "132": "aifb-ch07"
+  }
+}

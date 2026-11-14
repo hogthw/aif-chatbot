@@ -1,0 +1,43 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-p215",
+    "kind": "back_or_front_matter",
+    "title": "Lời kết",
+    "start": 215,
+    "end": 216
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-p215",
+      "chapter": null,
+      "region_id": "aifb-p215",
+      "primary_source_id": "aifb-p215",
+      "question": "Lời kết AI First Business nhấn mạnh điều gì?",
+      "answer": "Lời kết đưa trọng tâm về quyết định thực tế của lãnh đạo. Doanh nghiệp cần chọn việc có giá trị, tổ chức lại cách làm và đo kết quả để tích lũy năng lực qua mỗi chu kỳ.",
+      "source_ids": [
+        "aifb-p215"
+      ],
+      "aliases": [
+        "Lời kết"
+      ],
+      "status": "draft_for_editorial_review"
+    }
+  ],
+  "sources": {
+    "aifb-p215": {
+      "title": "Lời kết",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 215,
+      "end_page": 216,
+      "parent_id": "aifb-p215"
+    }
+  },
+  "print_pages": {
+    "215": "aifb-p215",
+    "216": "aifb-p215"
+  }
+}

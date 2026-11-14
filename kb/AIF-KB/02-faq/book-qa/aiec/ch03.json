@@ -1,0 +1,328 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-ch03",
+    "kind": "chapter",
+    "chapter": 3,
+    "title": "Dòng vốn AI đang chảy về đâu?",
+    "start": 67,
+    "end": 88
+  },
+  "cards": [
+    {
+      "id": "aiec-qa-003",
+      "chapter": 3,
+      "question": "Vì sao điện ảnh hưởng đến dòng vốn AI?",
+      "answer": "Điện năng trở thành giới hạn vật lý lớn nhất của trí tuệ nhân tạo vì một trung tâm dữ liệu AI tiêu thụ điện gấp nhiều lần trung tâm dữ liệu truyền thống và đòi hỏi nguồn điện ổn định 24/7. Sách chỉ ra bài toán 'Hai đồng hồ lệch nhịp': xây một trung tâm dữ liệu AI chỉ mất 18–24 tháng, nhưng quy hoạch và xây mới nhà máy điện cùng lưới truyền tải cao thế phải mất từ 5–10 năm.",
+      "source_ids": [
+        "aiec-section-3.8"
+      ],
+      "aliases": [
+        "dòng vốn AI",
+        "điện giới hạn trí tuệ",
+        "Điện là giới hạn của trí tuệ",
+        "điện là giới hạn của trí tuệ",
+        "hai đồng hồ lệch nhịp",
+        "vì sao điện là giới hạn của AI",
+        "vì sao điện là giới hạn của trí tuệ"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-3.8",
+      "region_id": "aiec-ch03"
+    },
+    {
+      "id": "aiec-qa-section-3.1",
+      "chapter": 3,
+      "region_id": "aiec-ch03",
+      "primary_source_id": "aiec-section-3.1",
+      "question": "Vì sao sách theo dõi dòng vốn trước khi đánh giá kinh tế AI?",
+      "answer": "Nơi nhà đầu tư cam kết vốn cho chip, điện và hạ tầng cho biết họ kỳ vọng nút thắt hoặc lợi thế dài hạn sẽ nằm ở đâu. Đây là tín hiệu về kỳ vọng, cần đối chiếu với năng lực triển khai thực tế.",
+      "source_ids": [
+        "aiec-section-3.1"
+      ],
+      "aliases": [
+        "Dòng vốn luôn đi trước nền kinh tế"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Dòng vốn luôn đi trước nền kinh tế"
+    },
+    {
+      "id": "aiec-qa-section-3.2",
+      "chapter": 3,
+      "region_id": "aiec-ch03",
+      "primary_source_id": "aiec-section-3.2",
+      "question": "Sáu điểm đến của dòng vốn AI trong sách là gì?",
+      "answer": "Hạ tầng điện toán quy mô lớn, trung tâm dữ liệu thế hệ mới, bán dẫn và chuỗi cung ứng GPU, dịch vụ cho thuê năng lực tính toán, tổ hợp công nghệ tập trung, và quỹ chuyên đầu tư hạ tầng AI.",
+      "source_ids": [
+        "aiec-section-3.2"
+      ],
+      "aliases": [
+        "Sáu điểm đến chiến lược của dòng vốn AI toàn cầu"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Sáu điểm đến chiến lược của dòng vốn AI toàn cầu"
+    },
+    {
+      "id": "aiec-qa-section-3.3",
+      "chapter": 3,
+      "region_id": "aiec-ch03",
+      "primary_source_id": "aiec-section-3.3",
+      "question": "Các tập đoàn điện toán đám mây tác động gì đến dòng vốn AI?",
+      "answer": "Họ vừa cung cấp hạ tầng vừa trực tiếp đặt hàng phần cứng, xây công suất tính toán và tích hợp mô hình vào hệ sinh thái dịch vụ. Quyết định của họ ảnh hưởng nhiều nhà cung cấp trong chuỗi.",
+      "source_ids": [
+        "aiec-section-3.3"
+      ],
+      "aliases": [
+        "Các tập đoàn điện toán đám mây lớn: những nhà",
+        "Các tập đoàn điện toán đám mây lớn",
+        "những nhà"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Các tập đoàn điện toán đám mây lớn: những nhà"
+    },
+    {
+      "id": "aiec-qa-section-3.4",
+      "chapter": 3,
+      "region_id": "aiec-ch03",
+      "primary_source_id": "aiec-section-3.4",
+      "question": "Chủ quyền AI là gì?",
+      "answer": "Chủ quyền AI là khả năng chủ động phát triển, vận hành và kiểm soát các thành phần quan trọng như hạ tầng, dữ liệu, mô hình, nhân lực và quản trị để phục vụ lợi ích quốc gia.",
+      "source_ids": [
+        "aiec-section-3.4"
+      ],
+      "aliases": [
+        "Chủ quyền AI: Khi AI trở thành khoản đầu tư chiến lược quốc gia",
+        "Chủ quyền AI",
+        "Khi AI trở thành khoản đầu tư chiến lược quốc gia"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Chủ quyền AI: Khi AI trở thành khoản đầu tư chiến lược quốc gia"
+    },
+    {
+      "id": "aiec-qa-section-3.5",
+      "chapter": 3,
+      "region_id": "aiec-ch03",
+      "primary_source_id": "aiec-section-3.5",
+      "question": "Có trung tâm dữ liệu trong nước đã đạt chủ quyền AI đến mức nào?",
+      "answer": "Sách phân biệt 3 cấp độ chủ quyền AI để các quốc gia tránh nhầm lẫn giữa việc 'có trung tâm dữ liệu đặt trên lãnh thổ' với 'làm chủ công nghệ': (1) Cấp độ 1 — Chủ quyền dữ liệu và hạ tầng lưu trữ tại chỗ (đảm bảo dữ liệu trọng yếu được quản lý theo luật nội địa); (2) Cấp độ 2 — Chủ quyền thích ứng và vận hành (làm chủ dữ liệu tiếng Việt, tinh chỉnh mô hình và ứng dụng phục vụ bài toán quốc gia); (3) Cấp độ 3 — Chủ quyền công nghệ lõi toàn chuỗi (tự chủ từ chip đến mô hình nền tảng).",
+      "source_ids": [
+        "aiec-section-3.5"
+      ],
+      "aliases": [
+        "Ba cấp độ chủ quyền AI: tránh nhầm lẫn giữa đặt trung tâm dữ liệu và làm chủ công nghệ",
+        "Ba cấp độ chủ quyền AI",
+        "tránh nhầm lẫn giữa đặt trung tâm dữ liệu và làm chủ công nghệ",
+        "ba cấp độ chủ quyền AI",
+        "3 cấp độ chủ quyền AI",
+        "chủ quyền AI là gì"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Ba cấp độ chủ quyền AI: tránh nhầm lẫn giữa đặt trung tâm dữ liệu và làm chủ công nghệ"
+    },
+    {
+      "id": "aiec-qa-section-3.6",
+      "chapter": 3,
+      "region_id": "aiec-ch03",
+      "primary_source_id": "aiec-section-3.6",
+      "question": "Vì sao đầu tư vào hạ tầng AI vẫn có thể thua lỗ?",
+      "answer": "Dự án có thể thiếu điện, chậm tiến độ, khó huy động vốn hoặc gặp cầu thấp hơn dự kiến. Sách dùng trường hợp Stargate để xem rủi ro triển khai có thể xuất hiện ngay cả khi dự án được công bố ở quy mô lớn.",
+      "source_ids": [
+        "aiec-section-3.6"
+      ],
+      "aliases": [
+        "Lợi nhuận tiềm năng và sáu rủi ro lớn của dòng vốn AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Lợi nhuận tiềm năng và sáu rủi ro lớn của dòng vốn AI"
+    },
+    {
+      "id": "aiec-qa-section-3.7",
+      "chapter": 3,
+      "region_id": "aiec-ch03",
+      "primary_source_id": "aiec-section-3.7",
+      "question": "Vì sao vốn AI tập trung vào tài sản nền tảng?",
+      "answer": "Điện, bán dẫn, kết nối và trung tâm dữ liệu cung cấp công suất cho nhiều lớp dịch vụ AI. Đầu tư vào chúng là cách đặt cược vào nhu cầu chung của chuỗi, với rủi ro về công suất và thời điểm đưa vào vận hành.",
+      "source_ids": [
+        "aiec-section-3.7"
+      ],
+      "aliases": [
+        "Phân tích dòng vốn và logic phân bổ trong kỷ nguyên trí tuệ"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Phân tích dòng vốn và logic phân bổ trong kỷ nguyên trí tuệ"
+    },
+    {
+      "id": "aiec-qa-section-3.8",
+      "chapter": 3,
+      "region_id": "aiec-ch03",
+      "primary_source_id": "aiec-section-3.8",
+      "question": "Vì sao điện là giới hạn của trí tuệ?",
+      "answer": "Điện năng trở thành giới hạn vật lý lớn nhất của mở rộng AI vì một dự án có thể huy động đủ vốn và đặt mua chip nhưng vẫn bị chặn nếu lưới điện không cấp đủ công suất ổn định 24/7. Sách chỉ ra bài toán 'Hai đồng hồ lệch nhịp': xây một trung tâm dữ liệu AI mất 18–24 tháng, trong khi quy hoạch và xây mới nguồn điện cùng lưới truyền tải cao thế phải mất 5–10 năm.",
+      "source_ids": [
+        "aiec-section-3.8"
+      ],
+      "aliases": [
+        "Điện là giới hạn của trí tuệ",
+        "vì sao điện là nút thắt mới của mở rộng AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Điện là giới hạn của trí tuệ"
+    }
+  ],
+  "sources": {
+    "aiec-section-3.1": {
+      "title": "Dòng vốn luôn đi trước nền kinh tế",
+      "kind": "section",
+      "number": "3.1",
+      "page": 67,
+      "end_page": 70,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-section-3.2": {
+      "title": "Sáu điểm đến chiến lược của dòng vốn AI toàn cầu",
+      "kind": "section",
+      "number": "3.2",
+      "page": 70,
+      "end_page": 71,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-figure-3.1": {
+      "title": "Dòng vốn AI: ai đầu tư vào tầng nào",
+      "kind": "figure",
+      "number": "3.1",
+      "page": 70,
+      "end_page": 70,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-section-3.3": {
+      "title": "Các tập đoàn điện toán đám mây lớn: những nhà",
+      "kind": "section",
+      "number": "3.3",
+      "page": 71,
+      "end_page": 74,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-figure-3.2": {
+      "title": "Chi tiêu vốn của bốn tập đoàn điện toán đám mây",
+      "kind": "figure",
+      "number": "3.2",
+      "page": 72,
+      "end_page": 72,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-section-3.4": {
+      "title": "Chủ quyền AI: Khi AI trở thành khoản đầu tư chiến lược quốc gia",
+      "kind": "section",
+      "number": "3.4",
+      "page": 74,
+      "end_page": 76,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-section-3.5": {
+      "title": "Ba cấp độ chủ quyền AI: tránh nhầm lẫn giữa đặt trung tâm dữ liệu và làm chủ công nghệ",
+      "kind": "section",
+      "number": "3.5",
+      "page": 76,
+      "end_page": 78,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-figure-3.3": {
+      "title": "Ba cấp độ chủ quyền AI",
+      "kind": "figure",
+      "number": "3.3",
+      "page": 76,
+      "end_page": 76,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-section-3.6": {
+      "title": "Lợi nhuận tiềm năng và sáu rủi ro lớn của dòng vốn AI",
+      "kind": "section",
+      "number": "3.6",
+      "page": 78,
+      "end_page": 80,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-figure-3.4": {
+      "title": "Sáu rủi ro của dòng vốn AI, xếp theo bản chất",
+      "kind": "figure",
+      "number": "3.4",
+      "page": 79,
+      "end_page": 79,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-section-3.7": {
+      "title": "Phân tích dòng vốn và logic phân bổ trong kỷ nguyên trí tuệ",
+      "kind": "section",
+      "number": "3.7",
+      "page": 80,
+      "end_page": 81,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-section-3.8": {
+      "title": "Điện là giới hạn của trí tuệ",
+      "kind": "section",
+      "number": "3.8",
+      "page": 81,
+      "end_page": 88,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-figure-3.5": {
+      "title": "Điện năng tiêu thụ của các trung tâm dữ liệu trên",
+      "kind": "figure",
+      "number": "3.5",
+      "page": 82,
+      "end_page": 82,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-figure-3.6": {
+      "title": "Hai đồng hồ lệch nhịp: xây trung tâm dữ liệu và xây",
+      "kind": "figure",
+      "number": "3.6",
+      "page": 83,
+      "end_page": 83,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-figure-3.7": {
+      "title": "Chuỗi ràng buộc vật lý: mắt xích yếu nhất quyết định",
+      "kind": "figure",
+      "number": "3.7",
+      "page": 84,
+      "end_page": 84,
+      "parent_id": "aiec-ch03"
+    },
+    "aiec-ch03": {
+      "title": "Dòng vốn AI đang chảy về đâu?",
+      "kind": "chapter",
+      "number": null,
+      "page": 67,
+      "end_page": 88,
+      "parent_id": "aiec-ch03"
+    }
+  },
+  "print_pages": {
+    "67": "aiec-ch03",
+    "68": "aiec-ch03",
+    "69": "aiec-ch03",
+    "70": "aiec-ch03",
+    "71": "aiec-ch03",
+    "72": "aiec-ch03",
+    "73": "aiec-ch03",
+    "74": "aiec-ch03",
+    "75": "aiec-ch03",
+    "76": "aiec-ch03",
+    "77": "aiec-ch03",
+    "78": "aiec-ch03",
+    "79": "aiec-ch03",
+    "80": "aiec-ch03",
+    "81": "aiec-ch03",
+    "82": "aiec-ch03",
+    "83": "aiec-ch03",
+    "84": "aiec-ch03",
+    "85": "aiec-ch03",
+    "86": "aiec-ch03",
+    "87": "aiec-ch03",
+    "88": "aiec-ch03"
+  }
+}

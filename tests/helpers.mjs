@@ -4,6 +4,9 @@ export class MemR2 {
   async put(key, bytes, opts) { this.m.set(key, { bytes: new Uint8Array(bytes), opts }); }
   async get(key) { const o = this.m.get(key); if (!o) return null; return { text: async () => new TextDecoder().decode(o.bytes), arrayBuffer: async () => o.bytes.buffer }; }
   async delete(key) { this.m.delete(key); }
+  async list({ prefix = "", limit = 1000 } = {}) {
+    return { objects: [...this.m.keys()].filter((key) => key.startsWith(prefix)).slice(0, limit).map((key) => ({ key })) };
+  }
   keys() { return [...this.m.keys()].sort(); }
 }
 export class MemKV {

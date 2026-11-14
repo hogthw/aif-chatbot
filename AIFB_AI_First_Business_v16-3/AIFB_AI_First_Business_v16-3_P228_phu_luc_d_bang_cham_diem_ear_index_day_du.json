@@ -1,0 +1,46 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-p228",
+    "kind": "back_or_front_matter",
+    "title": "Phụ lục D · Bảng chấm điểm EAR Index™ đầy đủ",
+    "start": 228,
+    "end": 232
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-p228",
+      "chapter": null,
+      "region_id": "aifb-p228",
+      "primary_source_id": "aifb-p228",
+      "question": "Phụ lục D hướng dẫn tổ chức chấm EAR Index™ thế nào?",
+      "answer": "Phát bảng cho từng người, khuyến nghị ít nhất sáu người tham gia, chấm độc lập trước khi thảo luận, rồi lấy điểm trung bình từng trụ cột để tính điểm tổng.",
+      "source_ids": [
+        "aifb-p228"
+      ],
+      "aliases": [
+        "Phụ lục D · Bảng chấm điểm EAR Index™ đầy đủ"
+      ],
+      "status": "draft_for_editorial_review"
+    }
+  ],
+  "sources": {
+    "aifb-p228": {
+      "title": "Phụ lục D · Bảng chấm điểm EAR Index™ đầy đủ",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 228,
+      "end_page": 232,
+      "parent_id": "aifb-p228"
+    }
+  },
+  "print_pages": {
+    "228": "aifb-p228",
+    "229": "aifb-p228",
+    "230": "aifb-p228",
+    "231": "aifb-p228",
+    "232": "aifb-p228"
+  }
+}

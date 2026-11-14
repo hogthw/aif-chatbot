@@ -1,0 +1,336 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-ch04",
+    "kind": "chapter",
+    "chapter": 4,
+    "title": "Đầu tư AI để sinh lợi: ROI hai tầng",
+    "start": 65,
+    "end": 82
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-004",
+      "chapter": 4,
+      "question": "ROI hai tầng là gì và nên đo tầng nào trước?",
+      "answer": "Để biết đầu tư AI có thực sự giúp công ty kiếm thêm tiền hay không, sách dùng khung ROI hai tầng: Tầng 1 là lợi ích tài chính trực tiếp đo được trong ngắn hạn (giảm chi phí vận hành, tiết kiệm giờ công thực tế được tái phân bổ, tăng tỷ lệ chuyển đổi/doanh thu). Tầng 2 là tài sản bổ trợ tích lũy dài hạn (dữ liệu sạch độc quyền, quy trình chuẩn hóa, kỹ năng đội ngũ) tạo lợi thế theo đường cong chữ J. Nguyên tắc: đo ROI Tầng 1 trước ở quy mô nhỏ (3–4 tuần) trước khi mở rộng.",
+      "source_ids": [
+        "aifb-section-4.4",
+        "aifb-figure-4.1"
+      ],
+      "aliases": [
+        "ROI hai tầng",
+        "đo tầng nào trước",
+        "lợi ích trực tiếp",
+        "tài sản bổ trợ",
+        "làm sao biết đầu tư AI giúp công ty kiếm thêm tiền",
+        "đo lường hiệu quả đầu tư AI",
+        "đường cong J",
+        "ROI hai tầng: lợi ích trực tiếp và tài sản bổ trợ",
+        "lợi ích trực tiếp và tài sản bổ trợ"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-4.4",
+      "region_id": "aifb-ch04"
+    },
+    {
+      "id": "aifb-qa-section-4.1",
+      "chapter": 4,
+      "region_id": "aifb-ch04",
+      "primary_source_id": "aifb-section-4.1",
+      "question": "ROI của AI khác ROI thiết bị thông thường ở đâu?",
+      "answer": "Chi phí AI biến đổi theo mức sử dụng và vòng đời vận hành. Lợi ích còn có thể đến từ tài sản tái sử dụng và chất lượng quyết định, nên cần theo dõi kết quả sau triển khai.",
+      "source_ids": [
+        "aifb-section-4.1"
+      ],
+      "aliases": [
+        "Vì sao ROI của AI không giống ROI của một chiếc máy photocopy"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Vì sao ROI của AI không giống ROI của một chiếc máy photocopy"
+    },
+    {
+      "id": "aifb-qa-section-4.2",
+      "chapter": 4,
+      "region_id": "aifb-ch04",
+      "primary_source_id": "aifb-section-4.2",
+      "question": "Vì sao giá mỗi lượt AI giảm mà hóa đơn tăng?",
+      "answer": "Nghịch lý chi phí suy luận (tương tự nghịch lý Jevons) xảy ra khi đơn giá mỗi triệu token giảm mạnh nhưng tổng hóa đơn AI của doanh nghiệp lại tăng vọt. Nguyên nhân là khi AI rẻ và tiện hơn, tần suất gọi mô hình tăng gấp nhiều lần, quy trình dùng chuỗi nhiều tác nhân gọi lặp nhiều bước và ngữ cảnh đầu vào, đầu ra dài hơn. Cần kiểm soát bằng kiến trúc phân tầng và hạn mức vận hành.",
+      "source_ids": [
+        "aifb-section-4.2"
+      ],
+      "aliases": [
+        "Nghịch lý chi phí suy luận: khi giá giảm mà hóa đơn vẫn tăng",
+        "Nghịch lý chi phí suy luận",
+        "khi giá giảm mà hóa đơn vẫn tăng",
+        "nghịch lý chi phí suy luận",
+        "giá giảm mà hóa đơn vẫn tăng",
+        "vì sao giá mỗi lượt AI giảm mà hóa đơn tăng",
+        "chi phí token tăng"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Nghịch lý chi phí suy luận: khi giá giảm mà hóa đơn vẫn tăng"
+    },
+    {
+      "id": "aifb-qa-section-4.3",
+      "chapter": 4,
+      "region_id": "aifb-ch04",
+      "primary_source_id": "aifb-section-4.3",
+      "question": "Kiến trúc phân tầng giúp giảm chi phí AI như thế nào?",
+      "answer": "Kiến trúc phân tầng giúp tối ưu chi phí và độ trễ bằng cách phân loại yêu cầu đầu vào: định tuyến 70–80% tác vụ đơn giản, lặp lại sang quy tắc cứng hoặc mô hình nhỏ, chi phí thấp; chỉ chuyển 20–30% tác vụ suy luận phức tạp hoặc rủi ro cao sang mô hình lớn, kết hợp bộ nhớ đệm và kiểm soát chất lượng.",
+      "source_ids": [
+        "aifb-section-4.3"
+      ],
+      "aliases": [
+        "Kiến trúc phân tầng: quyết định âm thầm nhưng có sức nặng lớn nhất",
+        "Kiến trúc phân tầng",
+        "quyết định âm thầm nhưng có sức nặng lớn nhất",
+        "kiến trúc phân tầng",
+        "model routing",
+        "giảm chi phí suy luận AI",
+        "định tuyến mô hình AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Kiến trúc phân tầng: quyết định âm thầm nhưng có sức nặng lớn nhất"
+    },
+    {
+      "id": "aifb-qa-section-4.4",
+      "chapter": 4,
+      "region_id": "aifb-ch04",
+      "primary_source_id": "aifb-section-4.4",
+      "question": "Hai tầng ROI nên đo theo thứ tự nào?",
+      "answer": "Đo lợi ích trực tiếp của dự án trước, như chi phí, thời gian hoặc doanh thu. Sau đó mới tính tài sản bổ trợ như dữ liệu và quy trình có thể giúp dự án sau triển khai tốt hơn.",
+      "source_ids": [
+        "aifb-section-4.4"
+      ],
+      "aliases": [
+        "ROI hai tầng: lợi ích trực tiếp và tài sản bổ trợ",
+        "ROI hai tầng",
+        "lợi ích trực tiếp và tài sản bổ trợ"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "ROI hai tầng: lợi ích trực tiếp và tài sản bổ trợ"
+    },
+    {
+      "id": "aifb-qa-section-4.5",
+      "chapter": 4,
+      "region_id": "aifb-ch04",
+      "primary_source_id": "aifb-section-4.5",
+      "question": "Chọn thuê ngoài hay tự xây AI dựa vào điều gì?",
+      "answer": "So sánh thời gian triển khai, tổng chi phí vòng đời, mức khác biệt chiến lược, dữ liệu, khả năng tích hợp và rủi ro phụ thuộc. Chọn theo bài toán và năng lực vận hành thực tế.",
+      "source_ids": [
+        "aifb-section-4.5"
+      ],
+      "aliases": [
+        "Thuê ngoài hay tự xây: bài toán không chỉ nằm ở tốc độ",
+        "Thuê ngoài hay tự xây",
+        "bài toán không chỉ nằm ở tốc độ"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Thuê ngoài hay tự xây: bài toán không chỉ nằm ở tốc độ"
+    },
+    {
+      "id": "aifb-qa-section-4.6",
+      "chapter": 4,
+      "region_id": "aifb-ch04",
+      "primary_source_id": "aifb-section-4.6",
+      "question": "Làm sao tránh dự án AI được duyệt rồi bị bỏ quên?",
+      "answer": "Giao một chủ sở hữu giá trị ở đơn vị nghiệp vụ hưởng lợi, ghi chỉ số ban đầu và rà kết quả theo các mốc 30, 90 và 180–360 ngày. Dùng bằng chứng để quyết định mở rộng, điều chỉnh, thu hẹp hoặc dừng.",
+      "source_ids": [
+        "aifb-section-4.6"
+      ],
+      "aliases": [
+        "Khắc phục căn bệnh “duyệt rồi bỏ quên”",
+        "Cách khắc phục duyệt rồi bỏ quên",
+        "duyệt rồi bỏ quên"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Khắc phục căn bệnh “duyệt rồi bỏ quên”"
+    },
+    {
+      "id": "aifb-qa-section-4.7",
+      "chapter": 4,
+      "region_id": "aifb-ch04",
+      "primary_source_id": "aifb-section-4.7",
+      "question": "Ba câu hỏi trước khi ký hợp đồng AI là gì?",
+      "answer": "Hỏi chi phí thực tế của một tác vụ hoàn chỉnh, hệ thống có phân tầng theo độ phức tạp hay không, và đã đáp ứng sáu tiêu chí gồm di chuyển, tích hợp, quyền dữ liệu, đổi mô hình, nhật ký kiểm toán và kế hoạch rút lui chưa.",
+      "source_ids": [
+        "aifb-section-4.7"
+      ],
+      "aliases": [
+        "Ba câu hỏi để hỏi trước khi ký bất kỳ hợp đồng AI nào"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Ba câu hỏi để hỏi trước khi ký bất kỳ hợp đồng AI nào"
+    },
+    {
+      "id": "aifb-qa-section-4.8",
+      "chapter": 4,
+      "region_id": "aifb-ch04",
+      "primary_source_id": "aifb-section-4.8",
+      "question": "Đo chất lượng quyết định khi dùng AI bằng cách nào?",
+      "answer": "Xem quyết định có chính xác, kịp thời và tạo kết quả tốt hơn không. Số tác vụ xử lý chỉ là chỉ số hoạt động, cần đối chiếu với kết quả kinh doanh.",
+      "source_ids": [
+        "aifb-section-4.8"
+      ],
+      "aliases": [
+        "Đo AI bằng chất lượng quyết định, không chỉ bằng khối lượng tác vụ"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Đo AI bằng chất lượng quyết định, không chỉ bằng khối lượng tác vụ"
+    },
+    {
+      "id": "aifb-qa-eval-20",
+      "chapter": 4,
+      "question": "Giữa tự xây mô hình AI riêng (In-house) và thuê giải pháp đóng gói sẵn (SaaS), doanh nghiệp 100 người nên chọn hướng nào?",
+      "answer": "Theo Ma trận Xây – Mua – Hợp tác và Mô hình 3A, doanh nghiệp quy mô khoảng 100 người nên ưu tiên Mua/Thuê giải pháp AI đóng gói sẵn (SaaS/API — nấc Adopt) cho 80–90% tác vụ phổ thông để triển khai nhanh, chi phí thấp và không gánh chi phí bảo trì hạ tầng. Khi đã chuẩn hóa dữ liệu nội bộ, doanh nghiệp tiến lên nấc Adapt (tích hợp sâu/hợp tác tùy biến trên dữ liệu riêng), và chỉ tự xây (Advance) ở cấu phần hẹp tạo lợi thế độc quyền khi đủ vốn và nhân lực kỹ thuật.",
+      "source_ids": [
+        "aifb-section-4.5"
+      ],
+      "aliases": [
+        "tự xây dựng mô hình AI riêng In-house và thuê giải pháp AI đóng gói sẵn SaaS",
+        "doanh nghiệp quy mô 100 người nên chọn hướng nào",
+        "ma trận quyết định xây mua hợp tác"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-4.5",
+      "region_id": "aifb-ch04"
+    },
+    {
+      "id": "aifb-qa-eval-33a",
+      "chapter": 4,
+      "question": "AI giúp giảm chi phí vận hành cho doanh nghiệp ở những khoản mục nào?",
+      "answer": "Theo khung ROI Tầng 1 và Bản đồ chuyển đổi 5 phòng ban, AI giúp giảm chi phí vận hành ở 4 khoản mục chính: (1) Chi phí xử lý tác vụ hành chính, nhập liệu, đối soát chứng từ và soạn thảo báo cáo lặp lại; (2) Chi phí chăm sóc khách hàng và phản hồi truy vấn tuyến đầu 24/7; (3) Chi phí sai hỏng, tồn kho và gián đoạn máy móc trong sản xuất – chuỗi cung ứng; (4) Chi phí sản xuất nội dung marketing và chuẩn bị báo giá bán hàng.",
+      "source_ids": [
+        "aifb-section-4.4"
+      ],
+      "aliases": [
+        "AI giúp giảm chi phí vận hành cho doanh nghiệp ở những khoản mục nào",
+        "giảm chi phí vận hành ở những khoản mục nào"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-4.4",
+      "region_id": "aifb-ch04"
+    }
+  ],
+  "sources": {
+    "aifb-section-4.1": {
+      "title": "Vì sao ROI của AI không giống ROI của một chiếc máy photocopy",
+      "kind": "section",
+      "number": "4.1",
+      "page": 67,
+      "end_page": 68,
+      "parent_id": "aifb-ch04"
+    },
+    "aifb-section-4.2": {
+      "title": "Nghịch lý chi phí suy luận: khi giá giảm mà hóa đơn vẫn tăng",
+      "kind": "section",
+      "number": "4.2",
+      "page": 68,
+      "end_page": 69,
+      "parent_id": "aifb-ch04"
+    },
+    "aifb-section-4.3": {
+      "title": "Kiến trúc phân tầng: quyết định âm thầm nhưng có sức nặng lớn nhất",
+      "kind": "section",
+      "number": "4.3",
+      "page": 69,
+      "end_page": 70,
+      "parent_id": "aifb-ch04"
+    },
+    "aifb-section-4.4": {
+      "title": "ROI hai tầng: lợi ích trực tiếp và tài sản bổ trợ",
+      "kind": "section",
+      "number": "4.4",
+      "page": 70,
+      "end_page": 74,
+      "parent_id": "aifb-ch04"
+    },
+    "aifb-figure-4.1": {
+      "title": "ROI hai tầng: lợi ích trực tiếp và tài sản bổ trợ",
+      "kind": "figure",
+      "number": "4.1",
+      "page": 70,
+      "end_page": 70,
+      "parent_id": "aifb-ch04"
+    },
+    "aifb-figure-4.2": {
+      "title": "Đường cong J của đầu tư AI: từ lợi ích trực tiếp đến tài sản",
+      "kind": "figure",
+      "number": "4.2",
+      "page": 73,
+      "end_page": 73,
+      "parent_id": "aifb-ch04"
+    },
+    "aifb-section-4.5": {
+      "title": "Thuê ngoài hay tự xây: bài toán không chỉ nằm ở tốc độ",
+      "kind": "section",
+      "number": "4.5",
+      "page": 74,
+      "end_page": 77,
+      "parent_id": "aifb-ch04"
+    },
+    "aifb-table-4.1": {
+      "title": "Ma trận quyết định Xây – Mua – Hợp tác",
+      "kind": "table",
+      "number": "4.1",
+      "page": 75,
+      "end_page": 75,
+      "parent_id": "aifb-ch04"
+    },
+    "aifb-section-4.6": {
+      "title": "Khắc phục căn bệnh “duyệt rồi bỏ quên”",
+      "kind": "section",
+      "number": "4.6",
+      "page": 77,
+      "end_page": 79,
+      "parent_id": "aifb-ch04"
+    },
+    "aifb-section-4.7": {
+      "title": "Ba câu hỏi để hỏi trước khi ký bất kỳ hợp đồng AI nào",
+      "kind": "section",
+      "number": "4.7",
+      "page": 79,
+      "end_page": 79,
+      "parent_id": "aifb-ch04"
+    },
+    "aifb-section-4.8": {
+      "title": "Đo AI bằng chất lượng quyết định, không chỉ bằng khối lượng tác vụ",
+      "kind": "section",
+      "number": "4.8",
+      "page": 79,
+      "end_page": 82,
+      "parent_id": "aifb-ch04"
+    },
+    "aifb-ch04": {
+      "title": "Đầu tư AI để sinh lợi: ROI hai tầng",
+      "kind": "chapter",
+      "number": null,
+      "page": 65,
+      "end_page": 82,
+      "parent_id": "aifb-ch04"
+    }
+  },
+  "print_pages": {
+    "65": "aifb-ch04",
+    "66": "aifb-ch04",
+    "67": "aifb-ch04",
+    "68": "aifb-ch04",
+    "69": "aifb-ch04",
+    "70": "aifb-ch04",
+    "71": "aifb-ch04",
+    "72": "aifb-ch04",
+    "73": "aifb-ch04",
+    "74": "aifb-ch04",
+    "75": "aifb-ch04",
+    "76": "aifb-ch04",
+    "77": "aifb-ch04",
+    "78": "aifb-ch04",
+    "79": "aifb-ch04",
+    "80": "aifb-ch04",
+    "81": "aifb-ch04",
+    "82": "aifb-ch04"
+  }
+}

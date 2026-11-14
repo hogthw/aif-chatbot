@@ -1,0 +1,414 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-ch03",
+    "kind": "chapter",
+    "chapter": 3,
+    "title": "Bốn mô hình kinh doanh AI-Native",
+    "start": 41,
+    "end": 62
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-003",
+      "chapter": 3,
+      "question": "Bốn mô hình kinh doanh AI-Native là gì?",
+      "answer": "Bốn mô hình kinh doanh AI-Native gồm: (1) Nền tảng Năng suất — cung cấp công cụ giúp khách hàng làm việc nhanh và hiệu quả hơn; (2) Chợ Tác nhân AI — cung cấp đội ngũ tác nhân số thực thi công việc và thu phí theo kết quả đầu ra; (3) Trí tuệ Dữ liệu — thương mại hóa tri thức từ dữ liệu độc quyền và ngữ cảnh chuyên ngành; (4) Sản xuất Tăng cường AI — cá nhân hóa ở quy mô lớn và tối ưu chuỗi cung ứng.",
+      "source_ids": [
+        "aifb-section-3.5"
+      ],
+      "aliases": [
+        "bốn mô hình AI-Native",
+        "4 mô hình kinh doanh AI",
+        "mô hình kinh doanh mới cho doanh nghiệp B2B",
+        "4 mô hình B2B AI-Native",
+        "chợ tác nhân AI",
+        "trí tuệ dữ liệu",
+        "Bốn mô hình kinh doanh AI-Native"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-3.5",
+      "region_id": "aifb-ch03"
+    },
+    {
+      "id": "aifb-qa-section-3.1",
+      "chapter": 3,
+      "region_id": "aifb-ch03",
+      "primary_source_id": "aifb-section-3.1",
+      "question": "Ví dụ hai công ty bán lẻ minh họa điều gì về AI?",
+      "answer": "Cùng tiếp cận công nghệ, doanh nghiệp có thể đạt kết quả khác nhau tùy cách gắn AI với dữ liệu, quyết định và quy trình tạo giá trị.",
+      "source_ids": [
+        "aifb-section-3.1"
+      ],
+      "aliases": [
+        "Hai công ty bán lẻ, cùng xuất phát điểm, hai số phận khác nhau"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Hai công ty bán lẻ, cùng xuất phát điểm, hai số phận khác nhau"
+    },
+    {
+      "id": "aifb-qa-section-3.2",
+      "chapter": 3,
+      "region_id": "aifb-ch03",
+      "primary_source_id": "aifb-section-3.2",
+      "question": "AI-Native nghĩa là gì trong mô hình kinh doanh?",
+      "answer": "AI-Native mô tả mô hình mà AI tham gia vào cơ chế cốt lõi tạo và cung cấp giá trị. Để nhận diện, xem sản phẩm và cách vận hành sẽ thay đổi thế nào nếu bỏ năng lực AI.",
+      "source_ids": [
+        "aifb-section-3.2"
+      ],
+      "aliases": [
+        "AI-Native là gì?"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "AI-Native là gì?"
+    },
+    {
+      "id": "aifb-qa-section-3.3",
+      "chapter": 3,
+      "region_id": "aifb-ch03",
+      "primary_source_id": "aifb-section-3.3",
+      "question": "Tác nhân AI khác công cụ hỏi đáp ở điểm nào?",
+      "answer": "Tác nhân được giao mục tiêu, có thể sử dụng tri thức và công cụ để thực hiện công việc trong phạm vi quyền hạn. Mức tự chủ và điểm chuyển cho con người cần được xác định rõ.",
+      "source_ids": [
+        "aifb-section-3.3"
+      ],
+      "aliases": [
+        "Tác nhân AI là gì, và vì sao doanh nghiệp cần nó"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "\"Tác nhân AI\" là gì, và vì sao doanh nghiệp cần nó"
+    },
+    {
+      "id": "aifb-qa-section-3.4",
+      "chapter": 3,
+      "region_id": "aifb-ch03",
+      "primary_source_id": "aifb-section-3.4",
+      "question": "Vì sao cần phân loại mô hình kinh doanh AI-Native?",
+      "answer": "Phân loại giúp xác định AI nằm ở đâu trong cách tạo giá trị, từ nâng năng suất đến cấu thành sản phẩm hoặc dịch vụ. Từ đó doanh nghiệp chọn năng lực cần đầu tư và chỉ số phù hợp.",
+      "source_ids": [
+        "aifb-section-3.4"
+      ],
+      "aliases": [
+        "Vì sao phải phân loại doanh nghiệp theo bốn mô hình"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Vì sao phải phân loại doanh nghiệp theo bốn mô hình"
+    },
+    {
+      "id": "aifb-qa-section-3.5",
+      "chapter": 3,
+      "region_id": "aifb-ch03",
+      "primary_source_id": "aifb-section-3.5",
+      "question": "Bốn mô hình AI-Native đặt AI ở đâu trong quá trình tạo giá trị?",
+      "answer": "Nền tảng Năng suất dùng AI để nâng năng lực làm việc. Chợ Tác nhân AI cung cấp tác nhân để hoàn thành việc. Trí tuệ Dữ liệu biến dữ liệu thành quyết định hoặc sản phẩm. Sản xuất Tăng cường AI đưa AI vào hệ thống sản xuất.",
+      "source_ids": [
+        "aifb-section-3.5"
+      ],
+      "aliases": [
+        "Bốn mô hình kinh doanh AI-Native"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Bốn mô hình kinh doanh AI-Native"
+    },
+    {
+      "id": "aifb-qa-section-3.6",
+      "chapter": 3,
+      "region_id": "aifb-ch03",
+      "primary_source_id": "aifb-section-3.6",
+      "question": "Khi thiết kế tương tác của Tác nhân AI cần xem điều gì?",
+      "answer": "Xác định tác nhân phối hợp với người, hệ thống và tác nhân khác thế nào. Mỗi điểm giao việc cần biết dữ liệu đi đâu, ai kiểm tra và ngoại lệ được chuyển cho ai.",
+      "source_ids": [
+        "aifb-section-3.6"
+      ],
+      "aliases": [
+        "Mô hình tương tác của Tác nhân AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Mô hình tương tác của Tác nhân AI"
+    },
+    {
+      "id": "aifb-qa-section-3.7",
+      "chapter": 3,
+      "region_id": "aifb-ch03",
+      "primary_source_id": "aifb-section-3.7",
+      "question": "Cách nhận diện doanh nghiệp đang vận hành theo mô hình AI nào?",
+      "answer": "Bắt đầu từ giá trị khách hàng nhận và cách doanh nghiệp tạo giá trị đó. Đối chiếu vai trò của AI, dữ liệu và sản xuất với các mô hình thay vì phân loại theo tên công cụ.",
+      "source_ids": [
+        "aifb-section-3.7"
+      ],
+      "aliases": [
+        "Công cụ thực hành: doanh nghiệp của bạn đang vận hành theo mô hình nào?",
+        "Công cụ thực hành",
+        "doanh nghiệp của bạn đang vận hành theo mô hình nào?"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Công cụ thực hành: doanh nghiệp của bạn đang vận hành theo mô hình nào?"
+    },
+    {
+      "id": "aifb-qa-section-3.8",
+      "chapter": 3,
+      "region_id": "aifb-ch03",
+      "primary_source_id": "aifb-section-3.8",
+      "question": "Doanh nghiệp nhỏ nên bắt đầu áp dụng AI-Native ở đâu?",
+      "answer": "Chọn một công việc có đầu ra rõ và dùng giải pháp phù hợp quy mô. Khi đã có bằng chứng về giá trị và năng lực vận hành, doanh nghiệp có thể mở rộng phạm vi.",
+      "source_ids": [
+        "aifb-section-3.8"
+      ],
+      "aliases": [
+        "Con đường triển khai cho doanh nghiệp nhỏ, vừa và siêu nhỏ"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Con đường triển khai cho doanh nghiệp nhỏ, vừa và siêu nhỏ"
+    },
+    {
+      "id": "aifb-qa-section-3.9",
+      "chapter": 3,
+      "region_id": "aifb-ch03",
+      "primary_source_id": "aifb-section-3.9",
+      "question": "Doanh nghiệp có phải cố định ở một mô hình AI-Native?",
+      "answer": "Mô hình là cách mô tả vai trò AI ở một thời điểm. Doanh nghiệp có thể kết hợp hoặc chuyển trọng tâm khi khách hàng, năng lực và cách tạo doanh thu thay đổi.",
+      "source_ids": [
+        "aifb-section-3.9"
+      ],
+      "aliases": [
+        "Bốn mô hình không phải điểm đến cố định"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Bốn mô hình không phải điểm đến cố định"
+    },
+    {
+      "id": "aifb-qa-section-3.10",
+      "chapter": 3,
+      "region_id": "aifb-ch03",
+      "primary_source_id": "aifb-section-3.10",
+      "question": "Ví dụ Chợ Tác nhân AI minh họa thay đổi gì trong dịch vụ?",
+      "answer": "Tác nhân AI có thể đảm nhận phần công việc được chuẩn hóa. Điều này giúp nhà cung cấp thiết kế gói dịch vụ và định giá theo đầu ra khách hàng nhận thay vì chỉ bán thời gian.",
+      "source_ids": [
+        "aifb-section-3.10"
+      ],
+      "aliases": [
+        "Ví dụ Việt Nam cho mô hình Chợ Tác nhân AI: từ dịch vụ theo giờ sang dịch vụ theo kết quả",
+        "Ví dụ Việt Nam cho mô hình Chợ Tác nhân AI",
+        "từ dịch vụ theo giờ sang dịch vụ theo kết quả"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Ví dụ Việt Nam cho mô hình Chợ Tác nhân AI: từ dịch vụ theo giờ sang dịch vụ theo kết quả"
+    },
+    {
+      "id": "aifb-qa-eval-01",
+      "chapter": 3,
+      "question": "Doanh nghiệp vừa và nhỏ (SME) nên bắt đầu chuyển đổi AI từ đâu để tối ưu chi phí và rủi ro?",
+      "answer": "Doanh nghiệp vừa và nhỏ (SME) nên bắt đầu bằng cách chọn 1 bài toán kinh doanh thực tế có quy trình lặp đi lặp lại và sẵn dữ liệu (như soạn báo giá, chăm sóc khách hàng, đối soát đơn hàng), áp dụng ở nấc Adopt (Ứng dụng) bằng các công cụ AI SaaS đóng gói sẵn để giảm chi phí đầu tư ban đầu. Triển khai thử nghiệm trong phạm vi hẹp (Internal AI Sandbox 3–4 tuần) để đo lường ROI Tầng 1 trực tiếp trước khi mở rộng sang nấc Adapt.",
+      "source_ids": [
+        "aifb-section-3.8"
+      ],
+      "aliases": [
+        "SME nên bắt đầu chuyển đổi AI từ đâu",
+        "bên mình muốn đưa AI vào công ty thì nên bắt đầu từ đâu",
+        "công ty nhỏ ngân sách hạn chế thì có nên làm AI không",
+        "bắt đầu chuyển đổi AI từ đâu để tối ưu chi phí",
+        "con đường triển khai cho doanh nghiệp nhỏ vừa và siêu nhỏ"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-3.8",
+      "region_id": "aifb-ch03"
+    },
+    {
+      "id": "aifb-qa-eval-19",
+      "chapter": 3,
+      "question": "Tài sản vô hình nào của doanh nghiệp trở nên đắt giá nhất và quyết định định giá trong kỷ nguyên AI?",
+      "answer": "Khi bản thân mô hình AI nền tảng dần trở thành hàng hóa phổ thông ai cũng thuê được, tài sản vô hình đắt giá nhất quyết định lợi thế và định giá doanh nghiệp là: (1) Dữ liệu độc quyền và Ngữ cảnh chuyên ngành (Proprietary Data & Domain Context) tích lũy qua vận hành thực tế; (2) Các quy trình công việc đã được tái thiết kế chuẩn hóa cho cộng tác Người – AI (Work Chart & Agentic Workflows); và (3) Năng lực quản trị, kỹ năng điều phối AI của đội ngũ (tài sản bổ trợ ROI Tầng 2).",
+      "source_ids": [
+        "aifb-section-3.5"
+      ],
+      "aliases": [
+        "tài sản vô hình nào của doanh nghiệp sẽ trở nên đắt giá nhất",
+        "quyết định định giá của công ty trong nền kinh tế AI",
+        "dữ liệu độc quyền và ngữ cảnh chuyên ngành"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-3.5",
+      "region_id": "aifb-ch03"
+    },
+    {
+      "id": "aifb-qa-eval-31a",
+      "chapter": 3,
+      "question": "Gợi ý lộ trình triển khai AI cho chuỗi 10 cửa hàng F&B như thế nào?",
+      "answer": "Với chuỗi 10 cửa hàng F&B (quy mô SME), lộ trình tối ưu theo Mô hình 3A và 90 ngày gồm 3 bước ở nấc Adopt: (1) Tháng 1 — Tự động hóa chăm sóc khách hàng, đặt bàn và giải đáp menu/khuyến mãi qua Chatbot/Agent gắn kịch bản chuẩn; (2) Tháng 2 — Ứng dụng AI dự báo nhu cầu nguyên vật liệu theo ngày/thời tiết để giảm hủy hàng tươi sống và tối ưu xếp ca; (3) Tháng 3 — Đo ROI Tầng 1 (giảm tỷ lệ hao hụt, tăng tốc độ phản hồi) và chuẩn hóa quy trình cho cả 10 điểm bán.",
+      "source_ids": [
+        "aifb-section-3.8"
+      ],
+      "aliases": [
+        "gợi ý cho tôi lộ trình triển khai AI cho chuỗi 10 cửa hàng F&B",
+        "lộ trình AI cho chuỗi cửa hàng F&B"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-3.8",
+      "region_id": "aifb-ch03"
+    },
+    {
+      "id": "aifb-qa-eval-32b",
+      "chapter": 3,
+      "question": "Nếu công ty mới thành lập chưa đầy 1 năm và có rất ít dữ liệu lịch sử thì làm sao áp dụng mô hình AI-First?",
+      "answer": "Công ty mới dưới 1 năm ít dữ liệu lịch sử vẫn áp dụng AI-First rất hiệu quả nhờ lợi thế không vướng hệ thống cũ: (1) Bắt đầu ở nấc Adopt bằng các mô hình AI nền tảng đã được huấn luyện sẵn kết hợp tri thức quy trình, kịch bản bán hàng và tài liệu sản phẩm (RAG trên tài liệu chuẩn không cần hàng triệu dòng dữ liệu lịch sử); (2) Thiết kế quy trình thu thập dữ liệu sạch ngay từ ngày đầu (chuẩn hóa CRM, gắn nhãn mọi tương tác khách hàng) để tích lũy tài sản dữ liệu ROI Tầng 2 nhanh gấp nhiều lần công ty truyền thống.",
+      "source_ids": [
+        "aifb-section-3.8"
+      ],
+      "aliases": [
+        "công ty mới thành lập chưa đầy 1 năm và có rất ít dữ liệu lịch sử thì làm sao áp dụng",
+        "ít dữ liệu lịch sử làm sao áp dụng AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-3.8",
+      "region_id": "aifb-ch03"
+    }
+  ],
+  "sources": {
+    "aifb-section-3.1": {
+      "title": "Hai công ty bán lẻ, cùng xuất phát điểm, hai số phận khác nhau",
+      "kind": "section",
+      "number": "3.1",
+      "page": 42,
+      "end_page": 44,
+      "parent_id": "aifb-ch03"
+    },
+    "aifb-section-3.2": {
+      "title": "AI-Native là gì?",
+      "kind": "section",
+      "number": "3.2",
+      "page": 44,
+      "end_page": 45,
+      "parent_id": "aifb-ch03"
+    },
+    "aifb-section-3.3": {
+      "title": "\"Tác nhân AI\" là gì, và vì sao doanh nghiệp cần nó",
+      "kind": "section",
+      "number": "3.3",
+      "page": 45,
+      "end_page": 46,
+      "parent_id": "aifb-ch03"
+    },
+    "aifb-section-3.4": {
+      "title": "Vì sao phải phân loại doanh nghiệp theo bốn mô hình",
+      "kind": "section",
+      "number": "3.4",
+      "page": 46,
+      "end_page": 48,
+      "parent_id": "aifb-ch03"
+    },
+    "aifb-figure-3.1": {
+      "title": "Bốn mô hình kinh doanh AI-Native trên một bản đồ",
+      "kind": "figure",
+      "number": "3.1",
+      "page": 47,
+      "end_page": 47,
+      "parent_id": "aifb-ch03"
+    },
+    "aifb-section-3.5": {
+      "title": "Bốn mô hình kinh doanh AI-Native",
+      "kind": "section",
+      "number": "3.5",
+      "page": 48,
+      "end_page": 53,
+      "parent_id": "aifb-ch03"
+    },
+    "aifb-table-3.1": {
+      "title": "Tổng hợp bốn mô hình kinh doanh AI-Native",
+      "kind": "table",
+      "number": "3.1",
+      "page": 52,
+      "end_page": 52,
+      "parent_id": "aifb-ch03"
+    },
+    "aifb-section-3.6": {
+      "title": "Mô hình tương tác của Tác nhân AI",
+      "kind": "section",
+      "number": "3.6",
+      "page": 53,
+      "end_page": 56,
+      "parent_id": "aifb-ch03"
+    },
+    "aifb-figure-3.2": {
+      "title": "Lưu đồ tương tác của Tác nhân AI",
+      "kind": "figure",
+      "number": "3.2",
+      "page": 54,
+      "end_page": 54,
+      "parent_id": "aifb-ch03"
+    },
+    "aifb-section-3.7": {
+      "title": "Công cụ thực hành: doanh nghiệp của bạn đang vận hành theo mô hình nào?",
+      "kind": "section",
+      "number": "3.7",
+      "page": 56,
+      "end_page": 58,
+      "parent_id": "aifb-ch03"
+    },
+    "aifb-table-3.2": {
+      "title": "Bảng chẩn đoán mô hình kinh doanh",
+      "kind": "table",
+      "number": "3.2",
+      "page": 57,
+      "end_page": 57,
+      "parent_id": "aifb-ch03"
+    },
+    "aifb-section-3.8": {
+      "title": "Con đường triển khai cho doanh nghiệp nhỏ, vừa và siêu nhỏ",
+      "kind": "section",
+      "number": "3.8",
+      "page": 58,
+      "end_page": 59,
+      "parent_id": "aifb-ch03"
+    },
+    "aifb-section-3.9": {
+      "title": "Bốn mô hình không phải điểm đến cố định",
+      "kind": "section",
+      "number": "3.9",
+      "page": 59,
+      "end_page": 61,
+      "parent_id": "aifb-ch03"
+    },
+    "aifb-section-3.10": {
+      "title": "Ví dụ Việt Nam cho mô hình Chợ Tác nhân AI: từ dịch vụ theo giờ sang dịch vụ theo kết quả",
+      "kind": "section",
+      "number": "3.10",
+      "page": 61,
+      "end_page": 62,
+      "parent_id": "aifb-ch03"
+    },
+    "aifb-ch03": {
+      "title": "Bốn mô hình kinh doanh AI-Native",
+      "kind": "chapter",
+      "number": null,
+      "page": 41,
+      "end_page": 62,
+      "parent_id": "aifb-ch03"
+    }
+  },
+  "print_pages": {
+    "41": "aifb-ch03",
+    "42": "aifb-ch03",
+    "43": "aifb-ch03",
+    "44": "aifb-ch03",
+    "45": "aifb-ch03",
+    "46": "aifb-ch03",
+    "47": "aifb-ch03",
+    "48": "aifb-ch03",
+    "49": "aifb-ch03",
+    "50": "aifb-ch03",
+    "51": "aifb-ch03",
+    "52": "aifb-ch03",
+    "53": "aifb-ch03",
+    "54": "aifb-ch03",
+    "55": "aifb-ch03",
+    "56": "aifb-ch03",
+    "57": "aifb-ch03",
+    "58": "aifb-ch03",
+    "59": "aifb-ch03",
+    "60": "aifb-ch03",
+    "61": "aifb-ch03",
+    "62": "aifb-ch03"
+  }
+}

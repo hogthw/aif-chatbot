@@ -1,0 +1,316 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-ch08",
+    "kind": "chapter",
+    "chapter": 8,
+    "title": "Từ “Sếp” sang “Nhạc trưởng”",
+    "start": 135,
+    "end": 148
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-008",
+      "chapter": 8,
+      "question": "Bốn mẫu hình cộng tác Người–AI là gì?",
+      "answer": "Trong công ty AI-First, con người và AI phân công theo nguyên tắc 'AI xử lý khối lượng và dữ liệu — Con người phán đoán, đồng cảm và chịu trách nhiệm cuối cùng' qua 4 mẫu hình cộng tác: (1) Người Viết (con người làm chính, AI hỗ trợ tra cứu); (2) Người Biên Tập (AI tạo bản nháp, con người kiểm tra và hiệu chỉnh); (3) Người Đạo Diễn (con người định hướng mục tiêu, AI thực thi chuỗi việc); (4) Người Điều Phối (con người quản lý đội ngũ nhiều Tác nhân AI và xử lý ngoại lệ).",
+      "source_ids": [
+        "aifb-section-8.1",
+        "aifb-section-8.6"
+      ],
+      "aliases": [
+        "bốn mẫu hình cộng tác",
+        "author editor director orchestrator",
+        "4 mẫu hình cộng tác người AI",
+        "con người và AI phân chia công việc theo nguyên tắc nào",
+        "nguyên tắc phân chia công việc người và AI",
+        "Bốn mẫu hình cộng tác Người-AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-8.1",
+      "region_id": "aifb-ch08"
+    },
+    {
+      "id": "aifb-qa-section-8.2",
+      "chapter": 8,
+      "region_id": "aifb-ch08",
+      "primary_source_id": "aifb-section-8.2",
+      "question": "Sơ Đồ Công Việc khác sơ đồ tổ chức ra sao?",
+      "answer": "Sơ Đồ Công Việc (Work Chart) khác với sơ đồ tổ chức truyền thống: sơ đồ tổ chức chỉ cho biết ai báo cáo cho ai theo chức danh, còn Sơ Đồ Công Việc tách quy trình thành từng bước công việc cụ thể để phân bổ rõ bước nào do con người làm, bước nào do Tác nhân AI thực hiện, dùng mẫu hình cộng tác nào (Người Viết, Người Biên Tập, Người Đạo Diễn, Người Điều Phối) và điểm bàn giao kiểm duyệt ở đâu.",
+      "source_ids": [
+        "aifb-section-8.2",
+        "aifb-figure-8.2"
+      ],
+      "aliases": [
+        "work chart",
+        "sơ đồ công việc",
+        "work chart khác gì sơ đồ tổ chức",
+        "sơ đồ tổ chức và sơ đồ công việc",
+        "“Sơ Đồ Công Việc”: bản đồ tổ chức mới",
+        "“Sơ Đồ Công Việc”",
+        "bản đồ tổ chức mới",
+        "work chart là gì"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "“Sơ Đồ Công Việc”: bản đồ tổ chức mới"
+    },
+    {
+      "id": "aifb-qa-section-8.3",
+      "chapter": 8,
+      "region_id": "aifb-ch08",
+      "primary_source_id": "aifb-section-8.3",
+      "question": "Tỷ lệ Người – Tác nhân AI nên hiểu ra sao?",
+      "answer": "Tỷ lệ phản ánh phạm vi một người có thể giám sát với chất lượng và an toàn phù hợp. Cần xét loại việc, mức tự chủ và tần suất ngoại lệ trước khi mở rộng.",
+      "source_ids": [
+        "aifb-section-8.3"
+      ],
+      "aliases": [
+        "Tỷ lệ Người – Tác nhân AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Tỷ lệ Người – Tác nhân AI"
+    },
+    {
+      "id": "aifb-qa-section-8.4",
+      "chapter": 8,
+      "region_id": "aifb-ch08",
+      "primary_source_id": "aifb-section-8.4",
+      "question": "Quản lý làm gương về AI bằng cách nào?",
+      "answer": "Sử dụng công cụ công khai theo quy tắc, chia sẻ cách kiểm định kết quả và ghi nhận cả bài học khi thử nghiệm chưa thành công. Hành vi của quản lý tạo chuẩn làm việc cho đội ngũ.",
+      "source_ids": [
+        "aifb-section-8.4"
+      ],
+      "aliases": [
+        "Văn hóa và sự làm gương của quản lý: yếu tố quyết định lớn nhất",
+        "Văn hóa và sự làm gương của quản lý",
+        "yếu tố quyết định lớn nhất"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Văn hóa và sự làm gương của quản lý: yếu tố quyết định lớn nhất"
+    },
+    {
+      "id": "aifb-qa-section-8.5",
+      "chapter": 8,
+      "region_id": "aifb-ch08",
+      "primary_source_id": "aifb-section-8.5",
+      "question": "Nên nói gì khi nhân viên lo AI thay thế công việc?",
+      "answer": "Trao đổi cụ thể về phần việc sẽ đổi, phần con người vẫn chịu trách nhiệm và cách hỗ trợ học kỹ năng. Cho nhân viên cơ hội tham gia thiết kế và thử nghiệm công việc mới.",
+      "source_ids": [
+        "aifb-section-8.5"
+      ],
+      "aliases": [
+        "Kịch bản đối thoại mẫu: khi nhân viên lo lắng AI sẽ thay thế mình",
+        "Kịch bản đối thoại mẫu",
+        "khi nhân viên lo lắng AI sẽ thay thế mình"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Kịch bản đối thoại mẫu: khi nhân viên lo lắng AI sẽ thay thế mình"
+    },
+    {
+      "id": "aifb-qa-section-8.6",
+      "chapter": 8,
+      "region_id": "aifb-ch08",
+      "primary_source_id": "aifb-section-8.6",
+      "question": "Vì sao Người Điều Phối không phải đích đến của mọi quản lý?",
+      "answer": "Mẫu hình phụ thuộc vào tính chất công việc. Việc nhiều ngoại lệ hoặc hậu quả sai sót cao có thể cần con người trực tiếp viết, biên tập hoặc quyết định.",
+      "source_ids": [
+        "aifb-section-8.6"
+      ],
+      "aliases": [
+        "Vì sao “Người Điều Phối” không phải là đích đến cuối cùng của mọi quản lý"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Vì sao “Người Điều Phối” không phải là đích đến cuối cùng của mọi quản lý"
+    },
+    {
+      "id": "aifb-qa-eval-15",
+      "chapter": 8,
+      "question": "Quy trình ra quyết định của ban lãnh đạo trong công ty AI-First thay đổi thế nào so với họp giao ban truyền thống?",
+      "answer": "Trong công ty AI-First, lãnh đạo chuyển từ cách họp giao ban nghe báo cáo tổng hợp thủ công trễ nhịp sang ra quyết định dựa trên dữ liệu và chỉ số vận hành thời gian thực do hệ thống AI tổng hợp. Vai trò lãnh đạo chuyển từ giám sát tác vụ vụn vặt sang 'Người Điều Phối' (Orchestrator) và kiến trúc sư hệ thống: tập trung đặt mục tiêu chiến lược, phân bổ nguồn lực, thiết lập ranh giới tự chủ và xử lý các ca ngoại lệ vượt ngưỡng.",
+      "source_ids": [
+        "aifb-section-8.6"
+      ],
+      "aliases": [
+        "quy trình ra quyết định của ban lãnh đạo trong một công ty AI-First",
+        "thay đổi như thế nào so với cách họp giao ban truyền thống",
+        "vai trò lãnh đạo trong doanh nghiệp AI-First"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-8.6",
+      "region_id": "aifb-ch08"
+    },
+    {
+      "id": "aifb-qa-eval-17",
+      "chapter": 8,
+      "question": "Làm sao giải quyết tâm lý lo sợ mất việc của nhân viên văn phòng khi đưa AI vào vận hành?",
+      "answer": "Lãnh đạo cần chuyển thông điệp từ 'AI thay thế con người' sang 'AI giải phóng con người khỏi việc lặp lại để làm việc giá trị cao hơn', thực hiện qua 3 bước: (1) Đối thoại thẳng thắn, ghi nhận nỗi lo là chính đáng; (2) Minh bạch Sơ Đồ Công Việc (Work Chart) mới, chỉ rõ phần việc AI hỗ trợ và vai trò mới của nhân viên (kiểm duyệt, phán đoán, chăm sóc khách hàng khó); (3) Cam kết đào tạo lại theo ma trận kỹ năng và xây dựng an toàn tâm lý khi thử nghiệm.",
+      "source_ids": [
+        "aifb-section-8.5"
+      ],
+      "aliases": [
+        "giải quyết tâm lý lo sợ bị mất việc của nhân viên văn phòng",
+        "nhân viên lo lắng AI sẽ thay thế mình",
+        "kịch bản đối thoại mẫu khi nhân viên lo mất việc"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-8.5",
+      "region_id": "aifb-ch08"
+    },
+    {
+      "id": "aifb-qa-eval-31b",
+      "chapter": 8,
+      "question": "Nếu nhân viên thu ngân và phục vụ F&B đều là sinh viên làm bán thời gian thì lộ trình AI cần chỉnh lại sao cho dễ áp dụng?",
+      "answer": "Khi nhân sự tuyến đầu chủ yếu là sinh viên bán thời gian (biến động cao, ít thời gian đào tạo), cần điều chỉnh Sơ Đồ Công Việc theo 3 nguyên tắc: (1) Đóng gói AI ẩn vào giao diện cực kỳ đơn giản trên POS/điện thoại (nút bấm chọn sẵn hoặc gợi ý tự động, không bắt nhân viên tự viết prompt); (2) Tập trung AI nặng về phía quản lý cửa hàng và hậu cần (tự động dự báo nhập hàng, xếp lịch ca, tổng hợp báo cáo cuối ngày); (3) Dùng AI làm trợ lý tra cứu quy trình chuẩn (SOP) bằng giọng nói/hình ảnh để nhân viên mới làm đúng ngay trong ca đầu.",
+      "source_ids": [
+        "aifb-section-8.2"
+      ],
+      "aliases": [
+        "toàn bộ nhân viên thu ngân và phục vụ bên tôi đều là sinh viên làm bán thời gian",
+        "lộ trình vừa rồi cần chỉnh lại sao cho dễ áp dụng"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-8.2",
+      "region_id": "aifb-ch08"
+    },
+    {
+      "id": "aifb-qa-eval-35a",
+      "chapter": 8,
+      "question": "Cấu trúc phòng ban trong công ty AI-First được tổ chức ra sao?",
+      "answer": "Thay vì chỉ quản lý theo Sơ đồ tổ chức tĩnh (Org Chart — ai báo cáo cho ai), công ty AI-First tổ chức các phòng ban xoay quanh 'Sơ Đồ Công Việc' (Work Chart) kết hợp mô hình quản trị Hub-and-Spoke. Mỗi phòng ban nghiệp vụ là một đơn vị lai giữa Nhân sự và các Tác nhân AI (Agent), trong đó mỗi Agent đều có Hồ Sơ Agent (bản mô tả công việc số) quy định rõ tác vụ AI tự chạy, tác vụ AI hỗ trợ và điểm chuyển giao cho con người.",
+      "source_ids": [
+        "aifb-section-8.2"
+      ],
+      "aliases": [
+        "cấu trúc phòng ban trong công ty AI-First được tổ chức ra sao",
+        "tổ chức phòng ban trong công ty AI-First"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-8.2",
+      "region_id": "aifb-ch08"
+    },
+    {
+      "id": "aifb-qa-eval-35b",
+      "chapter": 8,
+      "question": "Khi chuyển sang cấu trúc Sơ Đồ Công Việc (Work Chart), vai trò của các trưởng phòng hiện tại thay đổi thế nào?",
+      "answer": "Theo Mục 8.3 và 8.6, vai trò của các trưởng phòng (quản lý cấp trung) chuyển dịch mạnh từ người giao việc thủ công và kiểm tra tiến độ từng cá nhân sang: (1) Người thiết kế Sơ Đồ Công Việc và quản lý 'Tỷ lệ Người – Tác nhân AI' trong bộ phận; (2) Người thiết lập, kiểm chứng và điều chỉnh mức tự chủ cho các Agent của phòng; (3) Người huấn luyện (Coach) phát triển kỹ năng tư duy phản biện cho nhân viên và trực tiếp phân xử các ca ngoại lệ phức tạp mà AI chuyển lên.",
+      "source_ids": [
+        "aifb-section-8.6"
+      ],
+      "aliases": [
+        "nếu chuyển sang cấu trúc như vậy thì vai trò của các trưởng phòng hiện tại sẽ thay đổi thế nào",
+        "vai trò của các trưởng phòng hiện tại sẽ thay đổi thế nào"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-8.6",
+      "region_id": "aifb-ch08"
+    }
+  ],
+  "sources": {
+    "aifb-section-8.1": {
+      "title": "Bốn mẫu hình cộng tác Người-AI",
+      "kind": "section",
+      "number": "8.1",
+      "page": 136,
+      "end_page": 138,
+      "parent_id": "aifb-ch08"
+    },
+    "aifb-figure-8.1": {
+      "title": "Bốn mẫu hình cộng tác Người – AI",
+      "kind": "figure",
+      "number": "8.1",
+      "page": 136,
+      "end_page": 136,
+      "parent_id": "aifb-ch08"
+    },
+    "aifb-table-8.1": {
+      "title": "Chọn mẫu hình cộng tác cho một quy trình",
+      "kind": "table",
+      "number": "8.1",
+      "page": 138,
+      "end_page": 138,
+      "parent_id": "aifb-ch08"
+    },
+    "aifb-section-8.2": {
+      "title": "“Sơ Đồ Công Việc”: bản đồ tổ chức mới",
+      "kind": "section",
+      "number": "8.2",
+      "page": 138,
+      "end_page": 141,
+      "parent_id": "aifb-ch08"
+    },
+    "aifb-figure-8.2": {
+      "title": "Sơ Đồ Công Việc: Trợ lý Báo giá AI",
+      "kind": "figure",
+      "number": "8.2",
+      "page": 139,
+      "end_page": 139,
+      "parent_id": "aifb-ch08"
+    },
+    "aifb-table-8.2": {
+      "title": "Sơ Đồ Công Việc cho một chiến dịch ra mắt sản phẩm",
+      "kind": "table",
+      "number": "8.2",
+      "page": 140,
+      "end_page": 140,
+      "parent_id": "aifb-ch08"
+    },
+    "aifb-section-8.3": {
+      "title": "Tỷ lệ Người – Tác nhân AI",
+      "kind": "section",
+      "number": "8.3",
+      "page": 141,
+      "end_page": 142,
+      "parent_id": "aifb-ch08"
+    },
+    "aifb-section-8.4": {
+      "title": "Văn hóa và sự làm gương của quản lý: yếu tố quyết định lớn nhất",
+      "kind": "section",
+      "number": "8.4",
+      "page": 142,
+      "end_page": 142,
+      "parent_id": "aifb-ch08"
+    },
+    "aifb-section-8.5": {
+      "title": "Kịch bản đối thoại mẫu: khi nhân viên lo lắng AI sẽ thay thế mình",
+      "kind": "section",
+      "number": "8.5",
+      "page": 142,
+      "end_page": 143,
+      "parent_id": "aifb-ch08"
+    },
+    "aifb-section-8.6": {
+      "title": "Vì sao “Người Điều Phối” không phải là đích đến cuối cùng của mọi quản lý",
+      "kind": "section",
+      "number": "8.6",
+      "page": 143,
+      "end_page": 148,
+      "parent_id": "aifb-ch08"
+    },
+    "aifb-ch08": {
+      "title": "Từ “Sếp” sang “Nhạc trưởng”",
+      "kind": "chapter",
+      "number": null,
+      "page": 135,
+      "end_page": 148,
+      "parent_id": "aifb-ch08"
+    }
+  },
+  "print_pages": {
+    "135": "aifb-ch08",
+    "136": "aifb-ch08",
+    "137": "aifb-ch08",
+    "138": "aifb-ch08",
+    "139": "aifb-ch08",
+    "140": "aifb-ch08",
+    "141": "aifb-ch08",
+    "142": "aifb-ch08",
+    "143": "aifb-ch08",
+    "144": "aifb-ch08",
+    "145": "aifb-ch08",
+    "146": "aifb-ch08",
+    "147": "aifb-ch08",
+    "148": "aifb-ch08"
+  }
+}

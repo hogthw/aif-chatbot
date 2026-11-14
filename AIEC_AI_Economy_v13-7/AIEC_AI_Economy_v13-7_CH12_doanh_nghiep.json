@@ -1,0 +1,224 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-ch12",
+    "kind": "chapter",
+    "chapter": 12,
+    "title": "Doanh nghiệp",
+    "start": 267,
+    "end": 276
+  },
+  "cards": [
+    {
+      "id": "aiec-qa-012",
+      "chapter": 12,
+      "question": "Vì sao doanh nghiệp là nơi AI trở thành năng suất quốc gia?",
+      "answer": "Doanh nghiệp chuyển tiếp cận công nghệ và hỗ trợ chính sách thành thay đổi trong công việc và quy trình. Chương phân tích khoảng cách giữa sử dụng AI và tạo giá trị, đồng thời bàn cách đưa AI đến nhiều doanh nghiệp hơn.",
+      "source_ids": [
+        "aiec-section-12.1",
+        "aiec-section-12.3",
+        "aiec-section-12.4"
+      ],
+      "aliases": [
+        "doanh nghiệp năng suất quốc gia",
+        "chính sách AI",
+        "Khoảng cách giữa dùng AI và tạo ra giá trị"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-12.1",
+      "region_id": "aiec-ch12"
+    },
+    {
+      "id": "aiec-qa-section-12.1",
+      "chapter": 12,
+      "region_id": "aiec-ch12",
+      "primary_source_id": "aiec-section-12.1",
+      "question": "Dùng AI khác gì với tạo giá trị từ AI?",
+      "answer": "Dùng AI có thể là thử công cụ ở một số việc. Tạo giá trị đòi hỏi tích hợp AI vào quy trình, đo kết quả và duy trì được thay đổi trong vận hành.",
+      "source_ids": [
+        "aiec-section-12.1"
+      ],
+      "aliases": [
+        "Khoảng cách giữa dùng AI và tạo ra giá trị"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Khoảng cách giữa dùng AI và tạo ra giá trị"
+    },
+    {
+      "id": "aiec-qa-section-12.2",
+      "chapter": 12,
+      "region_id": "aiec-ch12",
+      "primary_source_id": "aiec-section-12.2",
+      "question": "Vì sao AI lan không đều giữa các doanh nghiệp?",
+      "answer": "Quy mô, ngành, dữ liệu, kỹ năng và nguồn lực đầu tư khác nhau làm doanh nghiệp có khả năng triển khai khác nhau. Số liệu dùng AI cần đọc cùng bối cảnh khảo sát.",
+      "source_ids": [
+        "aiec-section-12.2"
+      ],
+      "aliases": [
+        "Doanh nghiệp nào đi trước, doanh nghiệp nào bị bỏ lại"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Doanh nghiệp nào đi trước, doanh nghiệp nào bị bỏ lại"
+    },
+    {
+      "id": "aiec-qa-section-12.3",
+      "chapter": 12,
+      "region_id": "aiec-ch12",
+      "primary_source_id": "aiec-section-12.3",
+      "question": "Doanh nghiệp chuyển chính sách AI thành năng suất qua đâu?",
+      "answer": "Doanh nghiệp biến tiếp cận hạ tầng, kỹ năng và hỗ trợ chính sách thành thay đổi trong quy trình, sản phẩm hoặc quyết định. Kết quả phụ thuộc vào khả năng tổ chức vận hành.",
+      "source_ids": [
+        "aiec-section-12.3"
+      ],
+      "aliases": [
+        "Doanh nghiệp là kênh truyền dẫn từ chính sách đến năng suất"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Doanh nghiệp là kênh truyền dẫn từ chính sách đến năng suất"
+    },
+    {
+      "id": "aiec-qa-section-12.4",
+      "chapter": 12,
+      "region_id": "aiec-ch12",
+      "primary_source_id": "aiec-section-12.4",
+      "question": "Doanh nghiệp nhỏ và vừa cần điều kiện gì để áp dụng AI?",
+      "answer": "Sách dẫn bốn nhóm điều kiện gồm kết nối, dữ liệu và tính toán, kỹ năng, cùng tài chính. Chính sách cần tập trung vào những điều kiện còn thiếu ở nhóm doanh nghiệp mục tiêu.",
+      "source_ids": [
+        "aiec-section-12.4"
+      ],
+      "aliases": [
+        "Chính sách đưa AI đến số đông doanh nghiệp"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Chính sách đưa AI đến số đông doanh nghiệp"
+    },
+    {
+      "id": "aiec-qa-eval-05",
+      "chapter": 12,
+      "question": "Làm sao biết đầu tư AI thực sự tạo ra giá trị và giúp doanh nghiệp kiếm thêm tiền trong nền kinh tế AI?",
+      "answer": "Việc chỉ mua tài khoản AI không tự động sinh lời. Đầu tư AI chỉ thực sự giúp doanh nghiệp kiếm thêm tiền khi đo lường được qua 2 lớp giá trị: (1) Hiệu quả tài chính trực tiếp (giảm chi phí đơn vị trên mỗi tác vụ, rút ngắn thời gian chu trình, tăng doanh thu/tỷ lệ chuyển đổi); và (2) Tích lũy các yếu tố bổ trợ (dữ liệu sạch độc quyền, quy trình chuẩn hóa và kỹ năng nhân sự) để vượt qua phần đáy Đường cong chữ J.",
+      "source_ids": [
+        "aiec-section-12.1"
+      ],
+      "aliases": [
+        "làm sao biết đầu tư AI có thực sự giúp công ty kiếm thêm tiền không",
+        "khoảng cách giữa dùng AI và tạo ra giá trị kinh tế"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-12.1",
+      "region_id": "aiec-ch12"
+    },
+    {
+      "id": "aiec-qa-eval-22",
+      "chapter": 12,
+      "question": "Trong nền kinh tế AI (AI Economy), các doanh nghiệp vừa và nhỏ (SME) có lợi thế cạnh tranh gì khi đối đầu các tập đoàn lớn?",
+      "answer": "Các tập đoàn lớn thống trị tầng xây dựng hạ tầng nhưng SME lại có lợi thế lớn ở tầng ứng dụng: tốc độ ra quyết định nhanh, bộ máy linh hoạt không bị trói buộc bởi hệ thống công nghệ cũ (legacy) và sự am hiểu sâu sắc thị trường ngách/ngữ cảnh địa phương. SME nên tận dụng bằng cách thuê hạ tầng/công cụ AI sẵn có với chi phí suy luận đang giảm mạnh để tự động hóa quy trình và cá nhân hóa dịch vụ trong ngách của mình.",
+      "source_ids": [
+        "aiec-section-12.2"
+      ],
+      "aliases": [
+        "trong nền kinh tế AI các doanh nghiệp vừa và nhỏ SME có lợi thế cạnh tranh gì",
+        "SME đối đầu với các tập đoàn lớn"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-12.2",
+      "region_id": "aiec-ch12"
+    },
+    {
+      "id": "aiec-qa-eval-30a",
+      "chapter": 12,
+      "question": "Nền kinh tế AI thay đổi cách thức cạnh tranh giữa các công ty như thế nào?",
+      "answer": "Nền kinh tế AI dịch chuyển trục cạnh tranh từ lợi thế quy mô lao động giá rẻ sang tốc độ chuyển hóa trí tuệ nhân tạo thành năng suất vận hành. Khoảng cách phân hóa mở rộng rất nhanh giữa nhóm doanh nghiệp đi trước (tái thiết kế quy trình, chuẩn hóa dữ liệu và dùng AI để tạo ra sản phẩm/dịch vụ mới với chi phí biên thấp) và nhóm doanh nghiệp chỉ dùng AI rời rạc hoặc đứng ngoài cuộc.",
+      "source_ids": [
+        "aiec-section-12.2"
+      ],
+      "aliases": [
+        "nền kinh tế AI thay đổi cách thức cạnh tranh giữa các công ty như thế nào",
+        "thay đổi cách thức cạnh tranh giữa các công ty"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-12.2",
+      "region_id": "aiec-ch12"
+    },
+    {
+      "id": "aiec-qa-eval-30b",
+      "chapter": 12,
+      "question": "Trong bối cảnh cạnh tranh của nền kinh tế AI, các doanh nghiệp địa phương quy mô nhỏ có cửa thắng các tập đoàn đa quốc gia không?",
+      "answer": "Hoàn toàn có cơ hội thắng ở tầng ứng dụng và thị trường ngách. Sách chỉ rõ luận đề 'Tập trung ở tầng xây, phân tán ở tầng dùng': doanh nghiệp địa phương quy mô nhỏ không cần đua hàng tỷ USD xây mô hình nền tảng với các tập đoàn đa quốc gia, mà có thể tận dụng chi phí suy luận AI ngày càng rẻ kết hợp dữ liệu ngôn ngữ, văn hóa, quy định và mạng lưới khách hàng bản địa để giải quyết bài toán ngách nhanh và sát thực tế hơn tập đoàn lớn.",
+      "source_ids": [
+        "aiec-section-12.4"
+      ],
+      "aliases": [
+        "trong bối cảnh đó các doanh nghiệp địa phương quy mô nhỏ có cửa thắng các tập đoàn đa quốc gia không",
+        "doanh nghiệp địa phương quy mô nhỏ có cửa thắng tập đoàn đa quốc gia"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-12.4",
+      "region_id": "aiec-ch12"
+    }
+  ],
+  "sources": {
+    "aiec-section-12.1": {
+      "title": "Khoảng cách giữa dùng AI và tạo ra giá trị",
+      "kind": "section",
+      "number": "12.1",
+      "page": 268,
+      "end_page": 269,
+      "parent_id": "aiec-ch12"
+    },
+    "aiec-section-12.2": {
+      "title": "Doanh nghiệp nào đi trước, doanh nghiệp nào bị bỏ lại",
+      "kind": "section",
+      "number": "12.2",
+      "page": 269,
+      "end_page": 270,
+      "parent_id": "aiec-ch12"
+    },
+    "aiec-section-12.3": {
+      "title": "Doanh nghiệp là kênh truyền dẫn từ chính sách đến năng suất",
+      "kind": "section",
+      "number": "12.3",
+      "page": 270,
+      "end_page": 273,
+      "parent_id": "aiec-ch12"
+    },
+    "aiec-figure-12.1": {
+      "title": "Doanh nghiệp là kênh truyền dẫn từ chính sách",
+      "kind": "figure",
+      "number": "12.1",
+      "page": 271,
+      "end_page": 271,
+      "parent_id": "aiec-ch12"
+    },
+    "aiec-section-12.4": {
+      "title": "Chính sách đưa AI đến số đông doanh nghiệp",
+      "kind": "section",
+      "number": "12.4",
+      "page": 273,
+      "end_page": 276,
+      "parent_id": "aiec-ch12"
+    },
+    "aiec-ch12": {
+      "title": "Doanh nghiệp",
+      "kind": "chapter",
+      "number": null,
+      "page": 267,
+      "end_page": 276,
+      "parent_id": "aiec-ch12"
+    }
+  },
+  "print_pages": {
+    "267": "aiec-ch12",
+    "268": "aiec-ch12",
+    "269": "aiec-ch12",
+    "270": "aiec-ch12",
+    "271": "aiec-ch12",
+    "272": "aiec-ch12",
+    "273": "aiec-ch12",
+    "274": "aiec-ch12",
+    "275": "aiec-ch12",
+    "276": "aiec-ch12"
+  }
+}

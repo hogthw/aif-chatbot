@@ -1,0 +1,27 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-p63",
+    "kind": "divider_or_front",
+    "title": "Phần II · Xây nền tảng tạo giá trị",
+    "start": 63,
+    "end": 64
+  },
+  "cards": [],
+  "sources": {
+    "aifb-p63": {
+      "title": "Phần II · Xây nền tảng tạo giá trị",
+      "kind": "divider_or_front",
+      "number": null,
+      "page": 63,
+      "end_page": 64,
+      "parent_id": "aifb-p63"
+    }
+  },
+  "print_pages": {
+    "63": "aifb-p63",
+    "64": "aifb-p63"
+  }
+}

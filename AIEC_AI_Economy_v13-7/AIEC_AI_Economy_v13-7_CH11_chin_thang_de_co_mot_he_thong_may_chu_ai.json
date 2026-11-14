@@ -1,0 +1,186 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-ch11",
+    "kind": "chapter",
+    "chapter": 11,
+    "title": "Chín tháng để có một hệ thống máy chủ AI",
+    "start": 249,
+    "end": 266
+  },
+  "cards": [
+    {
+      "id": "aiec-qa-011",
+      "chapter": 11,
+      "question": "Chuyện chín tháng để có máy chủ AI minh họa vấn đề gì?",
+      "answer": "Sách dùng câu chuyện triển khai máy chủ để bàn về năng lực thực thi. Nguồn lực chỉ tạo thành năng lực cạnh tranh khi các chủ thể phối hợp và tháo gỡ được điểm nghẽn trong triển khai.",
+      "source_ids": [
+        "aiec-section-11.1",
+        "aiec-section-11.3",
+        "aiec-section-11.4"
+      ],
+      "aliases": [
+        "chín tháng máy chủ",
+        "năng lực thực thi",
+        "Không còn nhiều thời gian để chờ đợi"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-11.1",
+      "region_id": "aiec-ch11"
+    },
+    {
+      "id": "aiec-qa-section-11.1",
+      "chapter": 11,
+      "region_id": "aiec-ch11",
+      "primary_source_id": "aiec-section-11.1",
+      "question": "Vì sao chương nhấn mạnh tốc độ thích ứng?",
+      "answer": "Khi công nghệ đổi nhanh, độ trễ trong quyết định và triển khai làm giảm thời gian học hỏi và tích lũy năng lực. Tốc độ thích ứng cần được đo bằng thay đổi thực tế.",
+      "source_ids": [
+        "aiec-section-11.1"
+      ],
+      "aliases": [
+        "Không còn nhiều thời gian để chờ đợi"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Không còn nhiều thời gian để chờ đợi"
+    },
+    {
+      "id": "aiec-qa-section-11.2",
+      "chapter": 11,
+      "region_id": "aiec-ch11",
+      "primary_source_id": "aiec-section-11.2",
+      "question": "Năm trụ cột năng lực cạnh tranh quốc gia là gì?",
+      "answer": "Thể chế, hạ tầng AI, nguồn nhân lực, doanh nghiệp và hệ sinh thái đổi mới sáng tạo. Khung giúp đặt ưu tiên thực thi và khác với khung tám trụ cột sẵn sàng",
+      "source_ids": [
+        "aiec-section-11.2"
+      ],
+      "aliases": [
+        "Năm trụ cột kiến tạo năng lực cạnh tranh quốc gia"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Năm trụ cột kiến tạo năng lực cạnh tranh quốc gia"
+    },
+    {
+      "id": "aiec-qa-section-11.3",
+      "chapter": 11,
+      "region_id": "aiec-ch11",
+      "primary_source_id": "aiec-section-11.3",
+      "question": "Những ai cùng tạo năng lực cạnh tranh quốc gia về AI?",
+      "answer": "Nhà nước, doanh nghiệp, trường đại học, địa phương và người dân giữ các vai trò bổ sung. Năng lực quốc gia hình thành khi các bên phối hợp được trong các công việc cụ thể.",
+      "source_ids": [
+        "aiec-section-11.3"
+      ],
+      "aliases": [
+        "Mỗi chủ thể là một mắt xích của năng lực cạnh tranh quốc gia"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Mỗi chủ thể là một mắt xích của năng lực cạnh tranh quốc gia"
+    },
+    {
+      "id": "aiec-qa-section-11.4",
+      "chapter": 11,
+      "region_id": "aiec-ch11",
+      "primary_source_id": "aiec-section-11.4",
+      "question": "Kỷ luật thực thi thể hiện như thế nào?",
+      "answer": "Cần biến chiến lược thành việc có trách nhiệm rõ, theo dõi tiến độ và tháo gỡ điểm nghẽn. Sách dùng tốc độ thực hiện và kết quả để đánh giá năng lực triển khai.",
+      "source_ids": [
+        "aiec-section-11.4"
+      ],
+      "aliases": [
+        "Kỷ luật thực thi: Yếu tố quyết định thành công",
+        "Kỷ luật thực thi",
+        "Yếu tố quyết định thành công"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Kỷ luật thực thi: Yếu tố quyết định thành công"
+    }
+  ],
+  "sources": {
+    "aiec-section-11.1": {
+      "title": "Không còn nhiều thời gian để chờ đợi",
+      "kind": "section",
+      "number": "11.1",
+      "page": 251,
+      "end_page": 253,
+      "parent_id": "aiec-ch11"
+    },
+    "aiec-section-11.2": {
+      "title": "Năm trụ cột kiến tạo năng lực cạnh tranh quốc gia",
+      "kind": "section",
+      "number": "11.2",
+      "page": 253,
+      "end_page": 259,
+      "parent_id": "aiec-ch11"
+    },
+    "aiec-figure-11.1": {
+      "title": "Năm trụ cột năng lực cạnh tranh quốc gia",
+      "kind": "figure",
+      "number": "11.1",
+      "page": 253,
+      "end_page": 253,
+      "parent_id": "aiec-ch11"
+    },
+    "aiec-table-11.1": {
+      "title": "Đối chiếu năm trụ cột, tám trụ cột và chín trụ cột",
+      "kind": "table",
+      "number": "11.1",
+      "page": 255,
+      "end_page": 255,
+      "parent_id": "aiec-ch11"
+    },
+    "aiec-section-11.3": {
+      "title": "Mỗi chủ thể là một mắt xích của năng lực cạnh tranh quốc gia",
+      "kind": "section",
+      "number": "11.3",
+      "page": 259,
+      "end_page": 263,
+      "parent_id": "aiec-ch11"
+    },
+    "aiec-figure-11.2": {
+      "title": "Hộp công cụ chính sách theo chủ thể",
+      "kind": "figure",
+      "number": "11.2",
+      "page": 260,
+      "end_page": 260,
+      "parent_id": "aiec-ch11"
+    },
+    "aiec-section-11.4": {
+      "title": "Kỷ luật thực thi: Yếu tố quyết định thành công",
+      "kind": "section",
+      "number": "11.4",
+      "page": 263,
+      "end_page": 266,
+      "parent_id": "aiec-ch11"
+    },
+    "aiec-ch11": {
+      "title": "Chín tháng để có một hệ thống máy chủ AI",
+      "kind": "chapter",
+      "number": null,
+      "page": 249,
+      "end_page": 266,
+      "parent_id": "aiec-ch11"
+    }
+  },
+  "print_pages": {
+    "249": "aiec-ch11",
+    "250": "aiec-ch11",
+    "251": "aiec-ch11",
+    "252": "aiec-ch11",
+    "253": "aiec-ch11",
+    "254": "aiec-ch11",
+    "255": "aiec-ch11",
+    "256": "aiec-ch11",
+    "257": "aiec-ch11",
+    "258": "aiec-ch11",
+    "259": "aiec-ch11",
+    "260": "aiec-ch11",
+    "261": "aiec-ch11",
+    "262": "aiec-ch11",
+    "263": "aiec-ch11",
+    "264": "aiec-ch11",
+    "265": "aiec-ch11",
+    "266": "aiec-ch11"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-p21",
+    "kind": "divider_or_front",
+    "title": "Phần I · Nền móng mới của nền kinh tế",
+    "start": 21,
+    "end": 22
+  },
+  "cards": [],
+  "sources": {
+    "aiec-p21": {
+      "title": "Phần I · Nền móng mới của nền kinh tế",
+      "kind": "divider_or_front",
+      "number": null,
+      "page": 21,
+      "end_page": 22,
+      "parent_id": "aiec-p21"
+    }
+  },
+  "print_pages": {
+    "21": "aiec-p21",
+    "22": "aiec-p21"
+  }
+}

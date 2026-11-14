@@ -1,0 +1,323 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-ch11",
+    "kind": "chapter",
+    "chapter": 11,
+    "title": "Từ Sandbox đến hệ thống học hỏi",
+    "start": 179,
+    "end": 196
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-011",
+      "chapter": 11,
+      "question": "Sandbox giúp tổ chức học từ thử nghiệm AI như thế nào?",
+      "answer": "Sandbox tạo phạm vi kiểm soát để thử nghiệm, quan sát kết quả và rút kinh nghiệm trước khi mở rộng. Giá trị của thử nghiệm tăng khi bài học được ghi lại và chia sẻ cho các nhóm khác.",
+      "source_ids": [
+        "aifb-section-11.1",
+        "aifb-section-11.2",
+        "aifb-section-11.3"
+      ],
+      "aliases": [
+        "sandbox nội bộ",
+        "học từ thử nghiệm",
+        "Phá bỏ nỗi sợ sai lầm cho nhân viên trong môi trường biến động"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-11.1",
+      "region_id": "aifb-ch11"
+    },
+    {
+      "id": "aifb-qa-section-11.1",
+      "chapter": 11,
+      "region_id": "aifb-ch11",
+      "primary_source_id": "aifb-section-11.1",
+      "question": "Làm sao giảm nỗi sợ sai khi thử nghiệm AI?",
+      "answer": "Đặt phạm vi và quy tắc rõ, cho phép thử có kiểm soát và ghi nhận bài học từ kết quả. Đánh giá thử nghiệm theo chất lượng thiết kế và bằng chứng thu được.",
+      "source_ids": [
+        "aifb-section-11.1"
+      ],
+      "aliases": [
+        "Phá bỏ nỗi sợ sai lầm cho nhân viên trong môi trường biến động"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Phá bỏ nỗi sợ sai lầm cho nhân viên trong môi trường biến động"
+    },
+    {
+      "id": "aifb-qa-section-11.2",
+      "chapter": 11,
+      "region_id": "aifb-ch11",
+      "primary_source_id": "aifb-section-11.2",
+      "question": "Không Gian Thử Nghiệm AI Nội Bộ cần những gì?",
+      "answer": "Cần môi trường giới hạn, dữ liệu được phép, chủ sở hữu, tiêu chí đánh giá và điều kiện dừng. Mục tiêu là học trước khi tác động tới quy trình thật.",
+      "source_ids": [
+        "aifb-section-11.2"
+      ],
+      "aliases": [
+        "“Không Gian Thử Nghiệm AI Nội Bộ” (Internal AI Sandbox)"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "“Không Gian Thử Nghiệm AI Nội Bộ” (Internal AI Sandbox)"
+    },
+    {
+      "id": "aifb-qa-section-11.3",
+      "chapter": 11,
+      "region_id": "aifb-ch11",
+      "primary_source_id": "aifb-section-11.3",
+      "question": "Một thử nghiệm AI cần đo những gì để kết quả đáng tin?",
+      "answer": "Xác định giả thuyết, đường cơ sở, dữ liệu và tiêu chí thành công trước khi thử. Đo kết quả, sai sót và chi phí rồi ghi điều kiện để diễn giải.",
+      "source_ids": [
+        "aifb-section-11.3"
+      ],
+      "aliases": [
+        "Thiết kế đánh giá chặt chẽ hơn cho mỗi sandbox"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Thiết kế đánh giá chặt chẽ hơn cho mỗi sandbox"
+    },
+    {
+      "id": "aifb-qa-section-11.4",
+      "chapter": 11,
+      "region_id": "aifb-ch11",
+      "primary_source_id": "aifb-section-11.4",
+      "question": "Có thể bắt đầu sandbox ở một phòng ban như thế nào?",
+      "answer": "Chọn một tác vụ có rủi ro giới hạn, một người phụ trách và một chỉ số rõ. Giới hạn quyền và thời gian, rồi chia sẻ bài học cho các nhóm liên quan.",
+      "source_ids": [
+        "aifb-section-11.4"
+      ],
+      "aliases": [
+        "Không cần chờ một không gian toàn công ty mới bắt đầu được"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Không cần chờ một không gian toàn công ty mới bắt đầu được"
+    },
+    {
+      "id": "aifb-qa-section-11.5",
+      "chapter": 11,
+      "region_id": "aifb-ch11",
+      "primary_source_id": "aifb-section-11.5",
+      "question": "Hai loại sandbox trong chương khác nhau ra sao?",
+      "answer": "Sách phân biệt rõ 2 loại Sandbox: (1) Regulatory Sandbox (Cơ chế thử nghiệm có kiểm soát cấp nhà nước) — do cơ quan quản lý thiết lập cho các mô hình kinh doanh, công nghệ mới chưa có khung pháp lý đầy đủ; và (2) Internal AI Sandbox (Không gian thử nghiệm AI nội bộ cấp doanh nghiệp) — môi trường cô lập an toàn do chính doanh nghiệp tự lập để thử nghiệm AI với dữ liệu và quy trình kiểm soát trong 3–4 tuần trước khi đưa vào vận hành thật.",
+      "source_ids": [
+        "aifb-section-11.5"
+      ],
+      "aliases": [
+        "Hai loại “sandbox” cần phân biệt rõ",
+        "hai loại sandbox cần phân biệt",
+        "regulatory sandbox và internal ai sandbox",
+        "phân biệt hai loại sandbox"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Hai loại “sandbox” cần phân biệt rõ"
+    },
+    {
+      "id": "aifb-qa-section-11.6",
+      "chapter": 11,
+      "region_id": "aifb-ch11",
+      "primary_source_id": "aifb-section-11.6",
+      "question": "Danh mục thử nghiệm cấp tổ chức có ích gì?",
+      "answer": "Danh mục cho biết đội nào đang thử việc gì, kết quả và bài học ra sao. Tổ chức có thể tái sử dụng tri thức và giảm việc lặp lại cùng một thử nghiệm.",
+      "source_ids": [
+        "aifb-section-11.6"
+      ],
+      "aliases": [
+        "Từ một mini-sandbox đến một danh mục thử nghiệm cấp tổ chức"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Từ một mini-sandbox đến một danh mục thử nghiệm cấp tổ chức"
+    },
+    {
+      "id": "aifb-qa-section-11.7",
+      "chapter": 11,
+      "region_id": "aifb-ch11",
+      "primary_source_id": "aifb-section-11.7",
+      "question": "Ba loại thất bại trong thử nghiệm AI là gì?",
+      "answer": "Trong Internal AI Sandbox, không phải mọi thất bại đều giống nhau; sách chia làm 3 loại: (1) Thất bại thông minh — thử nghiệm có thiết kế chặt, trong phạm vi kiểm soát và giúp rút ra bài học mới (cần khuyến khích); (2) Thất bại do cẩu thả — vi phạm nguyên tắc bảo mật, không chuẩn bị dữ liệu hoặc bỏ qua quy trình đã biết (cần chấn chỉnh); (3) Thất bại kéo dài do không chịu dừng — dự án không đạt tiêu chí nhưng vẫn duy trì gây lãng phí nguồn lực.",
+      "source_ids": [
+        "aifb-section-11.7"
+      ],
+      "aliases": [
+        "ba loại thất bại",
+        "3 loại thất bại sandbox",
+        "Không phải mọi thất bại đều giống nhau",
+        "ba loại thất bại trong sandbox",
+        "không phải mọi thất bại đều giống nhau"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Không phải mọi thất bại đều giống nhau"
+    },
+    {
+      "id": "aifb-qa-section-11.8",
+      "chapter": 11,
+      "region_id": "aifb-ch11",
+      "primary_source_id": "aifb-section-11.8",
+      "question": "Điều kiện đưa một thử nghiệm sang vận hành chính thức là gì?",
+      "answer": "Thử nghiệm cần đạt tiêu chí đã đặt, cho thấy rủi ro có thể kiểm soát và có chủ sở hữu vận hành. Sau khi triển khai vẫn theo dõi kết quả và điều kiện dừng.",
+      "source_ids": [
+        "aifb-section-11.8"
+      ],
+      "aliases": [
+        "Một ví dụ đầy đủ: hành trình một thử nghiệm từ sandbox đến vận hành chính thức",
+        "Một ví dụ đầy đủ",
+        "hành trình một thử nghiệm từ sandbox đến vận hành chính thức"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Một ví dụ đầy đủ: hành trình một thử nghiệm từ sandbox đến vận hành chính thức"
+    },
+    {
+      "id": "aifb-qa-section-11.9",
+      "chapter": 11,
+      "region_id": "aifb-ch11",
+      "primary_source_id": "aifb-section-11.9",
+      "question": "CEO nên đọc danh mục thí điểm AI để quyết định gì?",
+      "answer": "Xem bằng chứng về giá trị, rủi ro và khả năng nhân rộng. Quyết định mở rộng, điều chỉnh, dừng hoặc chia sẻ bài học theo từng thử nghiệm.",
+      "source_ids": [
+        "aifb-section-11.9"
+      ],
+      "aliases": [
+        "Vai trò của CEO: đọc bảng danh mục thí điểm đúng cách",
+        "Vai trò của CEO",
+        "đọc bảng danh mục thí điểm đúng cách"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Vai trò của CEO: đọc bảng danh mục thí điểm đúng cách"
+    }
+  ],
+  "sources": {
+    "aifb-section-11.1": {
+      "title": "Phá bỏ nỗi sợ sai lầm cho nhân viên trong môi trường biến động",
+      "kind": "section",
+      "number": "11.1",
+      "page": 181,
+      "end_page": 183,
+      "parent_id": "aifb-ch11"
+    },
+    "aifb-section-11.2": {
+      "title": "“Không Gian Thử Nghiệm AI Nội Bộ” (Internal AI Sandbox)",
+      "kind": "section",
+      "number": "11.2",
+      "page": 183,
+      "end_page": 185,
+      "parent_id": "aifb-ch11"
+    },
+    "aifb-figure-11.1": {
+      "title": "Chu trình thử nghiệm và học hỏi",
+      "kind": "figure",
+      "number": "11.1",
+      "page": 183,
+      "end_page": 183,
+      "parent_id": "aifb-ch11"
+    },
+    "aifb-section-11.3": {
+      "title": "Thiết kế đánh giá chặt chẽ hơn cho mỗi sandbox",
+      "kind": "section",
+      "number": "11.3",
+      "page": 185,
+      "end_page": 187,
+      "parent_id": "aifb-ch11"
+    },
+    "aifb-section-11.4": {
+      "title": "Không cần chờ một không gian toàn công ty mới bắt đầu được",
+      "kind": "section",
+      "number": "11.4",
+      "page": 187,
+      "end_page": 187,
+      "parent_id": "aifb-ch11"
+    },
+    "aifb-section-11.5": {
+      "title": "Hai loại “sandbox” cần phân biệt rõ",
+      "kind": "section",
+      "number": "11.5",
+      "page": 187,
+      "end_page": 189,
+      "parent_id": "aifb-ch11"
+    },
+    "aifb-table-11.1": {
+      "title": "Hai loại sandbox cần phân biệt",
+      "kind": "table",
+      "number": "11.1",
+      "page": 188,
+      "end_page": 188,
+      "parent_id": "aifb-ch11"
+    },
+    "aifb-section-11.6": {
+      "title": "Từ một mini-sandbox đến một danh mục thử nghiệm cấp tổ chức",
+      "kind": "section",
+      "number": "11.6",
+      "page": 189,
+      "end_page": 190,
+      "parent_id": "aifb-ch11"
+    },
+    "aifb-section-11.7": {
+      "title": "Không phải mọi thất bại đều giống nhau",
+      "kind": "section",
+      "number": "11.7",
+      "page": 190,
+      "end_page": 192,
+      "parent_id": "aifb-ch11"
+    },
+    "aifb-figure-11.2": {
+      "title": "Ba loại thất bại và phản ứng quản trị tương ứng",
+      "kind": "figure",
+      "number": "11.2",
+      "page": 191,
+      "end_page": 191,
+      "parent_id": "aifb-ch11"
+    },
+    "aifb-section-11.8": {
+      "title": "Một ví dụ đầy đủ: hành trình một thử nghiệm từ sandbox đến vận hành chính thức",
+      "kind": "section",
+      "number": "11.8",
+      "page": 192,
+      "end_page": 194,
+      "parent_id": "aifb-ch11"
+    },
+    "aifb-figure-11.3": {
+      "title": "Hành trình một thử nghiệm: từ sandbox đến vận hành",
+      "kind": "figure",
+      "number": "11.3",
+      "page": 194,
+      "end_page": 194,
+      "parent_id": "aifb-ch11"
+    },
+    "aifb-section-11.9": {
+      "title": "Vai trò của CEO: đọc bảng danh mục thí điểm đúng cách",
+      "kind": "section",
+      "number": "11.9",
+      "page": 194,
+      "end_page": 196,
+      "parent_id": "aifb-ch11"
+    },
+    "aifb-ch11": {
+      "title": "Từ Sandbox đến hệ thống học hỏi",
+      "kind": "chapter",
+      "number": null,
+      "page": 179,
+      "end_page": 196,
+      "parent_id": "aifb-ch11"
+    }
+  },
+  "print_pages": {
+    "179": "aifb-ch11",
+    "180": "aifb-ch11",
+    "181": "aifb-ch11",
+    "182": "aifb-ch11",
+    "183": "aifb-ch11",
+    "184": "aifb-ch11",
+    "185": "aifb-ch11",
+    "186": "aifb-ch11",
+    "187": "aifb-ch11",
+    "188": "aifb-ch11",
+    "189": "aifb-ch11",
+    "190": "aifb-ch11",
+    "191": "aifb-ch11",
+    "192": "aifb-ch11",
+    "193": "aifb-ch11",
+    "194": "aifb-ch11",
+    "195": "aifb-ch11",
+    "196": "aifb-ch11"
+  }
+}

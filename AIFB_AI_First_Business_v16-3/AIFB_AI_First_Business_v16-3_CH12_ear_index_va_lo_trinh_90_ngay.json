@@ -1,0 +1,452 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-ch12",
+    "kind": "chapter",
+    "chapter": 12,
+    "title": "EAR Index™ và Lộ trình 90 ngày",
+    "start": 197,
+    "end": 214
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-012",
+      "chapter": 12,
+      "question": "EAR Index™ dùng để làm gì?",
+      "answer": "EAR Index™ là công cụ chẩn đoán do tác giả đề xuất cho doanh nghiệp. Tám trụ cột giúp nhận diện điểm xuất phát, điểm nghẽn và năng lực cần ưu tiên cải thiện trước khi triển khai lộ trình hành động.",
+      "source_ids": [
+        "aifb-section-12.1",
+        "aifb-section-12.2"
+      ],
+      "aliases": [
+        "EAR Index",
+        "chỉ số sẵn sàng AI của doanh nghiệp",
+        "Vì sao doanh nghiệp cần một khung chẩn đoán của riêng mình"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-12.1",
+      "region_id": "aifb-ch12"
+    },
+    {
+      "id": "aifb-qa-021",
+      "chapter": 12,
+      "question": "EAR Index™ xử lý thế nào nếu một trụ cột đạt 1 điểm?",
+      "answer": "Nếu một trụ cột chỉ đạt 1 điểm, xếp hạng tổng thể tối đa là Ứng dụng AI phân mảnh. Quy tắc này áp dụng cả khi tổng điểm vượt ngưỡng của mức đó.",
+      "source_ids": [
+        "aifb-section-12.4"
+      ],
+      "aliases": [
+        "trần điểm EAR",
+        "trụ cột đạt 1 điểm",
+        "trụ cột chỉ đạt 1 điểm",
+        "Bốn mức trưởng thành"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-12.4",
+      "region_id": "aifb-ch12"
+    },
+    {
+      "id": "aifb-qa-022",
+      "chapter": 12,
+      "question": "Công thức tính điểm EAR Index™ là gì?",
+      "answer": "Với mỗi trụ cột, chia điểm trên thang 1–5 cho 5 rồi nhân với trọng số. Cộng kết quả của tám trụ cột. Nếu trọng số nhập dưới dạng tỷ lệ, nhân tổng với 100 để ra điểm trên thang 100.",
+      "source_ids": [
+        "aifb-section-12.3"
+      ],
+      "aliases": [
+        "công thức EAR",
+        "điểm EAR tính thế nào",
+        "cách tính điểm EAR",
+        "Cách tính điểm"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-12.3",
+      "region_id": "aifb-ch12"
+    },
+    {
+      "id": "aifb-qa-section-12.1",
+      "chapter": 12,
+      "region_id": "aifb-ch12",
+      "primary_source_id": "aifb-section-12.1",
+      "question": "Doanh nghiệp cần EAR Index™ để chẩn đoán điều gì?",
+      "answer": "EAR Index™ là công cụ tác giả đề xuất để xác định mức sẵn sàng của tổ chức, tìm điểm nghẽn và chọn năng lực ưu tiên trước khi chuyển sang lộ trình hành động.",
+      "source_ids": [
+        "aifb-section-12.1"
+      ],
+      "aliases": [
+        "Vì sao doanh nghiệp cần một khung chẩn đoán của riêng mình"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Vì sao doanh nghiệp cần một khung chẩn đoán của riêng mình"
+    },
+    {
+      "id": "aifb-qa-section-12.2",
+      "chapter": 12,
+      "region_id": "aifb-ch12",
+      "primary_source_id": "aifb-section-12.2",
+      "question": "EAR Index™ có tám trụ cột và trọng số nào?",
+      "answer": "EAR Index™ gồm 8 trụ cột với tổng trọng số 100%: (1) Chiến lược & Mục tiêu Kinh doanh – 12%; (2) Dữ liệu, Bối cảnh & Hạ tầng – 13%; (3) Kinh tế Đơn vị & Kỷ luật ROI – 10%; (4) Quản trị Quyền, Rủi ro & Vòng đời AI – 12%; (5) Năng lực Lãnh đạo & Quản trị Thay đổi – 15%; (6) Năng lực Vận hành & Thiết kế lại Quy trình – 15%; (7) Thử nghiệm, Đánh giá & Học hỏi – 10%; (8) Năng lực Con người & Sẵn sàng Chuyển đổi – 13%. Hai trụ cột có trọng số cao nhất là Trụ cột 5 (Năng lực Lãnh đạo & Quản trị Thay đổi) và Trụ cột 6 (Năng lực Vận hành & Thiết kế lại Quy trình), cùng ở mức 15%.",
+      "source_ids": [
+        "aifb-section-12.2",
+        "aifb-table-12.1"
+      ],
+      "aliases": [
+        "trọng số EAR Index",
+        "8 trụ cột và trọng số EAR",
+        "EAR Index gồm bao nhiêu trụ cột",
+        "trụ cột nào có trọng số cao nhất",
+        "tám trụ cột của EAR Index",
+        "8 trụ cột EAR Index",
+        "trọng số các trụ cột EAR Index",
+        "bảng 12.1",
+        "làm sao biết doanh nghiệp đã sẵn sàng ứng dụng AI",
+        "đánh giá mức độ sẵn sàng AI của doanh nghiệp",
+        "Tám trụ cột của EAR Index™"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Tám trụ cột của EAR Index™"
+    },
+    {
+      "id": "aifb-qa-section-12.3",
+      "chapter": 12,
+      "region_id": "aifb-ch12",
+      "primary_source_id": "aifb-section-12.3",
+      "question": "Điểm EAR Index™ tính ra sao?",
+      "answer": "Chia điểm mỗi trụ cột trên thang 1–5 cho 5, nhân trọng số dạng tỷ lệ, cộng tám kết quả rồi nhân 100. Dùng điểm trung bình của người chấm cho từng trụ cột.",
+      "source_ids": [
+        "aifb-section-12.3"
+      ],
+      "aliases": [
+        "Cách tính điểm"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Cách tính điểm"
+    },
+    {
+      "id": "aifb-qa-section-12.4",
+      "chapter": 12,
+      "region_id": "aifb-ch12",
+      "primary_source_id": "aifb-section-12.4",
+      "question": "Bốn mức EAR Index™ và quy tắc chặn là gì?",
+      "answer": "AI-First ở quy mô mở rộng 80–100, AI-First trong vận hành 65–79, Ứng dụng AI phân mảnh 50–64 và Thăm dò AI dưới 50. Nếu một trụ cột chỉ đạt 1 điểm, xếp hạng tối đa là Ứng dụng AI phân mảnh.",
+      "source_ids": [
+        "aifb-section-12.4"
+      ],
+      "aliases": [
+        "Bốn mức trưởng thành"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Bốn mức trưởng thành"
+    },
+    {
+      "id": "aifb-qa-section-12.5",
+      "chapter": 12,
+      "region_id": "aifb-ch12",
+      "primary_source_id": "aifb-section-12.5",
+      "question": "Sau khi có điểm EAR Index™ nên làm gì?",
+      "answer": "Dùng lần chấm đầu làm đường cơ sở, chọn một đến hai trụ cột yếu để ưu tiên và giao người phụ trách cùng hạn chót. Chấm lại theo chu kỳ và đối chiếu chênh lệch giữa các nhóm.",
+      "source_ids": [
+        "aifb-section-12.5"
+      ],
+      "aliases": [
+        "Cách sử dụng EAR Index™ trong thực tế"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Cách sử dụng EAR Index™ trong thực tế"
+    },
+    {
+      "id": "aifb-qa-section-12.6",
+      "chapter": 12,
+      "region_id": "aifb-ch12",
+      "primary_source_id": "aifb-section-12.6",
+      "question": "Lộ trình 90 ngày có ba giai đoạn nào?",
+      "answer": "Lộ trình 90 ngày triển khai AI-First chia làm 3 chặng 30 ngày: (1) Ngày 1–30 (Chẩn đoán & Đặt nền móng): Chấm điểm EAR Index™, lập nhóm nòng cốt, ban hành quy tắc dữ liệu Xanh – Vàng – Đỏ, chọn 1–2 bài toán ưu tiên và đo đường cơ sở (baseline); (2) Ngày 31–60 (Thử nghiệm trong Sandbox): Thiết lập Hồ Sơ Agent, chạy pilot trong Internal AI Sandbox và đo ROI Tầng 1; (3) Ngày 61–90 (Chuẩn hóa & Quyết định Mở rộng/Điều chỉnh/Dừng): Lập AI Lifecycle Card, cập nhật Sơ Đồ Công Việc và nhân rộng.",
+      "source_ids": [
+        "aifb-section-12.6"
+      ],
+      "aliases": [
+        "ba giai đoạn của lộ trình 90 ngày",
+        "adaptation gate gồm gì",
+        "Lộ trình 90 ngày: cùng một cánh cửa, ba người bước vào cùng lúc",
+        "Lộ trình 90 ngày",
+        "cùng một cánh cửa, ba người bước vào cùng lúc",
+        "lộ trình 90 ngày",
+        "30 60 90 ngày",
+        "trong 30 ngày đầu doanh nghiệp cần làm gì",
+        "ngày 31 đến 60",
+        "ngày 61 đến 90"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Lộ trình 90 ngày: cùng một cánh cửa, ba người bước vào cùng lúc"
+    },
+    {
+      "id": "aifb-qa-section-12.7",
+      "chapter": 12,
+      "region_id": "aifb-ch12",
+      "primary_source_id": "aifb-section-12.7",
+      "question": "Buổi đồng bộ 15 phút hằng tuần có ai tham gia và hỏi gì?",
+      "answer": "Quản lý cấp trung và người trực tiếp thử nghiệm trao đổi mỗi thứ Sáu về việc đã làm, trở ngại cần hỗ trợ và việc tuần tới. CEO nhận báo cáo tại các mốc lớn.",
+      "source_ids": [
+        "aifb-section-12.7"
+      ],
+      "aliases": [
+        "Nghi thức đồng bộ hằng tuần"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Nghi thức đồng bộ hằng tuần"
+    },
+    {
+      "id": "aifb-qa-section-12.8",
+      "chapter": 12,
+      "region_id": "aifb-ch12",
+      "primary_source_id": "aifb-section-12.8",
+      "question": "Bốn bẫy khi triển khai lộ trình 90 ngày là gì?",
+      "answer": "Chỉ một trong ba nhóm vai trò thực sự hành động, nhầm hoạt động với tiến bộ, dừng sau chu kỳ đầu và quản lý cấp trung ngại báo trở ngại thật với CEO.",
+      "source_ids": [
+        "aifb-section-12.8"
+      ],
+      "aliases": [
+        "4 bẫy lộ trình 90 ngày",
+        "Bốn cái bẫy phổ biến nhất khi triển khai lộ trình 90 ngày"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Bốn cái bẫy phổ biến nhất khi triển khai lộ trình 90 ngày"
+    },
+    {
+      "id": "aifb-qa-section-12.9",
+      "chapter": 12,
+      "region_id": "aifb-ch12",
+      "primary_source_id": "aifb-section-12.9",
+      "question": "Kết thúc mỗi giai đoạn của lộ trình 90 ngày cần có đầu ra gì?",
+      "answer": "Ngày 30 có điểm EAR đường cơ sở và hai ưu tiên. Ngày 60 có ít nhất một thử nghiệm nhỏ hoàn tất cho mỗi ưu tiên. Ngày 90 có điểm EAR lần hai và quyết định hai ưu tiên cho chu kỳ tiếp theo.",
+      "source_ids": [
+        "aifb-section-12.9"
+      ],
+      "aliases": [
+        "Bảng tóm tắt một trang: dán lên tường phòng họp",
+        "Bảng tóm tắt một trang",
+        "dán lên tường phòng họp"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Bảng tóm tắt một trang: dán lên tường phòng họp"
+    },
+    {
+      "id": "aifb-qa-extra-05",
+      "chapter": 12,
+      "question": "EAR trụ cột 8 về Con người khác khung quốc gia trụ cột 4 về Nhân lực thế nào?",
+      "answer": "Không giống nhau. EAR trụ cột 8 đo ma trận kỹ năng theo vai trò, cơ chế bảo vệ bậc thang kinh nghiệm và an toàn tâm lý khi thử nghiệm ở cấp một doanh nghiệp cụ thể. Trụ cột 4 cấp quốc gia đo số kỹ sư/kỹ thuật viên tốt nghiệp mỗi năm trong vùng, chương trình đào tạo lại gắn doanh nghiệp, và khả năng thu hút, giữ chân chuyên gia ở cấp địa phương/quốc gia.",
+      "source_ids": [
+        "aifb-section-12.2",
+        "aifb-p226"
+      ],
+      "aliases": [
+        "EAR trụ cột 8 vs khung quốc gia trụ cột 4",
+        "trụ cột con người của EAR khác trụ cột nhân lực quốc gia ra sao",
+        "so sánh EAR con người với nhân lực quốc gia"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-12.2",
+      "region_id": "aifb-ch12"
+    },
+    {
+      "id": "aifb-qa-eval-23",
+      "chapter": 12,
+      "question": "Giai đoạn đầu lộ trình chuyển đổi AI toàn diện nên tập trung tái cấu trúc công nghệ hay thay đổi tư duy văn hóa nhân sự trước?",
+      "answer": "Bắt buộc tập trung thay đổi tư duy lãnh đạo, văn hóa thử nghiệm và năng lực quản trị quy trình của nhân sự trước khi rót vốn lớn vào công nghệ. Sách chỉ rõ công nghệ AI hiện rất sẵn, nhưng phần lớn dự án thất bại do tổ chức thiếu kỷ luật dữ liệu, thiếu chủ sở hữu quy trình và nhân sự sợ sai hoặc dùng Shadow AI. Trong Lộ trình 90 ngày và EAR Index™, hai trụ cột có trọng số cao nhất (15% mỗi trụ cột) đều thuộc về Lãnh đạo/Quản trị thay đổi và Vận hành/Quy trình.",
+      "source_ids": [
+        "aifb-section-12.6"
+      ],
+      "aliases": [
+        "giai đoạn đầu tiên chúng ta nên tập trung vào việc tái cấu trúc công nghệ hay thay đổi tư duy văn hóa",
+        "tái cấu trúc công nghệ hay thay đổi tư duy văn hóa của nhân sự trước"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-12.6",
+      "region_id": "aifb-ch12"
+    },
+    {
+      "id": "aifb-qa-eval-28b",
+      "chapter": 12,
+      "question": "Nếu áp dụng AI vào khâu ưu tiên trong sản xuất thì mất bao lâu để nhân viên quen với quy trình mới?",
+      "answer": "Theo khung Internal AI Sandbox và Lộ trình 90 ngày, một vòng thử nghiệm tại khâu ưu tiên chỉ mất khoảng 3–4 tuần (30 ngày đầu chuẩn bị & đo đường cơ sở, ngày 31–60 chạy pilot trong sandbox và huấn luyện trực tiếp trên công việc thật) để nhân viên nắm quy trình cộng tác Người – AI mới, và hoàn tất đánh giá chuẩn hóa để nhân rộng trong mốc 60–90 ngày.",
+      "source_ids": [
+        "aifb-section-12.6"
+      ],
+      "aliases": [
+        "nếu áp dụng vào khâu đó thì mất khoảng bao lâu để nhân viên quen với quy trình mới",
+        "mất bao lâu để nhân viên quen quy trình AI mới"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-12.6",
+      "region_id": "aifb-ch12"
+    }
+  ],
+  "sources": {
+    "aifb-figure-12.1": {
+      "title": "Tám trụ cột EAR Index™: bản đồ tổng kết logic cuốn sách",
+      "kind": "figure",
+      "number": "12.1",
+      "page": 199,
+      "end_page": 199,
+      "parent_id": "aifb-ch12"
+    },
+    "aifb-section-12.1": {
+      "title": "Vì sao doanh nghiệp cần một khung chẩn đoán của riêng mình",
+      "kind": "section",
+      "number": "12.1",
+      "page": 199,
+      "end_page": 200,
+      "parent_id": "aifb-ch12"
+    },
+    "aifb-section-12.2": {
+      "title": "Tám trụ cột của EAR Index™",
+      "kind": "section",
+      "number": "12.2",
+      "page": 200,
+      "end_page": 203,
+      "parent_id": "aifb-ch12"
+    },
+    "aifb-table-12.1": {
+      "title": "Tám trụ cột EAR Index™: trọng số, câu hỏi chẩn đoán và",
+      "kind": "table",
+      "number": "12.1",
+      "page": 201,
+      "end_page": 201,
+      "parent_id": "aifb-ch12"
+    },
+    "aifb-section-12.3": {
+      "title": "Cách tính điểm",
+      "kind": "section",
+      "number": "12.3",
+      "page": 203,
+      "end_page": 204,
+      "parent_id": "aifb-ch12"
+    },
+    "aifb-section-12.4": {
+      "title": "Bốn mức trưởng thành",
+      "kind": "section",
+      "number": "12.4",
+      "page": 204,
+      "end_page": 205,
+      "parent_id": "aifb-ch12"
+    },
+    "aifb-table-12.2": {
+      "title": "Bốn mức trưởng thành của EAR Index™",
+      "kind": "table",
+      "number": "12.2",
+      "page": 204,
+      "end_page": 204,
+      "parent_id": "aifb-ch12"
+    },
+    "aifb-section-12.5": {
+      "title": "Cách sử dụng EAR Index™ trong thực tế",
+      "kind": "section",
+      "number": "12.5",
+      "page": 205,
+      "end_page": 206,
+      "parent_id": "aifb-ch12"
+    },
+    "aifb-section-12.6": {
+      "title": "Lộ trình 90 ngày: cùng một cánh cửa, ba người bước vào cùng lúc",
+      "kind": "section",
+      "number": "12.6",
+      "page": 206,
+      "end_page": 210,
+      "parent_id": "aifb-ch12"
+    },
+    "aifb-table-12.3": {
+      "title": "Ma trận 90 ngày: ba vai trò, một cánh cửa",
+      "kind": "table",
+      "number": "12.3",
+      "page": 206,
+      "end_page": 206,
+      "parent_id": "aifb-ch12"
+    },
+    "aifb-table-12.4": {
+      "title": "Giai đoạn 1: chẩn đoán trung thực, theo tuần và theo vai trò",
+      "kind": "table",
+      "number": "12.4",
+      "page": 207,
+      "end_page": 207,
+      "parent_id": "aifb-ch12"
+    },
+    "aifb-table-12.5": {
+      "title": "Giai đoạn 2: củng cố nền tảng, theo tuần và theo vai trò",
+      "kind": "table",
+      "number": "12.5",
+      "page": 208,
+      "end_page": 208,
+      "parent_id": "aifb-ch12"
+    },
+    "aifb-section-12.7": {
+      "title": "Nghi thức đồng bộ hằng tuần",
+      "kind": "section",
+      "number": "12.7",
+      "page": 210,
+      "end_page": 211,
+      "parent_id": "aifb-ch12"
+    },
+    "aifb-section-12.8": {
+      "title": "Bốn cái bẫy phổ biến nhất khi triển khai lộ trình 90 ngày",
+      "kind": "section",
+      "number": "12.8",
+      "page": 211,
+      "end_page": 212,
+      "parent_id": "aifb-ch12"
+    },
+    "aifb-section-12.9": {
+      "title": "Bảng tóm tắt một trang: dán lên tường phòng họp",
+      "kind": "section",
+      "number": "12.9",
+      "page": 212,
+      "end_page": 214,
+      "parent_id": "aifb-ch12"
+    },
+    "aifb-table-12.6": {
+      "title": "Lộ trình 90 ngày: bản tóm tắt một trang",
+      "kind": "table",
+      "number": "12.6",
+      "page": 212,
+      "end_page": 212,
+      "parent_id": "aifb-ch12"
+    },
+    "aifb-ch12": {
+      "title": "EAR Index™ và Lộ trình 90 ngày",
+      "kind": "chapter",
+      "number": null,
+      "page": 197,
+      "end_page": 214,
+      "parent_id": "aifb-ch12"
+    },
+    "aifb-p226": {
+      "title": "Phụ lục C · Đánh giá năng lực lực lượng lao động cấp tổ chức",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 226,
+      "end_page": 227,
+      "parent_id": "aifb-p226"
+    }
+  },
+  "print_pages": {
+    "197": "aifb-ch12",
+    "198": "aifb-ch12",
+    "199": "aifb-ch12",
+    "200": "aifb-ch12",
+    "201": "aifb-ch12",
+    "202": "aifb-ch12",
+    "203": "aifb-ch12",
+    "204": "aifb-ch12",
+    "205": "aifb-ch12",
+    "206": "aifb-ch12",
+    "207": "aifb-ch12",
+    "208": "aifb-ch12",
+    "209": "aifb-ch12",
+    "210": "aifb-ch12",
+    "211": "aifb-ch12",
+    "212": "aifb-ch12",
+    "213": "aifb-ch12",
+    "214": "aifb-ch12"
+  }
+}

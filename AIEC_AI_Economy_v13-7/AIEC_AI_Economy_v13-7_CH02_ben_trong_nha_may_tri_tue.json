@@ -1,0 +1,410 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-ch02",
+    "kind": "chapter",
+    "chapter": 2,
+    "title": "Bên trong nhà máy trí tuệ",
+    "start": 45,
+    "end": 66
+  },
+  "cards": [
+    {
+      "id": "aiec-qa-002",
+      "chapter": 2,
+      "question": "Nhà máy trí tuệ tạo ra sản phẩm gì?",
+      "answer": "Dưới góc nhìn kinh tế học, 'Nhà máy trí tuệ' (AI Factory) là cơ sở hạ tầng công nghiệp kiểu mới: nhận đầu vào là điện năng, nước làm mát, chip bán dẫn và dữ liệu thô để vận hành qua 2 dây chuyền liên hoàn — Dây chuyền Huấn luyện (Training: vốn đầu tư lớn để đúc kết tri thức vào mô hình) và Dây chuyền Suy luận (Inference: vận hành liên tục 24/7 để sản xuất đầu ra là token và năng lực giải quyết công việc cho nền kinh tế).",
+      "source_ids": [
+        "aiec-section-2.2",
+        "aiec-section-2.3",
+        "aiec-section-2.6"
+      ],
+      "aliases": [
+        "nhà máy trí tuệ",
+        "AI factory",
+        "huấn luyện và suy luận",
+        "Nhà máy trí tuệ là gì: một định nghĩa kinh tế",
+        "Nhà máy trí tuệ là gì",
+        "một định nghĩa kinh tế",
+        "nhà máy trí tuệ là gì",
+        "hai dây chuyền của nhà máy trí tuệ",
+        "AI Factory là gì"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-2.2",
+      "region_id": "aiec-ch02"
+    },
+    {
+      "id": "aiec-qa-section-2.1",
+      "chapter": 2,
+      "region_id": "aiec-ch02",
+      "primary_source_id": "aiec-section-2.1",
+      "question": "Chuyến thăm phòng máy Tân Trúc cho thấy AI phụ thuộc vào hạ tầng gì?",
+      "answer": "Quan sát tại Tân Trúc cho thấy phía sau phần mềm là máy chủ, thiết bị mạng, điện và hệ thống làm mát hoạt động liên tục. Những điều kiện vật lý này ảnh hưởng tới công suất thực tế của AI.",
+      "source_ids": [
+        "aiec-section-2.1"
+      ],
+      "aliases": [
+        "Một buổi sáng trong phòng máy ở Tân Trúc"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Một buổi sáng trong phòng máy ở Tân Trúc"
+    },
+    {
+      "id": "aiec-qa-section-2.2",
+      "chapter": 2,
+      "region_id": "aiec-ch02",
+      "primary_source_id": "aiec-section-2.2",
+      "question": "Nhà máy trí tuệ là gì?",
+      "answer": "Đó là hạ tầng tính toán chuyên dụng để biến dữ liệu thành năng lực AI trên quy mô lớn, từ nạp dữ liệu, huấn luyện và tinh chỉnh đến cung cấp suy luận.",
+      "source_ids": [
+        "aiec-section-2.2"
+      ],
+      "aliases": [
+        "định nghĩa nhà máy trí tuệ",
+        "AI factory là gì",
+        "Nhà máy trí tuệ là gì: một định nghĩa kinh tế",
+        "Nhà máy trí tuệ là gì",
+        "một định nghĩa kinh tế"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Nhà máy trí tuệ là gì: một định nghĩa kinh tế"
+    },
+    {
+      "id": "aiec-qa-section-2.3",
+      "chapter": 2,
+      "region_id": "aiec-ch02",
+      "primary_source_id": "aiec-section-2.3",
+      "question": "Huấn luyện và suy luận khác nhau thế nào trong nhà máy trí tuệ?",
+      "answer": "Huấn luyện và tinh chỉnh tạo ra hoặc điều chỉnh mô hình. Suy luận dùng mô hình đã huấn luyện để đáp ứng yêu cầu thực tế. Nhà máy phải tổ chức tài nguyên cho cả hai loại tải.",
+      "source_ids": [
+        "aiec-section-2.3"
+      ],
+      "aliases": [
+        "Chu trình sản xuất và hai dây chuyền"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Chu trình sản xuất và hai dây chuyền"
+    },
+    {
+      "id": "aiec-qa-section-2.4",
+      "chapter": 2,
+      "region_id": "aiec-ch02",
+      "primary_source_id": "aiec-section-2.4",
+      "question": "Vì sao giá suy luận giảm mà nhu cầu tính toán tăng?",
+      "answer": "Khi mỗi lần dùng rẻ hơn, nhiều người và quy trình sử dụng AI thường xuyên hơn. Tổng nhu cầu tính toán có thể tăng nếu khối lượng sử dụng tăng nhanh hơn mức giảm giá.",
+      "source_ids": [
+        "aiec-section-2.4"
+      ],
+      "aliases": [
+        "Giá giảm, cầu tăng: kinh tế học của suy luận",
+        "Giá giảm, cầu tăng",
+        "kinh tế học của suy luận"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Giá giảm, cầu tăng: kinh tế học của suy luận"
+    },
+    {
+      "id": "aiec-qa-section-2.5",
+      "chapter": 2,
+      "region_id": "aiec-ch02",
+      "primary_source_id": "aiec-section-2.5",
+      "question": "Nhà máy trí tuệ cần những đầu vào nào?",
+      "answer": "Ngoài dữ liệu, nhà máy cần năng lực tính toán, nguồn điện, kết nối và đội ngũ vận hành. Dữ liệu cần đủ chất lượng và phù hợp với nhiệm vụ để công suất tính toán tạo được giá trị.",
+      "source_ids": [
+        "aiec-section-2.5"
+      ],
+      "aliases": [
+        "Bốn yếu tố nền tảng và dữ liệu"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Bốn yếu tố nền tảng và dữ liệu"
+    },
+    {
+      "id": "aiec-qa-section-2.6",
+      "chapter": 2,
+      "region_id": "aiec-ch02",
+      "primary_source_id": "aiec-section-2.6",
+      "question": "Token có phải thước đo giá trị kinh tế của AI?",
+      "answer": "Token là đơn vị mô hình dùng để đọc và tạo nội dung. Giá trị kinh tế phụ thuộc vào công việc đầu ra giải quyết được, như rút ngắn thời gian xử lý hoặc cải thiện một quyết định.",
+      "source_ids": [
+        "aiec-section-2.6"
+      ],
+      "aliases": [
+        "Sản phẩm của nhà máy: từ token đến năng lực giải quyết vấn đề",
+        "Sản phẩm của nhà máy",
+        "từ token đến năng lực giải quyết vấn đề"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Sản phẩm của nhà máy: từ token đến năng lực giải quyết vấn đề"
+    },
+    {
+      "id": "aiec-qa-section-2.7",
+      "chapter": 2,
+      "region_id": "aiec-ch02",
+      "primary_source_id": "aiec-section-2.7",
+      "question": "Năm chỉ số đo năng suất nhà máy trí tuệ là gì?",
+      "answer": "Sản lượng, độ trễ, mức khai thác chip, chi phí trên mỗi đơn vị sản phẩm, cùng độ sẵn sàng và làm mát. Chi phí mỗi token bằng tổng khấu hao phần cứng, năng lượng và vận hành chia cho số token thực tế sản xuất.",
+      "source_ids": [
+        "aiec-section-2.7"
+      ],
+      "aliases": [
+        "chi phí mỗi token của nhà máy trí tuệ",
+        "chỉ số năng suất nhà máy trí tuệ",
+        "Đo năng suất của nhà máy trí tuệ"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Đo năng suất của nhà máy trí tuệ"
+    },
+    {
+      "id": "aiec-qa-section-2.8",
+      "chapter": 2,
+      "region_id": "aiec-ch02",
+      "primary_source_id": "aiec-section-2.8",
+      "question": "Năm cơ chế chuyển năng lực AI thành giá trị kinh tế là gì?",
+      "answer": "Năm cơ chế AI tạo ra giá trị kinh tế gồm: (1) Giảm mạnh chi phí biên của việc tạo lập, tổng hợp và xử lý thông tin; (2) Rút ngắn thời gian phân tích và nâng cao chất lượng ra quyết định; (3) Cá nhân hóa sản phẩm, dịch vụ ở quy mô hàng triệu khách hàng; (4) Tự động hóa trọn vẹn các chuỗi tác vụ phức tạp qua Tác nhân AI; (5) Thúc đẩy R&D, tạo ra sản phẩm và mô hình kinh doanh hoàn toàn mới.",
+      "source_ids": [
+        "aiec-section-2.8"
+      ],
+      "aliases": [
+        "Năm cơ chế tạo ra giá trị kinh tế",
+        "năm cơ chế tạo ra giá trị kinh tế",
+        "5 cơ chế AI tạo ra giá trị kinh tế"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Năm cơ chế tạo ra giá trị kinh tế"
+    },
+    {
+      "id": "aiec-qa-extra-02",
+      "chapter": 2,
+      "question": "Vì sao các nước đang đổ tiền xây trung tâm dữ liệu nhiều vậy?",
+      "answer": "Các quốc gia và tập đoàn đổ vốn lớn xây dựng trung tâm dữ liệu vì trong nền kinh tế mới, trí tuệ trở thành một yếu tố sản xuất trực tiếp và phải được sản xuất công nghiệp trong các “nhà máy trí tuệ” (trung tâm dữ liệu AI) — cơ sở biến bốn đầu vào (điện năng, chip bán dẫn, dữ liệu và kỹ sư) qua hai dây chuyền huấn luyện và suy luận thành đầu ra là token và năng lực giải quyết vấn đề. Hạ tầng tính toán trong nước là điều kiện tiên quyết của nền kinh tế AI, giúp giảm độ trễ, giữ dữ liệu chiến lược và bảo đảm chủ quyền AI để quốc gia không phụ thuộc hoàn toàn vào các nền tảng nước ngoài.",
+      "source_ids": [
+        "aiec-section-2.2",
+        "aiec-section-2.5",
+        "aiec-section-3.4"
+      ],
+      "aliases": [
+        "vì sao các nước đang đổ tiền xây trung tâm dữ liệu nhiều vậy",
+        "tại sao các quốc gia đầu tư mạnh vào trung tâm dữ liệu AI",
+        "vì sao thế giới đổ tiền xây trung tâm dữ liệu",
+        "tại sao phải xây trung tâm dữ liệu AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-2.2",
+      "region_id": "aiec-ch02"
+    },
+    {
+      "id": "aiec-qa-eval-16",
+      "chapter": 2,
+      "question": "Sự trỗi dậy của nền kinh tế AI tạo ra những mô hình kinh doanh mới nào cho doanh nghiệp cung cấp dịch vụ B2B?",
+      "answer": "Trong nền kinh tế AI, sản phẩm của 'nhà máy trí tuệ' chuyển từ token thô sang năng lực giải quyết công việc trọn gói, mở ra 4 mô hình kinh doanh B2B AI-Native nổi bật: (1) Nền tảng Năng suất (cung cấp công cụ AI chuyên biệt theo ngành); (2) Chợ Tác nhân AI / Dịch vụ dưới dạng phần mềm (cung cấp đội ngũ Agent thực thi quy trình và thu phí theo kết quả đầu ra thay vì theo giờ công); (3) Trí tuệ Dữ liệu (thương mại hóa dữ liệu và ngữ cảnh chuyên ngành độc quyền); (4) Sản xuất Tăng cường AI (tối ưu hóa chuỗi cung ứng và sản xuất thông minh).",
+      "source_ids": [
+        "aiec-section-2.8"
+      ],
+      "aliases": [
+        "sự trỗi dậy của nền kinh tế AI sẽ tạo ra những mô hình kinh doanh mới nào cho các doanh nghiệp cung cấp dịch vụ B2B",
+        "mô hình kinh doanh mới cho doanh nghiệp B2B"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-2.8",
+      "region_id": "aiec-ch02"
+    },
+    {
+      "id": "aiec-qa-eval-19",
+      "chapter": 2,
+      "question": "Trong nền kinh tế AI, tài sản vô hình nào của doanh nghiệp sẽ trở nên đắt giá nhất và quyết định định giá công ty?",
+      "answer": "Khi năng lực tính toán và mô hình AI nền tảng có thể thuê qua đám mây, tài sản vô hình đắt giá nhất quyết định vị thế và định giá của doanh nghiệp là Dữ liệu độc quyền gắn với ngữ cảnh chuyên ngành (Proprietary Domain Data), cùng với quy trình vận hành đã được tái thiết kế để tích hợp tác nhân AI và đội ngũ nhân sự có khả năng điều phối hệ thống trí tuệ.",
+      "source_ids": [
+        "aiec-section-2.5"
+      ],
+      "aliases": [
+        "trong nền kinh tế AI tài sản vô hình nào của doanh nghiệp sẽ trở nên đắt giá nhất",
+        "quyết định định giá của công ty"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-2.5",
+      "region_id": "aiec-ch02"
+    },
+    {
+      "id": "aiec-qa-eval-33a",
+      "chapter": 2,
+      "question": "Theo phân tích kinh tế học AI, AI giúp giảm chi phí vận hành cho doanh nghiệp ở những khoản mục nào?",
+      "answer": "AI giúp doanh nghiệp cắt giảm chi phí vận hành mạnh nhất ở 4 khoản mục: (1) Chi phí xử lý thông tin, hành chính, chứng từ và báo cáo lặp lại; (2) Chi phí giao tiếp, chăm sóc khách hàng và tư vấn tuyến đầu; (3) Chi phí hao hụt, kiểm định chất lượng (KCS) và dự báo tồn kho trong sản xuất – logistics; (4) Chi phí tra cứu, phân tích dữ liệu phục vụ ra quyết định.",
+      "source_ids": [
+        "aiec-section-2.8"
+      ],
+      "aliases": [
+        "AI giúp giảm chi phí vận hành cho doanh nghiệp ở những khoản mục nào",
+        "năm cơ chế tạo ra giá trị kinh tế"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-2.8",
+      "region_id": "aiec-ch02"
+    }
+  ],
+  "sources": {
+    "aiec-section-2.1": {
+      "title": "Một buổi sáng trong phòng máy ở Tân Trúc",
+      "kind": "section",
+      "number": "2.1",
+      "page": 46,
+      "end_page": 47,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-section-2.2": {
+      "title": "Nhà máy trí tuệ là gì: một định nghĩa kinh tế",
+      "kind": "section",
+      "number": "2.2",
+      "page": 47,
+      "end_page": 51,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-figure-2.1": {
+      "title": "Nhà máy trí tuệ: đầu vào, quy trình, đầu ra",
+      "kind": "figure",
+      "number": "2.1",
+      "page": 48,
+      "end_page": 48,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-figure-2.2": {
+      "title": "Từ trung tâm dữ liệu truyền thống",
+      "kind": "figure",
+      "number": "2.2",
+      "page": 49,
+      "end_page": 49,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-section-2.3": {
+      "title": "Chu trình sản xuất và hai dây chuyền",
+      "kind": "section",
+      "number": "2.3",
+      "page": 51,
+      "end_page": 54,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-figure-2.3": {
+      "title": "Hai dây chuyền của nhà máy trí tuệ: huấn luyện và",
+      "kind": "figure",
+      "number": "2.3",
+      "page": 51,
+      "end_page": 51,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-figure-2.4": {
+      "title": "Vốn phần vỏ và vốn phần IT trong vòng đời một",
+      "kind": "figure",
+      "number": "2.4",
+      "page": 53,
+      "end_page": 53,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-section-2.4": {
+      "title": "Giá giảm, cầu tăng: kinh tế học của suy luận",
+      "kind": "section",
+      "number": "2.4",
+      "page": 54,
+      "end_page": 55,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-figure-2.5": {
+      "title": "Giá mỗi đơn vị giảm, tổng nhu cầu tăng",
+      "kind": "figure",
+      "number": "2.5",
+      "page": 54,
+      "end_page": 54,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-section-2.5": {
+      "title": "Bốn yếu tố nền tảng và dữ liệu",
+      "kind": "section",
+      "number": "2.5",
+      "page": 55,
+      "end_page": 58,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-section-2.6": {
+      "title": "Sản phẩm của nhà máy: từ token đến năng lực giải quyết vấn đề",
+      "kind": "section",
+      "number": "2.6",
+      "page": 58,
+      "end_page": 60,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-section-2.7": {
+      "title": "Đo năng suất của nhà máy trí tuệ",
+      "kind": "section",
+      "number": "2.7",
+      "page": 60,
+      "end_page": 62,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-figure-2.6": {
+      "title": "Mật độ điện của tủ máy quyết định công nghệ làm mát",
+      "kind": "figure",
+      "number": "2.6",
+      "page": 62,
+      "end_page": 62,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-section-2.8": {
+      "title": "Năm cơ chế tạo ra giá trị kinh tế",
+      "kind": "section",
+      "number": "2.8",
+      "page": 62,
+      "end_page": 66,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-figure-2.7": {
+      "title": "Năm cơ chế AI tạo ra giá trị kinh tế",
+      "kind": "figure",
+      "number": "2.7",
+      "page": 63,
+      "end_page": 63,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-ch02": {
+      "title": "Bên trong nhà máy trí tuệ",
+      "kind": "chapter",
+      "number": null,
+      "page": 45,
+      "end_page": 66,
+      "parent_id": "aiec-ch02"
+    },
+    "aiec-section-3.4": {
+      "title": "Chủ quyền AI: Khi AI trở thành khoản đầu tư chiến lược quốc gia",
+      "kind": "section",
+      "number": "3.4",
+      "page": 74,
+      "end_page": 76,
+      "parent_id": "aiec-ch03"
+    }
+  },
+  "print_pages": {
+    "45": "aiec-ch02",
+    "46": "aiec-ch02",
+    "47": "aiec-ch02",
+    "48": "aiec-ch02",
+    "49": "aiec-ch02",
+    "50": "aiec-ch02",
+    "51": "aiec-ch02",
+    "52": "aiec-ch02",
+    "53": "aiec-ch02",
+    "54": "aiec-ch02",
+    "55": "aiec-ch02",
+    "56": "aiec-ch02",
+    "57": "aiec-ch02",
+    "58": "aiec-ch02",
+    "59": "aiec-ch02",
+    "60": "aiec-ch02",
+    "61": "aiec-ch02",
+    "62": "aiec-ch02",
+    "63": "aiec-ch02",
+    "64": "aiec-ch02",
+    "65": "aiec-ch02",
+    "66": "aiec-ch02"
+  }
+}

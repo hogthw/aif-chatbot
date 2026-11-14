@@ -221,7 +221,7 @@ Nếu wrangler hỏi "...was last modified in the dashboard. Continue?" → gõ 
 ```powershell
 npx wrangler secret put CHAT_SECRET
 ```
-Nhập cùng một giá trị với cấu hình `AIF_CHAT` trong website. Worker từ chối yêu cầu nếu secret chưa được đặt hoặc không khớp.
+Nhập cùng một giá trị với cấu hình `AIF_CHAT` trong website. Worker cũng chấp nhận secret tên `CHAT_CLIENT_TOKEN` để tương thích cấu hình đã triển khai trước đây. Worker từ chối yêu cầu nếu không có secret phù hợp hoặc giá trị không khớp.
 
 Đặt mã quản trị (dùng cho công cụ kiểm tra `/debug` và chấm thử):
 ```powershell
@@ -242,6 +242,16 @@ $ADMIN | npx wrangler secret put ADMIN_TOKEN
    ```
    Phải có `used` (các tài liệu được dùng) và `src` dạng `AI First Business (mục 4.4)`.
 3. Mở **https://aifirstbusiness.vn**, mở chatbot, chọn một câu gợi ý rồi gõ tự do một câu, ví dụ "Làm sao biết đầu tư AI có thực sự giúp công ty kiếm thêm tiền?" → câu trả lời hiện dần, cuối có "Nguồn: AI First Business (mục 4.4…)".
+
+**Giới hạn nguồn trả lời**: câu hỏi khớp chính xác một thẻ QA có đáp án và nguồn thì chatbot trả trực tiếp đáp án đã duyệt, không gọi model viết lại hoặc model trả lời. Câu hỏi khác được tìm trong sách; chỉ đoạn của một cuốn được gửi cho model. Ngoại lệ chỉ áp dụng cho thẻ QA đối chiếu được biên tập và dẫn riêng từng nguồn của hai cuốn. FAQ thông thường, thẻ khái niệm và nội dung website không được dùng làm căn cứ. Nếu không tìm được đoạn sách phù hợp thì chatbot báo chưa đủ thông tin. `/debug` trả thêm `qaCard` và `book` để kiểm tra truy xuất.
+
+**Điều chỉnh cách trả lời**: sửa hướng dẫn trong `workers\aif-kb-chat\src\prompts.js`, chạy `npm test`, sau đó deploy lại Worker để áp dụng. Câu trả lời được hướng dẫn mở đầu bằng kết luận, giải thích rõ thuật ngữ, dùng các bước/gạch đầu dòng khi phù hợp và giới hạn tối đa 160 từ.
+
+**QA-first**: khớp câu hỏi/bí danh không phân biệt hoa thường, dấu tiếng Việt hay dấu câu; cụm tiêu đề mục sách cũng có thể định tuyến tới đáp án QA tương ứng. Câu hỏi diễn đạt khác tiếp tục qua AI Search và LLM như trước; nếu nhiều thẻ khớp, thiếu đáp án hoặc thiếu nguồn thì không tự chọn đáp án QA.
+
+**Lịch sử hội thoại**: lịch sử chỉ được chuyển vào bước viết lại và prompt trả lời khi câu hỏi mới có dấu hiệu tham chiếu rõ tới lượt trước (ví dụ “còn cách đó thì sao?”). Câu hỏi độc lập không nhận ngữ cảnh từ câu trả lời cũ, tránh kéo nhầm chủ đề sang lượt mới.
+
+**Nạp thẻ QA cho hai sách**: trong đúng thư mục Google Drive nguồn đang cấu hình cho `aif-kb-sync`, tạo `02-faq/book-qa/aifb/` và `02-faq/book-qa/aiec/`. Chép vào đây các JSON theo chương có `cards` (bỏ các tệp tổng hợp `_FULL.json` để tránh thẻ trùng); giữ nguyên `book_id` là `aifb` hoặc `aiec`. Thẻ đối chiếu hai sách có thể để trong thư mục `aifb`, nhưng từng mục trong `sources` phải khai báo `book_id` của cuốn tương ứng để nguồn hiển thị chính xác. Không đổi `DRIVE_FOLDER_ID` sang thư mục Drive mới khi đang đồng bộ KB hiện tại, vì Worker đồng bộ sẽ xóa khỏi R2 các tệp không có trong thư mục nguồn mới. Sau khi thêm JSON, chạy sync và chờ AI Search lập chỉ mục; sách vẫn phải nằm dưới `03-sach/ai-first-business/` hoặc `03-sach/nen-kinh-te-tri-tue/`. `/debug` sẽ cho biết `qaCard` được chọn, cuốn sách và các đoạn sách thực sự dùng.
 
 ---
 

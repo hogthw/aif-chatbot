@@ -1,0 +1,385 @@
+{
+  "schema_version": 2,
+  "books": [
+    {
+      "book_id": "aiec",
+      "edition": "v13.7",
+      "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+      "source_file": "09-20261103_NKTTT_v13-7_BAN_CHOT_IN_HC.pdf",
+      "full_path": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_FULL.json",
+      "units": [
+        {
+          "region_id": "aiec-p1",
+          "chapter": null,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_P001_bia_va_trang_dau.json",
+          "title": "Bìa và trang đầu",
+          "cards": 0
+        },
+        {
+          "region_id": "aiec-p3",
+          "chapter": null,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_P003_muc_luc.json",
+          "title": "Mục lục",
+          "cards": 0
+        },
+        {
+          "region_id": "aiec-p5",
+          "chapter": null,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_P005_loi_mo_dau.json",
+          "title": "Lời mở đầu",
+          "cards": 1
+        },
+        {
+          "region_id": "aiec-p21",
+          "chapter": null,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_P021_phan_i_nen_mong_moi_cua_nen_kinh_te.json",
+          "title": "Phần I · Nền móng mới của nền kinh tế",
+          "cards": 0
+        },
+        {
+          "region_id": "aiec-ch01",
+          "chapter": 1,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_CH01_tri_tue_tro_thanh_yeu_to_san_xuat.json",
+          "title": "Trí tuệ trở thành yếu tố sản xuất",
+          "cards": 9
+        },
+        {
+          "region_id": "aiec-ch02",
+          "chapter": 2,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_CH02_ben_trong_nha_may_tri_tue.json",
+          "title": "Bên trong nhà máy trí tuệ",
+          "cards": 13
+        },
+        {
+          "region_id": "aiec-ch03",
+          "chapter": 3,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_CH03_dong_von_ai_dang_chay_ve_dau.json",
+          "title": "Dòng vốn AI đang chảy về đâu?",
+          "cards": 9
+        },
+        {
+          "region_id": "aiec-ch04",
+          "chapter": 4,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_CH04_kien_truc_su_luat_choi.json",
+          "title": "Kiến trúc sư luật chơi",
+          "cards": 6
+        },
+        {
+          "region_id": "aiec-ch05",
+          "chapter": 5,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_CH05_nhung_nuoc_nho_va_quyen_luc_tu_su_khan_hiem.json",
+          "title": "Những nước nhỏ và quyền lực từ sự khan hiếm",
+          "cards": 8
+        },
+        {
+          "region_id": "aiec-ch06",
+          "chapter": 6,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_CH06_quyen_luc_tu_toc_do_chuyen_hoa_nguon_luc.json",
+          "title": "Quyền lực từ tốc độ chuyển hóa nguồn lực",
+          "cards": 11
+        },
+        {
+          "region_id": "aiec-p155",
+          "chapter": null,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_P155_phan_ii_viet_nam_vao_cuoc.json",
+          "title": "Phần II · Việt Nam vào cuộc",
+          "cards": 0
+        },
+        {
+          "region_id": "aiec-ch07",
+          "chapter": 7,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_CH07_viet_nam_trong_nen_kinh_te_ai.json",
+          "title": "Việt Nam trong nền kinh tế AI",
+          "cards": 9
+        },
+        {
+          "region_id": "aiec-ch08",
+          "chapter": 8,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_CH08_tam_tru_cot_san_sang.json",
+          "title": "Tám trụ cột sẵn sàng",
+          "cards": 14
+        },
+        {
+          "region_id": "aiec-ch09",
+          "chapter": 9,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_CH09_tu_dong_hoa_va_con_dia_chan_nganh_nghe.json",
+          "title": "Tự động hóa và cơn địa chấn ngành nghề",
+          "cards": 10
+        },
+        {
+          "region_id": "aiec-ch10",
+          "chapter": 10,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_CH10_viet_nam_trong_ky_nguyen_ai.json",
+          "title": "Việt Nam trong kỷ nguyên AI",
+          "cards": 9
+        },
+        {
+          "region_id": "aiec-p247",
+          "chapter": null,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_P247_phan_iii_tu_chien_luoc_den_thuc_thi.json",
+          "title": "Phần III · Từ chiến lược đến thực thi",
+          "cards": 0
+        },
+        {
+          "region_id": "aiec-ch11",
+          "chapter": 11,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_CH11_chin_thang_de_co_mot_he_thong_may_chu_ai.json",
+          "title": "Chín tháng để có một hệ thống máy chủ AI",
+          "cards": 5
+        },
+        {
+          "region_id": "aiec-ch12",
+          "chapter": 12,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_CH12_doanh_nghiep.json",
+          "title": "Doanh nghiệp",
+          "cards": 9
+        },
+        {
+          "region_id": "aiec-ch13",
+          "chapter": 13,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_CH13_lua_chon_thuoc_ve_chung_ta.json",
+          "title": "Lựa chọn thuộc về chúng ta",
+          "cards": 8
+        },
+        {
+          "region_id": "aiec-p287",
+          "chapter": null,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_P287_phu_luc_a_ari_dia_phuong.json",
+          "title": "Phụ lục A · ARI địa phương",
+          "cards": 7
+        },
+        {
+          "region_id": "aiec-p292",
+          "chapter": null,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_P292_phu_luc_b_ari_ip.json",
+          "title": "Phụ lục B · ARI-IP",
+          "cards": 6
+        },
+        {
+          "region_id": "aiec-p295",
+          "chapter": null,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_P295_phu_luc_c_bang_thuat_ngu.json",
+          "title": "Phụ lục C · Bảng thuật ngữ",
+          "cards": 1
+        },
+        {
+          "region_id": "aiec-p303",
+          "chapter": null,
+          "filename": "AIEC_AI_Economy_v13-7/AIEC_AI_Economy_v13-7_P303_tai_lieu_tham_khao_chon_loc.json",
+          "title": "Tài liệu tham khảo chọn lọc",
+          "cards": 1
+        }
+      ],
+      "counts": {
+        "cards": 118,
+        "sections": 101,
+        "figures": 55,
+        "tables": 11
+      }
+    },
+    {
+      "book_id": "aifb",
+      "edition": "V16.3",
+      "title": "AI First Business",
+      "source_file": "08-20261010_AI_First_Business_V16.3_Ban-In_16x24.pdf",
+      "full_path": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_FULL.json",
+      "units": [
+        {
+          "region_id": "aifb-p1",
+          "chapter": null,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_P001_trang_ten_sach.json",
+          "title": "Trang tên sách",
+          "cards": 0
+        },
+        {
+          "region_id": "aifb-p2",
+          "chapter": null,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_P002_muc_luc.json",
+          "title": "Mục lục",
+          "cards": 0
+        },
+        {
+          "region_id": "aifb-p4",
+          "chapter": null,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_P004_ban_do_cong_cu.json",
+          "title": "Bản đồ công cụ",
+          "cards": 1
+        },
+        {
+          "region_id": "aifb-p5",
+          "chapter": null,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_P005_loi_tua.json",
+          "title": "Lời tựa",
+          "cards": 1
+        },
+        {
+          "region_id": "aifb-p8",
+          "chapter": null,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_P008_phan_i_tu_ap_luc_thi_truong_den_lua_chon_chien_luoc.json",
+          "title": "Phần I · Từ áp lực thị trường đến lựa chọn chiến lược",
+          "cards": 0
+        },
+        {
+          "region_id": "aifb-ch01",
+          "chapter": 1,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_CH01_cuoc_choi_da_doi_o_cap_doanh_nghiep.json",
+          "title": "Cuộc chơi đã đổi ở cấp doanh nghiệp",
+          "cards": 9
+        },
+        {
+          "region_id": "aifb-ch02",
+          "chapter": 2,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_CH02_mo_hinh_3a_tu_chap_va_den_tai_thiet.json",
+          "title": "Mô hình 3A: từ chắp vá đến tái thiết",
+          "cards": 10
+        },
+        {
+          "region_id": "aifb-ch03",
+          "chapter": 3,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_CH03_bon_mo_hinh_kinh_doanh_ai_native.json",
+          "title": "Bốn mô hình kinh doanh AI-Native",
+          "cards": 15
+        },
+        {
+          "region_id": "aifb-p63",
+          "chapter": null,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_P063_phan_ii_xay_nen_tang_tao_gia_tri.json",
+          "title": "Phần II · Xây nền tảng tạo giá trị",
+          "cards": 0
+        },
+        {
+          "region_id": "aifb-ch04",
+          "chapter": 4,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_CH04_dau_tu_ai_de_sinh_loi_roi_hai_tang.json",
+          "title": "Đầu tư AI để sinh lợi: ROI hai tầng",
+          "cards": 11
+        },
+        {
+          "region_id": "aifb-ch05",
+          "chapter": 5,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_CH05_bao_ve_du_lieu_trong_doanh_nghiep_ai_first.json",
+          "title": "Bảo vệ dữ liệu trong doanh nghiệp AI-First",
+          "cards": 13
+        },
+        {
+          "region_id": "aifb-ch06",
+          "chapter": 6,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_CH06_quan_tri_ai_va_nhung_canh_cua_phu.json",
+          "title": "Quản trị AI và những cánh cửa phụ",
+          "cards": 15
+        },
+        {
+          "region_id": "aifb-ch07",
+          "chapter": 7,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_CH07_ai_agent_don_vi_van_hanh_moi.json",
+          "title": "AI Agent: đơn vị vận hành mới",
+          "cards": 14
+        },
+        {
+          "region_id": "aifb-p133",
+          "chapter": null,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_P133_phan_iii_tai_thiet_to_chuc_va_cong_viec.json",
+          "title": "Phần III · Tái thiết tổ chức và công việc",
+          "cards": 0
+        },
+        {
+          "region_id": "aifb-ch08",
+          "chapter": 8,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_CH08_tu_sep_sang_nhac_truong.json",
+          "title": "Từ “Sếp” sang “Nhạc trưởng”",
+          "cards": 11
+        },
+        {
+          "region_id": "aifb-ch09",
+          "chapter": 9,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_CH09_ban_do_chuyen_doi_theo_phong_ban.json",
+          "title": "Bản đồ chuyển đổi theo phòng ban",
+          "cards": 8
+        },
+        {
+          "region_id": "aifb-ch10",
+          "chapter": 10,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_CH10_thiet_ke_luc_luong_lao_dong_ai_first.json",
+          "title": "Thiết kế lực lượng lao động AI-First",
+          "cards": 13
+        },
+        {
+          "region_id": "aifb-p177",
+          "chapter": null,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_P177_phan_iv_do_luong_thu_nghiem_va_nhan_rong.json",
+          "title": "Phần IV · Đo lường, thử nghiệm và nhân rộng",
+          "cards": 0
+        },
+        {
+          "region_id": "aifb-ch11",
+          "chapter": 11,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_CH11_tu_sandbox_den_he_thong_hoc_hoi.json",
+          "title": "Từ Sandbox đến hệ thống học hỏi",
+          "cards": 10
+        },
+        {
+          "region_id": "aifb-ch12",
+          "chapter": 12,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_CH12_ear_index_va_lo_trinh_90_ngay.json",
+          "title": "EAR Index™ và Lộ trình 90 ngày",
+          "cards": 15
+        },
+        {
+          "region_id": "aifb-p215",
+          "chapter": null,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_P215_loi_ket.json",
+          "title": "Lời kết",
+          "cards": 1
+        },
+        {
+          "region_id": "aifb-p217",
+          "chapter": null,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_P217_phu_luc_a_mau_chinh_sach_su_dung_ai_noi_bo.json",
+          "title": "Phụ lục A · Mẫu chính sách sử dụng AI nội bộ",
+          "cards": 1
+        },
+        {
+          "region_id": "aifb-p219",
+          "chapter": null,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_P219_phu_luc_b_bo_cong_cu_thuc_hanh_ho_so_agent.json",
+          "title": "Phụ lục B · Bộ công cụ thực hành Hồ Sơ Agent",
+          "cards": 1
+        },
+        {
+          "region_id": "aifb-p226",
+          "chapter": null,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_P226_phu_luc_c_danh_gia_nang_luc_luc_luong_lao_dong_cap_to_chuc.json",
+          "title": "Phụ lục C · Đánh giá năng lực lực lượng lao động cấp tổ chức",
+          "cards": 1
+        },
+        {
+          "region_id": "aifb-p228",
+          "chapter": null,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_P228_phu_luc_d_bang_cham_diem_ear_index_day_du.json",
+          "title": "Phụ lục D · Bảng chấm điểm EAR Index™ đầy đủ",
+          "cards": 1
+        },
+        {
+          "region_id": "aifb-p233",
+          "chapter": null,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_P233_phu_luc_e_bang_thuat_ngu.json",
+          "title": "Phụ lục E · Bảng thuật ngữ",
+          "cards": 1
+        },
+        {
+          "region_id": "aifb-p237",
+          "chapter": null,
+          "filename": "AIFB_AI_First_Business_v16-3/AIFB_AI_First_Business_v16-3_P237_tai_lieu_tham_khao.json",
+          "title": "Tài liệu tham khảo",
+          "cards": 1
+        }
+      ],
+      "counts": {
+        "cards": 118,
+        "sections": 97,
+        "figures": 22,
+        "tables": 19
+      }
+    }
+  ]
+}

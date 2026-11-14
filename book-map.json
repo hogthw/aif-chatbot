@@ -1,0 +1,6737 @@
+[
+  {
+    "book_id": "aiec",
+    "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+    "edition": "v13.7",
+    "source_file": "09-20261103_NKTTT_v13-7_BAN_CHOT_IN_HC.pdf",
+    "regions": [
+      {
+        "id": "aiec-p1",
+        "kind": "divider_or_front",
+        "title": "Bìa và trang đầu",
+        "start": 1,
+        "end": 2
+      },
+      {
+        "id": "aiec-p3",
+        "kind": "divider_or_front",
+        "title": "Mục lục",
+        "start": 3,
+        "end": 4
+      },
+      {
+        "id": "aiec-p5",
+        "kind": "back_or_front_matter",
+        "title": "Lời mở đầu",
+        "start": 5,
+        "end": 20
+      },
+      {
+        "id": "aiec-p21",
+        "kind": "divider_or_front",
+        "title": "Phần I · Nền móng mới của nền kinh tế",
+        "start": 21,
+        "end": 22
+      },
+      {
+        "id": "aiec-ch01",
+        "kind": "chapter",
+        "chapter": 1,
+        "title": "Trí tuệ trở thành yếu tố sản xuất",
+        "start": 23,
+        "end": 44
+      },
+      {
+        "id": "aiec-ch02",
+        "kind": "chapter",
+        "chapter": 2,
+        "title": "Bên trong nhà máy trí tuệ",
+        "start": 45,
+        "end": 66
+      },
+      {
+        "id": "aiec-ch03",
+        "kind": "chapter",
+        "chapter": 3,
+        "title": "Dòng vốn AI đang chảy về đâu?",
+        "start": 67,
+        "end": 88
+      },
+      {
+        "id": "aiec-ch04",
+        "kind": "chapter",
+        "chapter": 4,
+        "title": "Kiến trúc sư luật chơi",
+        "start": 89,
+        "end": 110
+      },
+      {
+        "id": "aiec-ch05",
+        "kind": "chapter",
+        "chapter": 5,
+        "title": "Những nước nhỏ và quyền lực từ sự khan hiếm",
+        "start": 111,
+        "end": 130
+      },
+      {
+        "id": "aiec-ch06",
+        "kind": "chapter",
+        "chapter": 6,
+        "title": "Quyền lực từ tốc độ chuyển hóa nguồn lực",
+        "start": 131,
+        "end": 154
+      },
+      {
+        "id": "aiec-p155",
+        "kind": "divider_or_front",
+        "title": "Phần II · Việt Nam vào cuộc",
+        "start": 155,
+        "end": 158
+      },
+      {
+        "id": "aiec-ch07",
+        "kind": "chapter",
+        "chapter": 7,
+        "title": "Việt Nam trong nền kinh tế AI",
+        "start": 159,
+        "end": 184
+      },
+      {
+        "id": "aiec-ch08",
+        "kind": "chapter",
+        "chapter": 8,
+        "title": "Tám trụ cột sẵn sàng",
+        "start": 185,
+        "end": 216
+      },
+      {
+        "id": "aiec-ch09",
+        "kind": "chapter",
+        "chapter": 9,
+        "title": "Tự động hóa và cơn địa chấn ngành nghề",
+        "start": 217,
+        "end": 232
+      },
+      {
+        "id": "aiec-ch10",
+        "kind": "chapter",
+        "chapter": 10,
+        "title": "Việt Nam trong kỷ nguyên AI",
+        "start": 233,
+        "end": 246
+      },
+      {
+        "id": "aiec-p247",
+        "kind": "divider_or_front",
+        "title": "Phần III · Từ chiến lược đến thực thi",
+        "start": 247,
+        "end": 248
+      },
+      {
+        "id": "aiec-ch11",
+        "kind": "chapter",
+        "chapter": 11,
+        "title": "Chín tháng để có một hệ thống máy chủ AI",
+        "start": 249,
+        "end": 266
+      },
+      {
+        "id": "aiec-ch12",
+        "kind": "chapter",
+        "chapter": 12,
+        "title": "Doanh nghiệp",
+        "start": 267,
+        "end": 276
+      },
+      {
+        "id": "aiec-ch13",
+        "kind": "chapter",
+        "chapter": 13,
+        "title": "Lựa chọn thuộc về chúng ta",
+        "start": 277,
+        "end": 286
+      },
+      {
+        "id": "aiec-p287",
+        "kind": "back_or_front_matter",
+        "title": "Phụ lục A · ARI địa phương",
+        "start": 287,
+        "end": 291
+      },
+      {
+        "id": "aiec-p292",
+        "kind": "back_or_front_matter",
+        "title": "Phụ lục B · ARI-IP",
+        "start": 292,
+        "end": 294
+      },
+      {
+        "id": "aiec-p295",
+        "kind": "back_or_front_matter",
+        "title": "Phụ lục C · Bảng thuật ngữ",
+        "start": 295,
+        "end": 302
+      },
+      {
+        "id": "aiec-p303",
+        "kind": "back_or_front_matter",
+        "title": "Tài liệu tham khảo chọn lọc",
+        "start": 303,
+        "end": 309
+      }
+    ],
+    "pages": [
+      {
+        "pdf_page": 1,
+        "print_page": null,
+        "page_number_visible_in_text": false,
+        "region_id": "aiec-p1"
+      },
+      {
+        "pdf_page": 2,
+        "print_page": null,
+        "page_number_visible_in_text": false,
+        "region_id": "aiec-p1"
+      },
+      {
+        "pdf_page": 3,
+        "print_page": null,
+        "page_number_visible_in_text": false,
+        "region_id": "aiec-p3"
+      },
+      {
+        "pdf_page": 4,
+        "print_page": null,
+        "page_number_visible_in_text": false,
+        "region_id": "aiec-p3"
+      },
+      {
+        "pdf_page": 5,
+        "print_page": 5,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p5"
+      },
+      {
+        "pdf_page": 6,
+        "print_page": 6,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p5"
+      },
+      {
+        "pdf_page": 7,
+        "print_page": 7,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p5"
+      },
+      {
+        "pdf_page": 8,
+        "print_page": 8,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p5"
+      },
+      {
+        "pdf_page": 9,
+        "print_page": 9,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p5"
+      },
+      {
+        "pdf_page": 10,
+        "print_page": 10,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p5"
+      },
+      {
+        "pdf_page": 11,
+        "print_page": 11,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p5"
+      },
+      {
+        "pdf_page": 12,
+        "print_page": 12,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p5"
+      },
+      {
+        "pdf_page": 13,
+        "print_page": 13,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p5"
+      },
+      {
+        "pdf_page": 14,
+        "print_page": 14,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p5"
+      },
+      {
+        "pdf_page": 15,
+        "print_page": 15,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p5"
+      },
+      {
+        "pdf_page": 16,
+        "print_page": 16,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p5"
+      },
+      {
+        "pdf_page": 17,
+        "print_page": 17,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p5"
+      },
+      {
+        "pdf_page": 18,
+        "print_page": 18,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p5"
+      },
+      {
+        "pdf_page": 19,
+        "print_page": 19,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p5"
+      },
+      {
+        "pdf_page": 20,
+        "print_page": 20,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p5"
+      },
+      {
+        "pdf_page": 21,
+        "print_page": 21,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p21"
+      },
+      {
+        "pdf_page": 22,
+        "print_page": 22,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p21"
+      },
+      {
+        "pdf_page": 23,
+        "print_page": 23,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 24,
+        "print_page": 24,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 25,
+        "print_page": 25,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 26,
+        "print_page": 26,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 27,
+        "print_page": 27,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 28,
+        "print_page": 28,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 29,
+        "print_page": 29,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 30,
+        "print_page": 30,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 31,
+        "print_page": 31,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 32,
+        "print_page": 32,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 33,
+        "print_page": 33,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 34,
+        "print_page": 34,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 35,
+        "print_page": 35,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 36,
+        "print_page": 36,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 37,
+        "print_page": 37,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 38,
+        "print_page": 38,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 39,
+        "print_page": 39,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 40,
+        "print_page": 40,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 41,
+        "print_page": 41,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 42,
+        "print_page": 42,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 43,
+        "print_page": 43,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 44,
+        "print_page": 44,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch01"
+      },
+      {
+        "pdf_page": 45,
+        "print_page": 45,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 46,
+        "print_page": 46,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 47,
+        "print_page": 47,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 48,
+        "print_page": 48,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 49,
+        "print_page": 49,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 50,
+        "print_page": 50,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 51,
+        "print_page": 51,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 52,
+        "print_page": 52,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 53,
+        "print_page": 53,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 54,
+        "print_page": 54,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 55,
+        "print_page": 55,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 56,
+        "print_page": 56,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 57,
+        "print_page": 57,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 58,
+        "print_page": 58,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 59,
+        "print_page": 59,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 60,
+        "print_page": 60,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 61,
+        "print_page": 61,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 62,
+        "print_page": 62,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 63,
+        "print_page": 63,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 64,
+        "print_page": 64,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 65,
+        "print_page": 65,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 66,
+        "print_page": 66,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch02"
+      },
+      {
+        "pdf_page": 67,
+        "print_page": 67,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 68,
+        "print_page": 68,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 69,
+        "print_page": 69,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 70,
+        "print_page": 70,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 71,
+        "print_page": 71,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 72,
+        "print_page": 72,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 73,
+        "print_page": 73,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 74,
+        "print_page": 74,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 75,
+        "print_page": 75,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 76,
+        "print_page": 76,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 77,
+        "print_page": 77,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 78,
+        "print_page": 78,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 79,
+        "print_page": 79,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 80,
+        "print_page": 80,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 81,
+        "print_page": 81,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 82,
+        "print_page": 82,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 83,
+        "print_page": 83,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 84,
+        "print_page": 84,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 85,
+        "print_page": 85,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 86,
+        "print_page": 86,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 87,
+        "print_page": 87,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 88,
+        "print_page": 88,
+        "page_number_visible_in_text": false,
+        "region_id": "aiec-ch03"
+      },
+      {
+        "pdf_page": 89,
+        "print_page": 89,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 90,
+        "print_page": 90,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 91,
+        "print_page": 91,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 92,
+        "print_page": 92,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 93,
+        "print_page": 93,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 94,
+        "print_page": 94,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 95,
+        "print_page": 95,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 96,
+        "print_page": 96,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 97,
+        "print_page": 97,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 98,
+        "print_page": 98,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 99,
+        "print_page": 99,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 100,
+        "print_page": 100,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 101,
+        "print_page": 101,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 102,
+        "print_page": 102,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 103,
+        "print_page": 103,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 104,
+        "print_page": 104,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 105,
+        "print_page": 105,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 106,
+        "print_page": 106,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 107,
+        "print_page": 107,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 108,
+        "print_page": 108,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 109,
+        "print_page": 109,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 110,
+        "print_page": 110,
+        "page_number_visible_in_text": false,
+        "region_id": "aiec-ch04"
+      },
+      {
+        "pdf_page": 111,
+        "print_page": 111,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 112,
+        "print_page": 112,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 113,
+        "print_page": 113,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 114,
+        "print_page": 114,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 115,
+        "print_page": 115,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 116,
+        "print_page": 116,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 117,
+        "print_page": 117,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 118,
+        "print_page": 118,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 119,
+        "print_page": 119,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 120,
+        "print_page": 120,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 121,
+        "print_page": 121,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 122,
+        "print_page": 122,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 123,
+        "print_page": 123,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 124,
+        "print_page": 124,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 125,
+        "print_page": 125,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 126,
+        "print_page": 126,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 127,
+        "print_page": 127,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 128,
+        "print_page": 128,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 129,
+        "print_page": 129,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 130,
+        "print_page": 130,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch05"
+      },
+      {
+        "pdf_page": 131,
+        "print_page": 131,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 132,
+        "print_page": 132,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 133,
+        "print_page": 133,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 134,
+        "print_page": 134,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 135,
+        "print_page": 135,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 136,
+        "print_page": 136,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 137,
+        "print_page": 137,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 138,
+        "print_page": 138,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 139,
+        "print_page": 139,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 140,
+        "print_page": 140,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 141,
+        "print_page": 141,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 142,
+        "print_page": 142,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 143,
+        "print_page": 143,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 144,
+        "print_page": 144,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 145,
+        "print_page": 145,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 146,
+        "print_page": 146,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 147,
+        "print_page": 147,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 148,
+        "print_page": 148,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 149,
+        "print_page": 149,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 150,
+        "print_page": 150,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 151,
+        "print_page": 151,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 152,
+        "print_page": 152,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 153,
+        "print_page": 153,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 154,
+        "print_page": 154,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch06"
+      },
+      {
+        "pdf_page": 155,
+        "print_page": 155,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p155"
+      },
+      {
+        "pdf_page": 156,
+        "print_page": 156,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p155"
+      },
+      {
+        "pdf_page": 157,
+        "print_page": 157,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p155"
+      },
+      {
+        "pdf_page": 158,
+        "print_page": 158,
+        "page_number_visible_in_text": false,
+        "region_id": "aiec-p155"
+      },
+      {
+        "pdf_page": 159,
+        "print_page": 159,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 160,
+        "print_page": 160,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 161,
+        "print_page": 161,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 162,
+        "print_page": 162,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 163,
+        "print_page": 163,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 164,
+        "print_page": 164,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 165,
+        "print_page": 165,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 166,
+        "print_page": 166,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 167,
+        "print_page": 167,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 168,
+        "print_page": 168,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 169,
+        "print_page": 169,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 170,
+        "print_page": 170,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 171,
+        "print_page": 171,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 172,
+        "print_page": 172,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 173,
+        "print_page": 173,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 174,
+        "print_page": 174,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 175,
+        "print_page": 175,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 176,
+        "print_page": 176,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 177,
+        "print_page": 177,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 178,
+        "print_page": 178,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 179,
+        "print_page": 179,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 180,
+        "print_page": 180,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 181,
+        "print_page": 181,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 182,
+        "print_page": 182,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 183,
+        "print_page": 183,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 184,
+        "print_page": 184,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch07"
+      },
+      {
+        "pdf_page": 185,
+        "print_page": 185,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 186,
+        "print_page": 186,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 187,
+        "print_page": 187,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 188,
+        "print_page": 188,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 189,
+        "print_page": 189,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 190,
+        "print_page": 190,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 191,
+        "print_page": 191,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 192,
+        "print_page": 192,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 193,
+        "print_page": 193,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 194,
+        "print_page": 194,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 195,
+        "print_page": 195,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 196,
+        "print_page": 196,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 197,
+        "print_page": 197,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 198,
+        "print_page": 198,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 199,
+        "print_page": 199,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 200,
+        "print_page": 200,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 201,
+        "print_page": 201,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 202,
+        "print_page": 202,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 203,
+        "print_page": 203,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 204,
+        "print_page": 204,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 205,
+        "print_page": 205,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 206,
+        "print_page": 206,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 207,
+        "print_page": 207,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 208,
+        "print_page": 208,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 209,
+        "print_page": 209,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 210,
+        "print_page": 210,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 211,
+        "print_page": 211,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 212,
+        "print_page": 212,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 213,
+        "print_page": 213,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 214,
+        "print_page": 214,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 215,
+        "print_page": 215,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 216,
+        "print_page": 216,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch08"
+      },
+      {
+        "pdf_page": 217,
+        "print_page": 217,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch09"
+      },
+      {
+        "pdf_page": 218,
+        "print_page": 218,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch09"
+      },
+      {
+        "pdf_page": 219,
+        "print_page": 219,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch09"
+      },
+      {
+        "pdf_page": 220,
+        "print_page": 220,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch09"
+      },
+      {
+        "pdf_page": 221,
+        "print_page": 221,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch09"
+      },
+      {
+        "pdf_page": 222,
+        "print_page": 222,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch09"
+      },
+      {
+        "pdf_page": 223,
+        "print_page": 223,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch09"
+      },
+      {
+        "pdf_page": 224,
+        "print_page": 224,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch09"
+      },
+      {
+        "pdf_page": 225,
+        "print_page": 225,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch09"
+      },
+      {
+        "pdf_page": 226,
+        "print_page": 226,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch09"
+      },
+      {
+        "pdf_page": 227,
+        "print_page": 227,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch09"
+      },
+      {
+        "pdf_page": 228,
+        "print_page": 228,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch09"
+      },
+      {
+        "pdf_page": 229,
+        "print_page": 229,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch09"
+      },
+      {
+        "pdf_page": 230,
+        "print_page": 230,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch09"
+      },
+      {
+        "pdf_page": 231,
+        "print_page": 231,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch09"
+      },
+      {
+        "pdf_page": 232,
+        "print_page": 232,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch09"
+      },
+      {
+        "pdf_page": 233,
+        "print_page": 233,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch10"
+      },
+      {
+        "pdf_page": 234,
+        "print_page": 234,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch10"
+      },
+      {
+        "pdf_page": 235,
+        "print_page": 235,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch10"
+      },
+      {
+        "pdf_page": 236,
+        "print_page": 236,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch10"
+      },
+      {
+        "pdf_page": 237,
+        "print_page": 237,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch10"
+      },
+      {
+        "pdf_page": 238,
+        "print_page": 238,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch10"
+      },
+      {
+        "pdf_page": 239,
+        "print_page": 239,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch10"
+      },
+      {
+        "pdf_page": 240,
+        "print_page": 240,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch10"
+      },
+      {
+        "pdf_page": 241,
+        "print_page": 241,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch10"
+      },
+      {
+        "pdf_page": 242,
+        "print_page": 242,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch10"
+      },
+      {
+        "pdf_page": 243,
+        "print_page": 243,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch10"
+      },
+      {
+        "pdf_page": 244,
+        "print_page": 244,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch10"
+      },
+      {
+        "pdf_page": 245,
+        "print_page": 245,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch10"
+      },
+      {
+        "pdf_page": 246,
+        "print_page": 246,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch10"
+      },
+      {
+        "pdf_page": 247,
+        "print_page": 247,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p247"
+      },
+      {
+        "pdf_page": 248,
+        "print_page": 248,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p247"
+      },
+      {
+        "pdf_page": 249,
+        "print_page": 249,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch11"
+      },
+      {
+        "pdf_page": 250,
+        "print_page": 250,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch11"
+      },
+      {
+        "pdf_page": 251,
+        "print_page": 251,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch11"
+      },
+      {
+        "pdf_page": 252,
+        "print_page": 252,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch11"
+      },
+      {
+        "pdf_page": 253,
+        "print_page": 253,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch11"
+      },
+      {
+        "pdf_page": 254,
+        "print_page": 254,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch11"
+      },
+      {
+        "pdf_page": 255,
+        "print_page": 255,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch11"
+      },
+      {
+        "pdf_page": 256,
+        "print_page": 256,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch11"
+      },
+      {
+        "pdf_page": 257,
+        "print_page": 257,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch11"
+      },
+      {
+        "pdf_page": 258,
+        "print_page": 258,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch11"
+      },
+      {
+        "pdf_page": 259,
+        "print_page": 259,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch11"
+      },
+      {
+        "pdf_page": 260,
+        "print_page": 260,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch11"
+      },
+      {
+        "pdf_page": 261,
+        "print_page": 261,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch11"
+      },
+      {
+        "pdf_page": 262,
+        "print_page": 262,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch11"
+      },
+      {
+        "pdf_page": 263,
+        "print_page": 263,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch11"
+      },
+      {
+        "pdf_page": 264,
+        "print_page": 264,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch11"
+      },
+      {
+        "pdf_page": 265,
+        "print_page": 265,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch11"
+      },
+      {
+        "pdf_page": 266,
+        "print_page": 266,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch11"
+      },
+      {
+        "pdf_page": 267,
+        "print_page": 267,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch12"
+      },
+      {
+        "pdf_page": 268,
+        "print_page": 268,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch12"
+      },
+      {
+        "pdf_page": 269,
+        "print_page": 269,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch12"
+      },
+      {
+        "pdf_page": 270,
+        "print_page": 270,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch12"
+      },
+      {
+        "pdf_page": 271,
+        "print_page": 271,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch12"
+      },
+      {
+        "pdf_page": 272,
+        "print_page": 272,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch12"
+      },
+      {
+        "pdf_page": 273,
+        "print_page": 273,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch12"
+      },
+      {
+        "pdf_page": 274,
+        "print_page": 274,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch12"
+      },
+      {
+        "pdf_page": 275,
+        "print_page": 275,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch12"
+      },
+      {
+        "pdf_page": 276,
+        "print_page": 276,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch12"
+      },
+      {
+        "pdf_page": 277,
+        "print_page": 277,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch13"
+      },
+      {
+        "pdf_page": 278,
+        "print_page": 278,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch13"
+      },
+      {
+        "pdf_page": 279,
+        "print_page": 279,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch13"
+      },
+      {
+        "pdf_page": 280,
+        "print_page": 280,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch13"
+      },
+      {
+        "pdf_page": 281,
+        "print_page": 281,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch13"
+      },
+      {
+        "pdf_page": 282,
+        "print_page": 282,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch13"
+      },
+      {
+        "pdf_page": 283,
+        "print_page": 283,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch13"
+      },
+      {
+        "pdf_page": 284,
+        "print_page": 284,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch13"
+      },
+      {
+        "pdf_page": 285,
+        "print_page": 285,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch13"
+      },
+      {
+        "pdf_page": 286,
+        "print_page": 286,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-ch13"
+      },
+      {
+        "pdf_page": 287,
+        "print_page": 287,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p287"
+      },
+      {
+        "pdf_page": 288,
+        "print_page": 288,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p287"
+      },
+      {
+        "pdf_page": 289,
+        "print_page": 289,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p287"
+      },
+      {
+        "pdf_page": 290,
+        "print_page": 290,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p287"
+      },
+      {
+        "pdf_page": 291,
+        "print_page": 291,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p287"
+      },
+      {
+        "pdf_page": 292,
+        "print_page": 292,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p292"
+      },
+      {
+        "pdf_page": 293,
+        "print_page": 293,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p292"
+      },
+      {
+        "pdf_page": 294,
+        "print_page": 294,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p292"
+      },
+      {
+        "pdf_page": 295,
+        "print_page": 295,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p295"
+      },
+      {
+        "pdf_page": 296,
+        "print_page": 296,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p295"
+      },
+      {
+        "pdf_page": 297,
+        "print_page": 297,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p295"
+      },
+      {
+        "pdf_page": 298,
+        "print_page": 298,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p295"
+      },
+      {
+        "pdf_page": 299,
+        "print_page": 299,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p295"
+      },
+      {
+        "pdf_page": 300,
+        "print_page": 300,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p295"
+      },
+      {
+        "pdf_page": 301,
+        "print_page": 301,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p295"
+      },
+      {
+        "pdf_page": 302,
+        "print_page": 302,
+        "page_number_visible_in_text": false,
+        "region_id": "aiec-p295"
+      },
+      {
+        "pdf_page": 303,
+        "print_page": 303,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p303"
+      },
+      {
+        "pdf_page": 304,
+        "print_page": 304,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p303"
+      },
+      {
+        "pdf_page": 305,
+        "print_page": 305,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p303"
+      },
+      {
+        "pdf_page": 306,
+        "print_page": 306,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p303"
+      },
+      {
+        "pdf_page": 307,
+        "print_page": 307,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p303"
+      },
+      {
+        "pdf_page": 308,
+        "print_page": 308,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p303"
+      },
+      {
+        "pdf_page": 309,
+        "print_page": 309,
+        "page_number_visible_in_text": true,
+        "region_id": "aiec-p303"
+      }
+    ],
+    "entries": [
+      {
+        "id": "aiec-figure-0.1",
+        "kind": "figure",
+        "number": "0.1",
+        "title": "Luận đề trong một hình: tập trung ở tầng xây, phân tán ở tầng dùng",
+        "parent_id": "aiec-p5",
+        "print_page": 10,
+        "pdf_page": 10
+      },
+      {
+        "id": "aiec-figure-0.2",
+        "kind": "figure",
+        "number": "0.2",
+        "title": "Số liệu từ lời công bố đến kết quả thực tế",
+        "parent_id": "aiec-p5",
+        "print_page": 16,
+        "pdf_page": 16
+      },
+      {
+        "id": "aiec-table-0.1",
+        "kind": "table",
+        "number": "0.1",
+        "title": "Bản đồ khung phân tích: mỗi câu hỏi, một cách đọc",
+        "parent_id": "aiec-p5",
+        "print_page": 17,
+        "pdf_page": 17
+      },
+      {
+        "id": "aiec-section-1.1",
+        "kind": "section",
+        "number": "1.1",
+        "title": "Từ ứng dụng tiêu dùng đến cú sốc năng suất toàn cầu",
+        "parent_id": "aiec-ch01",
+        "print_page": 24,
+        "pdf_page": 24,
+        "end_print_page": 27
+      },
+      {
+        "id": "aiec-figure-1.1",
+        "kind": "figure",
+        "number": "1.1",
+        "title": "Tốc độ phổ cập: AI tạo sinh so với máy tính cá nhân",
+        "parent_id": "aiec-ch01",
+        "print_page": 25,
+        "pdf_page": 25
+      },
+      {
+        "id": "aiec-section-1.2",
+        "kind": "section",
+        "number": "1.2",
+        "title": "Nhà máy trí tuệ và vai trò định hình nền kinh tế mới",
+        "parent_id": "aiec-ch01",
+        "print_page": 27,
+        "pdf_page": 27,
+        "end_print_page": 28
+      },
+      {
+        "id": "aiec-section-1.3",
+        "kind": "section",
+        "number": "1.3",
+        "title": "Ba đặc điểm quyết định ai hưởng lợi từ AI: Năng lực, Mức độ tập trung, Yếu tố bổ trợ",
+        "parent_id": "aiec-ch01",
+        "print_page": 28,
+        "pdf_page": 28,
+        "end_print_page": 31
+      },
+      {
+        "id": "aiec-figure-1.2",
+        "kind": "figure",
+        "number": "1.2",
+        "title": "Ba yếu tố quyết định ai hưởng lợi từ AI",
+        "parent_id": "aiec-ch01",
+        "print_page": 29,
+        "pdf_page": 29
+      },
+      {
+        "id": "aiec-section-1.4",
+        "kind": "section",
+        "number": "1.4",
+        "title": "Cuộc cách mạng năng suất",
+        "parent_id": "aiec-ch01",
+        "print_page": 31,
+        "pdf_page": 31,
+        "end_print_page": 35
+      },
+      {
+        "id": "aiec-figure-1.3",
+        "kind": "figure",
+        "number": "1.3",
+        "title": "Trí tuệ trở thành một yếu tố sản xuất",
+        "parent_id": "aiec-ch01",
+        "print_page": 32,
+        "pdf_page": 32
+      },
+      {
+        "id": "aiec-figure-1.4",
+        "kind": "figure",
+        "number": "1.4",
+        "title": "Chi phí để có cùng một mức năng lực AI giảm hơn",
+        "parent_id": "aiec-ch01",
+        "print_page": 33,
+        "pdf_page": 33
+      },
+      {
+        "id": "aiec-figure-1.5",
+        "kind": "figure",
+        "number": "1.5",
+        "title": "Đường cong chữ J của năng suất",
+        "parent_id": "aiec-ch01",
+        "print_page": 35,
+        "pdf_page": 35
+      },
+      {
+        "id": "aiec-section-1.5",
+        "kind": "section",
+        "number": "1.5",
+        "title": "Khi hạ tầng trở thành điều kiện tiên quyết",
+        "parent_id": "aiec-ch01",
+        "print_page": 35,
+        "pdf_page": 35,
+        "end_print_page": 37
+      },
+      {
+        "id": "aiec-section-1.6",
+        "kind": "section",
+        "number": "1.6",
+        "title": "Từ cuộc cạnh tranh công nghệ đến chiến lược nâng tầm quốc gia",
+        "parent_id": "aiec-ch01",
+        "print_page": 37,
+        "pdf_page": 37,
+        "end_print_page": 38
+      },
+      {
+        "id": "aiec-section-1.7",
+        "kind": "section",
+        "number": "1.7",
+        "title": "Chín tầng của một nền kinh tế trí tuệ",
+        "parent_id": "aiec-ch01",
+        "print_page": 38,
+        "pdf_page": 38,
+        "end_print_page": 44
+      },
+      {
+        "id": "aiec-figure-1.6",
+        "kind": "figure",
+        "number": "1.6",
+        "title": "Chín tầng của nền kinh tế trí tuệ",
+        "parent_id": "aiec-ch01",
+        "print_page": 38,
+        "pdf_page": 38
+      },
+      {
+        "id": "aiec-section-2.1",
+        "kind": "section",
+        "number": "2.1",
+        "title": "Một buổi sáng trong phòng máy ở Tân Trúc",
+        "parent_id": "aiec-ch02",
+        "print_page": 46,
+        "pdf_page": 46,
+        "end_print_page": 47
+      },
+      {
+        "id": "aiec-section-2.2",
+        "kind": "section",
+        "number": "2.2",
+        "title": "Nhà máy trí tuệ là gì: một định nghĩa kinh tế",
+        "parent_id": "aiec-ch02",
+        "print_page": 47,
+        "pdf_page": 47,
+        "end_print_page": 51
+      },
+      {
+        "id": "aiec-figure-2.1",
+        "kind": "figure",
+        "number": "2.1",
+        "title": "Nhà máy trí tuệ: đầu vào, quy trình, đầu ra",
+        "parent_id": "aiec-ch02",
+        "print_page": 48,
+        "pdf_page": 48
+      },
+      {
+        "id": "aiec-figure-2.2",
+        "kind": "figure",
+        "number": "2.2",
+        "title": "Từ trung tâm dữ liệu truyền thống",
+        "parent_id": "aiec-ch02",
+        "print_page": 49,
+        "pdf_page": 49
+      },
+      {
+        "id": "aiec-section-2.3",
+        "kind": "section",
+        "number": "2.3",
+        "title": "Chu trình sản xuất và hai dây chuyền",
+        "parent_id": "aiec-ch02",
+        "print_page": 51,
+        "pdf_page": 51,
+        "end_print_page": 54
+      },
+      {
+        "id": "aiec-figure-2.3",
+        "kind": "figure",
+        "number": "2.3",
+        "title": "Hai dây chuyền của nhà máy trí tuệ: huấn luyện và",
+        "parent_id": "aiec-ch02",
+        "print_page": 51,
+        "pdf_page": 51
+      },
+      {
+        "id": "aiec-figure-2.4",
+        "kind": "figure",
+        "number": "2.4",
+        "title": "Vốn phần vỏ và vốn phần IT trong vòng đời một",
+        "parent_id": "aiec-ch02",
+        "print_page": 53,
+        "pdf_page": 53
+      },
+      {
+        "id": "aiec-section-2.4",
+        "kind": "section",
+        "number": "2.4",
+        "title": "Giá giảm, cầu tăng: kinh tế học của suy luận",
+        "parent_id": "aiec-ch02",
+        "print_page": 54,
+        "pdf_page": 54,
+        "end_print_page": 55
+      },
+      {
+        "id": "aiec-figure-2.5",
+        "kind": "figure",
+        "number": "2.5",
+        "title": "Giá mỗi đơn vị giảm, tổng nhu cầu tăng",
+        "parent_id": "aiec-ch02",
+        "print_page": 54,
+        "pdf_page": 54
+      },
+      {
+        "id": "aiec-section-2.5",
+        "kind": "section",
+        "number": "2.5",
+        "title": "Bốn yếu tố nền tảng và dữ liệu",
+        "parent_id": "aiec-ch02",
+        "print_page": 55,
+        "pdf_page": 55,
+        "end_print_page": 58
+      },
+      {
+        "id": "aiec-section-2.6",
+        "kind": "section",
+        "number": "2.6",
+        "title": "Sản phẩm của nhà máy: từ token đến năng lực giải quyết vấn đề",
+        "parent_id": "aiec-ch02",
+        "print_page": 58,
+        "pdf_page": 58,
+        "end_print_page": 60
+      },
+      {
+        "id": "aiec-section-2.7",
+        "kind": "section",
+        "number": "2.7",
+        "title": "Đo năng suất của nhà máy trí tuệ",
+        "parent_id": "aiec-ch02",
+        "print_page": 60,
+        "pdf_page": 60,
+        "end_print_page": 62
+      },
+      {
+        "id": "aiec-figure-2.6",
+        "kind": "figure",
+        "number": "2.6",
+        "title": "Mật độ điện của tủ máy quyết định công nghệ làm mát",
+        "parent_id": "aiec-ch02",
+        "print_page": 62,
+        "pdf_page": 62
+      },
+      {
+        "id": "aiec-section-2.8",
+        "kind": "section",
+        "number": "2.8",
+        "title": "Năm cơ chế tạo ra giá trị kinh tế",
+        "parent_id": "aiec-ch02",
+        "print_page": 62,
+        "pdf_page": 62,
+        "end_print_page": 66
+      },
+      {
+        "id": "aiec-figure-2.7",
+        "kind": "figure",
+        "number": "2.7",
+        "title": "Năm cơ chế AI tạo ra giá trị kinh tế",
+        "parent_id": "aiec-ch02",
+        "print_page": 63,
+        "pdf_page": 63
+      },
+      {
+        "id": "aiec-section-3.1",
+        "kind": "section",
+        "number": "3.1",
+        "title": "Dòng vốn luôn đi trước nền kinh tế",
+        "parent_id": "aiec-ch03",
+        "print_page": 67,
+        "pdf_page": 67,
+        "end_print_page": 70
+      },
+      {
+        "id": "aiec-section-3.2",
+        "kind": "section",
+        "number": "3.2",
+        "title": "Sáu điểm đến chiến lược của dòng vốn AI toàn cầu",
+        "parent_id": "aiec-ch03",
+        "print_page": 70,
+        "pdf_page": 70,
+        "end_print_page": 71
+      },
+      {
+        "id": "aiec-figure-3.1",
+        "kind": "figure",
+        "number": "3.1",
+        "title": "Dòng vốn AI: ai đầu tư vào tầng nào",
+        "parent_id": "aiec-ch03",
+        "print_page": 70,
+        "pdf_page": 70
+      },
+      {
+        "id": "aiec-section-3.3",
+        "kind": "section",
+        "number": "3.3",
+        "title": "Các tập đoàn điện toán đám mây lớn: những nhà",
+        "parent_id": "aiec-ch03",
+        "print_page": 71,
+        "pdf_page": 71,
+        "end_print_page": 74
+      },
+      {
+        "id": "aiec-figure-3.2",
+        "kind": "figure",
+        "number": "3.2",
+        "title": "Chi tiêu vốn của bốn tập đoàn điện toán đám mây",
+        "parent_id": "aiec-ch03",
+        "print_page": 72,
+        "pdf_page": 72
+      },
+      {
+        "id": "aiec-section-3.4",
+        "kind": "section",
+        "number": "3.4",
+        "title": "Chủ quyền AI: Khi AI trở thành khoản đầu tư chiến lược quốc gia",
+        "parent_id": "aiec-ch03",
+        "print_page": 74,
+        "pdf_page": 74,
+        "end_print_page": 76
+      },
+      {
+        "id": "aiec-section-3.5",
+        "kind": "section",
+        "number": "3.5",
+        "title": "Ba cấp độ chủ quyền AI: tránh nhầm lẫn giữa đặt trung tâm dữ liệu và làm chủ công nghệ",
+        "parent_id": "aiec-ch03",
+        "print_page": 76,
+        "pdf_page": 76,
+        "end_print_page": 78
+      },
+      {
+        "id": "aiec-figure-3.3",
+        "kind": "figure",
+        "number": "3.3",
+        "title": "Ba cấp độ chủ quyền AI",
+        "parent_id": "aiec-ch03",
+        "print_page": 76,
+        "pdf_page": 76
+      },
+      {
+        "id": "aiec-section-3.6",
+        "kind": "section",
+        "number": "3.6",
+        "title": "Lợi nhuận tiềm năng và sáu rủi ro lớn của dòng vốn AI",
+        "parent_id": "aiec-ch03",
+        "print_page": 78,
+        "pdf_page": 78,
+        "end_print_page": 80
+      },
+      {
+        "id": "aiec-figure-3.4",
+        "kind": "figure",
+        "number": "3.4",
+        "title": "Sáu rủi ro của dòng vốn AI, xếp theo bản chất",
+        "parent_id": "aiec-ch03",
+        "print_page": 79,
+        "pdf_page": 79
+      },
+      {
+        "id": "aiec-section-3.7",
+        "kind": "section",
+        "number": "3.7",
+        "title": "Phân tích dòng vốn và logic phân bổ trong kỷ nguyên trí tuệ",
+        "parent_id": "aiec-ch03",
+        "print_page": 80,
+        "pdf_page": 80,
+        "end_print_page": 81
+      },
+      {
+        "id": "aiec-section-3.8",
+        "kind": "section",
+        "number": "3.8",
+        "title": "Điện là giới hạn của trí tuệ",
+        "parent_id": "aiec-ch03",
+        "print_page": 81,
+        "pdf_page": 81,
+        "end_print_page": 88
+      },
+      {
+        "id": "aiec-figure-3.5",
+        "kind": "figure",
+        "number": "3.5",
+        "title": "Điện năng tiêu thụ của các trung tâm dữ liệu trên",
+        "parent_id": "aiec-ch03",
+        "print_page": 82,
+        "pdf_page": 82
+      },
+      {
+        "id": "aiec-figure-3.6",
+        "kind": "figure",
+        "number": "3.6",
+        "title": "Hai đồng hồ lệch nhịp: xây trung tâm dữ liệu và xây",
+        "parent_id": "aiec-ch03",
+        "print_page": 83,
+        "pdf_page": 83
+      },
+      {
+        "id": "aiec-figure-3.7",
+        "kind": "figure",
+        "number": "3.7",
+        "title": "Chuỗi ràng buộc vật lý: mắt xích yếu nhất quyết định",
+        "parent_id": "aiec-ch03",
+        "print_page": 84,
+        "pdf_page": 84
+      },
+      {
+        "id": "aiec-section-4.1",
+        "kind": "section",
+        "number": "4.1",
+        "title": "Khi lợi thế chi phí không còn đủ",
+        "parent_id": "aiec-ch04",
+        "print_page": 90,
+        "pdf_page": 90,
+        "end_print_page": 93
+      },
+      {
+        "id": "aiec-figure-4.1",
+        "kind": "figure",
+        "number": "4.1",
+        "title": "Ba loại quyền lực và các mô hình chiến lược AI quốc",
+        "parent_id": "aiec-ch04",
+        "print_page": 92,
+        "pdf_page": 92
+      },
+      {
+        "id": "aiec-section-4.2",
+        "kind": "section",
+        "number": "4.2",
+        "title": "Nước Mỹ: Khi khu vực tư nhân đi trước, và cái giá phải trả tại chỗ",
+        "parent_id": "aiec-ch04",
+        "print_page": 93,
+        "pdf_page": 93,
+        "end_print_page": 98
+      },
+      {
+        "id": "aiec-figure-4.2",
+        "kind": "figure",
+        "number": "4.2",
+        "title": "Chuỗi chiến lược của Mỹ",
+        "parent_id": "aiec-ch04",
+        "print_page": 95,
+        "pdf_page": 95
+      },
+      {
+        "id": "aiec-figure-4.3",
+        "kind": "figure",
+        "number": "4.3",
+        "title": "Ai trả chi phí nâng cấp lưới điện",
+        "parent_id": "aiec-ch04",
+        "print_page": 96,
+        "pdf_page": 96
+      },
+      {
+        "id": "aiec-section-4.3",
+        "kind": "section",
+        "number": "4.3",
+        "title": "Trung Quốc: Khi trung ương vạch kế hoạch, và địa phương tự viết lại nó",
+        "parent_id": "aiec-ch04",
+        "print_page": 98,
+        "pdf_page": 98,
+        "end_print_page": 102
+      },
+      {
+        "id": "aiec-figure-4.4",
+        "kind": "figure",
+        "number": "4.4",
+        "title": "Chuỗi chiến lược của Trung Quốc và các mục tiêu",
+        "parent_id": "aiec-ch04",
+        "print_page": 99,
+        "pdf_page": 99
+      },
+      {
+        "id": "aiec-section-4.4",
+        "kind": "section",
+        "number": "4.4",
+        "title": "Liên minh châu Âu: Luật lệ tinh vi, và câu hỏi chưa có lời đáp về năng suất",
+        "parent_id": "aiec-ch04",
+        "print_page": 102,
+        "pdf_page": 102,
+        "end_print_page": 105
+      },
+      {
+        "id": "aiec-figure-4.5",
+        "kind": "figure",
+        "number": "4.5",
+        "title": "Chuỗi chiến lược của Liên minh châu Âu và lộ trình",
+        "parent_id": "aiec-ch04",
+        "print_page": 103,
+        "pdf_page": 103
+      },
+      {
+        "id": "aiec-section-4.5",
+        "kind": "section",
+        "number": "4.5",
+        "title": "Ba cách biến vốn, công nghệ và thể chế thành tăng trưởng",
+        "parent_id": "aiec-ch04",
+        "print_page": 105,
+        "pdf_page": 105,
+        "end_print_page": 110
+      },
+      {
+        "id": "aiec-figure-4.6",
+        "kind": "figure",
+        "number": "4.6",
+        "title": "Ba mô hình: ai phân bổ vốn, ai chịu chi phí",
+        "parent_id": "aiec-ch04",
+        "print_page": 106,
+        "pdf_page": 106
+      },
+      {
+        "id": "aiec-section-5.1",
+        "kind": "section",
+        "number": "5.1",
+        "title": "Khi sự khan hiếm tạo ra quyền lực kinh tế",
+        "parent_id": "aiec-ch05",
+        "print_page": 112,
+        "pdf_page": 112,
+        "end_print_page": 113
+      },
+      {
+        "id": "aiec-figure-5.1",
+        "kind": "figure",
+        "number": "5.1",
+        "title": "Các điểm nghẽn trong chuỗi cung ứng chip AI",
+        "parent_id": "aiec-ch05",
+        "print_page": 113,
+        "pdf_page": 113
+      },
+      {
+        "id": "aiec-section-5.2",
+        "kind": "section",
+        "number": "5.2",
+        "title": "Đài Loan (Trung Quốc): trung tâm sản xuất bán dẫn của chuỗi cung ứng AI",
+        "parent_id": "aiec-ch05",
+        "print_page": 113,
+        "pdf_page": 113,
+        "end_print_page": 115
+      },
+      {
+        "id": "aiec-section-5.3",
+        "kind": "section",
+        "number": "5.3",
+        "title": "Hà Lan: ASML và quyền lực từ công nghệ khó thay thế",
+        "parent_id": "aiec-ch05",
+        "print_page": 115,
+        "pdf_page": 115,
+        "end_print_page": 117
+      },
+      {
+        "id": "aiec-section-5.4",
+        "kind": "section",
+        "number": "5.4",
+        "title": "Hàn Quốc: tái cấu trúc vùng và chiến lược phát triển bán dẫn",
+        "parent_id": "aiec-ch05",
+        "print_page": 117,
+        "pdf_page": 117,
+        "end_print_page": 119
+      },
+      {
+        "id": "aiec-section-5.5",
+        "kind": "section",
+        "number": "5.5",
+        "title": "Nhật Bản: xây trên nền cũ và đặt cược vào công nghệ mới",
+        "parent_id": "aiec-ch05",
+        "print_page": 119,
+        "pdf_page": 119,
+        "end_print_page": 124
+      },
+      {
+        "id": "aiec-figure-5.2",
+        "kind": "figure",
+        "number": "5.2",
+        "title": "Cụm Kumamoto: một nhà máy neo kéo theo cả hệ",
+        "parent_id": "aiec-ch05",
+        "print_page": 120,
+        "pdf_page": 120
+      },
+      {
+        "id": "aiec-figure-5.3",
+        "kind": "figure",
+        "number": "5.3",
+        "title": "Chuỗi chiến lược của Đài Loan (Trung Quốc),",
+        "parent_id": "aiec-ch05",
+        "print_page": 123,
+        "pdf_page": 123
+      },
+      {
+        "id": "aiec-section-5.6",
+        "kind": "section",
+        "number": "5.6",
+        "title": "Những cánh cửa đang mở: nơi các lợi thế mới có thể hình thành",
+        "parent_id": "aiec-ch05",
+        "print_page": 124,
+        "pdf_page": 124,
+        "end_print_page": 126
+      },
+      {
+        "id": "aiec-section-5.7",
+        "kind": "section",
+        "number": "5.7",
+        "title": "Cái giá của vị thế khó thay thế",
+        "parent_id": "aiec-ch05",
+        "print_page": 126,
+        "pdf_page": 126,
+        "end_print_page": 130
+      },
+      {
+        "id": "aiec-figure-5.4",
+        "kind": "figure",
+        "number": "5.4",
+        "title": "Từ nắm điểm nghẽn đến làm chủ trọn chuỗi",
+        "parent_id": "aiec-ch05",
+        "print_page": 127,
+        "pdf_page": 127
+      },
+      {
+        "id": "aiec-section-6.1",
+        "kind": "section",
+        "number": "6.1",
+        "title": "Khi tốc độ thay thế quy mô",
+        "parent_id": "aiec-ch06",
+        "print_page": 132,
+        "pdf_page": 132,
+        "end_print_page": 133
+      },
+      {
+        "id": "aiec-figure-6.1",
+        "kind": "figure",
+        "number": "6.1",
+        "title": "Chuỗi chiến lược của Singapore, UAE và Ấn Độ",
+        "parent_id": "aiec-ch06",
+        "print_page": 133,
+        "pdf_page": 133
+      },
+      {
+        "id": "aiec-section-6.2",
+        "kind": "section",
+        "number": "6.2",
+        "title": "UAE: sử dụng vốn và tốc độ để xây dựng vị thế trong nền kinh tế AI",
+        "parent_id": "aiec-ch06",
+        "print_page": 133,
+        "pdf_page": 133,
+        "end_print_page": 135
+      },
+      {
+        "id": "aiec-section-6.3",
+        "kind": "section",
+        "number": "6.3",
+        "title": "Israel: từ năng lực nghiên cứu quốc phòng đến hệ sinh thái khởi nghiệp",
+        "parent_id": "aiec-ch06",
+        "print_page": 135,
+        "pdf_page": 135,
+        "end_print_page": 136
+      },
+      {
+        "id": "aiec-section-6.4",
+        "kind": "section",
+        "number": "6.4",
+        "title": "Ấn Độ: ngành dịch vụ công nghệ trước tác động của AI",
+        "parent_id": "aiec-ch06",
+        "print_page": 136,
+        "pdf_page": 136,
+        "end_print_page": 137
+      },
+      {
+        "id": "aiec-section-6.5",
+        "kind": "section",
+        "number": "6.5",
+        "title": "Singapore: cạnh tranh bằng thể chế và khả năng vận hành",
+        "parent_id": "aiec-ch06",
+        "print_page": 137,
+        "pdf_page": 137,
+        "end_print_page": 139
+      },
+      {
+        "id": "aiec-section-6.6",
+        "kind": "section",
+        "number": "6.6",
+        "title": "Malaysia và Thái Lan: làn sóng trung tâm dữ liệu và giới hạn hạ tầng",
+        "parent_id": "aiec-ch06",
+        "print_page": 139,
+        "pdf_page": 139,
+        "end_print_page": 140
+      },
+      {
+        "id": "aiec-section-6.7",
+        "kind": "section",
+        "number": "6.7",
+        "title": "Indonesia: tham vọng lớn và khoảng cách năng lực",
+        "parent_id": "aiec-ch06",
+        "print_page": 140,
+        "pdf_page": 140,
+        "end_print_page": 143
+      },
+      {
+        "id": "aiec-figure-6.2",
+        "kind": "figure",
+        "number": "6.2",
+        "title": "ASEAN: liên thông trong khác biệt",
+        "parent_id": "aiec-ch06",
+        "print_page": 142,
+        "pdf_page": 142
+      },
+      {
+        "id": "aiec-section-6.8",
+        "kind": "section",
+        "number": "6.8",
+        "title": "Áp dụng khung ba loại quyền lực cho một nền kinh tế bất kỳ",
+        "parent_id": "aiec-ch06",
+        "print_page": 143,
+        "pdf_page": 143,
+        "end_print_page": 147
+      },
+      {
+        "id": "aiec-figure-6.3",
+        "kind": "figure",
+        "number": "6.3",
+        "title": "Bản đồ mô hình chiến lược của các nền kinh tế",
+        "parent_id": "aiec-ch06",
+        "print_page": 143,
+        "pdf_page": 143
+      },
+      {
+        "id": "aiec-figure-6.4",
+        "kind": "figure",
+        "number": "6.4",
+        "title": "Ba câu hỏi để định vị một nền kinh tế bất kỳ",
+        "parent_id": "aiec-ch06",
+        "print_page": 144,
+        "pdf_page": 144
+      },
+      {
+        "id": "aiec-table-6.1",
+        "kind": "table",
+        "number": "6.1",
+        "title": "Chín mô hình chiến lược AI quốc gia",
+        "parent_id": "aiec-ch06",
+        "print_page": 145,
+        "pdf_page": 145
+      },
+      {
+        "id": "aiec-section-6.9",
+        "kind": "section",
+        "number": "6.9",
+        "title": "Quyền lực biến thành của cải như thế nào và ai đứng ngoài dòng chảy đó",
+        "parent_id": "aiec-ch06",
+        "print_page": 147,
+        "pdf_page": 147,
+        "end_print_page": 152
+      },
+      {
+        "id": "aiec-figure-6.5",
+        "kind": "figure",
+        "number": "6.5",
+        "title": "Năm hình thức của cải trong nền kinh tế AI",
+        "parent_id": "aiec-ch06",
+        "print_page": 148,
+        "pdf_page": 148
+      },
+      {
+        "id": "aiec-figure-6.6",
+        "kind": "figure",
+        "number": "6.6",
+        "title": "“Thuế AI”: tiền đầu tư hạ tầng AI chảy về đâu",
+        "parent_id": "aiec-ch06",
+        "print_page": 151,
+        "pdf_page": 151
+      },
+      {
+        "id": "aiec-section-6.10",
+        "kind": "section",
+        "number": "6.10",
+        "title": "Tăng tốc khi không có đòn bẩy cấu trúc",
+        "parent_id": "aiec-ch06",
+        "print_page": 152,
+        "pdf_page": 152,
+        "end_print_page": 154
+      },
+      {
+        "id": "aiec-section-7.1",
+        "kind": "section",
+        "number": "7.1",
+        "title": "Cửa sổ cơ hội của Việt Nam đến năm 2035",
+        "parent_id": "aiec-ch07",
+        "print_page": 160,
+        "pdf_page": 160,
+        "end_print_page": 162
+      },
+      {
+        "id": "aiec-section-7.2",
+        "kind": "section",
+        "number": "7.2",
+        "title": "Bốn làn sóng FDI và câu hỏi về làn sóng thứ tư",
+        "parent_id": "aiec-ch07",
+        "print_page": 162,
+        "pdf_page": 162,
+        "end_print_page": 168
+      },
+      {
+        "id": "aiec-figure-7.1",
+        "kind": "figure",
+        "number": "7.1",
+        "title": "Bốn làn sóng đầu tư trực tiếp nước ngoài vào Việt Nam",
+        "parent_id": "aiec-ch07",
+        "print_page": 162,
+        "pdf_page": 162
+      },
+      {
+        "id": "aiec-figure-7.2",
+        "kind": "figure",
+        "number": "7.2",
+        "title": "Giá trị Việt Nam giữ lại qua bốn làn sóng: từ tiền",
+        "parent_id": "aiec-ch07",
+        "print_page": 165,
+        "pdf_page": 165
+      },
+      {
+        "id": "aiec-figure-7.3",
+        "kind": "figure",
+        "number": "7.3",
+        "title": "Ứng dụng, Thích ứng, Làm chủ: thứ tự ưu tiên ở",
+        "parent_id": "aiec-ch07",
+        "print_page": 168,
+        "pdf_page": 168
+      },
+      {
+        "id": "aiec-section-7.3",
+        "kind": "section",
+        "number": "7.3",
+        "title": "Từ lợi thế chi phí đến lợi thế năng suất",
+        "parent_id": "aiec-ch07",
+        "print_page": 168,
+        "pdf_page": 168,
+        "end_print_page": 170
+      },
+      {
+        "id": "aiec-section-7.4",
+        "kind": "section",
+        "number": "7.4",
+        "title": "Bảy lợi thế tiềm năng của Việt Nam",
+        "parent_id": "aiec-ch07",
+        "print_page": 170,
+        "pdf_page": 170,
+        "end_print_page": 173
+      },
+      {
+        "id": "aiec-figure-7.4",
+        "kind": "figure",
+        "number": "7.4",
+        "title": "Hệ thống chính sách AI của Việt Nam",
+        "parent_id": "aiec-ch07",
+        "print_page": 172,
+        "pdf_page": 172
+      },
+      {
+        "id": "aiec-section-7.5",
+        "kind": "section",
+        "number": "7.5",
+        "title": "Bảy khoảng cách cấu trúc cần vượt qua",
+        "parent_id": "aiec-ch07",
+        "print_page": 173,
+        "pdf_page": 173,
+        "end_print_page": 175
+      },
+      {
+        "id": "aiec-section-7.6",
+        "kind": "section",
+        "number": "7.6",
+        "title": "Từ khoảng cách đến hành động: Lời giải chiến lược cho Việt Nam",
+        "parent_id": "aiec-ch07",
+        "print_page": 175,
+        "pdf_page": 175,
+        "end_print_page": 180
+      },
+      {
+        "id": "aiec-table-7.1",
+        "kind": "table",
+        "number": "7.1",
+        "title": "Ma trận ưu tiên theo ba nấc: mỗi nấc cần công cụ gì",
+        "parent_id": "aiec-ch07",
+        "print_page": 176,
+        "pdf_page": 176
+      },
+      {
+        "id": "aiec-figure-7.5",
+        "kind": "figure",
+        "number": "7.5",
+        "title": "Việt Nam trên các tầng công nghệ AI: nút hấp thụ",
+        "parent_id": "aiec-ch07",
+        "print_page": 178,
+        "pdf_page": 178
+      },
+      {
+        "id": "aiec-figure-7.6",
+        "kind": "figure",
+        "number": "7.6",
+        "title": "Học gì, không sao chép gì",
+        "parent_id": "aiec-ch07",
+        "print_page": 179,
+        "pdf_page": 179
+      },
+      {
+        "id": "aiec-section-7.7",
+        "kind": "section",
+        "number": "7.7",
+        "title": "Phép thử cho lời giải: nếu làn sóng vốn AI chững lại",
+        "parent_id": "aiec-ch07",
+        "print_page": 180,
+        "pdf_page": 180,
+        "end_print_page": 184
+      },
+      {
+        "id": "aiec-figure-7.7",
+        "kind": "figure",
+        "number": "7.7",
+        "title": "Ba lớp của một bong bóng công nghệ",
+        "parent_id": "aiec-ch07",
+        "print_page": 181,
+        "pdf_page": 181
+      },
+      {
+        "id": "aiec-section-8.1",
+        "kind": "section",
+        "number": "8.1",
+        "title": "Từ ưu đãi thuế đến mức độ sẵn sàng",
+        "parent_id": "aiec-ch08",
+        "print_page": 186,
+        "pdf_page": 186,
+        "end_print_page": 190
+      },
+      {
+        "id": "aiec-figure-8.1",
+        "kind": "figure",
+        "number": "8.1",
+        "title": "Tám trụ cột sẵn sàng quốc gia",
+        "parent_id": "aiec-ch08",
+        "print_page": 186,
+        "pdf_page": 186
+      },
+      {
+        "id": "aiec-table-8.1",
+        "kind": "table",
+        "number": "8.1",
+        "title": "Việt Nam trên bản đồ sẵn sàng cho công nghệ",
+        "parent_id": "aiec-ch08",
+        "print_page": 187,
+        "pdf_page": 187
+      },
+      {
+        "id": "aiec-figure-8.2",
+        "kind": "figure",
+        "number": "8.2",
+        "title": "Hai chỉ số, hai đơn vị phân tích",
+        "parent_id": "aiec-ch08",
+        "print_page": 189,
+        "pdf_page": 189
+      },
+      {
+        "id": "aiec-section-8.2",
+        "kind": "section",
+        "number": "8.2",
+        "title": "Trụ cột 1: Năng lượng và năng lượng sạch",
+        "parent_id": "aiec-ch08",
+        "print_page": 190,
+        "pdf_page": 190,
+        "end_print_page": 192
+      },
+      {
+        "id": "aiec-section-8.3",
+        "kind": "section",
+        "number": "8.3",
+        "title": "Trụ cột 2: Hạ tầng tính toán và AI",
+        "parent_id": "aiec-ch08",
+        "print_page": 192,
+        "pdf_page": 192,
+        "end_print_page": 194
+      },
+      {
+        "id": "aiec-section-8.4",
+        "kind": "section",
+        "number": "8.4",
+        "title": "Trụ cột 3: Hạ tầng kết nối và hạ tầng số",
+        "parent_id": "aiec-ch08",
+        "print_page": 194,
+        "pdf_page": 194,
+        "end_print_page": 196
+      },
+      {
+        "id": "aiec-section-8.5",
+        "kind": "section",
+        "number": "8.5",
+        "title": "Trụ cột 4: Nhân lực và hệ sinh thái nhân tài",
+        "parent_id": "aiec-ch08",
+        "print_page": 196,
+        "pdf_page": 196,
+        "end_print_page": 198
+      },
+      {
+        "id": "aiec-section-8.6",
+        "kind": "section",
+        "number": "8.6",
+        "title": "Trụ cột 5: Dữ liệu và quản trị",
+        "parent_id": "aiec-ch08",
+        "print_page": 198,
+        "pdf_page": 198,
+        "end_print_page": 201
+      },
+      {
+        "id": "aiec-section-8.7",
+        "kind": "section",
+        "number": "8.7",
+        "title": "Trụ cột 6: Vốn và hệ sinh thái khởi nghiệp",
+        "parent_id": "aiec-ch08",
+        "print_page": 201,
+        "pdf_page": 201,
+        "end_print_page": 203
+      },
+      {
+        "id": "aiec-section-8.8",
+        "kind": "section",
+        "number": "8.8",
+        "title": "Trụ cột 7: Hạ tầng thông minh và khu công nghiệp thế hệ mới",
+        "parent_id": "aiec-ch08",
+        "print_page": 203,
+        "pdf_page": 203,
+        "end_print_page": 206
+      },
+      {
+        "id": "aiec-figure-8.3",
+        "kind": "figure",
+        "number": "8.3",
+        "title": "Sáu cấu phần của khu công nghiệp thế hệ mới",
+        "parent_id": "aiec-ch08",
+        "print_page": 205,
+        "pdf_page": 205
+      },
+      {
+        "id": "aiec-section-8.9",
+        "kind": "section",
+        "number": "8.9",
+        "title": "Trụ cột 8: Hệ sinh thái kinh tế trí tuệ",
+        "parent_id": "aiec-ch08",
+        "print_page": 206,
+        "pdf_page": 206,
+        "end_print_page": 208
+      },
+      {
+        "id": "aiec-section-8.10",
+        "kind": "section",
+        "number": "8.10",
+        "title": "Mắt xích yếu nhất",
+        "parent_id": "aiec-ch08",
+        "print_page": 208,
+        "pdf_page": 208,
+        "end_print_page": 216
+      },
+      {
+        "id": "aiec-table-8.2",
+        "kind": "table",
+        "number": "8.2",
+        "title": "Tám trụ cột: thế giới đang làm gì, Việt Nam đang ở",
+        "parent_id": "aiec-ch08",
+        "print_page": 208,
+        "pdf_page": 208
+      },
+      {
+        "id": "aiec-figure-8.4",
+        "kind": "figure",
+        "number": "8.4",
+        "title": "Ví dụ minh họa: chấm điểm một địa phương theo",
+        "parent_id": "aiec-ch08",
+        "print_page": 210,
+        "pdf_page": 210
+      },
+      {
+        "id": "aiec-section-9.1",
+        "kind": "section",
+        "number": "9.1",
+        "title": "Rủi ro đối với nền kinh tế quốc gia",
+        "parent_id": "aiec-ch09",
+        "print_page": 219,
+        "pdf_page": 219,
+        "end_print_page": 222
+      },
+      {
+        "id": "aiec-figure-9.1",
+        "kind": "figure",
+        "number": "9.1",
+        "title": "Các ngành chủ lực của Việt Nam theo cơ chế tác động",
+        "parent_id": "aiec-ch09",
+        "print_page": 219,
+        "pdf_page": 219
+      },
+      {
+        "id": "aiec-section-9.2",
+        "kind": "section",
+        "number": "9.2",
+        "title": "Dệt may và da giày: Khi lợi thế lao động giá rẻ dần mất đi",
+        "parent_id": "aiec-ch09",
+        "print_page": 222,
+        "pdf_page": 222,
+        "end_print_page": 224
+      },
+      {
+        "id": "aiec-section-9.3",
+        "kind": "section",
+        "number": "9.3",
+        "title": "Điện tử và lắp ráp: Khi Việt Nam bước vào kỷ nguyên nhà máy vận hành bằng AI",
+        "parent_id": "aiec-ch09",
+        "print_page": 224,
+        "pdf_page": 224,
+        "end_print_page": 226
+      },
+      {
+        "id": "aiec-section-9.4",
+        "kind": "section",
+        "number": "9.4",
+        "title": "Nông nghiệp: Khi AI bước vào cánh đồng",
+        "parent_id": "aiec-ch09",
+        "print_page": 226,
+        "pdf_page": 226,
+        "end_print_page": 227
+      },
+      {
+        "id": "aiec-section-9.5",
+        "kind": "section",
+        "number": "9.5",
+        "title": "Ngân hàng và tài chính: Khi AI trở thành \"chuyên gia tài chính\" của mọi khách hàng",
+        "parent_id": "aiec-ch09",
+        "print_page": 227,
+        "pdf_page": 227,
+        "end_print_page": 228
+      },
+      {
+        "id": "aiec-section-9.6",
+        "kind": "section",
+        "number": "9.6",
+        "title": "Bất động sản công nghiệp: AI đang tạo ra một thế hệ khu công nghiệp hoàn toàn mới",
+        "parent_id": "aiec-ch09",
+        "print_page": 228,
+        "pdf_page": 228,
+        "end_print_page": 230
+      },
+      {
+        "id": "aiec-section-9.7",
+        "kind": "section",
+        "number": "9.7",
+        "title": "Lan tỏa toàn diện: Khi AI định hình lại mọi ngóc ngách của nền kinh tế",
+        "parent_id": "aiec-ch09",
+        "print_page": 230,
+        "pdf_page": 230,
+        "end_print_page": 231
+      },
+      {
+        "id": "aiec-section-9.8",
+        "kind": "section",
+        "number": "9.8",
+        "title": "Tái thiết trong dòng chảy mới",
+        "parent_id": "aiec-ch09",
+        "print_page": 231,
+        "pdf_page": 231,
+        "end_print_page": 232
+      },
+      {
+        "id": "aiec-section-10.1",
+        "kind": "section",
+        "number": "10.1",
+        "title": "Lao động sản xuất: Lợi thế \"đông người, chi phí thấp\" đang dần khép lại",
+        "parent_id": "aiec-ch10",
+        "print_page": 236,
+        "pdf_page": 236,
+        "end_print_page": 238
+      },
+      {
+        "id": "aiec-figure-10.1",
+        "kind": "figure",
+        "number": "10.1",
+        "title": "Phơi nhiễm không đồng nghĩa mất việc: ma trận",
+        "parent_id": "aiec-ch10",
+        "print_page": 236,
+        "pdf_page": 236
+      },
+      {
+        "id": "aiec-section-10.2",
+        "kind": "section",
+        "number": "10.2",
+        "title": "Nhân viên văn phòng: Nhóm chịu tác động nhanh nhất",
+        "parent_id": "aiec-ch10",
+        "print_page": 238,
+        "pdf_page": 238,
+        "end_print_page": 240
+      },
+      {
+        "id": "aiec-figure-10.2",
+        "kind": "figure",
+        "number": "10.2",
+        "title": "Bậc thang nghề nghiệp và những bậc đầu tiên",
+        "parent_id": "aiec-ch10",
+        "print_page": 240,
+        "pdf_page": 240
+      },
+      {
+        "id": "aiec-section-10.3",
+        "kind": "section",
+        "number": "10.3",
+        "title": "Lao động tri thức: AI trở thành \"đồng nghiệp\" mới của bác sĩ, luật sư và kỹ sư",
+        "parent_id": "aiec-ch10",
+        "print_page": 240,
+        "pdf_page": 240,
+        "end_print_page": 242
+      },
+      {
+        "id": "aiec-section-10.4",
+        "kind": "section",
+        "number": "10.4",
+        "title": "Nhà quản lý: Khi AI trở thành cố vấn chiến lược",
+        "parent_id": "aiec-ch10",
+        "print_page": 242,
+        "pdf_page": 242,
+        "end_print_page": 242
+      },
+      {
+        "id": "aiec-section-10.5",
+        "kind": "section",
+        "number": "10.5",
+        "title": "Những nghề mới sẽ bùng nổ cùng nền kinh tế AI",
+        "parent_id": "aiec-ch10",
+        "print_page": 242,
+        "pdf_page": 242,
+        "end_print_page": 243
+      },
+      {
+        "id": "aiec-section-10.6",
+        "kind": "section",
+        "number": "10.6",
+        "title": "Những nghề khó bị thay thế nhất: Khi giá trị nằm ở con người",
+        "parent_id": "aiec-ch10",
+        "print_page": 243,
+        "pdf_page": 243,
+        "end_print_page": 246
+      },
+      {
+        "id": "aiec-section-11.1",
+        "kind": "section",
+        "number": "11.1",
+        "title": "Không còn nhiều thời gian để chờ đợi",
+        "parent_id": "aiec-ch11",
+        "print_page": 251,
+        "pdf_page": 251,
+        "end_print_page": 253
+      },
+      {
+        "id": "aiec-section-11.2",
+        "kind": "section",
+        "number": "11.2",
+        "title": "Năm trụ cột kiến tạo năng lực cạnh tranh quốc gia",
+        "parent_id": "aiec-ch11",
+        "print_page": 253,
+        "pdf_page": 253,
+        "end_print_page": 259
+      },
+      {
+        "id": "aiec-figure-11.1",
+        "kind": "figure",
+        "number": "11.1",
+        "title": "Năm trụ cột năng lực cạnh tranh quốc gia",
+        "parent_id": "aiec-ch11",
+        "print_page": 253,
+        "pdf_page": 253
+      },
+      {
+        "id": "aiec-table-11.1",
+        "kind": "table",
+        "number": "11.1",
+        "title": "Đối chiếu năm trụ cột, tám trụ cột và chín trụ cột",
+        "parent_id": "aiec-ch11",
+        "print_page": 255,
+        "pdf_page": 255
+      },
+      {
+        "id": "aiec-section-11.3",
+        "kind": "section",
+        "number": "11.3",
+        "title": "Mỗi chủ thể là một mắt xích của năng lực cạnh tranh quốc gia",
+        "parent_id": "aiec-ch11",
+        "print_page": 259,
+        "pdf_page": 259,
+        "end_print_page": 263
+      },
+      {
+        "id": "aiec-figure-11.2",
+        "kind": "figure",
+        "number": "11.2",
+        "title": "Hộp công cụ chính sách theo chủ thể",
+        "parent_id": "aiec-ch11",
+        "print_page": 260,
+        "pdf_page": 260
+      },
+      {
+        "id": "aiec-section-11.4",
+        "kind": "section",
+        "number": "11.4",
+        "title": "Kỷ luật thực thi: Yếu tố quyết định thành công",
+        "parent_id": "aiec-ch11",
+        "print_page": 263,
+        "pdf_page": 263,
+        "end_print_page": 266
+      },
+      {
+        "id": "aiec-section-12.1",
+        "kind": "section",
+        "number": "12.1",
+        "title": "Khoảng cách giữa dùng AI và tạo ra giá trị",
+        "parent_id": "aiec-ch12",
+        "print_page": 268,
+        "pdf_page": 268,
+        "end_print_page": 269
+      },
+      {
+        "id": "aiec-section-12.2",
+        "kind": "section",
+        "number": "12.2",
+        "title": "Doanh nghiệp nào đi trước, doanh nghiệp nào bị bỏ lại",
+        "parent_id": "aiec-ch12",
+        "print_page": 269,
+        "pdf_page": 269,
+        "end_print_page": 270
+      },
+      {
+        "id": "aiec-section-12.3",
+        "kind": "section",
+        "number": "12.3",
+        "title": "Doanh nghiệp là kênh truyền dẫn từ chính sách đến năng suất",
+        "parent_id": "aiec-ch12",
+        "print_page": 270,
+        "pdf_page": 270,
+        "end_print_page": 273
+      },
+      {
+        "id": "aiec-figure-12.1",
+        "kind": "figure",
+        "number": "12.1",
+        "title": "Doanh nghiệp là kênh truyền dẫn từ chính sách",
+        "parent_id": "aiec-ch12",
+        "print_page": 271,
+        "pdf_page": 271
+      },
+      {
+        "id": "aiec-section-12.4",
+        "kind": "section",
+        "number": "12.4",
+        "title": "Chính sách đưa AI đến số đông doanh nghiệp",
+        "parent_id": "aiec-ch12",
+        "print_page": 273,
+        "pdf_page": 273,
+        "end_print_page": 276
+      },
+      {
+        "id": "aiec-section-13.1",
+        "kind": "section",
+        "number": "13.1",
+        "title": "Thực tế việc làm và sự phân hóa",
+        "parent_id": "aiec-ch13",
+        "print_page": 277,
+        "pdf_page": 277,
+        "end_print_page": 278
+      },
+      {
+        "id": "aiec-section-13.2",
+        "kind": "section",
+        "number": "13.2",
+        "title": "Việt Nam trước một giai đoạn chuyển đổi lớn",
+        "parent_id": "aiec-ch13",
+        "print_page": 278,
+        "pdf_page": 278,
+        "end_print_page": 279
+      },
+      {
+        "id": "aiec-section-13.3",
+        "kind": "section",
+        "number": "13.3",
+        "title": "Sự phối hợp giữa các chủ thể",
+        "parent_id": "aiec-ch13",
+        "print_page": 279,
+        "pdf_page": 279,
+        "end_print_page": 280
+      },
+      {
+        "id": "aiec-section-13.4",
+        "kind": "section",
+        "number": "13.4",
+        "title": "Điều gì có thể khiến lập luận này sai",
+        "parent_id": "aiec-ch13",
+        "print_page": 280,
+        "pdf_page": 280,
+        "end_print_page": 281
+      },
+      {
+        "id": "aiec-section-13.5",
+        "kind": "section",
+        "number": "13.5",
+        "title": "Chương trình hành động: biến cơ hội thành năng lực",
+        "parent_id": "aiec-ch13",
+        "print_page": 281,
+        "pdf_page": 281,
+        "end_print_page": 284
+      },
+      {
+        "id": "aiec-section-13.6",
+        "kind": "section",
+        "number": "13.6",
+        "title": "Từ phân tích đến lựa chọn",
+        "parent_id": "aiec-ch13",
+        "print_page": 284,
+        "pdf_page": 284,
+        "end_print_page": 286
+      },
+      {
+        "id": "aiec-section-A.1",
+        "kind": "section",
+        "number": "A.1",
+        "title": "Cấu trúc. ARI gồ m tá m trụ cộ t, mỗ i trụ cộ t ba tiê u chí . Trọ ng",
+        "parent_id": "aiec-p287",
+        "print_page": 287,
+        "pdf_page": 287,
+        "end_print_page": 289
+      },
+      {
+        "id": "aiec-table-A.1",
+        "kind": "table",
+        "number": "A.1",
+        "title": "Tám trụ cột, tiêu chí và trọng số của ARI",
+        "parent_id": "aiec-p287",
+        "print_page": 288,
+        "pdf_page": 288
+      },
+      {
+        "id": "aiec-section-A.2",
+        "kind": "section",
+        "number": "A.2",
+        "title": "Thang điểm. Mỗ i tiê u chí đượ c chấ m từ 1 đế n 5 theo mô tả",
+        "parent_id": "aiec-p287",
+        "print_page": 289,
+        "pdf_page": 289,
+        "end_print_page": 290
+      },
+      {
+        "id": "aiec-table-A.2",
+        "kind": "table",
+        "number": "A.2",
+        "title": "Thang điểm chung cho mỗi tiêu chí",
+        "parent_id": "aiec-p287",
+        "print_page": 290,
+        "pdf_page": 290
+      },
+      {
+        "id": "aiec-section-A.3",
+        "kind": "section",
+        "number": "A.3",
+        "title": "Cách tính. Điể m mộ t trụ cộ t là trung bì nh điể m ba tiê u chí .",
+        "parent_id": "aiec-p287",
+        "print_page": 290,
+        "pdf_page": 290,
+        "end_print_page": 290
+      },
+      {
+        "id": "aiec-section-A.4",
+        "kind": "section",
+        "number": "A.4",
+        "title": "Cách đọc. Dướ i 40 điể m: khở i đầ u. Từ 40 đế n dướ i 60: đang",
+        "parent_id": "aiec-p287",
+        "print_page": 290,
+        "pdf_page": 290,
+        "end_print_page": 290
+      },
+      {
+        "id": "aiec-section-A.5",
+        "kind": "section",
+        "number": "A.5",
+        "title": "Quy trình chấm. Nhó m chấ m gồ m í t nhấ t nă m ngườ i từ í t nhấ t",
+        "parent_id": "aiec-p287",
+        "print_page": 290,
+        "pdf_page": 290,
+        "end_print_page": 291
+      },
+      {
+        "id": "aiec-section-A.6",
+        "kind": "section",
+        "number": "A.6",
+        "title": "Giới hạn. Trọ ng số có thể điề u chỉ nh theo loạ i dự á n mà đị a",
+        "parent_id": "aiec-p287",
+        "print_page": 291,
+        "pdf_page": 291,
+        "end_print_page": 291
+      },
+      {
+        "id": "aiec-section-B.1",
+        "kind": "section",
+        "number": "B.1",
+        "title": "Cấu trúc và trọng số. Hạ tầ ng thô ng minh có trọ ng số cao nhấ t",
+        "parent_id": "aiec-p292",
+        "print_page": 292,
+        "pdf_page": 292,
+        "end_print_page": 293
+      },
+      {
+        "id": "aiec-table-B.1",
+        "kind": "table",
+        "number": "B.1",
+        "title": "Sáu cấu phần, tiêu chí và trọng số của ARI-IP",
+        "parent_id": "aiec-p292",
+        "print_page": 292,
+        "pdf_page": 292
+      },
+      {
+        "id": "aiec-section-B.2",
+        "kind": "section",
+        "number": "B.2",
+        "title": "Thang điểm và cách tính. Mỗ i tiê u chí chấ m từ 1 đế n 5 theo",
+        "parent_id": "aiec-p292",
+        "print_page": 293,
+        "pdf_page": 293,
+        "end_print_page": 293
+      },
+      {
+        "id": "aiec-section-B.3",
+        "kind": "section",
+        "number": "B.3",
+        "title": "Mức đòi hỏi theo loại dự án. Cù ng mộ t điể m tổ ng có thể phù",
+        "parent_id": "aiec-p292",
+        "print_page": 293,
+        "pdf_page": 293,
+        "end_print_page": 294
+      },
+      {
+        "id": "aiec-table-B.2",
+        "kind": "table",
+        "number": "B.2",
+        "title": "Cấu phần bắt buộc theo loại dự án",
+        "parent_id": "aiec-p292",
+        "print_page": 294,
+        "pdf_page": 294
+      },
+      {
+        "id": "aiec-section-B.4",
+        "kind": "section",
+        "number": "B.4",
+        "title": "Dùng cùng chấm điểm chất lượng dự án. ARI-IP đo khu cô ng",
+        "parent_id": "aiec-p292",
+        "print_page": 294,
+        "pdf_page": 294,
+        "end_print_page": 294
+      },
+      {
+        "id": "aiec-section-B.5",
+        "kind": "section",
+        "number": "B.5",
+        "title": "Giới hạn. Cá c ngưỡ ng trong phụ lụ c là giá trị tham khả o, cầ n",
+        "parent_id": "aiec-p292",
+        "print_page": 294,
+        "pdf_page": 294,
+        "end_print_page": 294
+      },
+      {
+        "id": "aiec-table-C.1",
+        "kind": "table",
+        "number": "C.1",
+        "title": "Thuật ngữ theo thứ tự xuất hiện",
+        "parent_id": "aiec-p295",
+        "print_page": 295,
+        "pdf_page": 295
+      }
+    ]
+  },
+  {
+    "book_id": "aifb",
+    "title": "AI First Business",
+    "edition": "V16.3",
+    "source_file": "08-20261010_AI_First_Business_V16.3_Ban-In_16x24.pdf",
+    "regions": [
+      {
+        "id": "aifb-p1",
+        "kind": "divider_or_front",
+        "title": "Trang tên sách",
+        "start": 1,
+        "end": 1
+      },
+      {
+        "id": "aifb-p2",
+        "kind": "divider_or_front",
+        "title": "Mục lục",
+        "start": 2,
+        "end": 3
+      },
+      {
+        "id": "aifb-p4",
+        "kind": "back_or_front_matter",
+        "title": "Bản đồ công cụ",
+        "start": 4,
+        "end": 4
+      },
+      {
+        "id": "aifb-p5",
+        "kind": "back_or_front_matter",
+        "title": "Lời tựa",
+        "start": 5,
+        "end": 7
+      },
+      {
+        "id": "aifb-p8",
+        "kind": "divider_or_front",
+        "title": "Phần I · Từ áp lực thị trường đến lựa chọn chiến lược",
+        "start": 8,
+        "end": 10
+      },
+      {
+        "id": "aifb-ch01",
+        "kind": "chapter",
+        "chapter": 1,
+        "title": "Cuộc chơi đã đổi ở cấp doanh nghiệp",
+        "start": 11,
+        "end": 24
+      },
+      {
+        "id": "aifb-ch02",
+        "kind": "chapter",
+        "chapter": 2,
+        "title": "Mô hình 3A: từ chắp vá đến tái thiết",
+        "start": 25,
+        "end": 40
+      },
+      {
+        "id": "aifb-ch03",
+        "kind": "chapter",
+        "chapter": 3,
+        "title": "Bốn mô hình kinh doanh AI-Native",
+        "start": 41,
+        "end": 62
+      },
+      {
+        "id": "aifb-p63",
+        "kind": "divider_or_front",
+        "title": "Phần II · Xây nền tảng tạo giá trị",
+        "start": 63,
+        "end": 64
+      },
+      {
+        "id": "aifb-ch04",
+        "kind": "chapter",
+        "chapter": 4,
+        "title": "Đầu tư AI để sinh lợi: ROI hai tầng",
+        "start": 65,
+        "end": 82
+      },
+      {
+        "id": "aifb-ch05",
+        "kind": "chapter",
+        "chapter": 5,
+        "title": "Bảo vệ dữ liệu trong doanh nghiệp AI-First",
+        "start": 83,
+        "end": 96
+      },
+      {
+        "id": "aifb-ch06",
+        "kind": "chapter",
+        "chapter": 6,
+        "title": "Quản trị AI và những cánh cửa phụ",
+        "start": 97,
+        "end": 112
+      },
+      {
+        "id": "aifb-ch07",
+        "kind": "chapter",
+        "chapter": 7,
+        "title": "AI Agent: đơn vị vận hành mới",
+        "start": 113,
+        "end": 132
+      },
+      {
+        "id": "aifb-p133",
+        "kind": "divider_or_front",
+        "title": "Phần III · Tái thiết tổ chức và công việc",
+        "start": 133,
+        "end": 134
+      },
+      {
+        "id": "aifb-ch08",
+        "kind": "chapter",
+        "chapter": 8,
+        "title": "Từ “Sếp” sang “Nhạc trưởng”",
+        "start": 135,
+        "end": 148
+      },
+      {
+        "id": "aifb-ch09",
+        "kind": "chapter",
+        "chapter": 9,
+        "title": "Bản đồ chuyển đổi theo phòng ban",
+        "start": 149,
+        "end": 160
+      },
+      {
+        "id": "aifb-ch10",
+        "kind": "chapter",
+        "chapter": 10,
+        "title": "Thiết kế lực lượng lao động AI-First",
+        "start": 161,
+        "end": 176
+      },
+      {
+        "id": "aifb-p177",
+        "kind": "divider_or_front",
+        "title": "Phần IV · Đo lường, thử nghiệm và nhân rộng",
+        "start": 177,
+        "end": 178
+      },
+      {
+        "id": "aifb-ch11",
+        "kind": "chapter",
+        "chapter": 11,
+        "title": "Từ Sandbox đến hệ thống học hỏi",
+        "start": 179,
+        "end": 196
+      },
+      {
+        "id": "aifb-ch12",
+        "kind": "chapter",
+        "chapter": 12,
+        "title": "EAR Index™ và Lộ trình 90 ngày",
+        "start": 197,
+        "end": 214
+      },
+      {
+        "id": "aifb-p215",
+        "kind": "back_or_front_matter",
+        "title": "Lời kết",
+        "start": 215,
+        "end": 216
+      },
+      {
+        "id": "aifb-p217",
+        "kind": "back_or_front_matter",
+        "title": "Phụ lục A · Mẫu chính sách sử dụng AI nội bộ",
+        "start": 217,
+        "end": 218
+      },
+      {
+        "id": "aifb-p219",
+        "kind": "back_or_front_matter",
+        "title": "Phụ lục B · Bộ công cụ thực hành Hồ Sơ Agent",
+        "start": 219,
+        "end": 225
+      },
+      {
+        "id": "aifb-p226",
+        "kind": "back_or_front_matter",
+        "title": "Phụ lục C · Đánh giá năng lực lực lượng lao động cấp tổ chức",
+        "start": 226,
+        "end": 227
+      },
+      {
+        "id": "aifb-p228",
+        "kind": "back_or_front_matter",
+        "title": "Phụ lục D · Bảng chấm điểm EAR Index™ đầy đủ",
+        "start": 228,
+        "end": 232
+      },
+      {
+        "id": "aifb-p233",
+        "kind": "back_or_front_matter",
+        "title": "Phụ lục E · Bảng thuật ngữ",
+        "start": 233,
+        "end": 236
+      },
+      {
+        "id": "aifb-p237",
+        "kind": "back_or_front_matter",
+        "title": "Tài liệu tham khảo",
+        "start": 237,
+        "end": 240
+      }
+    ],
+    "pages": [
+      {
+        "pdf_page": 1,
+        "print_page": null,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-p1"
+      },
+      {
+        "pdf_page": 2,
+        "print_page": 2,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p2"
+      },
+      {
+        "pdf_page": 3,
+        "print_page": 3,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p2"
+      },
+      {
+        "pdf_page": 4,
+        "print_page": 4,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p4"
+      },
+      {
+        "pdf_page": 5,
+        "print_page": 5,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-p5"
+      },
+      {
+        "pdf_page": 6,
+        "print_page": 6,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p5"
+      },
+      {
+        "pdf_page": 7,
+        "print_page": 7,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p5"
+      },
+      {
+        "pdf_page": 8,
+        "print_page": 8,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p8"
+      },
+      {
+        "pdf_page": 9,
+        "print_page": 9,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p8"
+      },
+      {
+        "pdf_page": 10,
+        "print_page": 10,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-p8"
+      },
+      {
+        "pdf_page": 11,
+        "print_page": 11,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-ch01"
+      },
+      {
+        "pdf_page": 12,
+        "print_page": 12,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch01"
+      },
+      {
+        "pdf_page": 13,
+        "print_page": 13,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch01"
+      },
+      {
+        "pdf_page": 14,
+        "print_page": 14,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch01"
+      },
+      {
+        "pdf_page": 15,
+        "print_page": 15,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch01"
+      },
+      {
+        "pdf_page": 16,
+        "print_page": 16,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch01"
+      },
+      {
+        "pdf_page": 17,
+        "print_page": 17,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch01"
+      },
+      {
+        "pdf_page": 18,
+        "print_page": 18,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch01"
+      },
+      {
+        "pdf_page": 19,
+        "print_page": 19,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch01"
+      },
+      {
+        "pdf_page": 20,
+        "print_page": 20,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch01"
+      },
+      {
+        "pdf_page": 21,
+        "print_page": 21,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch01"
+      },
+      {
+        "pdf_page": 22,
+        "print_page": 22,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch01"
+      },
+      {
+        "pdf_page": 23,
+        "print_page": 23,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch01"
+      },
+      {
+        "pdf_page": 24,
+        "print_page": 24,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch01"
+      },
+      {
+        "pdf_page": 25,
+        "print_page": 25,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-ch02"
+      },
+      {
+        "pdf_page": 26,
+        "print_page": 26,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch02"
+      },
+      {
+        "pdf_page": 27,
+        "print_page": 27,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch02"
+      },
+      {
+        "pdf_page": 28,
+        "print_page": 28,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch02"
+      },
+      {
+        "pdf_page": 29,
+        "print_page": 29,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch02"
+      },
+      {
+        "pdf_page": 30,
+        "print_page": 30,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch02"
+      },
+      {
+        "pdf_page": 31,
+        "print_page": 31,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch02"
+      },
+      {
+        "pdf_page": 32,
+        "print_page": 32,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch02"
+      },
+      {
+        "pdf_page": 33,
+        "print_page": 33,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch02"
+      },
+      {
+        "pdf_page": 34,
+        "print_page": 34,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch02"
+      },
+      {
+        "pdf_page": 35,
+        "print_page": 35,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch02"
+      },
+      {
+        "pdf_page": 36,
+        "print_page": 36,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch02"
+      },
+      {
+        "pdf_page": 37,
+        "print_page": 37,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch02"
+      },
+      {
+        "pdf_page": 38,
+        "print_page": 38,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch02"
+      },
+      {
+        "pdf_page": 39,
+        "print_page": 39,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch02"
+      },
+      {
+        "pdf_page": 40,
+        "print_page": 40,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch02"
+      },
+      {
+        "pdf_page": 41,
+        "print_page": 41,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 42,
+        "print_page": 42,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 43,
+        "print_page": 43,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 44,
+        "print_page": 44,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 45,
+        "print_page": 45,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 46,
+        "print_page": 46,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 47,
+        "print_page": 47,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 48,
+        "print_page": 48,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 49,
+        "print_page": 49,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 50,
+        "print_page": 50,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 51,
+        "print_page": 51,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 52,
+        "print_page": 52,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 53,
+        "print_page": 53,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 54,
+        "print_page": 54,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 55,
+        "print_page": 55,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 56,
+        "print_page": 56,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 57,
+        "print_page": 57,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 58,
+        "print_page": 58,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 59,
+        "print_page": 59,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 60,
+        "print_page": 60,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 61,
+        "print_page": 61,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 62,
+        "print_page": 62,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch03"
+      },
+      {
+        "pdf_page": 63,
+        "print_page": 63,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-p63"
+      },
+      {
+        "pdf_page": 64,
+        "print_page": 64,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p63"
+      },
+      {
+        "pdf_page": 65,
+        "print_page": 65,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-ch04"
+      },
+      {
+        "pdf_page": 66,
+        "print_page": 66,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch04"
+      },
+      {
+        "pdf_page": 67,
+        "print_page": 67,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch04"
+      },
+      {
+        "pdf_page": 68,
+        "print_page": 68,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch04"
+      },
+      {
+        "pdf_page": 69,
+        "print_page": 69,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch04"
+      },
+      {
+        "pdf_page": 70,
+        "print_page": 70,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch04"
+      },
+      {
+        "pdf_page": 71,
+        "print_page": 71,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch04"
+      },
+      {
+        "pdf_page": 72,
+        "print_page": 72,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch04"
+      },
+      {
+        "pdf_page": 73,
+        "print_page": 73,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch04"
+      },
+      {
+        "pdf_page": 74,
+        "print_page": 74,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch04"
+      },
+      {
+        "pdf_page": 75,
+        "print_page": 75,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch04"
+      },
+      {
+        "pdf_page": 76,
+        "print_page": 76,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch04"
+      },
+      {
+        "pdf_page": 77,
+        "print_page": 77,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch04"
+      },
+      {
+        "pdf_page": 78,
+        "print_page": 78,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch04"
+      },
+      {
+        "pdf_page": 79,
+        "print_page": 79,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch04"
+      },
+      {
+        "pdf_page": 80,
+        "print_page": 80,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch04"
+      },
+      {
+        "pdf_page": 81,
+        "print_page": 81,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch04"
+      },
+      {
+        "pdf_page": 82,
+        "print_page": 82,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-ch04"
+      },
+      {
+        "pdf_page": 83,
+        "print_page": 83,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-ch05"
+      },
+      {
+        "pdf_page": 84,
+        "print_page": 84,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch05"
+      },
+      {
+        "pdf_page": 85,
+        "print_page": 85,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch05"
+      },
+      {
+        "pdf_page": 86,
+        "print_page": 86,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch05"
+      },
+      {
+        "pdf_page": 87,
+        "print_page": 87,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch05"
+      },
+      {
+        "pdf_page": 88,
+        "print_page": 88,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch05"
+      },
+      {
+        "pdf_page": 89,
+        "print_page": 89,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch05"
+      },
+      {
+        "pdf_page": 90,
+        "print_page": 90,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch05"
+      },
+      {
+        "pdf_page": 91,
+        "print_page": 91,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch05"
+      },
+      {
+        "pdf_page": 92,
+        "print_page": 92,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch05"
+      },
+      {
+        "pdf_page": 93,
+        "print_page": 93,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch05"
+      },
+      {
+        "pdf_page": 94,
+        "print_page": 94,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch05"
+      },
+      {
+        "pdf_page": 95,
+        "print_page": 95,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch05"
+      },
+      {
+        "pdf_page": 96,
+        "print_page": 96,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-ch05"
+      },
+      {
+        "pdf_page": 97,
+        "print_page": 97,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-ch06"
+      },
+      {
+        "pdf_page": 98,
+        "print_page": 98,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch06"
+      },
+      {
+        "pdf_page": 99,
+        "print_page": 99,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch06"
+      },
+      {
+        "pdf_page": 100,
+        "print_page": 100,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch06"
+      },
+      {
+        "pdf_page": 101,
+        "print_page": 101,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch06"
+      },
+      {
+        "pdf_page": 102,
+        "print_page": 102,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch06"
+      },
+      {
+        "pdf_page": 103,
+        "print_page": 103,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch06"
+      },
+      {
+        "pdf_page": 104,
+        "print_page": 104,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch06"
+      },
+      {
+        "pdf_page": 105,
+        "print_page": 105,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch06"
+      },
+      {
+        "pdf_page": 106,
+        "print_page": 106,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch06"
+      },
+      {
+        "pdf_page": 107,
+        "print_page": 107,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch06"
+      },
+      {
+        "pdf_page": 108,
+        "print_page": 108,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch06"
+      },
+      {
+        "pdf_page": 109,
+        "print_page": 109,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch06"
+      },
+      {
+        "pdf_page": 110,
+        "print_page": 110,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch06"
+      },
+      {
+        "pdf_page": 111,
+        "print_page": 111,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch06"
+      },
+      {
+        "pdf_page": 112,
+        "print_page": 112,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-ch06"
+      },
+      {
+        "pdf_page": 113,
+        "print_page": 113,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 114,
+        "print_page": 114,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 115,
+        "print_page": 115,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 116,
+        "print_page": 116,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 117,
+        "print_page": 117,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 118,
+        "print_page": 118,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 119,
+        "print_page": 119,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 120,
+        "print_page": 120,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 121,
+        "print_page": 121,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 122,
+        "print_page": 122,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 123,
+        "print_page": 123,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 124,
+        "print_page": 124,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 125,
+        "print_page": 125,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 126,
+        "print_page": 126,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 127,
+        "print_page": 127,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 128,
+        "print_page": 128,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 129,
+        "print_page": 129,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 130,
+        "print_page": 130,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 131,
+        "print_page": 131,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 132,
+        "print_page": 132,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch07"
+      },
+      {
+        "pdf_page": 133,
+        "print_page": 133,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-p133"
+      },
+      {
+        "pdf_page": 134,
+        "print_page": 134,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p133"
+      },
+      {
+        "pdf_page": 135,
+        "print_page": 135,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-ch08"
+      },
+      {
+        "pdf_page": 136,
+        "print_page": 136,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch08"
+      },
+      {
+        "pdf_page": 137,
+        "print_page": 137,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch08"
+      },
+      {
+        "pdf_page": 138,
+        "print_page": 138,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch08"
+      },
+      {
+        "pdf_page": 139,
+        "print_page": 139,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch08"
+      },
+      {
+        "pdf_page": 140,
+        "print_page": 140,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch08"
+      },
+      {
+        "pdf_page": 141,
+        "print_page": 141,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch08"
+      },
+      {
+        "pdf_page": 142,
+        "print_page": 142,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch08"
+      },
+      {
+        "pdf_page": 143,
+        "print_page": 143,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch08"
+      },
+      {
+        "pdf_page": 144,
+        "print_page": 144,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch08"
+      },
+      {
+        "pdf_page": 145,
+        "print_page": 145,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch08"
+      },
+      {
+        "pdf_page": 146,
+        "print_page": 146,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch08"
+      },
+      {
+        "pdf_page": 147,
+        "print_page": 147,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch08"
+      },
+      {
+        "pdf_page": 148,
+        "print_page": 148,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-ch08"
+      },
+      {
+        "pdf_page": 149,
+        "print_page": 149,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-ch09"
+      },
+      {
+        "pdf_page": 150,
+        "print_page": 150,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch09"
+      },
+      {
+        "pdf_page": 151,
+        "print_page": 151,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch09"
+      },
+      {
+        "pdf_page": 152,
+        "print_page": 152,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch09"
+      },
+      {
+        "pdf_page": 153,
+        "print_page": 153,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch09"
+      },
+      {
+        "pdf_page": 154,
+        "print_page": 154,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch09"
+      },
+      {
+        "pdf_page": 155,
+        "print_page": 155,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch09"
+      },
+      {
+        "pdf_page": 156,
+        "print_page": 156,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch09"
+      },
+      {
+        "pdf_page": 157,
+        "print_page": 157,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch09"
+      },
+      {
+        "pdf_page": 158,
+        "print_page": 158,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch09"
+      },
+      {
+        "pdf_page": 159,
+        "print_page": 159,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch09"
+      },
+      {
+        "pdf_page": 160,
+        "print_page": 160,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-ch09"
+      },
+      {
+        "pdf_page": 161,
+        "print_page": 161,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-ch10"
+      },
+      {
+        "pdf_page": 162,
+        "print_page": 162,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch10"
+      },
+      {
+        "pdf_page": 163,
+        "print_page": 163,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch10"
+      },
+      {
+        "pdf_page": 164,
+        "print_page": 164,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch10"
+      },
+      {
+        "pdf_page": 165,
+        "print_page": 165,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch10"
+      },
+      {
+        "pdf_page": 166,
+        "print_page": 166,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch10"
+      },
+      {
+        "pdf_page": 167,
+        "print_page": 167,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch10"
+      },
+      {
+        "pdf_page": 168,
+        "print_page": 168,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch10"
+      },
+      {
+        "pdf_page": 169,
+        "print_page": 169,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch10"
+      },
+      {
+        "pdf_page": 170,
+        "print_page": 170,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch10"
+      },
+      {
+        "pdf_page": 171,
+        "print_page": 171,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch10"
+      },
+      {
+        "pdf_page": 172,
+        "print_page": 172,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch10"
+      },
+      {
+        "pdf_page": 173,
+        "print_page": 173,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch10"
+      },
+      {
+        "pdf_page": 174,
+        "print_page": 174,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch10"
+      },
+      {
+        "pdf_page": 175,
+        "print_page": 175,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch10"
+      },
+      {
+        "pdf_page": 176,
+        "print_page": 176,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-ch10"
+      },
+      {
+        "pdf_page": 177,
+        "print_page": 177,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-p177"
+      },
+      {
+        "pdf_page": 178,
+        "print_page": 178,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p177"
+      },
+      {
+        "pdf_page": 179,
+        "print_page": 179,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-ch11"
+      },
+      {
+        "pdf_page": 180,
+        "print_page": 180,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch11"
+      },
+      {
+        "pdf_page": 181,
+        "print_page": 181,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch11"
+      },
+      {
+        "pdf_page": 182,
+        "print_page": 182,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch11"
+      },
+      {
+        "pdf_page": 183,
+        "print_page": 183,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch11"
+      },
+      {
+        "pdf_page": 184,
+        "print_page": 184,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch11"
+      },
+      {
+        "pdf_page": 185,
+        "print_page": 185,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch11"
+      },
+      {
+        "pdf_page": 186,
+        "print_page": 186,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch11"
+      },
+      {
+        "pdf_page": 187,
+        "print_page": 187,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch11"
+      },
+      {
+        "pdf_page": 188,
+        "print_page": 188,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch11"
+      },
+      {
+        "pdf_page": 189,
+        "print_page": 189,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch11"
+      },
+      {
+        "pdf_page": 190,
+        "print_page": 190,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch11"
+      },
+      {
+        "pdf_page": 191,
+        "print_page": 191,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch11"
+      },
+      {
+        "pdf_page": 192,
+        "print_page": 192,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch11"
+      },
+      {
+        "pdf_page": 193,
+        "print_page": 193,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch11"
+      },
+      {
+        "pdf_page": 194,
+        "print_page": 194,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch11"
+      },
+      {
+        "pdf_page": 195,
+        "print_page": 195,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch11"
+      },
+      {
+        "pdf_page": 196,
+        "print_page": 196,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch11"
+      },
+      {
+        "pdf_page": 197,
+        "print_page": 197,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-ch12"
+      },
+      {
+        "pdf_page": 198,
+        "print_page": 198,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch12"
+      },
+      {
+        "pdf_page": 199,
+        "print_page": 199,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch12"
+      },
+      {
+        "pdf_page": 200,
+        "print_page": 200,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch12"
+      },
+      {
+        "pdf_page": 201,
+        "print_page": 201,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch12"
+      },
+      {
+        "pdf_page": 202,
+        "print_page": 202,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch12"
+      },
+      {
+        "pdf_page": 203,
+        "print_page": 203,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch12"
+      },
+      {
+        "pdf_page": 204,
+        "print_page": 204,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch12"
+      },
+      {
+        "pdf_page": 205,
+        "print_page": 205,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch12"
+      },
+      {
+        "pdf_page": 206,
+        "print_page": 206,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch12"
+      },
+      {
+        "pdf_page": 207,
+        "print_page": 207,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch12"
+      },
+      {
+        "pdf_page": 208,
+        "print_page": 208,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch12"
+      },
+      {
+        "pdf_page": 209,
+        "print_page": 209,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch12"
+      },
+      {
+        "pdf_page": 210,
+        "print_page": 210,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch12"
+      },
+      {
+        "pdf_page": 211,
+        "print_page": 211,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch12"
+      },
+      {
+        "pdf_page": 212,
+        "print_page": 212,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch12"
+      },
+      {
+        "pdf_page": 213,
+        "print_page": 213,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-ch12"
+      },
+      {
+        "pdf_page": 214,
+        "print_page": 214,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-ch12"
+      },
+      {
+        "pdf_page": 215,
+        "print_page": 215,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-p215"
+      },
+      {
+        "pdf_page": 216,
+        "print_page": 216,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p215"
+      },
+      {
+        "pdf_page": 217,
+        "print_page": 217,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-p217"
+      },
+      {
+        "pdf_page": 218,
+        "print_page": 218,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p217"
+      },
+      {
+        "pdf_page": 219,
+        "print_page": 219,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-p219"
+      },
+      {
+        "pdf_page": 220,
+        "print_page": 220,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p219"
+      },
+      {
+        "pdf_page": 221,
+        "print_page": 221,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p219"
+      },
+      {
+        "pdf_page": 222,
+        "print_page": 222,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p219"
+      },
+      {
+        "pdf_page": 223,
+        "print_page": 223,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p219"
+      },
+      {
+        "pdf_page": 224,
+        "print_page": 224,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p219"
+      },
+      {
+        "pdf_page": 225,
+        "print_page": 225,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p219"
+      },
+      {
+        "pdf_page": 226,
+        "print_page": 226,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-p226"
+      },
+      {
+        "pdf_page": 227,
+        "print_page": 227,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p226"
+      },
+      {
+        "pdf_page": 228,
+        "print_page": 228,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-p228"
+      },
+      {
+        "pdf_page": 229,
+        "print_page": 229,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p228"
+      },
+      {
+        "pdf_page": 230,
+        "print_page": 230,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p228"
+      },
+      {
+        "pdf_page": 231,
+        "print_page": 231,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p228"
+      },
+      {
+        "pdf_page": 232,
+        "print_page": 232,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p228"
+      },
+      {
+        "pdf_page": 233,
+        "print_page": 233,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-p233"
+      },
+      {
+        "pdf_page": 234,
+        "print_page": 234,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p233"
+      },
+      {
+        "pdf_page": 235,
+        "print_page": 235,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p233"
+      },
+      {
+        "pdf_page": 236,
+        "print_page": 236,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p233"
+      },
+      {
+        "pdf_page": 237,
+        "print_page": 237,
+        "page_number_visible_in_text": false,
+        "region_id": "aifb-p237"
+      },
+      {
+        "pdf_page": 238,
+        "print_page": 238,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p237"
+      },
+      {
+        "pdf_page": 239,
+        "print_page": 239,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p237"
+      },
+      {
+        "pdf_page": 240,
+        "print_page": 240,
+        "page_number_visible_in_text": true,
+        "region_id": "aifb-p237"
+      }
+    ],
+    "entries": [
+      {
+        "id": "aifb-section-1.1",
+        "kind": "section",
+        "number": "1.1",
+        "title": "Tốc độ hấp thụ AI tại Việt Nam đã vượt mức trung bình khu vực",
+        "parent_id": "aifb-ch01",
+        "print_page": 13,
+        "pdf_page": 13,
+        "end_print_page": 14
+      },
+      {
+        "id": "aifb-figure-1.1",
+        "kind": "figure",
+        "number": "1.1",
+        "title": "Từ phổ cập AI đến năng lực vận hành",
+        "parent_id": "aifb-ch01",
+        "print_page": 13,
+        "pdf_page": 13
+      },
+      {
+        "id": "aifb-section-1.2",
+        "kind": "section",
+        "number": "1.2",
+        "title": "Lợi thế cạnh tranh không biến mất: nó dịch chuyển",
+        "parent_id": "aifb-ch01",
+        "print_page": 14,
+        "pdf_page": 14,
+        "end_print_page": 16
+      },
+      {
+        "id": "aifb-section-1.3",
+        "kind": "section",
+        "number": "1.3",
+        "title": "Bốn vị thế chiến lược của doanh nghiệp trong hệ sinh thái AI",
+        "parent_id": "aifb-ch01",
+        "print_page": 16,
+        "pdf_page": 16,
+        "end_print_page": 17
+      },
+      {
+        "id": "aifb-section-1.4",
+        "kind": "section",
+        "number": "1.4",
+        "title": "Ba ngành đang cảm nhận rõ nhất sức ép chuyển đổi tại Việt Nam",
+        "parent_id": "aifb-ch01",
+        "print_page": 17,
+        "pdf_page": 17,
+        "end_print_page": 19
+      },
+      {
+        "id": "aifb-section-1.5",
+        "kind": "section",
+        "number": "1.5",
+        "title": "Chi phí thực sự của việc chờ đợi",
+        "parent_id": "aifb-ch01",
+        "print_page": 19,
+        "pdf_page": 19,
+        "end_print_page": 21
+      },
+      {
+        "id": "aifb-section-1.6",
+        "kind": "section",
+        "number": "1.6",
+        "title": "Ba câu hỏi định vị doanh nghiệp của bạn trên bản đồ cạnh tranh AI",
+        "parent_id": "aifb-ch01",
+        "print_page": 21,
+        "pdf_page": 21,
+        "end_print_page": 22
+      },
+      {
+        "id": "aifb-section-1.7",
+        "kind": "section",
+        "number": "1.7",
+        "title": "Một câu chuyện đối lập: hai doanh nghiệp cùng ngành, một năm sau",
+        "parent_id": "aifb-ch01",
+        "print_page": 22,
+        "pdf_page": 22,
+        "end_print_page": 24
+      },
+      {
+        "id": "aifb-section-2.1",
+        "kind": "section",
+        "number": "2.1",
+        "title": "Con số không thể làm ngơ, và giới hạn thực sự của nó",
+        "parent_id": "aifb-ch02",
+        "print_page": 28,
+        "pdf_page": 28,
+        "end_print_page": 30
+      },
+      {
+        "id": "aifb-section-2.2",
+        "kind": "section",
+        "number": "2.2",
+        "title": "Ba nấc chiến lược: Adopt – Adapt – Advance",
+        "parent_id": "aifb-ch02",
+        "print_page": 30,
+        "pdf_page": 30,
+        "end_print_page": 32
+      },
+      {
+        "id": "aifb-figure-2.1",
+        "kind": "figure",
+        "number": "2.1",
+        "title": "Mô hình 3A: Adopt – Adapt – Advance",
+        "parent_id": "aifb-ch02",
+        "print_page": 31,
+        "pdf_page": 31
+      },
+      {
+        "id": "aifb-section-2.3",
+        "kind": "section",
+        "number": "2.3",
+        "title": "“Bolt-on” và “AI-First”, không phải nhị nguyên chắp vá và toàn diện",
+        "parent_id": "aifb-ch02",
+        "print_page": 32,
+        "pdf_page": 32,
+        "end_print_page": 34
+      },
+      {
+        "id": "aifb-table-2.1",
+        "kind": "table",
+        "number": "2.1",
+        "title": "Bolt-on có chủ đích và Bolt-on chắp vá",
+        "parent_id": "aifb-ch02",
+        "print_page": 33,
+        "pdf_page": 33
+      },
+      {
+        "id": "aifb-figure-2.2",
+        "kind": "figure",
+        "number": "2.2",
+        "title": "Bolt-on và AI-First: từ chắp vá đến tái thiết",
+        "parent_id": "aifb-ch02",
+        "print_page": 34,
+        "pdf_page": 34
+      },
+      {
+        "id": "aifb-section-2.4",
+        "kind": "section",
+        "number": "2.4",
+        "title": "Bộ lọc ba điều kiện triển khai AI",
+        "parent_id": "aifb-ch02",
+        "print_page": 34,
+        "pdf_page": 34,
+        "end_print_page": 36
+      },
+      {
+        "id": "aifb-section-2.5",
+        "kind": "section",
+        "number": "2.5",
+        "title": "Kiểm tra năng lực quản trị trước khi mở rộng AI",
+        "parent_id": "aifb-ch02",
+        "print_page": 36,
+        "pdf_page": 36,
+        "end_print_page": 37
+      },
+      {
+        "id": "aifb-section-2.6",
+        "kind": "section",
+        "number": "2.6",
+        "title": "Khung 5 bước đánh giá năng lực sẵn sàng trước khi rót vốn",
+        "parent_id": "aifb-ch02",
+        "print_page": 37,
+        "pdf_page": 37,
+        "end_print_page": 38
+      },
+      {
+        "id": "aifb-section-2.7",
+        "kind": "section",
+        "number": "2.7",
+        "title": "Tự chấm điểm nhanh: Tổ chức của bạn đang ở đâu?",
+        "parent_id": "aifb-ch02",
+        "print_page": 38,
+        "pdf_page": 38,
+        "end_print_page": 40
+      },
+      {
+        "id": "aifb-section-3.1",
+        "kind": "section",
+        "number": "3.1",
+        "title": "Hai công ty bán lẻ, cùng xuất phát điểm, hai số phận khác nhau",
+        "parent_id": "aifb-ch03",
+        "print_page": 42,
+        "pdf_page": 42,
+        "end_print_page": 44
+      },
+      {
+        "id": "aifb-section-3.2",
+        "kind": "section",
+        "number": "3.2",
+        "title": "AI-Native là gì?",
+        "parent_id": "aifb-ch03",
+        "print_page": 44,
+        "pdf_page": 44,
+        "end_print_page": 45
+      },
+      {
+        "id": "aifb-section-3.3",
+        "kind": "section",
+        "number": "3.3",
+        "title": "\"Tác nhân AI\" là gì, và vì sao doanh nghiệp cần nó",
+        "parent_id": "aifb-ch03",
+        "print_page": 45,
+        "pdf_page": 45,
+        "end_print_page": 46
+      },
+      {
+        "id": "aifb-section-3.4",
+        "kind": "section",
+        "number": "3.4",
+        "title": "Vì sao phải phân loại doanh nghiệp theo bốn mô hình",
+        "parent_id": "aifb-ch03",
+        "print_page": 46,
+        "pdf_page": 46,
+        "end_print_page": 48
+      },
+      {
+        "id": "aifb-figure-3.1",
+        "kind": "figure",
+        "number": "3.1",
+        "title": "Bốn mô hình kinh doanh AI-Native trên một bản đồ",
+        "parent_id": "aifb-ch03",
+        "print_page": 47,
+        "pdf_page": 47
+      },
+      {
+        "id": "aifb-section-3.5",
+        "kind": "section",
+        "number": "3.5",
+        "title": "Bốn mô hình kinh doanh AI-Native",
+        "parent_id": "aifb-ch03",
+        "print_page": 48,
+        "pdf_page": 48,
+        "end_print_page": 53
+      },
+      {
+        "id": "aifb-table-3.1",
+        "kind": "table",
+        "number": "3.1",
+        "title": "Tổng hợp bốn mô hình kinh doanh AI-Native",
+        "parent_id": "aifb-ch03",
+        "print_page": 52,
+        "pdf_page": 52
+      },
+      {
+        "id": "aifb-section-3.6",
+        "kind": "section",
+        "number": "3.6",
+        "title": "Mô hình tương tác của Tác nhân AI",
+        "parent_id": "aifb-ch03",
+        "print_page": 53,
+        "pdf_page": 53,
+        "end_print_page": 56
+      },
+      {
+        "id": "aifb-figure-3.2",
+        "kind": "figure",
+        "number": "3.2",
+        "title": "Lưu đồ tương tác của Tác nhân AI",
+        "parent_id": "aifb-ch03",
+        "print_page": 54,
+        "pdf_page": 54
+      },
+      {
+        "id": "aifb-section-3.7",
+        "kind": "section",
+        "number": "3.7",
+        "title": "Công cụ thực hành: doanh nghiệp của bạn đang vận hành theo mô hình nào?",
+        "parent_id": "aifb-ch03",
+        "print_page": 56,
+        "pdf_page": 56,
+        "end_print_page": 58
+      },
+      {
+        "id": "aifb-table-3.2",
+        "kind": "table",
+        "number": "3.2",
+        "title": "Bảng chẩn đoán mô hình kinh doanh",
+        "parent_id": "aifb-ch03",
+        "print_page": 57,
+        "pdf_page": 57
+      },
+      {
+        "id": "aifb-section-3.8",
+        "kind": "section",
+        "number": "3.8",
+        "title": "Con đường triển khai cho doanh nghiệp nhỏ, vừa và siêu nhỏ",
+        "parent_id": "aifb-ch03",
+        "print_page": 58,
+        "pdf_page": 58,
+        "end_print_page": 59
+      },
+      {
+        "id": "aifb-section-3.9",
+        "kind": "section",
+        "number": "3.9",
+        "title": "Bốn mô hình không phải điểm đến cố định",
+        "parent_id": "aifb-ch03",
+        "print_page": 59,
+        "pdf_page": 59,
+        "end_print_page": 61
+      },
+      {
+        "id": "aifb-section-3.10",
+        "kind": "section",
+        "number": "3.10",
+        "title": "Ví dụ Việt Nam cho mô hình Chợ Tác nhân AI: từ dịch vụ theo giờ sang dịch vụ theo kết quả",
+        "parent_id": "aifb-ch03",
+        "print_page": 61,
+        "pdf_page": 61,
+        "end_print_page": 62
+      },
+      {
+        "id": "aifb-section-4.1",
+        "kind": "section",
+        "number": "4.1",
+        "title": "Vì sao ROI của AI không giống ROI của một chiếc máy photocopy",
+        "parent_id": "aifb-ch04",
+        "print_page": 67,
+        "pdf_page": 67,
+        "end_print_page": 68
+      },
+      {
+        "id": "aifb-section-4.2",
+        "kind": "section",
+        "number": "4.2",
+        "title": "Nghịch lý chi phí suy luận: khi giá giảm mà hóa đơn vẫn tăng",
+        "parent_id": "aifb-ch04",
+        "print_page": 68,
+        "pdf_page": 68,
+        "end_print_page": 69
+      },
+      {
+        "id": "aifb-section-4.3",
+        "kind": "section",
+        "number": "4.3",
+        "title": "Kiến trúc phân tầng: quyết định âm thầm nhưng có sức nặng lớn nhất",
+        "parent_id": "aifb-ch04",
+        "print_page": 69,
+        "pdf_page": 69,
+        "end_print_page": 70
+      },
+      {
+        "id": "aifb-section-4.4",
+        "kind": "section",
+        "number": "4.4",
+        "title": "ROI hai tầng: lợi ích trực tiếp và tài sản bổ trợ",
+        "parent_id": "aifb-ch04",
+        "print_page": 70,
+        "pdf_page": 70,
+        "end_print_page": 74
+      },
+      {
+        "id": "aifb-figure-4.1",
+        "kind": "figure",
+        "number": "4.1",
+        "title": "ROI hai tầng: lợi ích trực tiếp và tài sản bổ trợ",
+        "parent_id": "aifb-ch04",
+        "print_page": 70,
+        "pdf_page": 70
+      },
+      {
+        "id": "aifb-figure-4.2",
+        "kind": "figure",
+        "number": "4.2",
+        "title": "Đường cong J của đầu tư AI: từ lợi ích trực tiếp đến tài sản",
+        "parent_id": "aifb-ch04",
+        "print_page": 73,
+        "pdf_page": 73
+      },
+      {
+        "id": "aifb-section-4.5",
+        "kind": "section",
+        "number": "4.5",
+        "title": "Thuê ngoài hay tự xây: bài toán không chỉ nằm ở tốc độ",
+        "parent_id": "aifb-ch04",
+        "print_page": 74,
+        "pdf_page": 74,
+        "end_print_page": 77
+      },
+      {
+        "id": "aifb-table-4.1",
+        "kind": "table",
+        "number": "4.1",
+        "title": "Ma trận quyết định Xây – Mua – Hợp tác",
+        "parent_id": "aifb-ch04",
+        "print_page": 75,
+        "pdf_page": 75
+      },
+      {
+        "id": "aifb-section-4.6",
+        "kind": "section",
+        "number": "4.6",
+        "title": "Khắc phục căn bệnh “duyệt rồi bỏ quên”",
+        "parent_id": "aifb-ch04",
+        "print_page": 77,
+        "pdf_page": 77,
+        "end_print_page": 79
+      },
+      {
+        "id": "aifb-section-4.7",
+        "kind": "section",
+        "number": "4.7",
+        "title": "Ba câu hỏi để hỏi trước khi ký bất kỳ hợp đồng AI nào",
+        "parent_id": "aifb-ch04",
+        "print_page": 79,
+        "pdf_page": 79,
+        "end_print_page": 79
+      },
+      {
+        "id": "aifb-section-4.8",
+        "kind": "section",
+        "number": "4.8",
+        "title": "Đo AI bằng chất lượng quyết định, không chỉ bằng khối lượng tác vụ",
+        "parent_id": "aifb-ch04",
+        "print_page": 79,
+        "pdf_page": 79,
+        "end_print_page": 82
+      },
+      {
+        "id": "aifb-section-5.1",
+        "kind": "section",
+        "number": "5.1",
+        "title": "Ba nhóm dữ liệu cần phân biệt, và một nguyên tắc nền tảng",
+        "parent_id": "aifb-ch05",
+        "print_page": 84,
+        "pdf_page": 84,
+        "end_print_page": 86
+      },
+      {
+        "id": "aifb-table-5.1",
+        "kind": "table",
+        "number": "5.1",
+        "title": "Ba nhóm tài sản dữ liệu và thiệt hại khi thất thoát",
+        "parent_id": "aifb-ch05",
+        "print_page": 85,
+        "pdf_page": 85
+      },
+      {
+        "id": "aifb-section-5.2",
+        "kind": "section",
+        "number": "5.2",
+        "title": "Sáu con đường thất thoát dữ liệu mà AI mở ra",
+        "parent_id": "aifb-ch05",
+        "print_page": 86,
+        "pdf_page": 86,
+        "end_print_page": 87
+      },
+      {
+        "id": "aifb-section-5.3",
+        "kind": "section",
+        "number": "5.3",
+        "title": "Một sự cố trong bệnh viện: khi Tác nhân AI “làm đúng những gì được yêu cầu”",
+        "parent_id": "aifb-ch05",
+        "print_page": 87,
+        "pdf_page": 87,
+        "end_print_page": 88
+      },
+      {
+        "id": "aifb-section-5.4",
+        "kind": "section",
+        "number": "5.4",
+        "title": "Bóng tối AI (Shadow AI): đừng biến nhu cầu năng suất thành hành vi bí mật",
+        "parent_id": "aifb-ch05",
+        "print_page": 88,
+        "pdf_page": 88,
+        "end_print_page": 89
+      },
+      {
+        "id": "aifb-table-5.2",
+        "kind": "table",
+        "number": "5.2",
+        "title": "Nguyên tắc ba mức Xanh – Vàng – Đỏ",
+        "parent_id": "aifb-ch05",
+        "print_page": 89,
+        "pdf_page": 89
+      },
+      {
+        "id": "aifb-section-5.5",
+        "kind": "section",
+        "number": "5.5",
+        "title": "Bốn lớp phòng thủ kỹ thuật cốt lõi",
+        "parent_id": "aifb-ch05",
+        "print_page": 89,
+        "pdf_page": 89,
+        "end_print_page": 91
+      },
+      {
+        "id": "aifb-section-5.6",
+        "kind": "section",
+        "number": "5.6",
+        "title": "Sáu khóa an toàn bắt buộc cho mọi Tác nhân AI",
+        "parent_id": "aifb-ch05",
+        "print_page": 91,
+        "pdf_page": 91,
+        "end_print_page": 94
+      },
+      {
+        "id": "aifb-figure-5.1",
+        "kind": "figure",
+        "number": "5.1",
+        "title": "Sáu khóa an toàn: sáu rào chắn cùng tồn tại quanh một Tác",
+        "parent_id": "aifb-ch05",
+        "print_page": 93,
+        "pdf_page": 93
+      },
+      {
+        "id": "aifb-section-5.7",
+        "kind": "section",
+        "number": "5.7",
+        "title": "Hợp đồng với nhà cung cấp cũng là một lớp bảo mật",
+        "parent_id": "aifb-ch05",
+        "print_page": 94,
+        "pdf_page": 94,
+        "end_print_page": 96
+      },
+      {
+        "id": "aifb-section-6.1",
+        "kind": "section",
+        "number": "6.1",
+        "title": "Bốn khía cạnh của quản trị vòng đời AI",
+        "parent_id": "aifb-ch06",
+        "print_page": 98,
+        "pdf_page": 98,
+        "end_print_page": 99
+      },
+      {
+        "id": "aifb-section-6.2",
+        "kind": "section",
+        "number": "6.2",
+        "title": "Lòng tin là điều kiện kinh tế của việc áp dụng AI",
+        "parent_id": "aifb-ch06",
+        "print_page": 99,
+        "pdf_page": 99,
+        "end_print_page": 100
+      },
+      {
+        "id": "aifb-section-6.3",
+        "kind": "section",
+        "number": "6.3",
+        "title": "Khung 4 trụ cột quản trị AI",
+        "parent_id": "aifb-ch06",
+        "print_page": 100,
+        "pdf_page": 100,
+        "end_print_page": 101
+      },
+      {
+        "id": "aifb-table-6.1",
+        "kind": "table",
+        "number": "6.1",
+        "title": "Khung bốn trụ cột quản trị AI",
+        "parent_id": "aifb-ch06",
+        "print_page": 100,
+        "pdf_page": 100
+      },
+      {
+        "id": "aifb-section-6.4",
+        "kind": "section",
+        "number": "6.4",
+        "title": "Ai chịu trách nhiệm quản trị AI trong tổ chức?",
+        "parent_id": "aifb-ch06",
+        "print_page": 101,
+        "pdf_page": 101,
+        "end_print_page": 103
+      },
+      {
+        "id": "aifb-section-6.5",
+        "kind": "section",
+        "number": "6.5",
+        "title": "Phân cấp an toàn hệ thống thông tin: một nghĩa vụ dễ bị bỏ sót",
+        "parent_id": "aifb-ch06",
+        "print_page": 103,
+        "pdf_page": 103,
+        "end_print_page": 104
+      },
+      {
+        "id": "aifb-section-6.6",
+        "kind": "section",
+        "number": "6.6",
+        "title": "AI Lifecycle Card: thẻ theo dõi vòng đời cho mỗi hệ thống AI",
+        "parent_id": "aifb-ch06",
+        "print_page": 104,
+        "pdf_page": 104,
+        "end_print_page": 105
+      },
+      {
+        "id": "aifb-section-6.7",
+        "kind": "section",
+        "number": "6.7",
+        "title": "Khung sườn Mẫu chính sách sử dụng AI nội bộ",
+        "parent_id": "aifb-ch06",
+        "print_page": 105,
+        "pdf_page": 105,
+        "end_print_page": 106
+      },
+      {
+        "id": "aifb-figure-6.1",
+        "kind": "figure",
+        "number": "6.1",
+        "title": "Quy trình xử lý sự cố AI khi sự cố đã xảy ra",
+        "parent_id": "aifb-ch06",
+        "print_page": 105,
+        "pdf_page": 105
+      },
+      {
+        "id": "aifb-section-6.8",
+        "kind": "section",
+        "number": "6.8",
+        "title": "Một dự án AI có điểm kết thúc; một hệ thống quản trị AI thì không",
+        "parent_id": "aifb-ch06",
+        "print_page": 106,
+        "pdf_page": 106,
+        "end_print_page": 108
+      },
+      {
+        "id": "aifb-section-6.9",
+        "kind": "section",
+        "number": "6.9",
+        "title": "Bảy sai lầm phổ biến khiến quản trị AI thất bại trong thực thi",
+        "parent_id": "aifb-ch06",
+        "print_page": 108,
+        "pdf_page": 108,
+        "end_print_page": 109
+      },
+      {
+        "id": "aifb-section-6.10",
+        "kind": "section",
+        "number": "6.10",
+        "title": "Vai trò của lãnh đạo: không giao khoán toàn bộ rủi ro dữ liệu cho phòng công nghệ thông tin",
+        "parent_id": "aifb-ch06",
+        "print_page": 109,
+        "pdf_page": 109,
+        "end_print_page": 112
+      },
+      {
+        "id": "aifb-section-7.1",
+        "kind": "section",
+        "number": "7.1",
+        "title": "Vì sao “biết AI nên làm gì” chưa từng là điều khó nhất",
+        "parent_id": "aifb-ch07",
+        "print_page": 114,
+        "pdf_page": 114,
+        "end_print_page": 115
+      },
+      {
+        "id": "aifb-section-7.2",
+        "kind": "section",
+        "number": "7.2",
+        "title": "Hồ Sơ Agent: sáu thành phần không thể thiếu",
+        "parent_id": "aifb-ch07",
+        "print_page": 115,
+        "pdf_page": 115,
+        "end_print_page": 118
+      },
+      {
+        "id": "aifb-figure-7.1",
+        "kind": "figure",
+        "number": "7.1",
+        "title": "Hồ Sơ Agent: sáu thành phần không thể thiếu",
+        "parent_id": "aifb-ch07",
+        "print_page": 117,
+        "pdf_page": 117
+      },
+      {
+        "id": "aifb-section-7.3",
+        "kind": "section",
+        "number": "7.3",
+        "title": "Mức tự chủ: khả năng làm được không đồng nghĩa được phép tự quyết",
+        "parent_id": "aifb-ch07",
+        "print_page": 118,
+        "pdf_page": 118,
+        "end_print_page": 120
+      },
+      {
+        "id": "aifb-figure-7.2",
+        "kind": "figure",
+        "number": "7.2",
+        "title": "Bốn bậc tự chủ của Tác nhân AI",
+        "parent_id": "aifb-ch07",
+        "print_page": 119,
+        "pdf_page": 119
+      },
+      {
+        "id": "aifb-section-7.4",
+        "kind": "section",
+        "number": "7.4",
+        "title": "Ranh giới an toàn: mắt xích nhỏ nhất của hệ thống quản trị AI",
+        "parent_id": "aifb-ch07",
+        "print_page": 120,
+        "pdf_page": 120,
+        "end_print_page": 121
+      },
+      {
+        "id": "aifb-section-7.5",
+        "kind": "section",
+        "number": "7.5",
+        "title": "Bảy bước triển khai, không phải một cú bấm nút",
+        "parent_id": "aifb-ch07",
+        "print_page": 121,
+        "pdf_page": 121,
+        "end_print_page": 122
+      },
+      {
+        "id": "aifb-table-7.1",
+        "kind": "table",
+        "number": "7.1",
+        "title": "Bảy bước triển khai một Tác nhân AI",
+        "parent_id": "aifb-ch07",
+        "print_page": 121,
+        "pdf_page": 121
+      },
+      {
+        "id": "aifb-section-7.6",
+        "kind": "section",
+        "number": "7.6",
+        "title": "Quyền tự chủ phải được chứng minh, không mặc định theo khả năng",
+        "parent_id": "aifb-ch07",
+        "print_page": 122,
+        "pdf_page": 122,
+        "end_print_page": 123
+      },
+      {
+        "id": "aifb-section-7.7",
+        "kind": "section",
+        "number": "7.7",
+        "title": "Hồ Sơ Agent là bản mô tả công việc cho từng ô trong mô hình tổ chức mới",
+        "parent_id": "aifb-ch07",
+        "print_page": 123,
+        "pdf_page": 123,
+        "end_print_page": 124
+      },
+      {
+        "id": "aifb-section-7.8",
+        "kind": "section",
+        "number": "7.8",
+        "title": "Trở lại câu chuyện mở đầu: Trợ lý Báo giá AI, phiên bản đã sửa",
+        "parent_id": "aifb-ch07",
+        "print_page": 124,
+        "pdf_page": 124,
+        "end_print_page": 126
+      },
+      {
+        "id": "aifb-section-7.9",
+        "kind": "section",
+        "number": "7.9",
+        "title": "Chi phí vòng đời của một Tác nhân AI: đừng chỉ tính chi phí xây dựng ban đầu",
+        "parent_id": "aifb-ch07",
+        "print_page": 126,
+        "pdf_page": 126,
+        "end_print_page": 129
+      },
+      {
+        "id": "aifb-figure-7.3",
+        "kind": "figure",
+        "number": "7.3",
+        "title": "Vòng đời của một Tác nhân AI",
+        "parent_id": "aifb-ch07",
+        "print_page": 127,
+        "pdf_page": 127
+      },
+      {
+        "id": "aifb-section-7.10",
+        "kind": "section",
+        "number": "7.10",
+        "title": "Khi nào một Tác nhân AI nên bị “cho nghỉ việc”",
+        "parent_id": "aifb-ch07",
+        "print_page": 129,
+        "pdf_page": 129,
+        "end_print_page": 130
+      },
+      {
+        "id": "aifb-section-7.11",
+        "kind": "section",
+        "number": "7.11",
+        "title": "Khi một doanh nghiệp có nhiều Tác nhân AI: bài toán giám sát tổng thể",
+        "parent_id": "aifb-ch07",
+        "print_page": 130,
+        "pdf_page": 130,
+        "end_print_page": 132
+      },
+      {
+        "id": "aifb-section-8.1",
+        "kind": "section",
+        "number": "8.1",
+        "title": "Bốn mẫu hình cộng tác Người-AI",
+        "parent_id": "aifb-ch08",
+        "print_page": 136,
+        "pdf_page": 136,
+        "end_print_page": 138
+      },
+      {
+        "id": "aifb-figure-8.1",
+        "kind": "figure",
+        "number": "8.1",
+        "title": "Bốn mẫu hình cộng tác Người – AI",
+        "parent_id": "aifb-ch08",
+        "print_page": 136,
+        "pdf_page": 136
+      },
+      {
+        "id": "aifb-table-8.1",
+        "kind": "table",
+        "number": "8.1",
+        "title": "Chọn mẫu hình cộng tác cho một quy trình",
+        "parent_id": "aifb-ch08",
+        "print_page": 138,
+        "pdf_page": 138
+      },
+      {
+        "id": "aifb-section-8.2",
+        "kind": "section",
+        "number": "8.2",
+        "title": "“Sơ Đồ Công Việc”: bản đồ tổ chức mới",
+        "parent_id": "aifb-ch08",
+        "print_page": 138,
+        "pdf_page": 138,
+        "end_print_page": 141
+      },
+      {
+        "id": "aifb-figure-8.2",
+        "kind": "figure",
+        "number": "8.2",
+        "title": "Sơ Đồ Công Việc: Trợ lý Báo giá AI",
+        "parent_id": "aifb-ch08",
+        "print_page": 139,
+        "pdf_page": 139
+      },
+      {
+        "id": "aifb-table-8.2",
+        "kind": "table",
+        "number": "8.2",
+        "title": "Sơ Đồ Công Việc cho một chiến dịch ra mắt sản phẩm",
+        "parent_id": "aifb-ch08",
+        "print_page": 140,
+        "pdf_page": 140
+      },
+      {
+        "id": "aifb-section-8.3",
+        "kind": "section",
+        "number": "8.3",
+        "title": "Tỷ lệ Người – Tác nhân AI",
+        "parent_id": "aifb-ch08",
+        "print_page": 141,
+        "pdf_page": 141,
+        "end_print_page": 142
+      },
+      {
+        "id": "aifb-section-8.4",
+        "kind": "section",
+        "number": "8.4",
+        "title": "Văn hóa và sự làm gương của quản lý: yếu tố quyết định lớn nhất",
+        "parent_id": "aifb-ch08",
+        "print_page": 142,
+        "pdf_page": 142,
+        "end_print_page": 142
+      },
+      {
+        "id": "aifb-section-8.5",
+        "kind": "section",
+        "number": "8.5",
+        "title": "Kịch bản đối thoại mẫu: khi nhân viên lo lắng AI sẽ thay thế mình",
+        "parent_id": "aifb-ch08",
+        "print_page": 142,
+        "pdf_page": 142,
+        "end_print_page": 143
+      },
+      {
+        "id": "aifb-section-8.6",
+        "kind": "section",
+        "number": "8.6",
+        "title": "Vì sao “Người Điều Phối” không phải là đích đến cuối cùng của mọi quản lý",
+        "parent_id": "aifb-ch08",
+        "print_page": 143,
+        "pdf_page": 143,
+        "end_print_page": 148
+      },
+      {
+        "id": "aifb-figure-9.1",
+        "kind": "figure",
+        "number": "9.1",
+        "title": "Ma trận Tự động hóa – Tăng cường theo mức rủi ro",
+        "parent_id": "aifb-ch09",
+        "print_page": 150,
+        "pdf_page": 150
+      },
+      {
+        "id": "aifb-section-9.1",
+        "kind": "section",
+        "number": "9.1",
+        "title": "Vận hành & Sản xuất",
+        "parent_id": "aifb-ch09",
+        "print_page": 151,
+        "pdf_page": 151,
+        "end_print_page": 152
+      },
+      {
+        "id": "aifb-section-9.2",
+        "kind": "section",
+        "number": "9.2",
+        "title": "Tài chính – Kế toán",
+        "parent_id": "aifb-ch09",
+        "print_page": 152,
+        "pdf_page": 152,
+        "end_print_page": 153
+      },
+      {
+        "id": "aifb-section-9.3",
+        "kind": "section",
+        "number": "9.3",
+        "title": "Marketing & Bán hàng",
+        "parent_id": "aifb-ch09",
+        "print_page": 153,
+        "pdf_page": 153,
+        "end_print_page": 154
+      },
+      {
+        "id": "aifb-section-9.4",
+        "kind": "section",
+        "number": "9.4",
+        "title": "Chăm sóc khách hàng",
+        "parent_id": "aifb-ch09",
+        "print_page": 154,
+        "pdf_page": 154,
+        "end_print_page": 155
+      },
+      {
+        "id": "aifb-section-9.5",
+        "kind": "section",
+        "number": "9.5",
+        "title": "Nhân sự",
+        "parent_id": "aifb-ch09",
+        "print_page": 155,
+        "pdf_page": 155,
+        "end_print_page": 160
+      },
+      {
+        "id": "aifb-figure-9.2",
+        "kind": "figure",
+        "number": "9.2",
+        "title": "Trình tự triển khai gợi ý qua năm phòng ban (minh họa,",
+        "parent_id": "aifb-ch09",
+        "print_page": 158,
+        "pdf_page": 158
+      },
+      {
+        "id": "aifb-section-10.1",
+        "kind": "section",
+        "number": "10.1",
+        "title": "Vì sao đây là trách nhiệm của doanh nghiệp, không chỉ của cá nhân",
+        "parent_id": "aifb-ch10",
+        "print_page": 162,
+        "pdf_page": 162,
+        "end_print_page": 163
+      },
+      {
+        "id": "aifb-section-10.2",
+        "kind": "section",
+        "number": "10.2",
+        "title": "Ma trận kỹ năng theo vai trò",
+        "parent_id": "aifb-ch10",
+        "print_page": 163,
+        "pdf_page": 163,
+        "end_print_page": 163
+      },
+      {
+        "id": "aifb-table-10.1",
+        "kind": "table",
+        "number": "10.1",
+        "title": "Ma trận kỹ năng theo vai trò",
+        "parent_id": "aifb-ch10",
+        "print_page": 163,
+        "pdf_page": 163
+      },
+      {
+        "id": "aifb-section-10.3",
+        "kind": "section",
+        "number": "10.3",
+        "title": "Đánh giá kỹ năng và lộ trình chuyển đổi",
+        "parent_id": "aifb-ch10",
+        "print_page": 163,
+        "pdf_page": 163,
+        "end_print_page": 164
+      },
+      {
+        "id": "aifb-section-10.4",
+        "kind": "section",
+        "number": "10.4",
+        "title": "Bảo vệ bậc thang kinh nghiệm cho nhân sự đầu vào",
+        "parent_id": "aifb-ch10",
+        "print_page": 164,
+        "pdf_page": 164,
+        "end_print_page": 166
+      },
+      {
+        "id": "aifb-figure-10.1",
+        "kind": "figure",
+        "number": "10.1",
+        "title": "Ba cách bảo vệ bậc thang kinh nghiệm cho nhân sự đầu vào",
+        "parent_id": "aifb-ch10",
+        "print_page": 164,
+        "pdf_page": 164
+      },
+      {
+        "id": "aifb-section-10.5",
+        "kind": "section",
+        "number": "10.5",
+        "title": "Ba sai lầm phổ biến khi doanh nghiệp thiết kế lại lực lượng lao động",
+        "parent_id": "aifb-ch10",
+        "print_page": 166,
+        "pdf_page": 166,
+        "end_print_page": 168
+      },
+      {
+        "id": "aifb-section-10.6",
+        "kind": "section",
+        "number": "10.6",
+        "title": "Trách nhiệm đào tạo và an toàn tâm lý",
+        "parent_id": "aifb-ch10",
+        "print_page": 168,
+        "pdf_page": 168,
+        "end_print_page": 169
+      },
+      {
+        "id": "aifb-section-10.7",
+        "kind": "section",
+        "number": "10.7",
+        "title": "Từ ma trận kỹ năng đến kế hoạch phát triển năng lực",
+        "parent_id": "aifb-ch10",
+        "print_page": 169,
+        "pdf_page": 169,
+        "end_print_page": 173
+      },
+      {
+        "id": "aifb-table-10.2",
+        "kind": "table",
+        "number": "10.2",
+        "title": "Ma trận phát triển năng lực AI theo vai trò",
+        "parent_id": "aifb-ch10",
+        "print_page": 171,
+        "pdf_page": 171
+      },
+      {
+        "id": "aifb-section-10.8",
+        "kind": "section",
+        "number": "10.8",
+        "title": "Đo lường tác động: ba con số đáng theo dõi hằng quý",
+        "parent_id": "aifb-ch10",
+        "print_page": 173,
+        "pdf_page": 173,
+        "end_print_page": 176
+      },
+      {
+        "id": "aifb-section-11.1",
+        "kind": "section",
+        "number": "11.1",
+        "title": "Phá bỏ nỗi sợ sai lầm cho nhân viên trong môi trường biến động",
+        "parent_id": "aifb-ch11",
+        "print_page": 181,
+        "pdf_page": 181,
+        "end_print_page": 183
+      },
+      {
+        "id": "aifb-section-11.2",
+        "kind": "section",
+        "number": "11.2",
+        "title": "“Không Gian Thử Nghiệm AI Nội Bộ” (Internal AI Sandbox)",
+        "parent_id": "aifb-ch11",
+        "print_page": 183,
+        "pdf_page": 183,
+        "end_print_page": 185
+      },
+      {
+        "id": "aifb-figure-11.1",
+        "kind": "figure",
+        "number": "11.1",
+        "title": "Chu trình thử nghiệm và học hỏi",
+        "parent_id": "aifb-ch11",
+        "print_page": 183,
+        "pdf_page": 183
+      },
+      {
+        "id": "aifb-section-11.3",
+        "kind": "section",
+        "number": "11.3",
+        "title": "Thiết kế đánh giá chặt chẽ hơn cho mỗi sandbox",
+        "parent_id": "aifb-ch11",
+        "print_page": 185,
+        "pdf_page": 185,
+        "end_print_page": 187
+      },
+      {
+        "id": "aifb-section-11.4",
+        "kind": "section",
+        "number": "11.4",
+        "title": "Không cần chờ một không gian toàn công ty mới bắt đầu được",
+        "parent_id": "aifb-ch11",
+        "print_page": 187,
+        "pdf_page": 187,
+        "end_print_page": 187
+      },
+      {
+        "id": "aifb-section-11.5",
+        "kind": "section",
+        "number": "11.5",
+        "title": "Hai loại “sandbox” cần phân biệt rõ",
+        "parent_id": "aifb-ch11",
+        "print_page": 187,
+        "pdf_page": 187,
+        "end_print_page": 189
+      },
+      {
+        "id": "aifb-table-11.1",
+        "kind": "table",
+        "number": "11.1",
+        "title": "Hai loại sandbox cần phân biệt",
+        "parent_id": "aifb-ch11",
+        "print_page": 188,
+        "pdf_page": 188
+      },
+      {
+        "id": "aifb-section-11.6",
+        "kind": "section",
+        "number": "11.6",
+        "title": "Từ một mini-sandbox đến một danh mục thử nghiệm cấp tổ chức",
+        "parent_id": "aifb-ch11",
+        "print_page": 189,
+        "pdf_page": 189,
+        "end_print_page": 190
+      },
+      {
+        "id": "aifb-section-11.7",
+        "kind": "section",
+        "number": "11.7",
+        "title": "Không phải mọi thất bại đều giống nhau",
+        "parent_id": "aifb-ch11",
+        "print_page": 190,
+        "pdf_page": 190,
+        "end_print_page": 192
+      },
+      {
+        "id": "aifb-figure-11.2",
+        "kind": "figure",
+        "number": "11.2",
+        "title": "Ba loại thất bại và phản ứng quản trị tương ứng",
+        "parent_id": "aifb-ch11",
+        "print_page": 191,
+        "pdf_page": 191
+      },
+      {
+        "id": "aifb-section-11.8",
+        "kind": "section",
+        "number": "11.8",
+        "title": "Một ví dụ đầy đủ: hành trình một thử nghiệm từ sandbox đến vận hành chính thức",
+        "parent_id": "aifb-ch11",
+        "print_page": 192,
+        "pdf_page": 192,
+        "end_print_page": 194
+      },
+      {
+        "id": "aifb-figure-11.3",
+        "kind": "figure",
+        "number": "11.3",
+        "title": "Hành trình một thử nghiệm: từ sandbox đến vận hành",
+        "parent_id": "aifb-ch11",
+        "print_page": 194,
+        "pdf_page": 194
+      },
+      {
+        "id": "aifb-section-11.9",
+        "kind": "section",
+        "number": "11.9",
+        "title": "Vai trò của CEO: đọc bảng danh mục thí điểm đúng cách",
+        "parent_id": "aifb-ch11",
+        "print_page": 194,
+        "pdf_page": 194,
+        "end_print_page": 196
+      },
+      {
+        "id": "aifb-figure-12.1",
+        "kind": "figure",
+        "number": "12.1",
+        "title": "Tám trụ cột EAR Index™: bản đồ tổng kết logic cuốn sách",
+        "parent_id": "aifb-ch12",
+        "print_page": 199,
+        "pdf_page": 199
+      },
+      {
+        "id": "aifb-section-12.1",
+        "kind": "section",
+        "number": "12.1",
+        "title": "Vì sao doanh nghiệp cần một khung chẩn đoán của riêng mình",
+        "parent_id": "aifb-ch12",
+        "print_page": 199,
+        "pdf_page": 199,
+        "end_print_page": 200
+      },
+      {
+        "id": "aifb-section-12.2",
+        "kind": "section",
+        "number": "12.2",
+        "title": "Tám trụ cột của EAR Index™",
+        "parent_id": "aifb-ch12",
+        "print_page": 200,
+        "pdf_page": 200,
+        "end_print_page": 203
+      },
+      {
+        "id": "aifb-table-12.1",
+        "kind": "table",
+        "number": "12.1",
+        "title": "Tám trụ cột EAR Index™: trọng số, câu hỏi chẩn đoán và",
+        "parent_id": "aifb-ch12",
+        "print_page": 201,
+        "pdf_page": 201
+      },
+      {
+        "id": "aifb-section-12.3",
+        "kind": "section",
+        "number": "12.3",
+        "title": "Cách tính điểm",
+        "parent_id": "aifb-ch12",
+        "print_page": 203,
+        "pdf_page": 203,
+        "end_print_page": 204
+      },
+      {
+        "id": "aifb-section-12.4",
+        "kind": "section",
+        "number": "12.4",
+        "title": "Bốn mức trưởng thành",
+        "parent_id": "aifb-ch12",
+        "print_page": 204,
+        "pdf_page": 204,
+        "end_print_page": 205
+      },
+      {
+        "id": "aifb-table-12.2",
+        "kind": "table",
+        "number": "12.2",
+        "title": "Bốn mức trưởng thành của EAR Index™",
+        "parent_id": "aifb-ch12",
+        "print_page": 204,
+        "pdf_page": 204
+      },
+      {
+        "id": "aifb-section-12.5",
+        "kind": "section",
+        "number": "12.5",
+        "title": "Cách sử dụng EAR Index™ trong thực tế",
+        "parent_id": "aifb-ch12",
+        "print_page": 205,
+        "pdf_page": 205,
+        "end_print_page": 206
+      },
+      {
+        "id": "aifb-section-12.6",
+        "kind": "section",
+        "number": "12.6",
+        "title": "Lộ trình 90 ngày: cùng một cánh cửa, ba người bước vào cùng lúc",
+        "parent_id": "aifb-ch12",
+        "print_page": 206,
+        "pdf_page": 206,
+        "end_print_page": 210
+      },
+      {
+        "id": "aifb-table-12.3",
+        "kind": "table",
+        "number": "12.3",
+        "title": "Ma trận 90 ngày: ba vai trò, một cánh cửa",
+        "parent_id": "aifb-ch12",
+        "print_page": 206,
+        "pdf_page": 206
+      },
+      {
+        "id": "aifb-table-12.4",
+        "kind": "table",
+        "number": "12.4",
+        "title": "Giai đoạn 1: chẩn đoán trung thực, theo tuần và theo vai trò",
+        "parent_id": "aifb-ch12",
+        "print_page": 207,
+        "pdf_page": 207
+      },
+      {
+        "id": "aifb-table-12.5",
+        "kind": "table",
+        "number": "12.5",
+        "title": "Giai đoạn 2: củng cố nền tảng, theo tuần và theo vai trò",
+        "parent_id": "aifb-ch12",
+        "print_page": 208,
+        "pdf_page": 208
+      },
+      {
+        "id": "aifb-section-12.7",
+        "kind": "section",
+        "number": "12.7",
+        "title": "Nghi thức đồng bộ hằng tuần",
+        "parent_id": "aifb-ch12",
+        "print_page": 210,
+        "pdf_page": 210,
+        "end_print_page": 211
+      },
+      {
+        "id": "aifb-section-12.8",
+        "kind": "section",
+        "number": "12.8",
+        "title": "Bốn cái bẫy phổ biến nhất khi triển khai lộ trình 90 ngày",
+        "parent_id": "aifb-ch12",
+        "print_page": 211,
+        "pdf_page": 211,
+        "end_print_page": 212
+      },
+      {
+        "id": "aifb-section-12.9",
+        "kind": "section",
+        "number": "12.9",
+        "title": "Bảng tóm tắt một trang: dán lên tường phòng họp",
+        "parent_id": "aifb-ch12",
+        "print_page": 212,
+        "pdf_page": 212,
+        "end_print_page": 214
+      },
+      {
+        "id": "aifb-table-12.6",
+        "kind": "table",
+        "number": "12.6",
+        "title": "Lộ trình 90 ngày: bản tóm tắt một trang",
+        "parent_id": "aifb-ch12",
+        "print_page": 212,
+        "pdf_page": 212
+      },
+      {
+        "id": "aifb-policy-1",
+        "kind": "appendix_item",
+        "number": "1",
+        "title": "Phạm vi áp dụng",
+        "parent_id": "aifb-p217",
+        "print_page": 217,
+        "pdf_page": 217
+      },
+      {
+        "id": "aifb-policy-2",
+        "kind": "appendix_item",
+        "number": "2",
+        "title": "Phân loại và xử lý dữ liệu",
+        "parent_id": "aifb-p217",
+        "print_page": 217,
+        "pdf_page": 217
+      },
+      {
+        "id": "aifb-policy-3",
+        "kind": "appendix_item",
+        "number": "3",
+        "title": "Trách nhiệm và minh bạch",
+        "parent_id": "aifb-p217",
+        "print_page": 217,
+        "pdf_page": 217
+      },
+      {
+        "id": "aifb-policy-4",
+        "kind": "appendix_item",
+        "number": "4",
+        "title": "Nhân sự phụ trách và kiểm toán định kỳ",
+        "parent_id": "aifb-p217",
+        "print_page": 218,
+        "pdf_page": 218
+      },
+      {
+        "id": "aifb-policy-5",
+        "kind": "appendix_item",
+        "number": "5",
+        "title": "Xử lý sự cố và minh bạch với khách hàng",
+        "parent_id": "aifb-p217",
+        "print_page": 218,
+        "pdf_page": 218
+      },
+      {
+        "id": "aifb-policy-6",
+        "kind": "appendix_item",
+        "number": "6",
+        "title": "Chuyển dữ liệu ra nước ngoài, hiệu lực và sửa đổi",
+        "parent_id": "aifb-p217",
+        "print_page": 218,
+        "pdf_page": 218
+      },
+      {
+        "id": "aifb-template-1",
+        "kind": "appendix_item",
+        "number": "1",
+        "title": "Hồ Sơ Agent",
+        "parent_id": "aifb-p219",
+        "print_page": 219,
+        "pdf_page": 219
+      },
+      {
+        "id": "aifb-template-2",
+        "kind": "appendix_item",
+        "number": "2",
+        "title": "Lịch trình vận hành hằng ngày",
+        "parent_id": "aifb-p219",
+        "print_page": 220,
+        "pdf_page": 220
+      },
+      {
+        "id": "aifb-template-3",
+        "kind": "appendix_item",
+        "number": "3",
+        "title": "Bảng theo dõi hiệu suất",
+        "parent_id": "aifb-p219",
+        "print_page": 221,
+        "pdf_page": 221
+      },
+      {
+        "id": "aifb-template-4",
+        "kind": "appendix_item",
+        "number": "4",
+        "title": "Danh sách Agent trong tổ chức",
+        "parent_id": "aifb-p219",
+        "print_page": 221,
+        "pdf_page": 221
+      },
+      {
+        "id": "aifb-template-5",
+        "kind": "appendix_item",
+        "number": "5",
+        "title": "Nhật ký ranh giới an toàn",
+        "parent_id": "aifb-p219",
+        "print_page": 221,
+        "pdf_page": 221
+      },
+      {
+        "id": "aifb-figure-C.1",
+        "kind": "figure",
+        "number": "C.1",
+        "title": "Cấu trúc bốn phần của Phụ lục C",
+        "parent_id": "aifb-p226",
+        "print_page": 226,
+        "pdf_page": 226
+      }
+    ]
+  }
+]

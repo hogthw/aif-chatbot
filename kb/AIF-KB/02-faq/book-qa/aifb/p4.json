@@ -1,0 +1,42 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-p4",
+    "kind": "back_or_front_matter",
+    "title": "Bản đồ công cụ",
+    "start": 4,
+    "end": 4
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-p4",
+      "chapter": null,
+      "region_id": "aifb-p4",
+      "primary_source_id": "aifb-p4",
+      "question": "Bản đồ công cụ ở đầu sách AI First Business dùng để làm gì?",
+      "answer": "Bản đồ ghép từng câu hỏi quản trị với công cụ và chương tương ứng. Ví dụ, chọn mức tham gia AI dẫn tới mô hình 3A, còn đo đầu tư dẫn tới ROI hai tầng",
+      "source_ids": [
+        "aifb-p4"
+      ],
+      "aliases": [
+        "Bản đồ công cụ"
+      ],
+      "status": "draft_for_editorial_review"
+    }
+  ],
+  "sources": {
+    "aifb-p4": {
+      "title": "Bản đồ công cụ",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 4,
+      "end_page": 4,
+      "parent_id": "aifb-p4"
+    }
+  },
+  "print_pages": {
+    "4": "aifb-p4"
+  }
+}

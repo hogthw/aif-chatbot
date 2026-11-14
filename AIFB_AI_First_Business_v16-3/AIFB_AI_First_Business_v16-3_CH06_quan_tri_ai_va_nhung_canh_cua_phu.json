@@ -1,0 +1,398 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-ch06",
+    "kind": "chapter",
+    "chapter": 6,
+    "title": "Quản trị AI và những cánh cửa phụ",
+    "start": 97,
+    "end": 112
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-006",
+      "chapter": 6,
+      "question": "Quản trị AI cần làm rõ trách nhiệm gì?",
+      "answer": "Quản trị vòng đời AI gồm 4 khía cạnh cốt lõi: (1) Độ phù hợp bối cảnh — bắt buộc kiểm thử lại mỗi khi mô hình AI được cập nhật hoặc mở rộng sang dữ liệu, ngôn ngữ, quy định mới; (2) Giám sát suy giảm chất lượng định kỳ; (3) Minh bạch và khả năng giải thích quyết định; (4) Quyền con người can thiệp và ngắt khẩn cấp. Doanh nghiệp cần quy định rõ chủ sở hữu hệ thống, người phê duyệt và người xử lý sự cố.",
+      "source_ids": [
+        "aifb-section-6.1",
+        "aifb-section-6.4",
+        "aifb-section-6.5"
+      ],
+      "aliases": [
+        "quản trị AI",
+        "ai chịu trách nhiệm khi AI sai",
+        "bốn khía cạnh quản trị vòng đời AI",
+        "khi mô hình AI được cập nhật có cần kiểm thử lại không",
+        "kiểm thử lại mô hình AI",
+        "cập nhật mô hình AI",
+        "Bốn khía cạnh của quản trị vòng đời AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-6.1",
+      "region_id": "aifb-ch06"
+    },
+    {
+      "id": "aifb-qa-section-6.1",
+      "chapter": 6,
+      "region_id": "aifb-ch06",
+      "primary_source_id": "aifb-section-6.1",
+      "question": "Bốn khía cạnh của quản trị vòng đời AI là gì?",
+      "answer": "Kiểm tra độ phù hợp bối cảnh, giám sát suy giảm chất lượng, bảo đảm minh bạch và khả năng giải thích, cùng cơ chế để con người can thiệp.",
+      "source_ids": [
+        "aifb-section-6.1"
+      ],
+      "aliases": [
+        "Bốn khía cạnh của quản trị vòng đời AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Bốn khía cạnh của quản trị vòng đời AI"
+    },
+    {
+      "id": "aifb-qa-section-6.2",
+      "chapter": 6,
+      "region_id": "aifb-ch06",
+      "primary_source_id": "aifb-section-6.2",
+      "question": "Vì sao lòng tin là điều kiện kinh tế khi áp dụng AI?",
+      "answer": "Khách hàng và nhân viên cần tin rằng hệ thống hoạt động công bằng, minh bạch và có người chịu trách nhiệm. Khi niềm tin suy giảm, việc sử dụng và giá trị kinh doanh cũng chịu ảnh hưởng.",
+      "source_ids": [
+        "aifb-section-6.2"
+      ],
+      "aliases": [
+        "Lòng tin là điều kiện kinh tế của việc áp dụng AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Lòng tin là điều kiện kinh tế của việc áp dụng AI"
+    },
+    {
+      "id": "aifb-qa-section-6.3",
+      "chapter": 6,
+      "region_id": "aifb-ch06",
+      "primary_source_id": "aifb-section-6.3",
+      "question": "Bốn trụ cột quản trị AI gồm gì?",
+      "answer": "Pháp lý và tuân thủ, bảo mật kỹ thuật, bối cảnh, đạo đức và minh bạch, cùng tài chính và vận hành. Một lỗ hổng có thể gây hậu quả ở nhiều trụ cột.",
+      "source_ids": [
+        "aifb-section-6.3"
+      ],
+      "aliases": [
+        "Khung 4 trụ cột quản trị AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Khung 4 trụ cột quản trị AI"
+    },
+    {
+      "id": "aifb-qa-section-6.4",
+      "chapter": 6,
+      "region_id": "aifb-ch06",
+      "primary_source_id": "aifb-section-6.4",
+      "question": "Ai chịu trách nhiệm quản trị AI trong doanh nghiệp?",
+      "answer": "Sách đề xuất cơ chế liên chức năng, một chủ sở hữu cho từng hệ thống và chức năng pháp lý theo dõi thay đổi quy định. Doanh nghiệp nhỏ có thể giao vai trò điều phối cho một lãnh đạo cụ thể.",
+      "source_ids": [
+        "aifb-section-6.4"
+      ],
+      "aliases": [
+        "Ai chịu trách nhiệm quản trị AI trong tổ chức?"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Ai chịu trách nhiệm quản trị AI trong tổ chức?"
+    },
+    {
+      "id": "aifb-qa-section-6.5",
+      "chapter": 6,
+      "region_id": "aifb-ch06",
+      "primary_source_id": "aifb-section-6.5",
+      "question": "Vì sao cần rà soát phân cấp an toàn hệ thống thông tin?",
+      "answer": "Việc xác định cấp độ giúp biết hệ thống cần bảo vệ và quản lý theo phạm vi nào. Chương đặt nội dung này trong bối cảnh pháp lý của bản in và yêu cầu rà với pháp chế trước khi áp dụng.",
+      "source_ids": [
+        "aifb-section-6.5"
+      ],
+      "aliases": [
+        "Phân cấp an toàn hệ thống thông tin: một nghĩa vụ dễ bị bỏ sót",
+        "Phân cấp an toàn hệ thống thông tin",
+        "một nghĩa vụ dễ bị bỏ sót"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Phân cấp an toàn hệ thống thông tin: một nghĩa vụ dễ bị bỏ sót"
+    },
+    {
+      "id": "aifb-qa-section-6.6",
+      "chapter": 6,
+      "region_id": "aifb-ch06",
+      "primary_source_id": "aifb-section-6.6",
+      "question": "AI Lifecycle Card dùng để làm gì?",
+      "answer": "AI Lifecycle Card (Thẻ theo dõi vòng đời AI) là hồ sơ quản trị bắt buộc cho mỗi hệ thống AI, gồm 11 trường thông tin: 7 trường nền tảng và 4 trường quyền hạn (Quyền truy cập dữ liệu đọc/ghi/cấm, Công cụ & API bên ngoài được phép kết nối, Mức tự chủ hiện tại, Cá nhân có thẩm quyền giảm quyền hoặc dừng hệ thống khẩn cấp).",
+      "source_ids": [
+        "aifb-section-6.6"
+      ],
+      "aliases": [
+        "AI Lifecycle Card",
+        "thẻ theo dõi vòng đời AI",
+        "AI Lifecycle Card: thẻ theo dõi vòng đời cho mỗi hệ thống AI",
+        "thẻ theo dõi vòng đời cho mỗi hệ thống AI",
+        "11 trường thẻ vòng đời AI",
+        "theo dõi vòng đời AI cần ghi những gì"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "AI Lifecycle Card: thẻ theo dõi vòng đời cho mỗi hệ thống AI"
+    },
+    {
+      "id": "aifb-qa-section-6.7",
+      "chapter": 6,
+      "region_id": "aifb-ch06",
+      "primary_source_id": "aifb-section-6.7",
+      "question": "Mẫu chính sách sử dụng AI nội bộ cần bao quát gì?",
+      "answer": "Khung gồm phạm vi, phân loại và xử lý dữ liệu, trách nhiệm, minh bạch, phụ trách và kiểm toán, xử lý sự cố và cập nhật chính sách. Phụ lục A có mẫu để tùy chỉnh.",
+      "source_ids": [
+        "aifb-section-6.7"
+      ],
+      "aliases": [
+        "Khung sườn Mẫu chính sách sử dụng AI nội bộ"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Khung sườn Mẫu chính sách sử dụng AI nội bộ"
+    },
+    {
+      "id": "aifb-qa-section-6.8",
+      "chapter": 6,
+      "region_id": "aifb-ch06",
+      "primary_source_id": "aifb-section-6.8",
+      "question": "Vì sao quản trị AI tiếp tục sau khi dự án kết thúc?",
+      "answer": "Dữ liệu, mô hình, cách sử dụng và rủi ro thay đổi khi hệ thống đi vào thực tế. Doanh nghiệp cần giám sát và rà lại quyền, chất lượng, chi phí cùng điều kiện dừng.",
+      "source_ids": [
+        "aifb-section-6.8"
+      ],
+      "aliases": [
+        "Một dự án AI có điểm kết thúc; một hệ thống quản trị AI thì không"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Một dự án AI có điểm kết thúc; một hệ thống quản trị AI thì không"
+    },
+    {
+      "id": "aifb-qa-section-6.9",
+      "chapter": 6,
+      "region_id": "aifb-ch06",
+      "primary_source_id": "aifb-section-6.9",
+      "question": "Dấu hiệu quản trị AI chỉ tồn tại trên giấy là gì?",
+      "answer": "Chính sách có thể thiếu chủ sở hữu, kiểm soát thực tế và lịch kiểm tra. Hệ thống vận hành vẫn cần người chịu trách nhiệm và cơ chế xử lý khi phát hiện sai lệch.",
+      "source_ids": [
+        "aifb-section-6.9"
+      ],
+      "aliases": [
+        "Bảy sai lầm phổ biến khiến quản trị AI thất bại trong thực thi"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Bảy sai lầm phổ biến khiến quản trị AI thất bại trong thực thi"
+    },
+    {
+      "id": "aifb-qa-section-6.10",
+      "chapter": 6,
+      "region_id": "aifb-ch06",
+      "primary_source_id": "aifb-section-6.10",
+      "question": "Lãnh đạo cần giữ vai trò gì trong quản trị AI?",
+      "answer": "Lãnh đạo đặt mức rủi ro chấp nhận được, phân công trách nhiệm, cấp nguồn lực và theo dõi kết quả. Bộ phận công nghệ phối hợp với pháp lý, tài chính và nghiệp vụ.",
+      "source_ids": [
+        "aifb-section-6.10"
+      ],
+      "aliases": [
+        "Vai trò của lãnh đạo: không giao khoán toàn bộ rủi ro dữ liệu cho phòng công nghệ thông tin",
+        "Vai trò của lãnh đạo",
+        "không giao khoán toàn bộ rủi ro dữ liệu cho phòng công nghệ thông tin"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Vai trò của lãnh đạo: không giao khoán toàn bộ rủi ro dữ liệu cho phòng công nghệ thông tin"
+    },
+    {
+      "id": "aifb-qa-eval-08",
+      "chapter": 6,
+      "question": "Nếu AI trả lời sai và làm ảnh hưởng khách hàng thì doanh nghiệp xử lý theo quy trình nào?",
+      "answer": "Khi AI gây sự cố ảnh hưởng khách hàng, doanh nghiệp xử lý theo quy trình 4 bước: (1) Kích hoạt công tắc ngắt khẩn cấp (Kill switch — Khóa an toàn số 5) hoặc hạ quyền tự chủ để dừng tác nhân tự thực thi; (2) Con người trực tiếp tiếp nhận để xin lỗi, đính chính và khắc phục hậu quả với khách hàng; (3) Truy vết nhật ký vận hành (Audit log) và AI Lifecycle Card để xác định nguyên nhân gốc; (4) Cập nhật dữ liệu Tri thức, siết lại Ranh giới an toàn và kiểm thử đối kháng trước khi mở lại.",
+      "source_ids": [
+        "aifb-section-6.7"
+      ],
+      "aliases": [
+        "nếu AI trả lời sai và làm ảnh hưởng khách hàng thì xử lý sao",
+        "quy trình xử lý sự cố AI",
+        "khi AI gây sự cố cần làm gì"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-6.7",
+      "region_id": "aifb-ch06"
+    },
+    {
+      "id": "aifb-qa-eval-14",
+      "chapter": 6,
+      "question": "Khi mới chuyển đổi AI, doanh nghiệp nên lập phòng ban riêng (AI Taskforce) hay tích hợp vào từng bộ phận?",
+      "answer": "Sách khuyến nghị áp dụng mô hình lai (Hub-and-Spoke): giai đoạn đầu lập một nhóm nòng cốt tinh gọn liên phòng ban (AI Taskforce / Ủy ban quản trị AI đóng vai trò Hub) để thống nhất khung quản trị, tiêu chuẩn dữ liệu, chính sách bảo mật và vận hành sandbox. Đồng thời gắn trực tiếp các đầu mối nghiệp vụ tại từng phòng ban (Spokes) để chọn bài toán thực tế và vận hành hàng ngày, tránh lập một phòng AI tách rời thực tế kinh doanh.",
+      "source_ids": [
+        "aifb-section-6.4"
+      ],
+      "aliases": [
+        "nên lập một phòng ban chuyên trách riêng AI Taskforce hay tích hợp trực tiếp",
+        "mô hình Hub and Spoke",
+        "tổ chức đội ngũ triển khai AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-6.4",
+      "region_id": "aifb-ch06"
+    },
+    {
+      "id": "aifb-qa-eval-34a",
+      "chapter": 6,
+      "question": "Những sai lầm phổ biến nhất khiến dự án chuyển đổi AI thất bại là gì?",
+      "answer": "Các sai lầm phổ biến nhất khiến dự án AI thất bại gồm: (1) Triển khai kiểu phong trào (Bolt-on chắp vá), chạy theo công cụ mà không gắn với chỉ số kinh doanh và chủ sở hữu rõ ràng; (2) Đưa dữ liệu rác, phân mảnh hoặc chưa kiểm thử bối cảnh tiếng Việt vào AI; (3) Giao phó toàn bộ dự án và rủi ro AI cho phòng IT mà thiếu sự dẫn dắt của lãnh đạo nghiệp vụ; (4) Thiếu ranh giới an toàn, thiếu giám sát suy giảm chất lượng và mắc kẹt ở bản demo mà không thiết kế lại quy trình.",
+      "source_ids": [
+        "aifb-section-6.9"
+      ],
+      "aliases": [
+        "những sai lầm phổ biến nhất khiến dự án chuyển đổi AI thất bại là gì",
+        "vì sao dự án chuyển đổi AI thất bại"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-6.9",
+      "region_id": "aifb-ch06"
+    },
+    {
+      "id": "aifb-qa-eval-tc01",
+      "chapter": 6,
+      "question": "Khi mô hình AI được cập nhật có cần kiểm thử lại không?",
+      "answer": "Bắt buộc phải kiểm thử lại (regression testing và kiểm thử bối cảnh). Theo Chương 5 và Chương 6, mỗi khi mô hình AI nền tảng được nhà cung cấp cập nhật phiên bản, thay đổi tham số, cập nhật kho dữ liệu tri thức hoặc mở rộng sang quy trình/nhóm khách hàng mới, hành vi đầu ra có thể thay đổi và phát sinh lỗi suy giảm chất lượng (drift) hoặc vượt ranh giới an toàn. Doanh nghiệp phải chạy lại bộ kịch bản kiểm thử chuẩn trên tiếng Việt và bối cảnh nghiệp vụ trước khi đưa bản cập nhật vào vận hành chính thức.",
+      "source_ids": [
+        "aifb-section-6.1"
+      ],
+      "aliases": [
+        "khi mô hình AI được cập nhật có cần kiểm thử lại không",
+        "cập nhật mô hình AI có phải kiểm thử lại",
+        "kiểm thử lại khi nâng cấp mô hình AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-6.1",
+      "region_id": "aifb-ch06"
+    }
+  ],
+  "sources": {
+    "aifb-section-6.1": {
+      "title": "Bốn khía cạnh của quản trị vòng đời AI",
+      "kind": "section",
+      "number": "6.1",
+      "page": 98,
+      "end_page": 99,
+      "parent_id": "aifb-ch06"
+    },
+    "aifb-section-6.2": {
+      "title": "Lòng tin là điều kiện kinh tế của việc áp dụng AI",
+      "kind": "section",
+      "number": "6.2",
+      "page": 99,
+      "end_page": 100,
+      "parent_id": "aifb-ch06"
+    },
+    "aifb-section-6.3": {
+      "title": "Khung 4 trụ cột quản trị AI",
+      "kind": "section",
+      "number": "6.3",
+      "page": 100,
+      "end_page": 101,
+      "parent_id": "aifb-ch06"
+    },
+    "aifb-table-6.1": {
+      "title": "Khung bốn trụ cột quản trị AI",
+      "kind": "table",
+      "number": "6.1",
+      "page": 100,
+      "end_page": 100,
+      "parent_id": "aifb-ch06"
+    },
+    "aifb-section-6.4": {
+      "title": "Ai chịu trách nhiệm quản trị AI trong tổ chức?",
+      "kind": "section",
+      "number": "6.4",
+      "page": 101,
+      "end_page": 103,
+      "parent_id": "aifb-ch06"
+    },
+    "aifb-section-6.5": {
+      "title": "Phân cấp an toàn hệ thống thông tin: một nghĩa vụ dễ bị bỏ sót",
+      "kind": "section",
+      "number": "6.5",
+      "page": 103,
+      "end_page": 104,
+      "parent_id": "aifb-ch06"
+    },
+    "aifb-section-6.6": {
+      "title": "AI Lifecycle Card: thẻ theo dõi vòng đời cho mỗi hệ thống AI",
+      "kind": "section",
+      "number": "6.6",
+      "page": 104,
+      "end_page": 105,
+      "parent_id": "aifb-ch06"
+    },
+    "aifb-section-6.7": {
+      "title": "Khung sườn Mẫu chính sách sử dụng AI nội bộ",
+      "kind": "section",
+      "number": "6.7",
+      "page": 105,
+      "end_page": 106,
+      "parent_id": "aifb-ch06"
+    },
+    "aifb-figure-6.1": {
+      "title": "Quy trình xử lý sự cố AI khi sự cố đã xảy ra",
+      "kind": "figure",
+      "number": "6.1",
+      "page": 105,
+      "end_page": 105,
+      "parent_id": "aifb-ch06"
+    },
+    "aifb-section-6.8": {
+      "title": "Một dự án AI có điểm kết thúc; một hệ thống quản trị AI thì không",
+      "kind": "section",
+      "number": "6.8",
+      "page": 106,
+      "end_page": 108,
+      "parent_id": "aifb-ch06"
+    },
+    "aifb-section-6.9": {
+      "title": "Bảy sai lầm phổ biến khiến quản trị AI thất bại trong thực thi",
+      "kind": "section",
+      "number": "6.9",
+      "page": 108,
+      "end_page": 109,
+      "parent_id": "aifb-ch06"
+    },
+    "aifb-section-6.10": {
+      "title": "Vai trò của lãnh đạo: không giao khoán toàn bộ rủi ro dữ liệu cho phòng công nghệ thông tin",
+      "kind": "section",
+      "number": "6.10",
+      "page": 109,
+      "end_page": 112,
+      "parent_id": "aifb-ch06"
+    },
+    "aifb-ch06": {
+      "title": "Quản trị AI và những cánh cửa phụ",
+      "kind": "chapter",
+      "number": null,
+      "page": 97,
+      "end_page": 112,
+      "parent_id": "aifb-ch06"
+    }
+  },
+  "print_pages": {
+    "97": "aifb-ch06",
+    "98": "aifb-ch06",
+    "99": "aifb-ch06",
+    "100": "aifb-ch06",
+    "101": "aifb-ch06",
+    "102": "aifb-ch06",
+    "103": "aifb-ch06",
+    "104": "aifb-ch06",
+    "105": "aifb-ch06",
+    "106": "aifb-ch06",
+    "107": "aifb-ch06",
+    "108": "aifb-ch06",
+    "109": "aifb-ch06",
+    "110": "aifb-ch06",
+    "111": "aifb-ch06",
+    "112": "aifb-ch06"
+  }
+}

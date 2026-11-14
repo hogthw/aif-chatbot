@@ -1,0 +1,51 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-p226",
+    "kind": "back_or_front_matter",
+    "title": "Phụ lục C · Đánh giá năng lực lực lượng lao động cấp tổ chức",
+    "start": 226,
+    "end": 227
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-p226",
+      "chapter": null,
+      "region_id": "aifb-p226",
+      "primary_source_id": "aifb-p226",
+      "question": "Phụ lục C đánh giá năng lực lực lượng lao động qua bốn phần nào?",
+      "answer": "Bản đồ kỹ năng theo phòng ban, kiểm tra bậc thang kinh nghiệm, an toàn tâm lý khi thử nghiệm và kế hoạch hành động 90 ngày cấp tổ chức.",
+      "source_ids": [
+        "aifb-p226"
+      ],
+      "aliases": [
+        "Phụ lục C · Đánh giá năng lực lực lượng lao động cấp tổ chức"
+      ],
+      "status": "draft_for_editorial_review"
+    }
+  ],
+  "sources": {
+    "aifb-figure-C.1": {
+      "title": "Cấu trúc bốn phần của Phụ lục C",
+      "kind": "figure",
+      "number": "C.1",
+      "page": 226,
+      "end_page": 226,
+      "parent_id": "aifb-p226"
+    },
+    "aifb-p226": {
+      "title": "Phụ lục C · Đánh giá năng lực lực lượng lao động cấp tổ chức",
+      "kind": "back_or_front_matter",
+      "number": null,
+      "page": 226,
+      "end_page": 227,
+      "parent_id": "aifb-p226"
+    }
+  },
+  "print_pages": {
+    "226": "aifb-p226",
+    "227": "aifb-p226"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-p1",
+    "kind": "divider_or_front",
+    "title": "Bìa và trang đầu",
+    "start": 1,
+    "end": 2
+  },
+  "cards": [],
+  "sources": {
+    "aiec-p1": {
+      "title": "Bìa và trang đầu",
+      "kind": "divider_or_front",
+      "number": null,
+      "page": 1,
+      "end_page": 2,
+      "parent_id": "aiec-p1"
+    }
+  },
+  "print_pages": {}
+}

@@ -1,0 +1,269 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-ch10",
+    "kind": "chapter",
+    "chapter": 10,
+    "title": "Việt Nam trong kỷ nguyên AI",
+    "start": 233,
+    "end": 246
+  },
+  "cards": [
+    {
+      "id": "aiec-qa-010",
+      "chapter": 10,
+      "question": "Sách phân tích tác động của AI lên những nhóm lao động nào?",
+      "answer": "Chương xem riêng lao động sản xuất, nhân viên văn phòng, lao động tri thức và nhà quản lý. Sách cũng bàn về nghề mới và những công việc khó thay thế để người đọc nhìn theo loại nhiệm vụ và kỹ năng.",
+      "source_ids": [
+        "aiec-section-10.1",
+        "aiec-section-10.2",
+        "aiec-section-10.3",
+        "aiec-section-10.4",
+        "aiec-section-10.5",
+        "aiec-section-10.6"
+      ],
+      "aliases": [
+        "việc làm kỹ năng",
+        "nhóm lao động",
+        "Lao động sản xuất: Lợi thế đông người, chi phí thấp đang dần khép lại",
+        "Lao động sản xuất",
+        "Lợi thế đông người, chi phí thấp đang dần khép lại"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-10.1",
+      "region_id": "aiec-ch10"
+    },
+    {
+      "id": "aiec-qa-section-10.1",
+      "chapter": 10,
+      "region_id": "aiec-ch10",
+      "primary_source_id": "aiec-section-10.1",
+      "question": "AI ảnh hưởng thế nào tới lao động sản xuất?",
+      "answer": "Tại Việt Nam (53,5 triệu người trong lực lượng lao động, 33,5% trong công nghiệp và xây dựng, 63,1% việc làm phi chính thức và chỉ 29,2% có bằng cấp hoặc chứng chỉ), lợi thế “đông người, chi phí thấp” đang dần khép lại khi số robot công nghiệp lắp đặt mỗi năm trên thế giới đã tăng gấp đôi trong mười năm (Trung Quốc chiếm hơn một nửa). Các tác vụ lặp lại như hàn, lắp ráp đơn giản, đóng gói, phân loại và kiểm tra bằng mắt thường ngày càng bị tự động hóa bằng robot và thị giác máy tính; ngược lại, nhu cầu kỹ thuật viên vận hành robot, bảo trì thiết bị tự động, quản lý dữ liệu sản xuất và xử lý ngoại lệ tăng nhanh.",
+      "source_ids": [
+        "aiec-section-10.1"
+      ],
+      "aliases": [
+        "Lao động sản xuất: Lợi thế đông người, chi phí thấp đang dần khép lại",
+        "Lao động sản xuất",
+        "Lợi thế đông người, chi phí thấp đang dần khép lại",
+        "AI ảnh hưởng thế nào tới lao động sản xuất",
+        "lao động sản xuất lợi thế đông người chi phí thấp"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Lao động sản xuất: Lợi thế \"đông người, chi phí thấp\" đang dần khép lại"
+    },
+    {
+      "id": "aiec-qa-section-10.2",
+      "chapter": 10,
+      "region_id": "aiec-ch10",
+      "primary_source_id": "aiec-section-10.2",
+      "question": "Vì sao nhân viên văn phòng chịu tác động nhanh?",
+      "answer": "Nhiều tác vụ văn phòng đã ở dạng số, như xử lý chứng từ, tổng hợp và viết báo cáo. Công cụ AI dễ đi vào những nhiệm vụ này, làm thay đổi việc giao cho nhân sự và yêu cầu kiểm tra.",
+      "source_ids": [
+        "aiec-section-10.2"
+      ],
+      "aliases": [
+        "Nhân viên văn phòng: Nhóm chịu tác động nhanh nhất",
+        "Nhân viên văn phòng",
+        "Nhóm chịu tác động nhanh nhất"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Nhân viên văn phòng: Nhóm chịu tác động nhanh nhất"
+    },
+    {
+      "id": "aiec-qa-section-10.3",
+      "chapter": 10,
+      "region_id": "aiec-ch10",
+      "primary_source_id": "aiec-section-10.3",
+      "question": "AI bổ trợ lao động tri thức như thế nào?",
+      "answer": "AI giúp bác sĩ, luật sư và kỹ sư tìm thông tin, phân tích hoặc chuẩn bị phương án. Chuyên gia vẫn chịu trách nhiệm về phán đoán chuyên môn và kiểm định kết quả.",
+      "source_ids": [
+        "aiec-section-10.3"
+      ],
+      "aliases": [
+        "Lao động tri thức: AI trở thành đồng nghiệp mới của bác sĩ, luật sư và kỹ sư",
+        "Lao động tri thức",
+        "AI trở thành đồng nghiệp mới của bác sĩ, luật sư và kỹ sư"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Lao động tri thức: AI trở thành \"đồng nghiệp\" mới của bác sĩ, luật sư và kỹ sư"
+    },
+    {
+      "id": "aiec-qa-section-10.4",
+      "chapter": 10,
+      "region_id": "aiec-ch10",
+      "primary_source_id": "aiec-section-10.4",
+      "question": "AI thay đổi vai trò nhà quản lý ra sao?",
+      "answer": "AI có thể tổng hợp báo cáo và mô phỏng kịch bản nhanh hơn. Nhà quản lý cần giỏi đặt câu hỏi, đánh giá giả định và chịu trách nhiệm cho quyết định.",
+      "source_ids": [
+        "aiec-section-10.4"
+      ],
+      "aliases": [
+        "Nhà quản lý: Khi AI trở thành cố vấn chiến lược",
+        "Nhà quản lý",
+        "Khi AI trở thành cố vấn chiến lược"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Nhà quản lý: Khi AI trở thành cố vấn chiến lược"
+    },
+    {
+      "id": "aiec-qa-section-10.5",
+      "chapter": 10,
+      "region_id": "aiec-ch10",
+      "primary_source_id": "aiec-section-10.5",
+      "question": "Sách phân biệt nghề tăng nhanh và nghề tăng nhiều như thế nào?",
+      "answer": "Tốc độ tăng theo tỷ lệ có thể cao ở nghề công nghệ, dữ liệu và an ninh mạng. Số lượng việc làm tăng tuyệt đối còn phụ thuộc quy mô lao động ban đầu và có thể lớn ở các nghề tuyến đầu.",
+      "source_ids": [
+        "aiec-section-10.5"
+      ],
+      "aliases": [
+        "Những nghề mới sẽ bùng nổ cùng nền kinh tế AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Những nghề mới sẽ bùng nổ cùng nền kinh tế AI"
+    },
+    {
+      "id": "aiec-qa-section-10.6",
+      "chapter": 10,
+      "region_id": "aiec-ch10",
+      "primary_source_id": "aiec-section-10.6",
+      "question": "Đặc điểm nào khiến một công việc khó bị AI thay thế?",
+      "answer": "Công việc cần tin cậy, cảm xúc, ứng biến và tương tác thực tế khó lường có nhiều phần khó giao hoàn toàn cho máy. AI có thể hỗ trợ những tác vụ cụ thể trong cùng công việc.",
+      "source_ids": [
+        "aiec-section-10.6"
+      ],
+      "aliases": [
+        "Những nghề khó bị thay thế nhất: Khi giá trị nằm ở con người",
+        "Những nghề khó bị thay thế nhất",
+        "Khi giá trị nằm ở con người"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Những nghề khó bị thay thế nhất: Khi giá trị nằm ở con người"
+    },
+    {
+      "id": "aiec-qa-eval-36a",
+      "chapter": 10,
+      "question": "Các kỹ năng mềm nào sẽ lên ngôi trong nền kinh tế AI?",
+      "answer": "Các kỹ năng mềm lên ngôi trong nền kinh tế AI gồm: (1) Tư duy phản biện (Critical Thinking) và khả năng kiểm chứng, đánh giá chất lượng đầu ra của AI; (2) Khả năng giải quyết vấn đề phức tạp liên ngành và ra quyết định chiến lược trong điều kiện bất định; (3) Sự thấu cảm, giao tiếp sâu sắc, đàm phán và kết nối giữa người với người; (4) Đạo đức nghề nghiệp và khả năng học lại (reskilling) liên tục.",
+      "source_ids": [
+        "aiec-section-10.6"
+      ],
+      "aliases": [
+        "các kỹ năng mềm nào sẽ lên ngôi trong nền kinh tế AI",
+        "những nghề khó bị thay thế nhất khi giá trị nằm ở con người"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-10.6",
+      "region_id": "aiec-ch10"
+    },
+    {
+      "id": "aiec-qa-eval-36b",
+      "chapter": 10,
+      "question": "Làm sao thiết kế một buổi workshop nội bộ kéo dài 2 tiếng để rèn luyện kỹ năng tư duy phản biện cùng AI cho nhân viên?",
+      "answer": "Để rèn luyện kỹ năng quan trọng nhất là Tư duy phản biện và làm việc cùng AI như một 'đồng nghiệp', buổi workshop 2 tiếng có thể thiết kế theo 3 chặng thực hành: (1) Phút 0–30 (Nhận thức): Phân tích các tình huống thực tế mà AI tạo sinh đưa ra thông tin sai lệch hoặc thiếu bối cảnh ngành để phá bỏ tâm lý tin tưởng mù quáng; (2) Phút 30–90 (Thực chiến theo cặp): Giao một bài toán chuyên môn thực tế, yêu cầu nhân viên dùng AI tạo phương án, sau đó bắt buộc phản biện, chỉ ra 3 điểm yếu và hiệu chỉnh lại bằng tri thức chuyên môn; (3) Phút 90–120 (Chuẩn hóa): Thống nhất bộ nguyên tắc kiểm chứng chéo trước khi sử dụng kết quả của AI trong công việc.",
+      "source_ids": [
+        "aiec-section-10.3"
+      ],
+      "aliases": [
+        "hãy thiết kế một buổi workshop nội bộ kéo dài 2 tiếng để rèn luyện kỹ năng quan trọng nhất trong số đó cho nhân viên",
+        "thiết kế buổi workshop nội bộ 2 tiếng"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-10.3",
+      "region_id": "aiec-ch10"
+    }
+  ],
+  "sources": {
+    "aiec-section-10.1": {
+      "title": "Lao động sản xuất: Lợi thế \"đông người, chi phí thấp\" đang dần khép lại",
+      "kind": "section",
+      "number": "10.1",
+      "page": 236,
+      "end_page": 238,
+      "parent_id": "aiec-ch10"
+    },
+    "aiec-figure-10.1": {
+      "title": "Phơi nhiễm không đồng nghĩa mất việc: ma trận",
+      "kind": "figure",
+      "number": "10.1",
+      "page": 236,
+      "end_page": 236,
+      "parent_id": "aiec-ch10"
+    },
+    "aiec-section-10.2": {
+      "title": "Nhân viên văn phòng: Nhóm chịu tác động nhanh nhất",
+      "kind": "section",
+      "number": "10.2",
+      "page": 238,
+      "end_page": 240,
+      "parent_id": "aiec-ch10"
+    },
+    "aiec-figure-10.2": {
+      "title": "Bậc thang nghề nghiệp và những bậc đầu tiên",
+      "kind": "figure",
+      "number": "10.2",
+      "page": 240,
+      "end_page": 240,
+      "parent_id": "aiec-ch10"
+    },
+    "aiec-section-10.3": {
+      "title": "Lao động tri thức: AI trở thành \"đồng nghiệp\" mới của bác sĩ, luật sư và kỹ sư",
+      "kind": "section",
+      "number": "10.3",
+      "page": 240,
+      "end_page": 242,
+      "parent_id": "aiec-ch10"
+    },
+    "aiec-section-10.4": {
+      "title": "Nhà quản lý: Khi AI trở thành cố vấn chiến lược",
+      "kind": "section",
+      "number": "10.4",
+      "page": 242,
+      "end_page": 242,
+      "parent_id": "aiec-ch10"
+    },
+    "aiec-section-10.5": {
+      "title": "Những nghề mới sẽ bùng nổ cùng nền kinh tế AI",
+      "kind": "section",
+      "number": "10.5",
+      "page": 242,
+      "end_page": 243,
+      "parent_id": "aiec-ch10"
+    },
+    "aiec-section-10.6": {
+      "title": "Những nghề khó bị thay thế nhất: Khi giá trị nằm ở con người",
+      "kind": "section",
+      "number": "10.6",
+      "page": 243,
+      "end_page": 246,
+      "parent_id": "aiec-ch10"
+    },
+    "aiec-ch10": {
+      "title": "Việt Nam trong kỷ nguyên AI",
+      "kind": "chapter",
+      "number": null,
+      "page": 233,
+      "end_page": 246,
+      "parent_id": "aiec-ch10"
+    }
+  },
+  "print_pages": {
+    "233": "aiec-ch10",
+    "234": "aiec-ch10",
+    "235": "aiec-ch10",
+    "236": "aiec-ch10",
+    "237": "aiec-ch10",
+    "238": "aiec-ch10",
+    "239": "aiec-ch10",
+    "240": "aiec-ch10",
+    "241": "aiec-ch10",
+    "242": "aiec-ch10",
+    "243": "aiec-ch10",
+    "244": "aiec-ch10",
+    "245": "aiec-ch10",
+    "246": "aiec-ch10"
+  }
+}

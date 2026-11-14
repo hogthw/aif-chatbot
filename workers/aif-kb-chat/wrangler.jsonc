@@ -48,7 +48,7 @@
 		"AI_SEARCH_INSTANCE": "autumn-sky-17c5",
 		"ALLOWED_ORIGINS": "https://aifirstbusiness.vn,https://www.aifirstbusiness.vn",
 		"ALLOWED_ORIGIN_SUFFIXES": ".trantansy.workers.dev",
-		"ALLOW_LOCALHOST": "0",
+		"ALLOW_LOCALHOST": "1",
 		// Mô hình trả lời và mô hình dự phòng (Workers AI)
 		"MODEL": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
 		"FALLBACK_MODEL": "@cf/mistralai/mistral-small-3.1-24b-instruct",

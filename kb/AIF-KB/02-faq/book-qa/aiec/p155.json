@@ -1,0 +1,29 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-p155",
+    "kind": "divider_or_front",
+    "title": "Phần II · Việt Nam vào cuộc",
+    "start": 155,
+    "end": 158
+  },
+  "cards": [],
+  "sources": {
+    "aiec-p155": {
+      "title": "Phần II · Việt Nam vào cuộc",
+      "kind": "divider_or_front",
+      "number": null,
+      "page": 155,
+      "end_page": 158,
+      "parent_id": "aiec-p155"
+    }
+  },
+  "print_pages": {
+    "155": "aiec-p155",
+    "156": "aiec-p155",
+    "157": "aiec-p155",
+    "158": "aiec-p155"
+  }
+}

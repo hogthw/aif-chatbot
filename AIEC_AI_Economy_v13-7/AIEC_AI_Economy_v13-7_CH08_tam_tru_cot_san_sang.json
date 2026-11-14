@@ -1,0 +1,439 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-ch08",
+    "kind": "chapter",
+    "chapter": 8,
+    "title": "Tám trụ cột sẵn sàng",
+    "start": 185,
+    "end": 216
+  },
+  "cards": [
+    {
+      "id": "aiec-qa-008",
+      "chapter": 8,
+      "question": "Khung tám trụ cột sẵn sàng AI gồm những gì?",
+      "answer": "Khung gồm năng lượng và năng lượng sạch, hạ tầng tính toán và AI, kết nối và hạ tầng số, nhân lực, dữ liệu và quản trị, vốn và khởi nghiệp, hạ tầng thông minh và khu công nghiệp, cùng hệ sinh thái kinh tế trí tuệ. Sách dùng khung để tìm mắt xích yếu.",
+      "source_ids": [
+        "aiec-section-8.2",
+        "aiec-section-8.3",
+        "aiec-section-8.4",
+        "aiec-section-8.5",
+        "aiec-section-8.6",
+        "aiec-section-8.7",
+        "aiec-section-8.8",
+        "aiec-section-8.9",
+        "aiec-section-8.10"
+      ],
+      "aliases": [
+        "tám trụ cột quốc gia",
+        "8 trụ cột AI Economy",
+        "Năng lượng và năng lượng sạch"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-8.2",
+      "region_id": "aiec-ch08"
+    },
+    {
+      "id": "aiec-qa-section-8.1",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.1",
+      "question": "Vì sao nhà đầu tư AI quan tâm mức sẵn sàng hơn ưu đãi thuế?",
+      "answer": "Khi thu hút đầu tư công nghệ cao và AI, ưu đãi thuế không còn đủ vì thuế tối thiểu toàn cầu (15%) làm giảm tác dụng của miễn giảm thuế; nhà đầu tư quốc tế chuyển sang chấm điểm mức độ sẵn sàng vận hành thực tế (điện sạch, hạ tầng tính toán, kết nối, nhân lực, dữ liệu, thủ tục). Theo Chỉ số sẵn sàng cho công nghệ tiên phong của UNCTAD năm 2024, Việt Nam xếp hạng 64/170 nền kinh tế (giảm từ hạng 53 năm 2022); trong đó Tài chính xếp hạng 15, Công nghiệp hạng 23, Nghiên cứu & Phát triển (R&D) hạng 51, Hạ tầng số hạng 81 và Kỹ năng hạng 120.",
+      "source_ids": [
+        "aiec-section-8.1",
+        "aiec-table-8.1"
+      ],
+      "aliases": [
+        "chỉ số sẵn sàng cho công nghệ tiên phong của UNCTAD",
+        "UNCTAD xếp Việt Nam thứ mấy",
+        "170 nền kinh tế",
+        "xếp hạng UNCTAD của Việt Nam",
+        "từ ưu đãi thuế đến mức độ sẵn sàng",
+        "xếp hạng 64/170",
+        "hạng 64 trong 170 nền kinh tế",
+        "bảng 8.1",
+        "vì sao ưu đãi thuế không còn đủ",
+        "Từ ưu đãi thuế đến mức độ sẵn sàng",
+        "Việt Nam đang đứng ở đâu so với các nước khác về AI",
+        "Việt Nam đứng thứ mấy về AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Từ ưu đãi thuế đến mức độ sẵn sàng"
+    },
+    {
+      "id": "aiec-qa-section-8.2",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.2",
+      "question": "Trụ cột năng lượng cần xem xét điều gì?",
+      "answer": "Trụ cột 1 của khung sẵn sàng quốc gia là Năng lượng và năng lượng sạch — yếu tố quyết định đối với trung tâm dữ liệu AI. Việt Nam có lợi thế tiềm năng năng lượng tái tạo (Quy hoạch điện VIII điều chỉnh đặt mục tiêu 183–236 GW năm 2030, điện mặt trời 46–73 GW, pin lưu trữ 10–16 GW) và Nghị định 57/2025/NĐ-CP cho phép mua bán điện trực tiếp (DPPA) từ nhà máy năng lượng tái tạo. Tuy nhiên, cần giải quyết 3 điểm nghẽn: lưới truyền tải lệch vùng, hệ thống lưu trữ điện cho phụ tải AI chạy 24/7 và thời gian đấu nối trạm biến áp.",
+      "source_ids": [
+        "aiec-section-8.2"
+      ],
+      "aliases": [
+        "trụ cột 1 năng lượng và năng lượng sạch",
+        "điện sạch cho trung tâm dữ liệu",
+        "nghị định 57 mua bán điện trực tiếp",
+        "quy hoạch điện VIII",
+        "điểm nghẽn lưới điện cho AI",
+        "Năng lượng và năng lượng sạch"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Trụ cột 1: Năng lượng và năng lượng sạch"
+    },
+    {
+      "id": "aiec-qa-section-8.3",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.3",
+      "question": "Trụ cột tính toán đánh giá điều gì?",
+      "answer": "Trụ cột xem khả năng tiếp cận và vận hành công suất AI cho huấn luyện và suy luận. Quy mô lắp đặt chỉ có ý nghĩa khi doanh nghiệp và tổ chức có thể sử dụng công suất đó.",
+      "source_ids": [
+        "aiec-section-8.3"
+      ],
+      "aliases": [
+        "Hạ tầng tính toán và AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Trụ cột 2: Hạ tầng tính toán và AI"
+    },
+    {
+      "id": "aiec-qa-section-8.4",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.4",
+      "question": "Trụ cột kết nối và hạ tầng số đóng vai trò gì?",
+      "answer": "Mạng trong nước và kết nối quốc tế cho phép truyền dữ liệu và cung cấp dịch vụ AI ổn định. Chất lượng, độ dự phòng và độ trễ ảnh hưởng khả năng vận hành.",
+      "source_ids": [
+        "aiec-section-8.4"
+      ],
+      "aliases": [
+        "Hạ tầng kết nối và hạ tầng số"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Trụ cột 3: Hạ tầng kết nối và hạ tầng số"
+    },
+    {
+      "id": "aiec-qa-section-8.5",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.5",
+      "question": "Vì sao hệ sinh thái nhân tài quan trọng với AI?",
+      "answer": "Hệ sinh thái phải tạo, thu hút và giữ người có thể phát triển, vận hành và áp dụng AI. Năng lực cần có ở đội kỹ thuật lẫn người làm nghiệp vụ.",
+      "source_ids": [
+        "aiec-section-8.5"
+      ],
+      "aliases": [
+        "Nhân lực và hệ sinh thái nhân tài"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Trụ cột 4: Nhân lực và hệ sinh thái nhân tài"
+    },
+    {
+      "id": "aiec-qa-section-8.6",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.6",
+      "question": "Dữ liệu và quản trị tạo mức sẵn sàng như thế nào?",
+      "answer": "Dữ liệu cần có chất lượng, quyền truy cập rõ và cơ chế dùng an toàn. Quản trị giúp dữ liệu được chia sẻ và sử dụng đúng mục đích trong các hệ thống AI.",
+      "source_ids": [
+        "aiec-section-8.6"
+      ],
+      "aliases": [
+        "Dữ liệu và quản trị"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Trụ cột 5: Dữ liệu và quản trị"
+    },
+    {
+      "id": "aiec-qa-section-8.7",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.7",
+      "question": "Vốn và khởi nghiệp đóng góp gì cho hệ sinh thái AI?",
+      "answer": "Vốn tài trợ giai đoạn thử nghiệm, tăng trưởng và mở rộng. Hệ sinh thái khởi nghiệp giúp kết nối công nghệ với vấn đề thực tế, khách hàng và kênh thương mại hóa.",
+      "source_ids": [
+        "aiec-section-8.7"
+      ],
+      "aliases": [
+        "Vốn và hệ sinh thái khởi nghiệp"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Trụ cột 6: Vốn và hệ sinh thái khởi nghiệp"
+    },
+    {
+      "id": "aiec-qa-section-8.8",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.8",
+      "question": "Khu công nghiệp thế hệ mới kết nối những yếu tố nào?",
+      "answer": "Khu công nghiệp kết nối điện, dữ liệu, cáp quang, nhân lực và dịch vụ vận hành tại một địa điểm. Sự phối hợp này giúp nhà đầu tư đưa dự án vào hoạt động.",
+      "source_ids": [
+        "aiec-section-8.8"
+      ],
+      "aliases": [
+        "Hạ tầng thông minh và khu công nghiệp thế hệ mới"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Trụ cột 7: Hạ tầng thông minh và khu công nghiệp thế hệ mới"
+    },
+    {
+      "id": "aiec-qa-section-8.9",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.9",
+      "question": "Trụ cột hệ sinh thái kinh tế trí tuệ đo điều gì?",
+      "answer": "Trụ cột xem các nguồn lực còn lại có kết nối để hình thành ứng dụng, doanh nghiệp và năng suất hay chỉ tồn tại riêng lẻ.",
+      "source_ids": [
+        "aiec-section-8.9"
+      ],
+      "aliases": [
+        "Hệ sinh thái kinh tế trí tuệ"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Trụ cột 8: Hệ sinh thái kinh tế trí tuệ"
+    },
+    {
+      "id": "aiec-qa-section-8.10",
+      "chapter": 8,
+      "region_id": "aiec-ch08",
+      "primary_source_id": "aiec-section-8.10",
+      "question": "Tại sao phải tìm mắt xích yếu nhất?",
+      "answer": "Một điều kiện còn yếu có thể chặn cả dự án dù các trụ cột khác mạnh. Khung tám trụ cột giúp xác định điểm nghẽn cần ưu tiên tháo gỡ.",
+      "source_ids": [
+        "aiec-section-8.10"
+      ],
+      "aliases": [
+        "Mắt xích yếu nhất"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Mắt xích yếu nhất"
+    },
+    {
+      "id": "aiec-qa-extra-03",
+      "chapter": 8,
+      "question": "Việt Nam có đang bị tụt lại trong cuộc đua AI không?",
+      "answer": "Có, về thứ hạng tương đối — Việt Nam tụt từ hạng 53 (2022) xuống 64/170 (2024) theo UNCTAD. Nhưng đây là tụt hạng tương đối vì các nước khác tiến nhanh hơn, không có nghĩa năng lực Việt Nam giảm đi. Điểm yếu nhất là Kỹ năng (hạng 120) và Hạ tầng số (hạng 81); điểm mạnh là Tài chính (hạng 15) và Công nghiệp (hạng 23).",
+      "source_ids": [
+        "aiec-section-8.1"
+      ],
+      "aliases": [
+        "Việt Nam có đang bị tụt lại trong cuộc đua AI không",
+        "Việt Nam có bị tụt hậu về AI không",
+        "Việt Nam có tụt hạng AI không",
+        "thứ hạng AI của Việt Nam tăng hay giảm"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-8.1",
+      "region_id": "aiec-ch08"
+    },
+    {
+      "id": "aiec-qa-eval-37a",
+      "chapter": 8,
+      "question": "Trong nền kinh tế AI, làm thế nào để bảo mật dữ liệu nội bộ khi cho nhân viên dùng các công cụ AI tạo sinh?",
+      "answer": "Theo Trụ cột 5 (Dữ liệu và quản trị) và Chương 12, để bảo mật dữ liệu khi ứng dụng AI tạo sinh, tổ chức cần: (1) Phân loại dữ liệu rõ ràng theo mức độ nhạy cảm và tuân thủ nghiêm Luật Bảo vệ dữ liệu cá nhân (tuyệt đối không đưa dữ liệu định danh khách hàng, bí mật kinh doanh lên công cụ AI công cộng miễn phí); (2) Cung cấp môi trường làm việc AI cấp doanh nghiệp có cam kết không dùng dữ liệu người dùng để huấn luyện mô hình; (3) Thiết lập quy chế quản trị dữ liệu và đào tạo nhận thức bảo mật cho nhân viên.",
+      "source_ids": [
+        "aiec-section-8.6"
+      ],
+      "aliases": [
+        "làm thế nào để bảo mật dữ liệu nội bộ khi cho nhân viên dùng các công cụ AI tạo sinh",
+        "bảo mật dữ liệu nội bộ khi dùng AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-8.6",
+      "region_id": "aiec-ch08"
+    },
+    {
+      "id": "aiec-qa-eval-37b",
+      "chapter": 8,
+      "question": "Nếu chỉ ban hành quy định bằng văn bản mà nhân viên vẫn lén copy dữ liệu khách hàng dán vào AI công cộng thì có biện pháp kỹ thuật nào chặn lại không?",
+      "answer": "Để ngăn chặn bằng kỹ thuật thay vì chỉ dựa vào văn bản quy định, doanh nghiệp cần triển khai các lớp kiểm soát hạ tầng: (1) Hệ thống chống thất thoát dữ liệu (DLP / AI Gateway) trên mạng doanh nghiệp để tự động phát hiện và chặn thao tác copy-paste dữ liệu nhạy cảm (số điện thoại, CCCD, danh sách khách hàng) lên các tên miền AI công cộng; (2) Cơ chế ẩn danh hóa / che dữ liệu nhạy cảm (Data Masking) tự động; (3) Phân quyền truy cập tối thiểu (chỉ cấp quyền xem từng bản ghi thay vì xuất toàn bộ danh sách) kèm nhật ký truy vết (Audit Log).",
+      "source_ids": [
+        "aiec-section-8.6"
+      ],
+      "aliases": [
+        "nếu chỉ ban hành quy định bằng văn bản như thế mà nhân viên vẫn lén copy dữ liệu khách hàng dán vào AI công cộng thì có biện pháp kỹ thuật nào chặn lại không",
+        "biện pháp kỹ thuật chặn nhân viên copy dữ liệu khách hàng vào AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-8.6",
+      "region_id": "aiec-ch08"
+    }
+  ],
+  "sources": {
+    "aiec-section-8.1": {
+      "title": "Từ ưu đãi thuế đến mức độ sẵn sàng",
+      "kind": "section",
+      "number": "8.1",
+      "page": 186,
+      "end_page": 190,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-figure-8.1": {
+      "title": "Tám trụ cột sẵn sàng quốc gia",
+      "kind": "figure",
+      "number": "8.1",
+      "page": 186,
+      "end_page": 186,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-table-8.1": {
+      "title": "Việt Nam trên bản đồ sẵn sàng cho công nghệ",
+      "kind": "table",
+      "number": "8.1",
+      "page": 187,
+      "end_page": 187,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-figure-8.2": {
+      "title": "Hai chỉ số, hai đơn vị phân tích",
+      "kind": "figure",
+      "number": "8.2",
+      "page": 189,
+      "end_page": 189,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-section-8.2": {
+      "title": "Trụ cột 1: Năng lượng và năng lượng sạch",
+      "kind": "section",
+      "number": "8.2",
+      "page": 190,
+      "end_page": 192,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-section-8.3": {
+      "title": "Trụ cột 2: Hạ tầng tính toán và AI",
+      "kind": "section",
+      "number": "8.3",
+      "page": 192,
+      "end_page": 194,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-section-8.4": {
+      "title": "Trụ cột 3: Hạ tầng kết nối và hạ tầng số",
+      "kind": "section",
+      "number": "8.4",
+      "page": 194,
+      "end_page": 196,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-section-8.5": {
+      "title": "Trụ cột 4: Nhân lực và hệ sinh thái nhân tài",
+      "kind": "section",
+      "number": "8.5",
+      "page": 196,
+      "end_page": 198,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-section-8.6": {
+      "title": "Trụ cột 5: Dữ liệu và quản trị",
+      "kind": "section",
+      "number": "8.6",
+      "page": 198,
+      "end_page": 201,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-section-8.7": {
+      "title": "Trụ cột 6: Vốn và hệ sinh thái khởi nghiệp",
+      "kind": "section",
+      "number": "8.7",
+      "page": 201,
+      "end_page": 203,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-section-8.8": {
+      "title": "Trụ cột 7: Hạ tầng thông minh và khu công nghiệp thế hệ mới",
+      "kind": "section",
+      "number": "8.8",
+      "page": 203,
+      "end_page": 206,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-figure-8.3": {
+      "title": "Sáu cấu phần của khu công nghiệp thế hệ mới",
+      "kind": "figure",
+      "number": "8.3",
+      "page": 205,
+      "end_page": 205,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-section-8.9": {
+      "title": "Trụ cột 8: Hệ sinh thái kinh tế trí tuệ",
+      "kind": "section",
+      "number": "8.9",
+      "page": 206,
+      "end_page": 208,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-section-8.10": {
+      "title": "Mắt xích yếu nhất",
+      "kind": "section",
+      "number": "8.10",
+      "page": 208,
+      "end_page": 216,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-table-8.2": {
+      "title": "Tám trụ cột: thế giới đang làm gì, Việt Nam đang ở",
+      "kind": "table",
+      "number": "8.2",
+      "page": 208,
+      "end_page": 208,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-figure-8.4": {
+      "title": "Ví dụ minh họa: chấm điểm một địa phương theo",
+      "kind": "figure",
+      "number": "8.4",
+      "page": 210,
+      "end_page": 210,
+      "parent_id": "aiec-ch08"
+    },
+    "aiec-ch08": {
+      "title": "Tám trụ cột sẵn sàng",
+      "kind": "chapter",
+      "number": null,
+      "page": 185,
+      "end_page": 216,
+      "parent_id": "aiec-ch08"
+    }
+  },
+  "print_pages": {
+    "185": "aiec-ch08",
+    "186": "aiec-ch08",
+    "187": "aiec-ch08",
+    "188": "aiec-ch08",
+    "189": "aiec-ch08",
+    "190": "aiec-ch08",
+    "191": "aiec-ch08",
+    "192": "aiec-ch08",
+    "193": "aiec-ch08",
+    "194": "aiec-ch08",
+    "195": "aiec-ch08",
+    "196": "aiec-ch08",
+    "197": "aiec-ch08",
+    "198": "aiec-ch08",
+    "199": "aiec-ch08",
+    "200": "aiec-ch08",
+    "201": "aiec-ch08",
+    "202": "aiec-ch08",
+    "203": "aiec-ch08",
+    "204": "aiec-ch08",
+    "205": "aiec-ch08",
+    "206": "aiec-ch08",
+    "207": "aiec-ch08",
+    "208": "aiec-ch08",
+    "209": "aiec-ch08",
+    "210": "aiec-ch08",
+    "211": "aiec-ch08",
+    "212": "aiec-ch08",
+    "213": "aiec-ch08",
+    "214": "aiec-ch08",
+    "215": "aiec-ch08",
+    "216": "aiec-ch08"
+  }
+}

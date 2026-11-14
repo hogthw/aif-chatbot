@@ -1,0 +1,28 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-p8",
+    "kind": "divider_or_front",
+    "title": "Phần I · Từ áp lực thị trường đến lựa chọn chiến lược",
+    "start": 8,
+    "end": 10
+  },
+  "cards": [],
+  "sources": {
+    "aifb-p8": {
+      "title": "Phần I · Từ áp lực thị trường đến lựa chọn chiến lược",
+      "kind": "divider_or_front",
+      "number": null,
+      "page": 8,
+      "end_page": 10,
+      "parent_id": "aifb-p8"
+    }
+  },
+  "print_pages": {
+    "8": "aifb-p8",
+    "9": "aifb-p8",
+    "10": "aifb-p8"
+  }
+}

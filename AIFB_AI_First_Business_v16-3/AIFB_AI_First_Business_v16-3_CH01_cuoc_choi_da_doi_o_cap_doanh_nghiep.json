@@ -1,0 +1,289 @@
+{
+  "book_id": "aifb",
+  "edition": "V16.3",
+  "title": "AI First Business",
+  "region": {
+    "id": "aifb-ch01",
+    "kind": "chapter",
+    "chapter": 1,
+    "title": "Cuộc chơi đã đổi ở cấp doanh nghiệp",
+    "start": 11,
+    "end": 24
+  },
+  "cards": [
+    {
+      "id": "aifb-qa-001",
+      "chapter": 1,
+      "question": "Lợi thế cạnh tranh của doanh nghiệp dịch chuyển như thế nào?",
+      "answer": "Khi công cụ AI trở nên phổ cập và dễ mua, lợi thế cạnh tranh không biến mất mà dịch chuyển từ việc 'có công cụ AI' sang tốc độ và chất lượng biến AI thành năng lực vận hành thực chất, dữ liệu sạch độc quyền và quy trình chuẩn hóa (tài sản ROI Tầng 2). Sách dùng 4 vị thế chiến lược và Mô hình 3A (Adopt – Adapt – Advance) để doanh nghiệp xây lợi thế dài hạn khó sao chép.",
+      "source_ids": [
+        "aifb-section-1.2"
+      ],
+      "aliases": [
+        "lợi thế cạnh tranh AI",
+        "lợi thế cạnh tranh lâu dài",
+        "tạo lợi thế cạnh tranh lâu dài như thế nào",
+        "lợi thế cạnh tranh dịch chuyển",
+        "Lợi thế cạnh tranh không biến mất: nó dịch chuyển",
+        "Lợi thế cạnh tranh không biến mất",
+        "nó dịch chuyển"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-1.2",
+      "region_id": "aifb-ch01"
+    },
+    {
+      "id": "aifb-qa-013",
+      "chapter": 1,
+      "question": "Khảo sát trong sách cho thấy gì về tốc độ hấp thụ AI ở Việt Nam?",
+      "answer": "Khảo sát trong sách dẫn cho thấy tốc độ hấp thụ AI tại Việt Nam vượt mức trung bình khu vực: khoảng 78,5% doanh nghiệp Việt Nam đã triển khai hoặc thử nghiệm AI và 92% nhân viên văn phòng sử dụng AI tạo sinh trong công việc. Tuy nhiên, phần lớn mới dừng ở mức cá nhân tự dùng công cụ rời rạc, chưa chuyển hóa thành năng lực vận hành cấp tổ chức.",
+      "source_ids": [
+        "aifb-section-1.1"
+      ],
+      "aliases": [
+        "hấp thụ AI Việt Nam",
+        "khảo sát mức sử dụng AI",
+        "tốc độ hấp thụ AI tại Việt Nam",
+        "78.5% doanh nghiệp",
+        "92% nhân viên văn phòng",
+        "tỷ lệ doanh nghiệp Việt Nam dùng AI",
+        "Tốc độ hấp thụ AI tại Việt Nam đã vượt mức trung bình khu vực"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-1.1",
+      "region_id": "aifb-ch01"
+    },
+    {
+      "id": "aifb-qa-014",
+      "chapter": 1,
+      "question": "Bốn vị thế chiến lược trong hệ sinh thái AI là gì?",
+      "answer": "Bốn vị thế chiến lược gồm: (1) Người dùng — ứng dụng công cụ AI đóng gói sẵn; (2) Người thích nghi — tùy biến AI trên quy trình và dữ liệu nội bộ; (3) Người xây giải pháp — phát triển sản phẩm hoặc dịch vụ AI cho thị trường; (4) Người làm chủ hạ tầng. Khung này định vị toàn doanh nghiệp, còn 3A chọn mức đầu tư cho từng sáng kiến.",
+      "source_ids": [
+        "aifb-section-1.3"
+      ],
+      "aliases": [
+        "bốn vị thế chiến lược",
+        "4 vị thế AI",
+        "bốn vị thế chiến lược của doanh nghiệp",
+        "Bốn vị thế chiến lược của doanh nghiệp trong hệ sinh thái AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-1.3",
+      "region_id": "aifb-ch01"
+    },
+    {
+      "id": "aifb-qa-015",
+      "chapter": 1,
+      "question": "Sức ép AI ở các ngành trong chương xuất hiện dưới dạng nào?",
+      "answer": "Ba ngành cảm nhận rõ nhất sức ép chuyển đổi AI tại Việt Nam là: (1) Thương mại điện tử và bán lẻ (cá nhân hóa theo thời gian thực, tư vấn và chốt đơn 24/7); (2) Tài chính – ngân hàng – bảo hiểm (chấm điểm tín dụng, phát hiện gian lận, thẩm định hồ sơ nhanh); (3) Sản xuất chế biến – chế tạo xuất khẩu (kiểm tra lỗi ngoại quan bằng thị giác máy tính, truy xuất dữ liệu chuỗi cung ứng FDI).",
+      "source_ids": [
+        "aifb-section-1.4"
+      ],
+      "aliases": [
+        "sức ép chuyển đổi theo ngành",
+        "ba ngành cảm nhận rõ nhất sức ép chuyển đổi",
+        "3 ngành chịu sức ép AI tại Việt Nam",
+        "Ba ngành đang cảm nhận rõ nhất sức ép chuyển đổi tại Việt Nam"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-1.4",
+      "region_id": "aifb-ch01"
+    },
+    {
+      "id": "aifb-qa-016",
+      "chapter": 1,
+      "question": "Chậm triển khai AI có những chi phí ẩn nào?",
+      "answer": "Trì hoãn triển khai AI gây ra 3 chi phí ẩn lớn: (1) Khoảng cách năng lực tổ chức nới rộng theo hàm mũ so với đối thủ đi trước (vì đối thủ tích lũy dữ liệu sạch và quy trình chuẩn mỗi ngày); (2) Suy giảm khả năng thu hút và giữ chân nhân tài giỏi; (3) Nợ dữ liệu và quy trình tồn đọng khiến chi phí chuyển đổi về sau đắt đỏ hơn nhiều.",
+      "source_ids": [
+        "aifb-section-1.5"
+      ],
+      "aliases": [
+        "chi phí chờ đợi",
+        "chi phí trì hoãn AI",
+        "Chi phí thực sự của việc chờ đợi",
+        "chi phí thực sự của việc chờ đợi",
+        "chậm triển khai AI có những chi phí ẩn nào"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-1.5",
+      "region_id": "aifb-ch01"
+    },
+    {
+      "id": "aifb-qa-017",
+      "chapter": 1,
+      "question": "Ba câu hỏi định vị doanh nghiệp trên bản đồ AI là gì?",
+      "answer": "Hãy xem doanh nghiệp đang ở đâu so với đối thủ về AI trong vận hành, có bằng chứng gì để đáp ứng yêu cầu của đối tác, và đã học được gì từ những thay đổi thực tế trong 12 tháng qua.",
+      "source_ids": [
+        "aifb-section-1.6"
+      ],
+      "aliases": [
+        "ba câu hỏi định vị",
+        "3 câu hỏi định vị",
+        "Ba câu hỏi định vị doanh nghiệp của bạn trên bản đồ cạnh tranh AI"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-1.6",
+      "region_id": "aifb-ch01"
+    },
+    {
+      "id": "aifb-qa-018",
+      "chapter": 1,
+      "question": "Hai doanh nghiệp cùng ngành trong ví dụ khác nhau ở điểm nào?",
+      "answer": "Ví dụ cho thấy lợi thế hình thành khi một doanh nghiệp đưa AI vào công việc cụ thể và tích lũy năng lực qua thực hành. Doanh nghiệp chậm hơn phải bắt đầu xây những năng lực đó muộn hơn.",
+      "source_ids": [
+        "aifb-section-1.7"
+      ],
+      "aliases": [
+        "hai doanh nghiệp cùng ngành",
+        "một năm sau",
+        "Một câu chuyện đối lập: hai doanh nghiệp cùng ngành, một năm sau",
+        "Một câu chuyện đối lập",
+        "hai doanh nghiệp cùng ngành, một năm sau"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-1.7",
+      "region_id": "aifb-ch01"
+    },
+    {
+      "id": "aifb-qa-extra-02",
+      "chapter": 1,
+      "question": "Bốn vị thế chiến lược, Mô hình 3A và Bốn mô hình kinh doanh AI-Native khác nhau ở cấp độ quyết định nào?",
+      "answer": "Ba khung trả lời ba câu hỏi ở ba cấp độ khác nhau: (1) Bốn vị thế chiến lược (Người dùng, Người thích nghi, Người xây giải pháp, Người làm chủ hạ tầng) định vị chỗ đứng tổng thể của toàn doanh nghiệp trong hệ sinh thái AI; (2) Mô hình 3A (Adopt – Adapt – Advance) là cổng quyết định mức độ tham gia và đầu tư kỹ thuật cho từng sáng kiến cụ thể theo năng lực hiện có; (3) Bốn mô hình kinh doanh AI-Native (Nền tảng Năng suất, Chợ Tác nhân AI, Trí tuệ Dữ liệu, Sản xuất Tăng cường AI) xác định cách AI trực tiếp tạo ra doanh thu và giá trị mới cho khách hàng.",
+      "source_ids": [
+        "aifb-section-1.3",
+        "aifb-section-2.2",
+        "aifb-section-3.5"
+      ],
+      "aliases": [
+        "bốn vị thế chiến lược khác ba nấc 3A ra sao",
+        "phân biệt bốn vị thế chiến lược mô hình 3A và bốn mô hình AI Native",
+        "3A khác gì bốn vị thế chiến lược"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-1.3",
+      "region_id": "aifb-ch01"
+    },
+    {
+      "id": "aifb-qa-eval-22",
+      "chapter": 1,
+      "question": "Doanh nghiệp vừa và nhỏ (SME) có lợi thế cạnh tranh gì khi đối đầu tập đoàn lớn trong kỷ nguyên AI?",
+      "answer": "SME không có lợi thế về vốn hạ tầng nhưng có 3 lợi thế lớn trước tập đoàn: (1) Tốc độ ra quyết định và xoay trục nhanh, ít tầng nấc phê duyệt; (2) Quy trình gọn, dễ tái thiết kế từ gốc theo hướng AI-First thay vì vướng hệ thống di sản (legacy) cồng kềnh; (3) Am hiểu sâu ngữ cảnh khách hàng ngách và dữ liệu đặc thù địa phương. SME nên tận dụng bằng cách dùng công cụ sẵn có (Adopt/Adapt) để phục vụ thị trường ngách với tốc độ và độ cá nhân hóa vượt trội.",
+      "source_ids": [
+        "aifb-section-1.3"
+      ],
+      "aliases": [
+        "doanh nghiệp vừa và nhỏ SME có lợi thế cạnh tranh gì khi đối đầu với các tập đoàn lớn",
+        "doanh nghiệp địa phương quy mô nhỏ có cửa thắng các tập đoàn đa quốc gia không"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aifb-section-1.3",
+      "region_id": "aifb-ch01"
+    }
+  ],
+  "sources": {
+    "aifb-section-1.1": {
+      "title": "Tốc độ hấp thụ AI tại Việt Nam đã vượt mức trung bình khu vực",
+      "kind": "section",
+      "number": "1.1",
+      "page": 13,
+      "end_page": 14,
+      "parent_id": "aifb-ch01"
+    },
+    "aifb-figure-1.1": {
+      "title": "Từ phổ cập AI đến năng lực vận hành",
+      "kind": "figure",
+      "number": "1.1",
+      "page": 13,
+      "end_page": 13,
+      "parent_id": "aifb-ch01"
+    },
+    "aifb-section-1.2": {
+      "title": "Lợi thế cạnh tranh không biến mất: nó dịch chuyển",
+      "kind": "section",
+      "number": "1.2",
+      "page": 14,
+      "end_page": 16,
+      "parent_id": "aifb-ch01"
+    },
+    "aifb-section-1.3": {
+      "title": "Bốn vị thế chiến lược của doanh nghiệp trong hệ sinh thái AI",
+      "kind": "section",
+      "number": "1.3",
+      "page": 16,
+      "end_page": 17,
+      "parent_id": "aifb-ch01"
+    },
+    "aifb-section-1.4": {
+      "title": "Ba ngành đang cảm nhận rõ nhất sức ép chuyển đổi tại Việt Nam",
+      "kind": "section",
+      "number": "1.4",
+      "page": 17,
+      "end_page": 19,
+      "parent_id": "aifb-ch01"
+    },
+    "aifb-section-1.5": {
+      "title": "Chi phí thực sự của việc chờ đợi",
+      "kind": "section",
+      "number": "1.5",
+      "page": 19,
+      "end_page": 21,
+      "parent_id": "aifb-ch01"
+    },
+    "aifb-section-1.6": {
+      "title": "Ba câu hỏi định vị doanh nghiệp của bạn trên bản đồ cạnh tranh AI",
+      "kind": "section",
+      "number": "1.6",
+      "page": 21,
+      "end_page": 22,
+      "parent_id": "aifb-ch01"
+    },
+    "aifb-section-1.7": {
+      "title": "Một câu chuyện đối lập: hai doanh nghiệp cùng ngành, một năm sau",
+      "kind": "section",
+      "number": "1.7",
+      "page": 22,
+      "end_page": 24,
+      "parent_id": "aifb-ch01"
+    },
+    "aifb-ch01": {
+      "title": "Cuộc chơi đã đổi ở cấp doanh nghiệp",
+      "kind": "chapter",
+      "number": null,
+      "page": 11,
+      "end_page": 24,
+      "parent_id": "aifb-ch01"
+    },
+    "aifb-section-2.2": {
+      "title": "Ba nấc chiến lược: Adopt – Adapt – Advance",
+      "kind": "section",
+      "number": "2.2",
+      "page": 30,
+      "end_page": 32,
+      "parent_id": "aifb-ch02"
+    },
+    "aifb-section-3.5": {
+      "title": "Bốn mô hình kinh doanh AI-Native",
+      "kind": "section",
+      "number": "3.5",
+      "page": 48,
+      "end_page": 53,
+      "parent_id": "aifb-ch03"
+    }
+  },
+  "print_pages": {
+    "11": "aifb-ch01",
+    "12": "aifb-ch01",
+    "13": "aifb-ch01",
+    "14": "aifb-ch01",
+    "15": "aifb-ch01",
+    "16": "aifb-ch01",
+    "17": "aifb-ch01",
+    "18": "aifb-ch01",
+    "19": "aifb-ch01",
+    "20": "aifb-ch01",
+    "21": "aifb-ch01",
+    "22": "aifb-ch01",
+    "23": "aifb-ch01",
+    "24": "aifb-ch01"
+  }
+}

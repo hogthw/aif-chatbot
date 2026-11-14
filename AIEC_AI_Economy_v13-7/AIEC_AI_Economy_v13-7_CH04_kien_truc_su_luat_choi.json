@@ -1,0 +1,245 @@
+{
+  "book_id": "aiec",
+  "edition": "v13.7",
+  "title": "AI Economy – Nền Kinh Tế Trí Tuệ",
+  "region": {
+    "id": "aiec-ch04",
+    "kind": "chapter",
+    "chapter": 4,
+    "title": "Kiến trúc sư luật chơi",
+    "start": 89,
+    "end": 110
+  },
+  "cards": [
+    {
+      "id": "aiec-qa-004",
+      "chapter": 4,
+      "question": "Sách đối chiếu Mỹ, Trung Quốc và EU theo góc nhìn nào?",
+      "answer": "Nội dung này đặt cạnh nhau ba cách tổ chức nguồn lực: vai trò dẫn dắt của khu vực tư nhân ở Mỹ, định hướng và phối hợp chính sách ở Trung Quốc, và năng lực định hình luật lệ ở Liên minh châu Âu.",
+      "source_ids": [
+        "aiec-section-4.2",
+        "aiec-section-4.3",
+        "aiec-section-4.4",
+        "aiec-section-4.5"
+      ],
+      "aliases": [
+        "kiến trúc sư luật chơi",
+        "Mỹ Trung Quốc EU",
+        "Nước Mỹ: Khi khu vực tư nhân đi trước, và cái giá phải trả tại chỗ",
+        "Nước Mỹ",
+        "Khi khu vực tư nhân đi trước, và cái giá phải trả tại chỗ"
+      ],
+      "status": "draft_for_editorial_review",
+      "primary_source_id": "aiec-section-4.2",
+      "region_id": "aiec-ch04"
+    },
+    {
+      "id": "aiec-qa-section-4.1",
+      "chapter": 4,
+      "region_id": "aiec-ch04",
+      "primary_source_id": "aiec-section-4.1",
+      "question": "Vì sao lợi thế chi phí lao động không còn đủ?",
+      "answer": "Khi AI đổi cách sản xuất, lợi thế còn phụ thuộc vào dữ liệu, tính toán, nhân lực và khả năng vận hành. Lao động giá thấp chỉ giải quyết một phần bài toán địa điểm và năng suất.",
+      "source_ids": [
+        "aiec-section-4.1"
+      ],
+      "aliases": [
+        "Khi lợi thế chi phí không còn đủ"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Khi lợi thế chi phí không còn đủ"
+    },
+    {
+      "id": "aiec-qa-section-4.2",
+      "chapter": 4,
+      "region_id": "aiec-ch04",
+      "primary_source_id": "aiec-section-4.2",
+      "question": "Mô hình đầu tư AI của Mỹ có lợi thế và chi phí gì?",
+      "answer": "Khu vực tư nhân huy động vốn và triển khai nhanh. Tại địa phương, trung tâm dữ liệu đặt thêm áp lực lên điện, nước và cộng đồng, làm phát sinh câu hỏi ai chịu chi phí.",
+      "source_ids": [
+        "aiec-section-4.2"
+      ],
+      "aliases": [
+        "Nước Mỹ: Khi khu vực tư nhân đi trước, và cái giá phải trả tại chỗ",
+        "Nước Mỹ",
+        "Khi khu vực tư nhân đi trước, và cái giá phải trả tại chỗ"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Nước Mỹ: Khi khu vực tư nhân đi trước, và cái giá phải trả tại chỗ"
+    },
+    {
+      "id": "aiec-qa-section-4.3",
+      "chapter": 4,
+      "region_id": "aiec-ch04",
+      "primary_source_id": "aiec-section-4.3",
+      "question": "Điều phối AI ở Trung Quốc gặp khó khăn gì?",
+      "answer": "Trung ương đặt định hướng, còn địa phương chọn dự án và triển khai. Khi nhiều địa phương cùng theo một xu hướng, đầu tư có thể trùng lặp hoặc vượt nhu cầu ở từng nơi.",
+      "source_ids": [
+        "aiec-section-4.3"
+      ],
+      "aliases": [
+        "Trung Quốc: Khi trung ương vạch kế hoạch, và địa phương tự viết lại nó",
+        "Trung Quốc",
+        "Khi trung ương vạch kế hoạch, và địa phương tự viết lại nó"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Trung Quốc: Khi trung ương vạch kế hoạch, và địa phương tự viết lại nó"
+    },
+    {
+      "id": "aiec-qa-section-4.4",
+      "chapter": 4,
+      "region_id": "aiec-ch04",
+      "primary_source_id": "aiec-section-4.4",
+      "question": "EU cạnh tranh trong AI bằng cách nào?",
+      "answer": "EU tận dụng thị trường, công nghiệp chế tạo, nghiên cứu và năng lực đặt quy tắc. Câu hỏi của chương là những điều kiện này chuyển thành ứng dụng và năng suất nhanh đến đâu.",
+      "source_ids": [
+        "aiec-section-4.4"
+      ],
+      "aliases": [
+        "Liên minh châu Âu: Luật lệ tinh vi, và câu hỏi chưa có lời đáp về năng suất",
+        "Liên minh châu Âu",
+        "Luật lệ tinh vi, và câu hỏi chưa có lời đáp về năng suất"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Liên minh châu Âu: Luật lệ tinh vi, và câu hỏi chưa có lời đáp về năng suất"
+    },
+    {
+      "id": "aiec-qa-section-4.5",
+      "chapter": 4,
+      "region_id": "aiec-ch04",
+      "primary_source_id": "aiec-section-4.5",
+      "question": "Mỹ, Trung Quốc và EU chuyển vốn thành tăng trưởng theo ba cách nào?",
+      "answer": "Mỹ dựa mạnh vào thị trường và khu vực tư nhân. Trung Quốc điều phối qua định hướng trung ương và triển khai địa phương. EU xây điều kiện cạnh tranh qua thể chế, chuẩn mực và thị trường chung.",
+      "source_ids": [
+        "aiec-section-4.5"
+      ],
+      "aliases": [
+        "Ba cách biến vốn, công nghệ và thể chế thành tăng trưởng"
+      ],
+      "status": "draft_for_editorial_review",
+      "heading_alias": "Ba cách biến vốn, công nghệ và thể chế thành tăng trưởng"
+    }
+  ],
+  "sources": {
+    "aiec-section-4.1": {
+      "title": "Khi lợi thế chi phí không còn đủ",
+      "kind": "section",
+      "number": "4.1",
+      "page": 90,
+      "end_page": 93,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-figure-4.1": {
+      "title": "Ba loại quyền lực và các mô hình chiến lược AI quốc",
+      "kind": "figure",
+      "number": "4.1",
+      "page": 92,
+      "end_page": 92,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-section-4.2": {
+      "title": "Nước Mỹ: Khi khu vực tư nhân đi trước, và cái giá phải trả tại chỗ",
+      "kind": "section",
+      "number": "4.2",
+      "page": 93,
+      "end_page": 98,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-figure-4.2": {
+      "title": "Chuỗi chiến lược của Mỹ",
+      "kind": "figure",
+      "number": "4.2",
+      "page": 95,
+      "end_page": 95,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-figure-4.3": {
+      "title": "Ai trả chi phí nâng cấp lưới điện",
+      "kind": "figure",
+      "number": "4.3",
+      "page": 96,
+      "end_page": 96,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-section-4.3": {
+      "title": "Trung Quốc: Khi trung ương vạch kế hoạch, và địa phương tự viết lại nó",
+      "kind": "section",
+      "number": "4.3",
+      "page": 98,
+      "end_page": 102,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-figure-4.4": {
+      "title": "Chuỗi chiến lược của Trung Quốc và các mục tiêu",
+      "kind": "figure",
+      "number": "4.4",
+      "page": 99,
+      "end_page": 99,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-section-4.4": {
+      "title": "Liên minh châu Âu: Luật lệ tinh vi, và câu hỏi chưa có lời đáp về năng suất",
+      "kind": "section",
+      "number": "4.4",
+      "page": 102,
+      "end_page": 105,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-figure-4.5": {
+      "title": "Chuỗi chiến lược của Liên minh châu Âu và lộ trình",
+      "kind": "figure",
+      "number": "4.5",
+      "page": 103,
+      "end_page": 103,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-section-4.5": {
+      "title": "Ba cách biến vốn, công nghệ và thể chế thành tăng trưởng",
+      "kind": "section",
+      "number": "4.5",
+      "page": 105,
+      "end_page": 110,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-figure-4.6": {
+      "title": "Ba mô hình: ai phân bổ vốn, ai chịu chi phí",
+      "kind": "figure",
+      "number": "4.6",
+      "page": 106,
+      "end_page": 106,
+      "parent_id": "aiec-ch04"
+    },
+    "aiec-ch04": {
+      "title": "Kiến trúc sư luật chơi",
+      "kind": "chapter",
+      "number": null,
+      "page": 89,
+      "end_page": 110,
+      "parent_id": "aiec-ch04"
+    }
+  },
+  "print_pages": {
+    "89": "aiec-ch04",
+    "90": "aiec-ch04",
+    "91": "aiec-ch04",
+    "92": "aiec-ch04",
+    "93": "aiec-ch04",
+    "94": "aiec-ch04",
+    "95": "aiec-ch04",
+    "96": "aiec-ch04",
+    "97": "aiec-ch04",
+    "98": "aiec-ch04",
+    "99": "aiec-ch04",
+    "100": "aiec-ch04",
+    "101": "aiec-ch04",
+    "102": "aiec-ch04",
+    "103": "aiec-ch04",
+    "104": "aiec-ch04",
+    "105": "aiec-ch04",
+    "106": "aiec-ch04",
+    "107": "aiec-ch04",
+    "108": "aiec-ch04",
+    "109": "aiec-ch04",
+    "110": "aiec-ch04"
+  }
+}
