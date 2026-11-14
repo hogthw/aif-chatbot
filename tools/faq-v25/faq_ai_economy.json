@@ -435,7 +435,17 @@
         "tóm lại sách này",
         "tóm tui cho tui cuốn sách này",
         "tóm cho tôi cuốn sách này",
-        "tóm cho tui cuốn sách này"
+        "tóm cho tui cuốn sách này",
+        "cuốn sách này nói về chủ đề nào",
+        "cuốn sách này nói về nội dung nào",
+        "cuốn này nói về chủ đề nào",
+        "cuốn này nói về nội dung nào",
+        "sách này nói về chủ đề nào",
+        "sách này nói về nội dung nào",
+        "nói về chủ đề nào",
+        "nói về nội dung nào",
+        "viết về chủ đề nào",
+        "bàn về chủ đề nào"
       ],
       "answer": "AI Economy nói về cách AI tái cấu trúc nền kinh tế. Sách giải thích vì sao điện, chip, dữ liệu và dòng vốn ảnh hưởng đến năng lực cạnh tranh, rồi phân tích tác động đến việc làm, năng suất và cơ hội của Việt Nam đến năm 2035.",
       "action": "read_sample",
@@ -464,7 +474,9 @@
           "nói điều gì",
           "tóm",
           "tóm lại",
-          "tóm lược"
+          "tóm lược",
+          "chủ đề nào",
+          "nội dung nào"
         ],
         [
           "@book",

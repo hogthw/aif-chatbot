@@ -57,7 +57,7 @@ Dựa vào CÂU HỎI MỚI và chỉ dùng LỊCH SỬ khi câu hỏi có cụm
 Chỉ trả về một dòng.`;
 
 export const MSG = {
-  vi: { nf: "Hiện sách và bộ câu hỏi chưa có nội dung để trả lời chính xác câu này. Bạn có thể để lại lời nhắn ở mục Liên hệ để chuyên gia hỗ trợ trực tiếp.", busy: "Trợ lý đang nhận nhiều câu hỏi. Bạn vui lòng thử lại sau ít phút.", err: "Trợ lý tạm thời chưa trả lời được. Bạn vui lòng thử lại sau ít phút, hoặc để lại lời nhắn ở mục Liên hệ để được hỗ trợ." },
+  vi: { nf: "Hiện sách và bộ câu hỏi chưa có nội dung để trả lời chính xác câu này. Bạn có thể nhắn Zalo hoặc để lại lời nhắn ở mục Liên hệ để chuyên gia hỗ trợ trực tiếp.", busy: "Trợ lý đang nhận nhiều câu hỏi. Bạn vui lòng thử lại sau ít phút.", err: "Trợ lý tạm thời chưa trả lời được. Bạn vui lòng thử lại sau ít phút, hoặc để lại lời nhắn ở mục Liên hệ để được hỗ trợ." },
   en: { nf: "The books and the FAQ do not yet cover this question precisely. You can leave a message on the Contact page and an expert will help you directly.", busy: "The assistant is busy. Please try again in a few minutes.", err: "The assistant cannot answer right now. Please try again shortly, or leave a message on the Contact page." },
   zh: { nf: "書中與問答集目前尚未涵蓋此問題的確切內容。您可以在「聯絡我們」頁面留言，由專家直接協助您。", busy: "助理目前忙碌中，請稍後再試。", err: "助理暫時無法回答，請稍後再試，或在「聯絡我們」頁面留言。" },
 };
