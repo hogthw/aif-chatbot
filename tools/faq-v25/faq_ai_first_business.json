@@ -442,7 +442,18 @@
         "nói về chủ đề nào",
         "nói về nội dung nào",
         "viết về chủ đề nào",
-        "bàn về chủ đề nào"
+        "bàn về chủ đề nào",
+        "giới thiệu cho tôi cuốn sách này",
+        "giới thiệu cho tui cuốn sách này",
+        "giới thiệu cuốn sách này cho tôi",
+        "giới thiệu cuốn sách này cho tui",
+        "giới thiệu cuốn sách này",
+        "giới thiệu sách này",
+        "giới thiệu về cuốn sách này",
+        "giới thiệu về sách này",
+        "giới thiệu cuốn này",
+        "giới thiệu về cuốn này",
+        "giới thiệu sách"
       ],
       "answer": "AI First Business nói về cách đưa AI vào chiến lược và vận hành doanh nghiệp. Sách đi từ chọn việc để thử đến đo hiệu quả, quản trị dữ liệu và giao quyền cho tác nhân AI. Phần cuối có EAR Index™ và lộ trình 90 ngày để doanh nghiệp xác định bước đi phù hợp.",
       "action": "read_sample",
@@ -473,7 +484,9 @@
           "tóm lại",
           "tóm lược",
           "chủ đề nào",
-          "nội dung nào"
+          "nội dung nào",
+          "giới thiệu cuốn",
+          "giới thiệu sách"
         ],
         [
           "@book",
