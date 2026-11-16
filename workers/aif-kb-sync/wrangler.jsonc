@@ -1,4 +1,4 @@
-// Cấu hình Worker đồng bộ KB. Thay các giá trị <...> theo hướng dẫn HUONG-DAN-DEPLOY.md (bước 4–6).
+// Cấu hình Worker đồng bộ KB. Thay các giá trị <...> theo hướng dẫn docs/HUONG-DAN-DEPLOY.md (bước 4–6).
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "aif-kb-sync",

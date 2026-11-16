@@ -1,0 +1,22 @@
+# wrangler.toml · Worker hỏi đáp sách · FAQ 2.5.0
+# Thư mục: worker.js, router.mjs, data/{faq_ai_economy.json, faq_ai_first_business.json, kb_aiec.json, kb_aifb.json}
+name = "aibooks-chat"
+main = "worker.js"
+compatibility_date = "2026-11-01"
+
+# Tầng ngữ nghĩa (tùy chọn). Bỏ hai khối dưới nếu chỉ chạy tầng so khớp.
+[ai]
+binding = "AI"
+
+[[vectorize]]
+binding = "VECTORIZE"
+index_name = "aibooks-faq"
+
+# Ghi câu hỏi chưa khớp để biên tập (tùy chọn).
+[[analytics_engine_datasets]]
+binding = "MISSES"
+dataset = "aibooks_chat_misses"
+
+# Gắn Worker vào đường dẫn API của website, ví dụ:
+# routes = [{ pattern = "aifirstbusiness.vn/api/chat", zone_name = "aifirstbusiness.vn" }]
+# Secret cho /admin/reindex:  npx wrangler secret put ADMIN_TOKEN

@@ -1,5 +1,7 @@
-// Pure lookup & FAQ routing engine (v2.2.0).
+// Pure lookup & FAQ routing engine (v2.2.0 / v2.5.0).
 // The caller loads the selected book's FAQ JSON and KB JSON before accepting questions.
+
+import { route } from "./router.mjs";
 
 export function normalize(value) {
   return String(value ?? "")
@@ -744,6 +746,37 @@ export function lookupFaq(question, faqData, selection = "aifb", pre = "") {
   // 8. Kiểm tra thuật ngữ riêng của cuốn sách còn lại
   const exclusiveOther = checkExclusiveOtherBookTerms(q, currentBookCode);
   if (exclusiveOther) return exclusiveOther;
+
+  // 9. Bộ định tuyến Router v2.5.0: khớp tín hiệu ngữ nghĩa (signals), câu khẩu ngữ, lỗi chính tả
+  if (typeof route === "function") {
+    try {
+      const routerResult = route(question, faqData);
+      const top = routerResult?.results?.[0];
+      if (top && top.type === "card" && top.faq_id) {
+        const card = faqData.cards.find((c) => c.id === top.faq_id);
+        if (card) {
+          return {
+            type: "faq_cards",
+            cards: [card],
+            actions: resolveActions(card.action, faqData, pre),
+          };
+        }
+      } else if (top && top.type === "switch_book") {
+        return {
+          type: "switch_book",
+          message: top.answer,
+          targetId: isAiec ? "aifb" : "aiec",
+          targetTitle: isAiec ? "AI First Business" : "AI Economy",
+        };
+      } else if (top && top.type === "choices" && Array.isArray(top.options)) {
+        return {
+          type: "clarify_entity",
+          message: top.answer,
+          choices: top.options.map((o) => ({ id: o.faq_id, label: o.label })),
+        };
+      }
+    } catch (_) {}
+  }
 
   return { type: "unanswered" };
 }

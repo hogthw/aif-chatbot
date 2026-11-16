@@ -1,11 +1,11 @@
 import assert from "node:assert/strict";
 import {readFileSync, writeFileSync} from "node:fs";
-import {lookup, normalize} from "./lookup.mjs";
+import {lookup, normalize} from "../web-patch/assets/js/lookup.mjs";
 
-const url = path => new URL(path, import.meta.url);
-const read = path => JSON.parse(readFileSync(url(path), "utf8"));
-const manifest = read("manifest.json");
-const maps = read("book-map.json");
+const rootUrl = path => new URL("../" + path, import.meta.url);
+const read = path => JSON.parse(readFileSync(rootUrl(path), "utf8"));
+const manifest = read("data/manifest.json");
+const maps = read("data/book-map.json");
 const full = manifest.books.map(book => read(book.full_path));
 const report = [];
 
@@ -90,5 +90,5 @@ for (const [query, scope, type, source] of samples) {
     if (source) assert.ok(result.results.some(r => r.sourceId === source || r.source_ids?.includes(source)), query);
   });
 }
-writeFileSync(url("qa-results.json"), JSON.stringify({total:report.length, passed:report.length, cases:report},null,2)+"\n");
+writeFileSync(rootUrl("qa-results.json"), JSON.stringify({total:report.length, passed:report.length, cases:report},null,2)+"\n");
 console.log(report.length + " cases passed");
